@@ -1,0 +1,39 @@
+ID:
+
+first_known_title: “Mori ga afureru”
+
+Anno di prima pubblicazione: 2019
+
+creator: AYASE Maru
+
+language: “japanese” 
+
+circulating_entity: “Kawade Shobo Shinsha”
+
+area: jp 
+
+trigger_event:  
+agency: Anthropogenic  
+type: Environmental 
+kernel: Intra-societal 
+scale: Local 
+
+aftermaths: ‘body_modification’ ‘uncontrolled_vegetation_growth’ 
+
+synopsis: “Nowatari Rui is a woman tired of being the subject of the novels of her husband, a celebrated writer who sees her only as a source of inspiration for his art. Stripped of her identity and private life, Rui is invaded by a feeling of frustration and, in a moment of despondency, ingests an entire bowl of seeds that begin to sprout all over her body. The woman-plant slowly transforms into a tangle of roots and strands, until she becomes a forest that will engulf the entire neighborhood and her husband himself, in a metamorphosis of freedom. (Add editore)” 
+
+relations: TBD 
+
+Riferimento file txt:
+
+Numero capitoli: 5
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:
+  - Id-personaggio1
+  - Id-personaggio2
+  - Id-personaggio3
+  - ...
