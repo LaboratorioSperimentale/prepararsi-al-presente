@@ -1,0 +1,41 @@
+ID:
+
+Type: Legal_entity
+
+Name: Hayakawa Shobō
+
+Se type è person 
+
+surname: “string” 
+
+Se type è legal_entity 
+legal_entity_name: “Kabushiki-gaisha” 
+
+Se type è person 
+
+date_of_birth: DATE 
+
+Se type è legal_entity  
+
+date_established: 08/xx/1945
+
+Se type è person 
+
+language: “string” 
+
+Se type è legal_entity 
+
+headquarters: “Tachō” 
+
+area: JP
+
+Se type è person 
+
+identifies_as: 
+
+pronoun: “string”  
+
+alias: id 
+
+
+
