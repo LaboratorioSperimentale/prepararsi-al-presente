@@ -1,0 +1,39 @@
+ID:
+
+first_known_title: “Yūtoronika no kochiragawa”
+
+Anno di prima pubblicazione: 2018
+
+creator: OGAWA Satoshi
+
+language: “japanese” 
+
+circulating_entity: “Hayakawa Shobō”
+
+area: jp
+
+trigger_event:  
+agency: Anthropogenic
+type: Subversion 
+kernel: Intra-societal 
+scale: Local
+
+aftermaths: lista di tag da definire 
+
+synopsis: “Agastia Resort, a super-advanced city, was started as an experiment by the large IT company Mine in partnership with the US government. In exchange for real-time visual, auditory, location and other information, the residents are provided with an affluent lifestyle that is the envy of all. However, even in this seemingly ideal city life, there is a dark side. (Gomibon nante nai)” 
+
+relations: TBD 
+
+Riferimento file txt:
+
+Numero capitoli:
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:
+  - Id-personaggio1
+  - Id-personaggio2
+  - Id-personaggio3
+  - ...
