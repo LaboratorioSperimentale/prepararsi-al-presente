@@ -1,15 +1,15 @@
 id: au-es-max-barrientos
-idType: person
-idName: Maximiliano
-idSurname: BARRIENTOS
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: es
-idIdentifiesAs: cis
-idPronoun:
-  - "he; him"
-idAlias:
-idCompilatore:
+Type: person
+Name: Maximiliano
+Surname: BARRIENTOS
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: es
+IdentifiesAs: cis
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

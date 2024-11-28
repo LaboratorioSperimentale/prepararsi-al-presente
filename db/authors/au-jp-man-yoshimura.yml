@@ -1,15 +1,15 @@
-id:
-idType: person
-idName: Man'ichi
-idSurname: YOSHIMURA
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: CIS_M
-idPronoun:
-  - "he; him"
-idAlias:
-idCompilatore:
+id: ~
+Type: person
+Name: Man'ichi
+Surname: YOSHIMURA
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: CIS_M
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

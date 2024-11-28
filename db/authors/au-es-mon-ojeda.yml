@@ -1,15 +1,15 @@
 id: au-es-mon-ojeda
-idType: person
-idName: Mónica
-idSurname: OJEDA
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: es
-idIdentifiesAs: cis
-idPronoun:
-  - "she; her"
-idAlias:
-idCompilatore:
+Type: person
+Name: Mónica
+Surname: OJEDA
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: es
+IdentifiesAs: cis
+Pronoun:
+  - she, her
+Alias: ~
+Compilatore: ~

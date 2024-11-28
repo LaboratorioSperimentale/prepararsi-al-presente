@@ -1,15 +1,15 @@
 id: au-jp-cub-yuugengaisha
-idType: legalEntity
-idName: "CUBE"
-idSurname:
-idLegalEntityName: "Yuugengaisha CUFFS"
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: ""
-idPronoun: 
-  - 
-idAlias:
-idCompilatore:
+Type: legalEntity
+Name: "CUBE"
+Surname: ~
+LegalEntityName: "Yuugengaisha CUFFS"
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: ""
+Pronoun:
+  -
+Alias: ~
+Compilatore: ~

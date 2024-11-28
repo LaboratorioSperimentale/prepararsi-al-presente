@@ -1,15 +1,15 @@
 id: au-jp-cho-tanaka
-idType: person
-idName: Chōko
-idSurname: “Tanaka” 
-idLegalEntityName: 
-idDataOfBirth: xx/xx/1964 
-idDateEstablished: 
-idLanguage: jp 
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: cis-f
-idPronoun: 
-  - “she; her”  
-idAlias: 
-idCompilatore:
+Type: person
+Name: Chōko
+Surname: “Tanaka”
+LegalEntityName: ~
+DataOfBirth: xx/xx/1964
+DateEstablished: ~
+Language: jp
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-f
+Pronoun:
+  - “she; her”
+Alias: ~
+Compilatore: ~

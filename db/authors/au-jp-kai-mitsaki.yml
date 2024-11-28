@@ -1,15 +1,15 @@
-id:
-idType: person
-idName: Kairi
-idSurname: “MISAKI” 
-idLegalEntityName: 
-idDataOfBirth:
-idDateEstablished: 
-idLanguage: jp 
-idHeadQuarters: 
-idArea: jp
-idIdentifiesAs: cis-f
-idPronoun:
+id: ~
+Type: person
+Name: Kairi
+Surname: “MISAKI”
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: jp
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-f
+Pronoun:
   - "she; her”
-idAlias: 
-idCompilatore:
+Alias: ~
+Compilatore: ~

@@ -1,15 +1,15 @@
-id:
-idType: person
-idName: Satoshi
-idSurname: “Ogawa” 
-idLegalEntityName: 
-idDataOfBirth: 25/12/1986 
-idDateEstablished: 
-idLanguage: jp 
-idHeadQuarters: 
-idArea: jp
-idIdentifiesAs: cis-m
-idPronoun: 
-  - 
-idAlias: 
-idCompilatore:
+id: ~
+Type: person
+Name: Satoshi
+Surname: “Ogawa”
+LegalEntityName: ~
+DataOfBirth: 25/12/1986
+DateEstablished: ~
+Language: jp
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-m
+Pronoun:
+  -
+Alias: ~
+Compilatore: ~

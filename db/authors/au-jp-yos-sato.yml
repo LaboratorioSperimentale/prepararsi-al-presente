@@ -1,15 +1,15 @@
 id: au-jp-yos-sato
-idType: person
-idName: "Yoshimi"
-idSurname: “SATO” 
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished: 
-idLanguage: jp 
-idHeadQuarters:
-idArea: jp 
-idIdentifiesAs: cis-m
-idPronoun: 
-  - "he; him"
-idAlias: 
-idCompilatore:
+Type: person
+Name: "Yoshimi"
+Surname: “SATO”
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: jp
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-m
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

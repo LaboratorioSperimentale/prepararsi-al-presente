@@ -1,15 +1,15 @@
 id: au-jp-tom-hoshino
-idType: person
-idName: Tomoyuki
-idSurname: Hoshino
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: cis-m
-idPronoun:
-  - "he; him"
-idAlias:
-idCompilatore:
+Type: person
+Name: Tomoyuki
+Surname: Hoshino
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-m
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

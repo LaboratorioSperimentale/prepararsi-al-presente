@@ -1,15 +1,15 @@
 id: au-en-joh-lancaster
-idType: person
-idName: "John"
-idSurname: "Lanchester"
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: en
-idIdentifiesAs: cis-m
-idPronoun: 
-  - "he; him"
-idAlias:
-idCompilatore:
+Type: person
+Name: "John"
+Surname: "Lanchester"
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: en
+IdentifiesAs: cis-m
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

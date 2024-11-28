@@ -1,15 +1,15 @@
 id: au-xx-mic-arias
-idType: person
-idName: Michael
-idSurname: Arias
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea:
-idIdentifiesAs: cis-m
-idPronoun:
-  - "he; him"
-idAlias:
-idCompilatore:
+Type: person
+Name: Michael
+Surname: Arias
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: ~
+IdentifiesAs: cis-m
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

@@ -1,15 +1,15 @@
 id: au-es-kat-frangi
-idType: person
-idName: Katherina
-idSurname: FRANGI
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: es
-idIdentifiesAs: cis
-idPronoun:
-  - "she; her"
-idAlias:
-idCompilatore:
+Type: person
+Name: Katherina
+Surname: FRANGI
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: es
+IdentifiesAs: cis
+Pronoun:
+  - she, her
+Alias: ~
+Compilatore: ~

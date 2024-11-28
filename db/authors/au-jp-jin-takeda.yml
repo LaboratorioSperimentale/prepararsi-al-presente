@@ -1,15 +1,15 @@
 id: au-jp-jin-takeda
-idType: person
-idName: "Jinzō"
-idSurname: “Takeda” 
-idLegalEntityName: 
-idDataOfBirth: xx/xx/1990
-idDateEstablished: 
-idLanguage: jp 
-idHeadQuarters: 
-idArea: jp
-idIdentifiesAs: cis-m
-idPronoun: 
-  - "he; him"
-idAlias: 
-idCompilatore:
+Type: person
+Name: "Jinzō"
+Surname: “Takeda”
+LegalEntityName: ~
+DataOfBirth: xx/xx/1990
+DateEstablished: ~
+Language: jp
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-m
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

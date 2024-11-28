@@ -1,15 +1,15 @@
 id: au-jp-aka-torikai
-idType: person
-idName: Akane
-idSurname: TORIKAI
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: cis-f
-idPronoun:
-  - "she; her"
-idAlias:
-idCompilatore:
+Type: person
+Name: Akane
+Surname: TORIKAI
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-f
+Pronoun:
+  - she, her
+Alias: ~
+Compilatore: ~

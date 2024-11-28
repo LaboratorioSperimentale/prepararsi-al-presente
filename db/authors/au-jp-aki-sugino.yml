@@ -1,15 +1,15 @@
 id: au-jp-aki-sugino
-idType: person
-idName: “Akiyuki”
-idSurname: “Sugino” 
-idLegalEntityName: 
-idDataOfBirth:
-idDateEstablished: 
-idLanguage: jp 
-idHeadQuarters: 
-idArea: jp
-idIdentifiesAs: cis-m
-idPronoun: 
-  - "he; him"
-idAlias: 
-idCompilatore:
+Type: person
+Name: “Akiyuki”
+Surname: “Sugino”
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: jp
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-m
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

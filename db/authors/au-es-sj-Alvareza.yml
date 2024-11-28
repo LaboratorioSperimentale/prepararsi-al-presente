@@ -1,15 +1,15 @@
 id: au-es-sj-Alvareza
-idType: person
-idName: sJuan
-idSurname: ÁLVAREZA
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: es
-idIdentifiesAs: cis
-idPronoun:  
-  - "he; him"
-idAlias:
-idCompilatore:
+Type: person
+Name: sJuan
+Surname: ÁLVAREZA
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: es
+IdentifiesAs: cis
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

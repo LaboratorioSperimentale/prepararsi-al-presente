@@ -1,15 +1,15 @@
 id: au-es-emi-monge
-idType: person
-idName: Emiliano
-idSurname: MONGE
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: es
-idIdentifiesAs: cis
-idPronoun:
-  - "he; him"
-idAlias:
-idCompilatore:
+Type: person
+Name: Emiliano
+Surname: MONGE
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: es
+IdentifiesAs: cis
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

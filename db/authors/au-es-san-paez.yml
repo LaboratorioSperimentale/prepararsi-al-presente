@@ -1,15 +1,15 @@
 id: au-es-san-paez
-idType: person
-idName: Santiago 
-idSurname: PÁEZ 
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: es
-idIdentifiesAs: cis
-idPronoun:
-  - "he; him"
-idAlias:
-idCompilatore:
+Type: person
+Name: Santiago
+Surname: PÁEZ
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: es
+IdentifiesAs: cis
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

@@ -1,15 +1,15 @@
-id:
-idType: person
-idName: Shinsuke
-idSurname: Satō
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: cis-m
-idPronoun:
-  - "he; him"
-idAlias:
-idCompilatore:
+id: ~
+Type: person
+Name: Shinsuke
+Surname: Satō
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-m
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

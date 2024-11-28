@@ -1,15 +1,15 @@
 id: au-jp-yox-yox
-idType: legalEntity
-idName: "YOX-Project"
-idSurname:
-idLegalEntityName: "YOX-Project"
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: ""
-idPronoun: 
-  - 
-idAlias:
-idCompilatore:
+Type: legalEntity
+Name: "YOX-Project"
+Surname: ~
+LegalEntityName: "YOX-Project"
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: ""
+Pronoun:
+  -
+Alias: ~
+Compilatore: ~

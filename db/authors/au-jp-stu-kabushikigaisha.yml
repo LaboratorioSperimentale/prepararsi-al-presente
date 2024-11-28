@@ -1,15 +1,15 @@
 id: au-jp-stu-kabushikigaisha
-idType: legalEntity
-idName: "Studio Zero"
-idSurname:
-idLegalEntityName: "Kabushikigaisha Atorasu"
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: ""
-idPronoun: 
-  - 
-idAlias:
-idCompilatore:
+Type: legalEntity
+Name: "Studio Zero"
+Surname: ~
+LegalEntityName: "Kabushikigaisha Atorasu"
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: ""
+Pronoun:
+  -
+Alias: ~
+Compilatore: ~

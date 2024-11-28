@@ -1,15 +1,15 @@
 id: au-es-ari-luppino
-idType: person
-idName: Ariel
-idSurname: LUPPINO
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: es
-idIdentifiesAs: cis
-idPronoun:
-  - "he; him"
-idAlias:
-idCompilatore:
+Type: person
+Name: Ariel
+Surname: LUPPINO
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: es
+IdentifiesAs: cis
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

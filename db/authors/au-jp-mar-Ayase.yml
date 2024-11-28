@@ -1,15 +1,15 @@
 id: au-jp-mar-Ayase
-idType: person
-idName: "Maru"
-idSurname: “Ayase” 
-idLegalEntityName: 
-idDataOfBirth: xx/xx/1986 
-idDateEstablished: 
-idLanguage: jp 
-idHeadQuarters: 
-idArea: jp  
-idIdentifiesAs: cif-f
-idPronoun: 
-  - "she; her"
-idAlias:
-idCompilatore:
+Type: person
+Name: "Maru"
+Surname: “Ayase”
+LegalEntityName: ~
+DataOfBirth: xx/xx/1986
+DateEstablished: ~
+Language: jp
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cif-f
+Pronoun:
+  - she, her
+Alias: ~
+Compilatore: ~

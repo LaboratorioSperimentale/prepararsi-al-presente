@@ -1,15 +1,15 @@
 id: au-jp-koj-kabushiki
-idType: legalEntity
-idName: "Kojima Productions Co., Ltd."
-idSurname:
-idLegalEntityName: "Kabushiki gaisha Kojima Purodakushon"
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: ""
-idPronoun: 
-  - 
-idAlias:
-idCompilatore:
+Type: legalEntity
+Name: "Kojima Productions Co., Ltd."
+Surname: ~
+LegalEntityName: "Kabushiki gaisha Kojima Purodakushon"
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: ""
+Pronoun:
+  -
+Alias: ~
+Compilatore: ~

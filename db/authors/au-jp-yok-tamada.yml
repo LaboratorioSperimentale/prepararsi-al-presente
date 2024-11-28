@@ -1,15 +1,15 @@
 id: au-jp-yok-tamada
-idType: person
-idName: "Yoko"
-idSurname: "TAWADA"
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: cis-f
-idPronoun: 
-  - "she; her"
-idAlias:
-idCompilatore:
+Type: person
+Name: "Yoko"
+Surname: "TAWADA"
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-f
+Pronoun:
+  - she, her
+Alias: ~
+Compilatore: ~

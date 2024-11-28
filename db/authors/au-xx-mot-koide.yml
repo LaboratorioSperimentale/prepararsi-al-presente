@@ -1,15 +1,15 @@
 id: au-xx-mot-koide
-idType: person
-idName: Motoki
-idSurname: KOIDE
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea:
-idIdentifiesAs: cis-m
-idPronoun:
-  - "he; him"
-idAlias:
-idCompilatore:
+Type: person
+Name: Motoki
+Surname: KOIDE
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: ~
+IdentifiesAs: cis-m
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

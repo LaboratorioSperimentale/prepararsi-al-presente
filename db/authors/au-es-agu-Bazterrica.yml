@@ -1,15 +1,15 @@
 id: au-es-agu-Bazterrica
-idType: person
-idName: Agustina
-idSurname: BAZTERRICA
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: es
-idIdentifiesAs: cis
-idPronoun:
-  - "she; her"
-idAlias:
-idCompilatore:
+Type: person
+Name: Agustina
+Surname: BAZTERRICA
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: es
+IdentifiesAs: cis
+Pronoun:
+  - she, her
+Alias: ~
+Compilatore: ~

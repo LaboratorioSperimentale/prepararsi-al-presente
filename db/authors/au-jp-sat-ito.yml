@@ -1,17 +1,17 @@
 id: au-jp-sat-ito
-idType: person
-idName: Satoshi
-idSurname: ITŌ
-idLegalEntityName:
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: cis-m
-idPronoun:
-  - "he; him"
-idAlias:
+Type: person
+Name: Satoshi
+Surname: ITŌ
+LegalEntityName: ~
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-m
+Pronoun:
+  - he, him
+Alias: ~
 - Project Itoh
 - ITŌ KEIKAKU
-idCompilatore:
+Compilatore: ~

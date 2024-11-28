@@ -1,15 +1,15 @@
-id:
-idType: person
-idName: "Takuji"
-idSurname: “Ichikawa” 
-idLegalEntityName: 
-idDataOfBirth: 10/07/1962
-idDateEstablished: 
-idLanguage: jp 
-idHeadQuarters: 
-idArea: jp
-idIdentifiesAs: male
-idPronoun: 
+id: ~
+Type: person
+Name: "Takuji"
+Surname: “Ichikawa”
+LegalEntityName: ~
+DataOfBirth: 10/07/1962
+DateEstablished: ~
+Language: jp
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: male
+Pronoun:
   - “he; him”
-idAlias: 
-idCompilatore:
+Alias: ~
+Compilatore: ~

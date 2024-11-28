@@ -1,8 +1,8 @@
 id:
-idName: Fernanda
-idSurname: TRÍAS
-idArea: es
-idIdentifiesAs: cis
-idPronoun:
-  - "she; her"
-idAlias:
+Name: Fernanda
+Surname: TRÍAS
+Area: es
+IdentifiesAs: cis
+Pronoun:
+  - she, her
+Alias:

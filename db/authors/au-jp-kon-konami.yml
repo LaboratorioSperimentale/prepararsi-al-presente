@@ -1,15 +1,15 @@
 id: au-jp-kon-konami
-idType: legalEntity
-idName: "Konami"
-idSurname:
-idLegalEntityName: "Konami Gurūpu kabushikigaisha"
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: jp
-idIdentifiesAs: ""
-idPronoun: 
-  - 
-idAlias:
-idCompilatore:
+Type: legalEntity
+Name: "Konami"
+Surname: ~
+LegalEntityName: "Konami Gurūpu kabushikigaisha"
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: ""
+Pronoun:
+  -
+Alias: ~
+Compilatore: ~

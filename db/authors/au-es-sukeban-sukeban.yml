@@ -1,15 +1,15 @@
 id: "au-es-sukeban-sukeban"
-idType: legalEntity
-idName: "Sukeban Games"
-idSurname:
-idLegalEntityName: "Sukeban Games"
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: es
-idIdentifiesAs:  
-idPronoun: 
-  - 
-idAlias:
-idCompilatore:
+Type: legalEntity
+Name: "Sukeban Games"
+Surname: ~
+LegalEntityName: "Sukeban Games"
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: es
+IdentifiesAs: ~
+Pronoun:
+  -
+Alias: ~
+Compilatore: ~

@@ -1,15 +1,15 @@
 id: au-jp-hir-yamamoto
-idType: person
-idName: "Hiroshi"
-idSurname: “YAMAMOTO” 
-idLegalEntityName: 
-idDataOfBirth: XX/XX/1956 
-idDateEstablished: 
-idLanguage: “JAPANESE” 
-idHeadQuarters: 
-idArea: jp
-idIdentifiesAs: cis-m
-idPronoun: 
-  - "he; him"
-idAlias: 
-idCompilatore:
+Type: person
+Name: "Hiroshi"
+Surname: “YAMAMOTO”
+LegalEntityName: ~
+DataOfBirth: XX/XX/1956
+DateEstablished: ~
+Language: “JAPANESE”
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-m
+Pronoun:
+  - he, him
+Alias: ~
+Compilatore: ~

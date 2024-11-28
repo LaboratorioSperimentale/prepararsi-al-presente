@@ -1,15 +1,15 @@
-id:
-idType: person
-idName: Yūya
-idSurname: “Satō” 
-idLegalEntityName: 
-idDataOfBirth: xx/xx/1980
-idDateEstablished: 
-idLanguage:
-idHeadQuarters: 
-idArea: jp
-idIdentifiesAs: cis-m
-idPronoun: 
-  - 
-idAlias: 
-idCompilatore:
+id: ~
+Type: person
+Name: Yūya
+Surname: “Satō”
+LegalEntityName: ~
+DataOfBirth: xx/xx/1980
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: jp
+IdentifiesAs: cis-m
+Pronoun:
+  -
+Alias: ~
+Compilatore: ~

@@ -1,15 +1,15 @@
 id: au-en-cd-cd
-idType: person
-idName: "CD Projekt RED"
-idSurname:
-idLegalEntityName: "CD Projekt S.A."
-idDataOfBirth:
-idDateEstablished:
-idLanguage:
-idHeadQuarters:
-idArea: en
-idIdentifiesAs:
-idPronoun:
-  - 
-idAlias:
-idCompilatore: 
+Type: person
+Name: "CD Projekt RED"
+Surname: ~
+LegalEntityName: "CD Projekt S.A."
+DataOfBirth: ~
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+Area: en
+IdentifiesAs: ~
+Pronoun:
+  -
+Alias: ~
+Compilatore: ~
