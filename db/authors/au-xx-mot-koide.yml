@@ -1,13 +1,13 @@
-id:
+id: au-xx-mot-koide
 idType: person
-idName: Kōji
-idSurname: MURATA
+idName: Motoki
+idSurname: KOIDE
 idLegalEntityName:
 idDataOfBirth:
 idDateEstablished:
 idLanguage:
 idHeadQuarters:
-idArea: jp
+idArea:
 idIdentifiesAs: cis-m
 idPronoun:
   - "he; him"

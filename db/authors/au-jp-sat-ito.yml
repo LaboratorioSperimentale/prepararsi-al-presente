@@ -1,7 +1,7 @@
-id:
+id: au-jp-sat-ito
 idType: person
-idName: Kōji
-idSurname: MURATA
+idName: Satoshi
+idSurname: ITŌ
 idLegalEntityName:
 idDataOfBirth:
 idDateEstablished:
@@ -12,4 +12,6 @@ idIdentifiesAs: cis-m
 idPronoun:
   - "he; him"
 idAlias:
+- Project Itoh
+- ITŌ KEIKAKU
 idCompilatore:

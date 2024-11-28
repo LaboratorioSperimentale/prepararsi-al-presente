@@ -1,15 +1,15 @@
-ID:
-
-Nome: Sayaka
-
-Cognome: Murata
-
-Area di provenienza: JAPAN
-
-Autopresentazione di sé: CIS-F
-
-Pronome:
-  - SHE
-  - HER
-
-Alias: id_autore
+id:
+idType: person
+idName: Sayaka
+idSurname: Murata
+idLegalEntityName:
+idDataOfBirth:
+idDateEstablished:
+idLanguage:
+idHeadQuarters:
+idArea: jp
+idIdentifiesAs: cis-f
+idPronoun:
+  - "she; her"
+idAlias:
+idCompilatore:

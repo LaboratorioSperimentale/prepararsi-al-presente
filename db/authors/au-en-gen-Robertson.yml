@@ -1,15 +1,15 @@
-id:
+id: au-en-gen-Robertson
 idType: person
-idName: Miyuki
-idSurname: ONO
+idName: "Geneva"
+idSurname: "Robertson-Dworet"
 idLegalEntityName:
 idDataOfBirth:
 idDateEstablished:
 idLanguage:
 idHeadQuarters:
-idArea: jp
+idArea: en
 idIdentifiesAs: cis-f
-idPronoun:
+idPronoun: 
   - "she; her"
 idAlias:
 idCompilatore:

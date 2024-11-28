@@ -1,15 +1,15 @@
-ID:
-
-Nome: Man'ichi
-
-Cognome: YOSHIMURA
-
-Area di provenienza: JAPAN
-
-Autopresentazione di sé: CIS_M
-
-Pronome:
-  - He
-  - pronome 2
-
-Alias: id_autore
+id:
+idType: person
+idName: Man'ichi
+idSurname: YOSHIMURA
+idLegalEntityName:
+idDataOfBirth:
+idDateEstablished:
+idLanguage:
+idHeadQuarters:
+idArea: jp
+idIdentifiesAs: CIS_M
+idPronoun:
+  - "he; him"
+idAlias:
+idCompilatore:

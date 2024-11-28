@@ -1,15 +1,15 @@
-ID:
-
-Nome: Takashi
-
-Cognome: NAKAMURA
-
-Area di provenienza:
-
-Autopresentazione di sé: CIS-M
-
-Pronome:
-  - He
-  - Him
-
-Alias: id_autore
+id:
+idType: person
+idName: Takashi
+idSurname: NAKAMURA
+idLegalEntityName:
+idDataOfBirth:
+idDateEstablished:
+idLanguage:
+idHeadQuarters:
+idArea:
+idIdentifiesAs: cis-m
+idPronoun:
+  - "he; him"
+idAlias:
+idCompilatore:

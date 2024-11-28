@@ -1,15 +1,15 @@
-ID:
-
-Nome: Agustina
-
-Cognome: BAZTERRICA
-
-Area di provenienza: Argentina
-
-Autopresentazione di sé: CIS
-
-Pronome:
-  - pronome 1 Ella/Lei
-  - pronome 2
-
-Alias:
+id:
+idType: person
+idName: Agustina
+idSurname: BAZTERRICA
+idLegalEntityName:
+idDataOfBirth:
+idDateEstablished:
+idLanguage:
+idHeadQuarters:
+idArea: Argentina
+idIdentifiesAs: cis
+idPronoun:
+  - "she; her"
+idAlias:
+idCompilatore:
