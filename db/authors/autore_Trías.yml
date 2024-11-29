@@ -1,14 +1,8 @@
-ID:
-
-Nome: Fernanda
-
-Cognome: TRÍAS
-
-Area di provenienza: ispano
-
-Autopresentazione di sé: CIS
-
-Pronome:
+id:
+Name: Fernanda
+Surname: TRÍAS
+Area: es
+IdentifiesAs: cis
+Pronoun:
   - she, her
-
-Alias: id_autore
+Alias:

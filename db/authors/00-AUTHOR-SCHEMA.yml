@@ -1,0 +1,38 @@
+id: 2DigitForCategory-AreaCode-3DigitForSurname-OnlyOneFullName
+
+Type: [person|legalEntity]
+
+Name: (string)                                # Se type è "person"
+
+Surname: (string)                             # Se type è "person"
+
+LegalEntityName: (string)                     # Se type è "legalEntity"
+
+DataOfBirth: (gg/mm/aaaa)                     # Se type è "person"
+
+DateEstablished: (gg/mm/aaaa)                 # Se type è "legalEntity"
+
+Language:                                     # ????????????????? (vedi idArea)
+
+HeadQuarters:                                 # Se type è "legalEntity"
+
+Area: [jp | en | sp]                          # # ????????????????? vedi idLanguage)
+
+IdentifiesAs: [cis-m/f | trans | non-binario] # Se tupe è "person"
+
+Pronoun:
+  - proName (esempio: he; him)
+  - proName (esempio: she; her)
+
+Alias:
+
+Compilatore:                                  # chi fa la scheda
+
+
+# ci sono un po' di questioni su cui accordarsi
+
+# - quando type è "legal-entity" alcune volte viene compilato
+#   Name e Legal_Entity_Name altre volte solo Legal_Entity_Name+
+
+
+# - cis-m e cis-f sono ridondanti?!?
