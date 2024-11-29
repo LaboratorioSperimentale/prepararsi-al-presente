@@ -1,0 +1,41 @@
+ID:
+
+Type: Person
+
+Name: Hajime
+
+Se type è person 
+
+surname: “ISAYAMA” 
+
+Se type è legal_entity 
+legal_entity_name: “string” 
+
+Se type è person 
+
+date_of_birth: 08/29/1986
+
+Se type è legal_entity  
+
+date_established: DATE 
+
+Se type è person 
+
+language: “japanese” 
+
+Se type è legal_entity 
+
+headquarters: “string” 
+
+area: (P  
+
+Se type è person 
+
+identifies_as: CIS-M
+
+pronoun: “He”  
+
+alias: id 
+
+
+

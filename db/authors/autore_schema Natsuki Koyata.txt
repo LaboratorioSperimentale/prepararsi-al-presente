@@ -1,0 +1,41 @@
+ID:
+
+Type: Person
+
+Name: Natsuki
+
+Se type è person 
+
+surname: “KOYATA” 
+
+Se type è legal_entity 
+legal_entity_name: “string” 
+
+Se type è person 
+
+date_of_birth: xx/xx/1981
+
+Se type è legal_entity  
+
+date_established: DATE 
+
+Se type è person 
+
+language: “string” 
+
+Se type è legal_entity 
+
+headquarters: “string” 
+
+area: JP  
+
+Se type è person 
+
+identifies_as: CIS-F
+
+pronoun: “she”  
+
+alias: id 
+
+
+

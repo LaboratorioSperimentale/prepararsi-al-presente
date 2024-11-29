@@ -1,0 +1,39 @@
+ID:
+
+first_known_title: “Ririisu”
+
+Anno di prima pubblicazione: 2016
+
+creator: KOYATA Natsuki
+
+language: “japanese” 
+
+circulating_entity: “Kōbunsha”
+
+area: jp
+
+trigger_event:  
+agency: Anthropogenic 
+type: Subversion
+kernel: Intra-societal 
+scale: Planetary 
+
+aftermaths: lista di tag da definire 
+
+synopsis: “Heterosexual terrorist outbreak of  sperm bank occupation - a dystopian novel for a new era! In a world where equal rights have been achieved and homosexuals have become the majority. Takinami Bona, an elite heterosexual university student, occupies a sperm bank and begins a shocking speech - what is the sad plot of the terrorists to upset the ideal world? A shocking work that questions the nature of men and women!” 
+
+relations: TBD 
+
+Riferimento file txt:
+
+Numero capitoli:
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:
+  - Id-personaggio1
+  - Id-personaggio2
+  - Id-personaggio3
+  - ...
