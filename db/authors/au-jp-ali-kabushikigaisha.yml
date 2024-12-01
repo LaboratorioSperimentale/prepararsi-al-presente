@@ -1,15 +1,15 @@
 id: au-jp-ali-kabushikigaisha
+
 Type: legalEntity
+
 Name: "Alice Soft"
-Surname: ~
-LegalEntityName: "Kabushikigaisha Cyanpionsofuto"
-DataOfBirth: ~
-DateEstablished: ~
-Language: ~
-HeadQuarters: ~
+
+Name: "Kabushikigaisha Cyanpionsofuto"
+
 Area: jp
-IdentifiesAs: ""
+
+Identifies as: ""
+
 Pronoun:
   -
-Alias: ~
-Compilatore: ~
+

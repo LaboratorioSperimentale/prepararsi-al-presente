@@ -4,38 +4,37 @@ Type: Person
 
 Name: Natsuki
 
-Se type è person 
+Se type è person
 
-surname: “KOYATA” 
+surname: “KOYATA”
 
-Se type è legal_entity 
-legal_entity_name: “string” 
+Se type è legal_entity
 
-Se type è person 
+legal_entity_name: “string”
+
+Se type è person
 
 date_of_birth: xx/xx/1981
 
-Se type è legal_entity  
+Se type è legal_entity
 
-date_established: DATE 
+date_established: DATE
 
-Se type è person 
+Se type è person
 
-language: “string” 
+language: “string”
 
-Se type è legal_entity 
+Se type è legal_entity
 
-headquarters: “string” 
+Headquarters: “string”
 
-area: JP  
+area: JP
 
-Se type è person 
+Se type è person
 
 identifies_as: CIS-F
 
-pronoun: “she”  
+pronoun: “she”
 
-alias: id 
-
-
+alias: id
 

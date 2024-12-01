@@ -4,38 +4,37 @@ Type: Person
 
 Name: Hajime
 
-Se type è person 
+Se type è person
 
-surname: “ISAYAMA” 
+surname: “ISAYAMA”
 
-Se type è legal_entity 
-legal_entity_name: “string” 
+Se type è legal_entity
 
-Se type è person 
+legal_entity_name: “string”
+
+Se type è person
 
 date_of_birth: 08/29/1986
 
-Se type è legal_entity  
+Se type è legal_entity
 
-date_established: DATE 
+date_established: DATE
 
-Se type è person 
+Se type è person
 
-language: “japanese” 
+language: “japanese”
 
-Se type è legal_entity 
+Se type è legal_entity
 
-headquarters: “string” 
+Headquarters: “string”
 
-area: (P  
+area: (P
 
-Se type è person 
+Se type è person
 
 identifies_as: CIS-M
 
-pronoun: “He”  
+pronoun: “He”
 
-alias: id 
-
-
+alias: id
 

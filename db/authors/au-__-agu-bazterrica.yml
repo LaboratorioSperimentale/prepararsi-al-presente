@@ -1,15 +1,15 @@
-id: ~
+id:
+
 Type: person
+
 Name: Agustina
-Surname: BAZTERRICA
-LegalEntityName: ~
-DataOfBirth: ~
-DateEstablished: ~
-Language: ~
-HeadQuarters: ~
+
+Surname: Bazterrica
+
 Area: Argentina
-IdentifiesAs: cis
+
+Identifies as: cis
+
 Pronoun:
   - she, her
-Alias: ~
-Compilatore: ~
+

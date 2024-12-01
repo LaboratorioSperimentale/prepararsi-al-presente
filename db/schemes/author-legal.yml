@@ -1,0 +1,26 @@
+id: 2DigitForCategory-AreaCode-3DigitForSurname-OnlyOneFullName
+
+Type: legal entity
+
+Name: (string)                     # Se type è "legalEntity"
+
+Date of establishment: (gg/mm/aaaa)                 # Se type è "legalEntity"
+
+Language:                                     # ????????????????? (vedi idArea)
+
+Headquarters:                                 # Se type è "legalEntity"
+
+Area: [jp | en | sp]                          # # ????????????????? vedi idLanguage)
+
+Alias:
+
+Compilatore:                                  # chi fa la scheda
+
+
+# ci sono un po' di questioni su cui accordarsi
+
+# - quando type è "legal-entity" alcune volte viene compilato
+#   Name e Legal_Entity_Name altre volte solo Legal_Entity_Name+
+
+
+# - cis-m e cis-f sono ridondanti?!?

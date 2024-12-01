@@ -1,24 +1,18 @@
 id: 2DigitForCategory-AreaCode-3DigitForSurname-OnlyOneFullName
 
-Type: [person|legalEntity]
+Type: person
 
 Name: (string)                                # Se type è "person"
 
 Surname: (string)                             # Se type è "person"
 
-LegalEntityName: (string)                     # Se type è "legalEntity"
-
-DataOfBirth: (gg/mm/aaaa)                     # Se type è "person"
-
-DateEstablished: (gg/mm/aaaa)                 # Se type è "legalEntity"
+Date of birth: (gg/mm/aaaa)                     # Se type è "person"
 
 Language:                                     # ????????????????? (vedi idArea)
 
-HeadQuarters:                                 # Se type è "legalEntity"
-
 Area: [jp | en | sp]                          # # ????????????????? vedi idLanguage)
 
-IdentifiesAs: [cis-m/f | trans | non-binario] # Se tupe è "person"
+Identifies as: [cis-m/f | trans | non-binario] # Se tupe è "person"
 
 Pronoun:
   - proName (esempio: he; him)

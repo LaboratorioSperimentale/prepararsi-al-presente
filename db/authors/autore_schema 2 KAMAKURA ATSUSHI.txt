@@ -4,38 +4,37 @@ Type: Person
 
 Name: Atsushi
 
-Se type è person 
+Se type è person
 
-surname: “KAMAKURA” 
+surname: “KAMAKURA”
 
-Se type è legal_entity 
-legal_entity_name: “string” 
+Se type è legal_entity
 
-Se type è person 
+legal_entity_name: “string”
 
-date_of_birth: DATE 
+Se type è person
 
-Se type è legal_entity  
+date_of_birth: DATE
 
-date_established: DATE 
+Se type è legal_entity
 
-Se type è person 
+date_established: DATE
 
-language: “japanese” 
+Se type è person
 
-Se type è legal_entity 
+language: “japanese”
 
-headquarters: “string” 
+Se type è legal_entity
+
+Headquarters: “string”
 
 area: JP
 
-Se type è person 
+Se type è person
 
-identifies_as: 
+identifies_as:
 
-pronoun: “string”  
+pronoun: “string”
 
-alias: id 
-
-
+alias: id
 

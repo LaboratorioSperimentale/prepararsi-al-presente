@@ -1,15 +1,19 @@
-id: ~
+
+
 Type: legalEntity
+
 Name: Hayakawa Shobō
+
 Surname: “string”
-LegalEntityName: “Kabushiki-gaisha”
-DataOfBirth: ~
-DateEstablished: 08/xx/1945
-Language: ~
-HeadQuarters: “Tachō”
+
+Name: “Kabushiki-gaisha”
+
+Date of establishment: 08/xx/1945
+
+Headquarters: “Tachō”
+
 Area: jp
-IdentifiesAs: ~
+
 Pronoun:
   -
-Alias: ~
-Compilatore: ~
+

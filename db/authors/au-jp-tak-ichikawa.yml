@@ -1,15 +1,19 @@
-id: ~
+
+
 Type: person
+
 Name: "Takuji"
+
 Surname: “Ichikawa”
-LegalEntityName: ~
-DataOfBirth: 10/07/1962
-DateEstablished: ~
+
+Date of birth: 10/07/1962
+
 Language: jp
-HeadQuarters: ~
+
 Area: jp
-IdentifiesAs: male
+
+Identifies as: male
+
 Pronoun:
   - “he; him”
-Alias: ~
-Compilatore: ~
+
