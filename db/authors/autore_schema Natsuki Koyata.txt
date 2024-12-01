@@ -14,7 +14,7 @@ legal_entity_name: “string”
 
 Se type è person
 
-date_of_birth: xx/xx/1981
+date_of_birth: 1981
 
 Se type è legal_entity
 

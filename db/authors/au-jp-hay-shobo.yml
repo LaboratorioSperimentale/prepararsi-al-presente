@@ -1,10 +1,8 @@
+id: au-jp-hay-shobo
 
-
-Type: legalEntity
+Type: legal entity
 
 Name: Hayakawa Shobō
-
-Surname: “string”
 
 Name: “Kabushiki-gaisha”
 
@@ -13,7 +11,3 @@ Date of establishment: 08/xx/1945
 Headquarters: “Tachō”
 
 Area: jp
-
-Pronoun:
-  -
-
