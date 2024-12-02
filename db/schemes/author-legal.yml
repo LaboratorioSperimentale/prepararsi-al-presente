@@ -4,6 +4,8 @@ Type: legal entity
 
 Name: (string)                     # Se type è "legalEntity"
 
+Name of legal entity:
+
 Date of establishment: (gg/mm/aaaa)                 # Se type è "legalEntity"
 
 Language:                                     # ????????????????? (vedi idArea)
