@@ -4,7 +4,7 @@ Titolo prima pubblicazione: Imawa no kuni no Arisu
 
 Anno di prima pubblicazione: 2020
 
-Autore: Satō Shinsuke
+Autore: [[au-jp-shi-sato]]
 
 Lingua: JAPANESE
 

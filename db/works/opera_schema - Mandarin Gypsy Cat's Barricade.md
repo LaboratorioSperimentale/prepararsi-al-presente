@@ -5,9 +5,7 @@ Titolo prima pubblicazione: Mandarin gipushī rōjō
 Anno di prima pubblicazione: 2017
 
 Autore:
-  - Akane TORIKAI
-  - Id-autore2
-  - ...
+  - [[au-jp-aka-torikai]]
 
 Lingua: JAPANESE
 

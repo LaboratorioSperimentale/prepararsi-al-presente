@@ -4,7 +4,7 @@ Titolo prima pubblicazione: Pyūa
 
 Anno di prima pubblicazione: 2020
 
-Autore: ONO Miyuki
+Autore: [[au-jp-miy-ono]]
 
 Lingua: JAPAN
 

@@ -5,9 +5,7 @@ Titolo prima pubblicazione:Aún el agua
 Anno di prima pubblicazione: 2019
 
 Autore:
-  - Juan ÁLVAREZ
-  - Id-autore2
-  - ...
+  - [[au-es-sj-alvareza]]
 
 Lingua:
   - esp

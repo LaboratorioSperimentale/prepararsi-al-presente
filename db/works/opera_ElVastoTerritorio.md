@@ -5,7 +5,7 @@ Titolo prima pubblicazione: El vasto territorio
 Anno di prima pubblicazione: 2021
 
 Autore:
-  - Simón LÓPEZ TRUJILLO
+  - [[au-es-sim-lopez]]
 
 
 Lingua:

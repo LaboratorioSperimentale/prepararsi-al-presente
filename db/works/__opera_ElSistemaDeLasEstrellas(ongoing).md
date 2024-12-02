@@ -6,6 +6,7 @@ Anno di prima pubblicazione: 2017
 
 Autore:
   - Carlos CHERNOV
+  - 
 
 Lingua:
   - esp

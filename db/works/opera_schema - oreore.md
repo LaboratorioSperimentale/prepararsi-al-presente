@@ -5,9 +5,8 @@ Titolo prima pubblicazione: Ore ore
 Anno di prima pubblicazione: 2013
 
 Autore:
-  - KIMI Satoshi
-  - HOSHINO Tomoyuki
-  - ...
+  - [[au-jp-kim-satoshi]]
+  - [[au-jp-tom-hoshino]]
 
 Lingua: JAPANESE
   - eng

@@ -5,7 +5,7 @@ Titolo prima pubblicazione: Memoria de las especies
 Anno di prima pubblicazione: 2022
 
 Autore:
-  - Katherina FRANGI
+  - [[au-es-kat-frangi]]
 
 Lingua:
   - esp

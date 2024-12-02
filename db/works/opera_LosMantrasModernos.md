@@ -5,7 +5,7 @@ Titolo prima pubblicazione: Los mantras modernos
 Anno di prima pubblicazione: 2017
 
 Autore:
-  - Martín Felipe CASTAGNET
+  - [[au-es-mar-castagnet]]
   
 Lingua:
   - esp

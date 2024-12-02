@@ -5,9 +5,7 @@ Titolo prima pubblicazione: Imentā
 Anno di prima pubblicazione: 2019
 
 Autore:
-  - KOIDE Motoki
-  - Id-autore2
-  - ...
+  - [[au-xx-mot-koide]]
 
 Lingua: JAPANESE
 

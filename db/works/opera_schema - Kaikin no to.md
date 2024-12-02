@@ -4,7 +4,7 @@ Titolo prima pubblicazione: Kaikin no to
 
 Anno di prima pubblicazione: 2013
 
-Autore: Torishima Dempow
+Autore: [[au-jp-dem-torishima]]
 
 Lingua: JAPANESE
   

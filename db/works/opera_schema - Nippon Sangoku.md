@@ -5,7 +5,7 @@ Titolo prima pubblicazione: Nippon Sangoku
 Anno di prima pubblicazione: 2021
 
 Autore:
-  - Matsuki Ikka
+  - [[au-jp-ikk-matsuki]]
 
 Lingua: JAPANESE
 

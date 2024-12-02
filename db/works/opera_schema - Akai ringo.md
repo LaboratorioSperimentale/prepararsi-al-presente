@@ -4,7 +4,7 @@ Titolo prima pubblicazione: Akai ringo
 
 Anno di prima pubblicazione: 2020
 
-Autore: MURATA Kōji
+Autore: [[au-jp-koj-murata]]
 
 Lingua: JAPANESE
 

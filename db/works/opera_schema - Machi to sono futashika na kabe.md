@@ -5,9 +5,7 @@ Titolo prima pubblicazione: Machi to sono futashika na kabe
 Anno di prima pubblicazione: 2023
 
 Autore:
-  - MURAKAMI Haruki
-  - Id-autore2
-  - ...
+  - [[au-jp-har-murakami]]
 
 Lingua: JAPANESE
 

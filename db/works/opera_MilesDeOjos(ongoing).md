@@ -5,9 +5,7 @@ Titolo prima pubblicazione: Miles de ojos
 Anno di prima pubblicazione: 2021
 
 Autore:
-  - Maximiliano BARRIENTOS
-  - Id-autore2
-  - ...
+  - [[au-es-max-barrientos]]
 
 Lingua:
   - esp

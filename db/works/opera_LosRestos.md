@@ -5,7 +5,7 @@ Titolo prima pubblicazione: Los restos
 Anno di prima pubblicazione: 2014
 
 Autore:
-  - Betina KEIZMAN
+  - [[au-es-bet-keizman]]
   
 
 Lingua:

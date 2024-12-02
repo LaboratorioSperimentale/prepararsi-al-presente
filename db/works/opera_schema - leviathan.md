@@ -4,7 +4,7 @@ Titolo prima pubblicazione: Ribaiasan
 
 Anno di prima pubblicazione: 2022
 
-Autore: Shiro KUROI
+Autore: [[au-jp-shi-kuroi]]
 
 
 Lingua: JAPAN

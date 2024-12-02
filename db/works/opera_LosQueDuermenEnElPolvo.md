@@ -5,7 +5,7 @@ Titolo prima pubblicazione: Los que duermen en el polvo
 Anno di prima pubblicazione: 2017
 
 Autore:
-  - Horacio CONVERTINI
+  - [[au-es-hor-convertini]]
   
 
 Lingua:

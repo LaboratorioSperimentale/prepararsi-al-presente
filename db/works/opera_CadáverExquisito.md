@@ -5,9 +5,7 @@ Titolo prima pubblicazione: Cadáver Exquisito
 Anno di prima pubblicazione: 2017
 
 Autore:
-  - Augustina BAZTERRICA
-  - Id-autore2
-  - ...
+  - [[au-es-agu-bazterrica]]
 
 Lingua:
   - esp

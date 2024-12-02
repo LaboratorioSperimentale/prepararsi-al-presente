@@ -5,7 +5,7 @@ Titolo prima pubblicazione: Chilco
 Anno di prima pubblicazione: 2023
 
 Autore:
-  - Daniela CATRILEO
+  - [[au-es-dan-catrileo]]
 
 Lingua:
   - esp

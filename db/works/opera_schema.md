@@ -7,7 +7,7 @@ Anno di prima pubblicazione:
 Autore:
   - Id-autore1
   - Id-autore2
-  - ...
+  - [[]]
 
 Lingua:
   - eng

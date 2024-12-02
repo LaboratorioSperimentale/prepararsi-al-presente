@@ -5,9 +5,9 @@ Titolo prima pubblicazione: Hāmonī
 Anno di prima pubblicazione: 2015
 
 Autore:
-  - Michael ARIAS	
-  - Takashi NAKAMURA
-  - Satoshi ITŌ
+  - [[au-xx-mic-arias]]
+  - [[au-xx-tak-nakamura]]
+  - [[au-jp-sat-ito]]
 
 
 Lingua: JAPANESE
