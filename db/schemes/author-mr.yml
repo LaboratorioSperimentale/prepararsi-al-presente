@@ -1,0 +1,6 @@
+id:
+  type: string
+  regex: '^au-(en|jp|es)-[a-z]{3}-[a-z]+$'
+  required: True
+
+Type:
