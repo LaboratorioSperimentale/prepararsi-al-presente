@@ -1,12 +1,12 @@
-id: we000011
-First known title: "Fallout"
-Type: "tv_serial"
-First_edition: "2024"
-Creator_Entity: "ae0000011", "ae0000012"
+id: op-en-va11hall
+First known title: "VA-11 Hall-A: Cyberpunk Bartender Action"
+Type: "videogame"
+First_edition: "2016"
+Creator_Entity: "as0000011",
 Language: "en"
-Distributor: "Amazon Prime Video"
+Distributor: "Ysbryd Games"
 Publisher:
-Area: "Anglosphere"
+Area: "Ibero-America"
 Trigger_Event: "anthropogenic_war_inconclusive_planetary"
 Trigger_Event_Aftermaths:
 Synopsis:

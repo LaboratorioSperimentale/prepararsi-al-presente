@@ -1,13 +1,17 @@
-id: wj000011
+id: op-jp-deathstranding
 First known title: "Death Stranding"
 Type: "videogame"
 First_edition: "2019"
-Creator_Entity: "aj0000011"
-Language: "jp", "en"
+Creator_Entity:
+  - "aj0000011"
+Language:
+  - "jp"
+  - "en"
 Distributor: "Sony Interactive Entertainment"
 Publisher:
 Area: "Japan"
-Trigger_Event: "anthropogenic_metaphysical_intrasocietal_planetary"
+Trigger_Event:
+  - "anthropogenic_metaphysical_intrasocietal_planetary"
 Trigger_Event_Aftermaths:
 Riferimento file txt:
 Numero capitoli:

@@ -1,10 +1,11 @@
-id: wa000001
+id: op-en-thewall
 
 Titolo prima pubblicazione: "The Wall"
 
 Anno di prima pubblicazione: 2019
 
-Autore: ae0000001
+Autore:
+  - au-en-joh-lanchester
 
 Lingua: eng
 
@@ -14,7 +15,8 @@ Editore: "W. W. Norton & Company"
 
 Area geosocioculturale: anglo
 
-Causa della fine: "Anthropic_Climatechange_Unknown"
+Causa della fine:
+  - Anthropic_Climatechange_Unknown
 
 Sinossi:
 

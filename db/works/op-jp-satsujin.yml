@@ -1,10 +1,11 @@
-id:
+id: op-jp-satsujin
 
 Titolo prima pubblicazione: Satsujin shūssan
 
 Anno di prima pubblicazione:
 
-Autore: au-jp-say-murata
+Autore:
+  - au-jp-say-murata
 
 Lingua: JAPANESE
 
@@ -14,9 +15,11 @@ Editore: Kōdansha
 
 Area geosocioculturale: JAPAN
 
-Causa della fine: anthropogenic_Subversion_Intra-societal_Local
+Causa della fine:
+  - anthropogenic_Subversion_Intra-societal_Local
 
-Sinossi: a future society which may be seen as dystopic for the use of Reproduction Technologies and the strange system called Birth-Murder System.
+Sinossi: |
+  a future society which may be seen as dystopic for the use of Reproduction Technologies and the strange system called Birth-Murder System.
 
 Riferimento file txt:
 
