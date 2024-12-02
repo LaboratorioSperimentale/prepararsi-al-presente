@@ -1,0 +1,19 @@
+id: au-jp-mar-Ayase
+
+Type: person
+
+Name: "Maru"
+
+Surname: “Ayase”
+
+Date of birth: 1986
+
+Language: jp
+
+Area: jp
+
+Identifies as: cif-f
+
+Pronoun:
+  - she, her
+

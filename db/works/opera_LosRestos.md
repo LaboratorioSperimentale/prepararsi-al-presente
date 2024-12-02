@@ -1,0 +1,38 @@
+ID:
+
+Titolo prima pubblicazione: Los restos
+
+Anno di prima pubblicazione: 2014
+
+Autore:
+  - Betina KEIZMAN
+  
+
+Lingua:
+  - esp
+  
+
+Distributore:
+
+Editore: Alquimia Ediciones
+
+Area geosocioculturale: [ispano]
+
+Causa della fine: Social decay, anthropic
+
+Sinossi: | 
+  In the world, all safe spaces have become scarce. The city, family, and personal projects follow a logic that no one quite understands—how it all ties together or how to navigate it. The characters seem to grasp some of the strangeness surrounding them and put up some resistance or form a plan, yet they mostly allow themselves to be absorbed by the world they live in. Existence has become a puzzle impossible to piece back together, and empty spaces are filled with unexpected things. The fear of emptiness is the golden rule, yet everyone accepts and contributes to filling it in the vaguest way, as if emptied of horror.
+
+Riferimento file txt:
+
+Numero capitoli: 4
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:
+  - Id-personaggio1
+  - Id-personaggio2
+  - Id-personaggio3
+  - ...

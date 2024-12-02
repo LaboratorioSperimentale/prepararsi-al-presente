@@ -1,0 +1,17 @@
+id: au-jp-yos-sato
+
+Type: person
+
+Name: "Yoshimi"
+
+Surname: “SATO”
+
+Language: jp
+
+Area: jp
+
+Identifies as: cis-m
+
+Pronoun:
+  - he, him
+

@@ -1,0 +1,14 @@
+id: au-es-sj-alvareza
+
+Type: person
+
+Name: sJuan
+
+Surname: ÁLVAREZA
+
+Area: es
+
+Identifies as: cis
+
+Pronoun:
+  - he, him

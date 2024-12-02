@@ -1,0 +1,19 @@
+id: au-jp-hir-yamamoto
+
+Type: person
+
+Name: "Hiroshi"
+
+Surname: “YAMAMOTO”
+
+Date of birth: 1956
+
+Language: jp
+
+Area: jp
+
+Identifies as: cis-m
+
+Pronoun:
+  - he, him
+

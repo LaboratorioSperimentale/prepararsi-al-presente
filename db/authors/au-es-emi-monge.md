@@ -1,0 +1,15 @@
+id: au-es-emi-monge
+
+Type: person
+
+Name: Emiliano
+
+Surname: MONGE
+
+Area: es
+
+Identifies as: cis
+
+Pronoun:
+  - he, him
+

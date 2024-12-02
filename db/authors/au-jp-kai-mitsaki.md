@@ -1,0 +1,17 @@
+
+
+Type: person
+
+Name: Kairi
+
+Surname: “MISAKI”
+
+Language: jp
+
+Area: jp
+
+Identifies as: cis-f
+
+Pronoun:
+  - she, her
+

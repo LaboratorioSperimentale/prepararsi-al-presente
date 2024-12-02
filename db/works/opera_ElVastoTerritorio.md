@@ -1,0 +1,37 @@
+ID:
+
+Titolo prima pubblicazione: El vasto territorio
+
+Anno di prima pubblicazione: 2021
+
+Autore:
+  - Simón LÓPEZ TRUJILLO
+
+
+Lingua:
+  - esp
+
+
+Distributore:
+
+Editore: Alfaguara
+
+Area geosocioculturale: [anglo, ispano, nippo]
+
+Causa della fine: Environmental destruction, extractivism, anthropic
+
+Sinossi: The environmental destruction caused by logging companies in southern Chile will shape the lives of each protagonist, bringing the deforestation and its impacts directly to the region’s inhabitants. The threat of a fungus near Concepción steadily grows in presence until it literally takes over a man's body, setting off a series of wild events.
+
+Riferimento file txt:
+
+Numero capitoli: 2
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:
+  - Id-personaggio1
+  - Id-personaggio2
+  - Id-personaggio3
+  - ...

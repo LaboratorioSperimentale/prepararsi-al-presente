@@ -1,0 +1,15 @@
+id: au-es-mar-castagnet
+
+Type: person
+
+Name: Martín Felipe
+
+Surname: CASTAGNET
+
+Area: es
+
+Identifies as: cis
+
+Pronoun:
+  - he, him
+

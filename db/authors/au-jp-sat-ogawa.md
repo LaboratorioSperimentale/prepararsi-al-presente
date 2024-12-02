@@ -1,0 +1,15 @@
+id:
+
+Type: person
+
+Name: Satoshi
+
+Surname: “Ogawa”
+
+Date of birth: 25/12/1986
+
+Language: jp
+
+Area: jp
+
+Identifies as: cis-m

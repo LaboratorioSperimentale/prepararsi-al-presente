@@ -1,0 +1,15 @@
+id: au-es-ger-maggiori
+
+Type: person
+
+Name: Germán
+
+Surname: MAGGIORI
+
+Area: es
+
+Identifies as: cis
+
+Pronoun:
+  - he, him
+

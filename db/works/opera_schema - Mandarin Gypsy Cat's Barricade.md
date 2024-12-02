@@ -1,0 +1,36 @@
+ID:
+
+Titolo prima pubblicazione: Mandarin gipushī rōjō
+
+Anno di prima pubblicazione: 2017
+
+Autore:
+  - Akane TORIKAI
+  - Id-autore2
+  - ...
+
+Lingua: JAPANESE
+
+Distributore:
+
+Editore: Kadokawa
+
+Area geosocioculturale: JAPAN
+
+Causa della fine: anthropogenic_Subversion_Intra-societal_local 
+
+Sinossi: The story is set in a dystopian future where men are dying out and the world is dominated by women. (animeclick)
+
+Riferimento file txt:
+
+Numero capitoli:
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:
+  - Id-personaggio1
+  - Id-personaggio2
+  - Id-personaggio3
+  - ...

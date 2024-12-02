@@ -1,0 +1,17 @@
+id: au-jp-aki-sugino
+
+Type: person
+
+Name: “Akiyuki”
+
+Surname: “Sugino”
+
+Language: jp
+
+Area: jp
+
+Identifies as: cis-m
+
+Pronoun:
+  - he, him
+

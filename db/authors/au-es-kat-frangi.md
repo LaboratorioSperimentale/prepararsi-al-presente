@@ -1,0 +1,15 @@
+id: au-es-kat-frangi
+
+Type: person
+
+Name: Katherina
+
+Surname: FRANGI
+
+Area: es
+
+Identifies as: cis
+
+Pronoun:
+  - she, her
+

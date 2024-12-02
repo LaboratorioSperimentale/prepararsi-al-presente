@@ -1,0 +1,19 @@
+id: au-jp-cho-tanaka
+
+Type: person
+
+Name: Chōko
+
+Surname: “Tanaka”
+
+Date of birth: 1964
+
+Language: jp
+
+Area: jp
+
+Identifies as: cis-f
+
+Pronoun:
+  - she, her
+

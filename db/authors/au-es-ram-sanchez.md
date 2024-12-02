@@ -1,0 +1,15 @@
+id: au-es-ram-sanchez
+
+Type: person
+
+Name: Ramiro
+
+Surname: SANCHIZ
+
+Area: es
+
+Identifies as: cis
+
+Pronoun:
+  - he, him
+

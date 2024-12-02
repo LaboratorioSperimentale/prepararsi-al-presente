@@ -1,0 +1,15 @@
+id:
+
+Type: person
+
+Name: Sayaka
+
+Surname: Murata
+
+Area: jp
+
+Identifies as: cis-f
+
+Pronoun:
+  - she, her
+

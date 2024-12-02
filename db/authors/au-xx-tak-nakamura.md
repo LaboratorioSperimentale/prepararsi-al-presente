@@ -1,0 +1,13 @@
+id:
+
+Type: person
+
+Name: Takashi
+
+Surname: NAKAMURA
+
+Identifies as: cis-m
+
+Pronoun:
+  - he, him
+

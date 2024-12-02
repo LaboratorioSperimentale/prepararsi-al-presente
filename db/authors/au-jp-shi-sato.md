@@ -1,0 +1,15 @@
+
+
+Type: person
+
+Name: Shinsuke
+
+Surname: Satō
+
+Area: jp
+
+Identifies as: cis-m
+
+Pronoun:
+  - he, him
+
