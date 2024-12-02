@@ -1,4 +1,4 @@
-id:
+id: op-jp-nippon
 
 Titolo prima pubblicazione: Nippon Sangoku
 
@@ -15,9 +15,11 @@ Editore: Shogakukan
 
 Area geosocioculturale: JAPAN
 
-Causa della fine: anthropogenic_Subversion_Intra-societal_Local
+Causa della fine:
+  - anthropogenic_Subversion_Intra-societal_Local
 
-Sinossi: The story, set in a hypothetical near future, shows a divided Japan once again at war. A young man tries to use the strategy to unify the nation once again.
+Sinossi: |
+  The story, set in a hypothetical near future, shows a divided Japan once again at war. A young man tries to use the strategy to unify the nation once again.
 
 Riferimento file txt:
 
