@@ -1,4 +1,4 @@
-ID:
+id: op-es-miles
 
 Titolo prima pubblicazione: Miles de ojos
 
@@ -13,7 +13,7 @@ Lingua:
 
 Distributore:
 
-Editore:El cuervo editorial
+Editore: El cuervo editorial
 
 Area geosocioculturale: [ispano]
 
@@ -23,14 +23,10 @@ Sinossi:
 
 Riferimento file txt:
 
-Numero capitoli:52
+Numero capitoli: 52
 
 [AUTOMATICO] Numero token:
 
 Link Relazione:
 
 [AUTOMATICO] Personaggi:
-  - Id-personaggio1
-  - Id-personaggio2
-  - Id-personaggio3
-  - ...

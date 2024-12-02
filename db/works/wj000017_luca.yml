@@ -1,21 +1,17 @@
-ID: wj000017
+id: wj000017
 First known title: "Metal Gear Solid V: The Phantom Pain"
 Type: "videogame"
 First_edition: "2015"
 Creator_Entity: "aj0000017"
 Language: "jp", "en"
 Distributor: "KONAMI"
-Publisher: 
+Publisher:
 Area: "Japan"
 Trigger_Event: "anthropogenic_subversion_intrasocietal_planetary"
-Trigger_Event_Aftermaths: 
+Trigger_Event_Aftermaths:
 Synopsis:
 Riferimento file txt:
 Numero capitoli:
 [AUTOMATICO] Numero token:
 Link Relazione:
 [AUTOMATICO] Personaggi:
-  - Id-personaggio1
-  - Id-personaggio2
-  - Id-personaggio3
-  - ...

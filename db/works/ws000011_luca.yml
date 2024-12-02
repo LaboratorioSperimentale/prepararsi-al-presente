@@ -1,21 +1,17 @@
-ID: ws000011
+id: ws000011
 First known title: "VA-11 Hall-A: Cyberpunk Bartender Action"
 Type: "videogame"
 First_edition: "2016"
 Creator_Entity: "as0000011",
 Language: "en"
 Distributor: "Ysbryd Games"
-Publisher: 
+Publisher:
 Area: "Ibero-America"
 Trigger_Event: "anthropogenic_war_inconclusive_planetary"
-Trigger_Event_Aftermaths: 
+Trigger_Event_Aftermaths:
 Synopsis:
 Riferimento file txt:
 Numero capitoli:
 [AUTOMATICO] Numero token:
 Link Relazione:
 [AUTOMATICO] Personaggi:
-  - Id-personaggio1
-  - Id-personaggio2
-  - Id-personaggio3
-  - ...

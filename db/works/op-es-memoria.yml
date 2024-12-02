@@ -1,4 +1,4 @@
-ID:
+id: op-es-memoria
 
 Titolo prima pubblicazione: Memoria de las especies
 
@@ -15,9 +15,10 @@ Distributore:
 
 Editore: Club Hem
 
-Area geosocioculturale: [ispano]
+Area geosocioculturale: ispano
 
-Causa della fine: Apocalypse
+Causa della fine:
+  - Apocalypse
 
 Sinossi:
 
@@ -30,7 +31,3 @@ Numero capitoli:
 Link Relazione:
 
 [AUTOMATICO] Personaggi:
-  - Id-personaggio1
-  - Id-personaggio2
-  - Id-personaggio3
-  - ...

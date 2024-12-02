@@ -1,4 +1,4 @@
-ID: wa000001
+id: wa000001
 
 Titolo prima pubblicazione: "The Wall"
 
@@ -27,7 +27,3 @@ Numero capitoli:
 Link Relazione:
 
 [AUTOMATICO] Personaggi:
-  - Id-personaggio1
-  - Id-personaggio2
-  - Id-personaggio3
-  - ...
