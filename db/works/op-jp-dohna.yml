@@ -2,7 +2,8 @@ id: op-jp-dohna
 First known title: "doHna:doHna -Issho ni Warui Koto o Shiyou-"
 Type: "videogame"
 First_edition: "2020"
-Creator_Entity: "aj0000016"
+Creator_Entity:
+  - au-jp-ali-kabushikigaisha
 Language: "jp"
 Distributor: "Alice Soft"
 Publisher:

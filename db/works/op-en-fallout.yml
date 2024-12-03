@@ -2,7 +2,9 @@ id: op-en-fallout
 First known title: "Fallout"
 Type: "tv_serial"
 First_edition: "2024"
-Creator_Entity: "ae0000011", "ae0000012"
+Creator_Entity:
+  - au-en-gra-warner
+  - au-en-gen-robertson
 Language: "en"
 Distributor: "Amazon Prime Video"
 Publisher:
