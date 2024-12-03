@@ -1,4 +1,4 @@
-ID:
+id:
 
 first_known_title: “Dystopia - Ijuu Saki wa Futei no Shima deshita”
 
@@ -6,23 +6,23 @@ Anno di prima pubblicazione: 2023
 
 creator: SUGINO Akiyuki
 
-language: “japanese” 
+language: “japanese”
 
 circulating_entity: “komikku auru”
 
 area: jp
 
-trigger_event:  
-agency: Anthropogenic 
-type: Subversione 
+trigger_event:
+agency: Anthropogenic
+type: Subversione
 kernel: Intra-societal
-scale: Local 
+scale: Local
 
-aftermaths: lista di tag da definire 
+aftermaths: lista di tag da definire
 
-synopsis: “Souta Naruse leads a happy life with his kind wife, Airi, and their adorable daughter, Marin. For work they move to an island where they are welcomed by the residents with kindness. A particular and dangerous cult exists there, and all the residents would do anything to follow its teachings and protect it. (Anime Click)” 
+synopsis: “Souta Naruse leads a happy life with his kind wife, Airi, and their adorable daughter, Marin. For work they move to an island where they are welcomed by the residents with kindness. A particular and dangerous cult exists there, and all the residents would do anything to follow its teachings and protect it. (Anime Click)”
 
-relations: TBD 
+relations: TBD
 
 Riferimento file txt:
 
@@ -33,7 +33,3 @@ Numero capitoli:
 Link Relazione:
 
 [AUTOMATICO] Personaggi:
-  - Id-personaggio1
-  - Id-personaggio2
-  - Id-personaggio3
-  - ...

@@ -1,4 +1,4 @@
-ID:
+id:
 
 first_known_title: “Shūmatsu no Hakoniwa”
 
@@ -6,25 +6,25 @@ Anno di prima pubblicazione: 2023
 
 creator: MISAKI Kairi
 
-language: “japanese” 
+language: “japanese”
 
 circulating_entity: “Shogakukan”
 
 area: jp
 
-trigger_event:  
-agency:  Anthropogenic 
-type: Subversion 
-kernel: Intra-societal  
-scale: Local 
+trigger_event:
+agency:  Anthropogenic
+type: Subversion
+kernel: Intra-societal
+scale: Local
 
-aftermaths: lista di tag da definire 
+aftermaths: lista di tag da definire
 
 synopsis: “The nightmare has already begun, but no one realizes it. In this insane world, justice and good intentions lose their meaning.
 The destination is a hopeless place where everyone is smiling. There is no escape in this apocalyptic box garden.
-” 
+”
 
-relations: TBD 
+relations: TBD
 
 Riferimento file txt:
 
@@ -35,7 +35,3 @@ Numero capitoli:
 Link Relazione:
 
 [AUTOMATICO] Personaggi:
-  - Id-personaggio1
-  - Id-personaggio2
-  - Id-personaggio3
-  - ...

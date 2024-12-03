@@ -1,4 +1,4 @@
-ID:
+id:
 
 first_known_title: “chōsansei”
 
@@ -6,23 +6,23 @@ Anno di prima pubblicazione: 2018
 
 creator: Tanaka Chōko
 
-language: “japanese” 
+language: “japanese”
 
 circulating_entity: “Shinchōsha”
 
 area: jp
 
-trigger_event:  
-agency: Nonanthropogenic 
-type: Subversion 
-kernel:  Intra-societal 
+trigger_event:
+agency: Nonanthropogenic
+type: Subversion
+kernel:  Intra-societal
 scale: Local
 
-aftermaths: lista di tag da definire 
+aftermaths: lista di tag da definire
 
-synopsis: “In 2092, most young women in Japan died as a result of the spread of the smida flu, which originated in bats. In order to halt the declining birth rate, a ‘conscription system’ was adopted by referendum, in which adult males were required to undergo a temporary sex change to encourage pregnancy and childbirth. What is society as seen from the perspective of five men (and women) who are subjected to a ‘conscription system’? (Gomibon nante ai)” 
+synopsis: “In 2092, most young women in Japan died as a result of the spread of the smida flu, which originated in bats. In order to halt the declining birth rate, a ‘conscription system’ was adopted by referendum, in which adult males were required to undergo a temporary sex change to encourage pregnancy and childbirth. What is society as seen from the perspective of five men (and women) who are subjected to a ‘conscription system’? (Gomibon nante ai)”
 
-relations: TBD 
+relations: TBD
 
 Riferimento file txt:
 
@@ -33,7 +33,3 @@ Numero capitoli:
 Link Relazione:
 
 [AUTOMATICO] Personaggi:
-  - Id-personaggio1
-  - Id-personaggio2
-  - Id-personaggio3
-  - ...

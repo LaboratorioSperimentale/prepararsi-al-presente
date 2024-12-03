@@ -1,28 +1,28 @@
-ID:
+id:
 
 first_known_title: “string”
 
-Anno di prima pubblicazione: 
+Anno di prima pubblicazione:
 
-creator: 
+creator:
 
-language: “japanese” 
+language: “japanese”
 
 circulating_entity: “Hayakawa Shobō”
 
 area: jp
 
-trigger_event:  
-agency: Anthropogenic 
-type: Subversion  
-kernel: Intra-societal  
+trigger_event:
+agency: Anthropogenic
+type: Subversion
+kernel: Intra-societal
 scale: Planetary
 
-aftermaths: lista di tag da definire 
+aftermaths: lista di tag da definire
 
-synopsis: “Augmented reality and artificial consciousness have realized androids for sex--alter machines. Among these, the use of minor alternatives has provoked heated debate on both sides of the issue. Writer Misato Hasebe meets and experiences sexual intercourse with a 12-year-old Meef to report on the actual use of Minor Orta. (Hayakawa)” 
+synopsis: “Augmented reality and artificial consciousness have realized androids for sex--alter machines. Among these, the use of minor alternatives has provoked heated debate on both sides of the issue. Writer Misato Hasebe meets and experiences sexual intercourse with a 12-year-old Meef to report on the actual use of Minor Orta. (Hayakawa)”
 
-relations: TBD 
+relations: TBD
 
 Riferimento file txt:
 
@@ -33,7 +33,3 @@ Numero capitoli:
 Link Relazione:
 
 [AUTOMATICO] Personaggi:
-  - Id-personaggio1
-  - Id-personaggio2
-  - Id-personaggio3
-  - ...
