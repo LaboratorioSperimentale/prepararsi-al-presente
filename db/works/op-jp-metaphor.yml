@@ -1,10 +1,12 @@
 id: op-jp-metaphor
 First known title: "Metaphor: ReFantazio"
-Type: "videogame"
+Type: videogame
 First_edition: 2024
 Creator_Entity:
   - au-jp-stu-kabushikigaisha
-Language: "jp", "en"
+Language:
+  - jp
+  - en
 Distributor: "Atlus"
 Publisher:
 Area: "Japan"

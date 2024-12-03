@@ -1,9 +1,11 @@
 id: op-jp-katsu
 First known title: "Natsu no owari"
-Type: "videogame"
+Type: videogame
 First_edition: 2022
 Creator_Entity: "aj0000013"
-Language: "jp", "en"
+Language:
+  - jp
+  - en
 Distributor: "CUBE"
 Publisher:
 Area: "Japan"
