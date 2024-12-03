@@ -1,16 +1,28 @@
 id: op-en-cyberpunk
+
 First known title: "Cyberpunk 2077"
-Type: "Videogame"
-First_edition: "2020"
+
+Type: Videogame
+
+First_edition: 2020
+
 Creator_Entity:
   - au-en-cd-cd
-Language: "en"
+
+Language:
+  - "en"
+
 Distributor: "CD Projekt"
+
 Publisher:
+
 Area: "Anglosphere"
+
 Trigger_Event:
   - anthropogenic_subversion_intrasocietal_continental
+
 Trigger_Event_Aftermaths:
+
 Synopsis:
 
 Number of chapters:
