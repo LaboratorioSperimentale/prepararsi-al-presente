@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Jinkō chinō de 10 oku getto suru kanzen hanzai manyuaru”
 
-Anno di prima pubblicazione: 2020
+First edition: 2020
 
 creator: TAKEDA Jinzō
 
@@ -24,9 +24,9 @@ synopsis: “In the near future, when the metropolitan area's Big Data security 
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

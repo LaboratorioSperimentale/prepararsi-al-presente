@@ -2,7 +2,7 @@ id:
 
 first_known_title: “string”
 
-Anno di prima pubblicazione:
+First edition:
 
 creator:
 
@@ -24,9 +24,9 @@ synopsis: “Augmented reality and artificial consciousness have realized androi
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

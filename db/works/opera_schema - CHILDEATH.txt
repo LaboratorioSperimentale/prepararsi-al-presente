@@ -2,7 +2,7 @@ id:
 
 first_known_title: “CHILDEATH”
 
-Anno di prima pubblicazione: 2023
+First edition: 2023
 
 creator: Mukōra Hirokazu
 
@@ -24,9 +24,9 @@ synopsis: “It is the future, and "Earth" has long given up on mankind and beco
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

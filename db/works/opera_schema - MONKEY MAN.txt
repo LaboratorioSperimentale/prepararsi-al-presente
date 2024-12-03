@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Monkey Man”
 
-Anno di prima pubblicazione: 2021
+First edition: 2021
 
 creator: ICHIKAWA Takuji
 
@@ -24,9 +24,9 @@ synopsis: “A world on the brink of disaster, where children with new attitudes
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

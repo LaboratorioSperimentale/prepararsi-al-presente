@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Yūtoronika no kochiragawa”
 
-Anno di prima pubblicazione: 2018
+First edition: 2018
 
 creator: OGAWA Satoshi
 
@@ -24,9 +24,9 @@ synopsis: “Agastia Resort, a super-advanced city, was started as an experiment
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

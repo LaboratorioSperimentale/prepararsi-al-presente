@@ -2,7 +2,7 @@ id:
 
 first_known_title: “chōsansei”
 
-Anno di prima pubblicazione: 2018
+First edition: 2018
 
 creator: Tanaka Chōko
 
@@ -24,9 +24,9 @@ synopsis: “In 2092, most young women in Japan died as a result of the spread o
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

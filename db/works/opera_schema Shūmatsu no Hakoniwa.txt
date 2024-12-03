@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Shūmatsu no Hakoniwa”
 
-Anno di prima pubblicazione: 2023
+First edition: 2023
 
 creator: MISAKI Kairi
 
@@ -26,9 +26,9 @@ The destination is a hopeless place where everyone is smiling. There is no escap
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

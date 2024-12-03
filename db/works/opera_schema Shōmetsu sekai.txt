@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Shōmetsu sekai”
 
-Anno di prima pubblicazione: 2015
+First edition: 2015
 
 creator: MURATA Sayaka
 
@@ -24,9 +24,9 @@ synopsis: “In Japan in the near future, sexuality and reproduction are complet
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

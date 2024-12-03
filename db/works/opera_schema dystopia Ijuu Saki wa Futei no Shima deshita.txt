@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Dystopia - Ijuu Saki wa Futei no Shima deshita”
 
-Anno di prima pubblicazione: 2023
+First edition: 2023
 
 creator: SUGINO Akiyuki
 
@@ -24,9 +24,9 @@ synopsis: “Souta Naruse leads a happy life with his kind wife, Airi, and their
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

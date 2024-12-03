@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Gyakusatsu Kikan”
 
-Anno di prima pubblicazione: 2015
+First edition: 2015
 
 creator: ITŌ KEIKAKU
 
@@ -24,9 +24,9 @@ synopsis: “Sarajevo once again becomes the centre of world history when a home
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

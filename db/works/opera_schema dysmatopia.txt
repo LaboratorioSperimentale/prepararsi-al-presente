@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Disu Ma Topia”
 
-Anno di prima pubblicazione: 2015
+First edition: 2015
 
 creator: SATO Yoshimi
 
@@ -24,9 +24,9 @@ synopsis: “In the near future, sisters Enna and Yayako live in a walled city w
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

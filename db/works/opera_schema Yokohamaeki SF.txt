@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Yokohamaeki SF”
 
-Anno di prima pubblicazione: 2016
+First edition: 2016
 
 creator: ISUKARI Yuba
 
@@ -26,9 +26,9 @@ Japan was ruled by the self-perpetuating <Yokohama Station>. Ekinka society is c
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

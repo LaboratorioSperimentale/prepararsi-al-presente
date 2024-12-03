@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Shingeki no kyojin”
 
-Anno di prima pubblicazione: 2021
+First edition: 2021
 
 creator: ISAYAMA Hajime
 
@@ -28,9 +28,9 @@ Pure Titans are created by injecting Eldians with Titan spinal fluid. If a Pure 
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

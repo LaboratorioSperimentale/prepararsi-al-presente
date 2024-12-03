@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Ririisu”
 
-Anno di prima pubblicazione: 2016
+First edition: 2016
 
 creator: KOYATA Natsuki
 
@@ -24,9 +24,9 @@ synopsis: “Heterosexual terrorist outbreak of  sperm bank occupation - a dysto
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

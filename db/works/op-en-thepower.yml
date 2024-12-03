@@ -1,18 +1,29 @@
 id: op-en-thepower
 
-Titolo prima pubblicazione: "The Power"
-Anno di prima pubblicazione: 2016
+First known title: "The Power"
+
+Type:
+
+First edition: 2016
+
 Autore:
   - au-en-naomi-alderman
-Lingua: eng
-Distributore:
-Editore: "Viking Press"
-Area geosocioculturale: anglo
-Causa della fine:
+
+Language:
+  - eng
+
+Distributor:
+
+Publisher: "Viking Press"
+
+Area: anglo
+
+Trigger event:
   - Nonanthropogenic_Subversion_Natural_Planetary
-Sinossi:
-Riferimento file txt:
-Numero capitoli:
+
+Synopsis:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 

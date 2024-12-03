@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Mori ga afureru”
 
-Anno di prima pubblicazione: 2019
+First edition: 2019
 
 creator: AYASE Maru
 
@@ -24,9 +24,9 @@ synopsis: “Nowatari Rui is a woman tired of being the subject of the novels of
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli: 5
+
+Number of chapters: 5
 
 [AUTOMATICO] Numero token:
 

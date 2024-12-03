@@ -2,7 +2,7 @@ id:
 
 first_known_title: “Mushoku Kyōsei Shūyōjo”
 
-Anno di prima pubblicazione: 2018
+First edition: 2018
 
 creator: AKIRA Rei; KAMAKURA Atsushi
 
@@ -24,9 +24,9 @@ synopsis: “From 2022, a new law imposes specific mental treatment on the unemp
 
 relations: TBD
 
-Riferimento file txt:
 
-Numero capitoli:
+
+Number of chapters:
 
 [AUTOMATICO] Numero token:
 
