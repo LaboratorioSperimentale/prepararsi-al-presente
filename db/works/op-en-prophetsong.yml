@@ -16,7 +16,7 @@ Publisher: "Oneworld"
 Area: anglo
 
 Trigger event:
-  - Anthropogenic_War_Intra-societal_Local
+  - anthropogenic_war_intra-societal_local
 
 Synopsis:
 
