@@ -6,7 +6,8 @@ Name: “Akiyuki”
 
 Surname: “Sugino”
 
-Language: jp
+Language:
+  - jp
 
 Area: jp
 

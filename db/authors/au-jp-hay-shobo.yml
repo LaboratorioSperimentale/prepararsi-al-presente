@@ -1,13 +1,14 @@
 id: au-jp-hay-shobo
 
-Type: legal entity
+Type: entity
 
 Name: Hayakawa Shobō
 
 Legal entity name: “Kabushiki-gaisha”
 
-Date of establishment: 08/xx/1945
+Date of establishment: 08/1945
 
-Headquarters: “Tachō”
+Headquarters:
+  - “Tachō”
 
 Area: jp

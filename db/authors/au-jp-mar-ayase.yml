@@ -1,4 +1,4 @@
-id: au-jp-mar-Ayase
+id: au-jp-mar-ayase
 
 Type: person
 
@@ -8,11 +8,12 @@ Surname: “Ayase”
 
 Date of birth: 1986
 
-Language: jp
+Language:
+  - jp
 
 Area: jp
 
-Identifies as: cif-f
+Identifies as: cis-f
 
 Pronoun:
   - she, her

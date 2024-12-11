@@ -8,7 +8,8 @@ Surname: “Tanaka”
 
 Date of birth: 1964
 
-Language: jp
+Language:
+  - jp
 
 Area: jp
 

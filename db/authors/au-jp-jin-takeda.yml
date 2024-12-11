@@ -8,7 +8,8 @@ Surname: “Takeda”
 
 Date of birth: 1990
 
-Language: jp
+Language:
+  - jp
 
 Area: jp
 

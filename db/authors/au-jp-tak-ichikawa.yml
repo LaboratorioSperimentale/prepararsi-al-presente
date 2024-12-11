@@ -1,4 +1,4 @@
-
+id: au-jp-tak-ichikawa
 
 Type: person
 
@@ -8,11 +8,12 @@ Surname: “Ichikawa”
 
 Date of birth: 10/07/1962
 
-Language: jp
+Language:
+  - jp
 
 Area: jp
 
-Identifies as: male
+Identifies as: cis-m
 
 Pronoun:
   - he, him

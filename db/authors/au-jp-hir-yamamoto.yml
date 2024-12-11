@@ -8,7 +8,8 @@ Surname: “YAMAMOTO”
 
 Date of birth: 1956
 
-Language: jp
+Language:
+  - jp
 
 Area: jp
 
