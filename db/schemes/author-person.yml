@@ -6,19 +6,22 @@ Name: (string)                                # Se type è "person"
 
 Surname: (string)                             # Se type è "person"
 
-Date of birth: (gg/mm/aaaa)                     # Se type è "person"
+Date of birth: (gg/mm/aaaa) | mm/aaaa | aaaa  # Se type è "person"
 
-Language:                                     # ????????????????? (vedi idArea)
+Language:
+  -
+  -                                     # ????????????????? (vedi idArea)
 
-Area: [jp | en | sp]                          # # ????????????????? vedi idLanguage)
+Area: [jp | en | es]                          # # ????????????????? vedi idLanguage)
 
 Identifies as: [cis-m/f | trans | non-binario] # Se tupe è "person"
 
 Pronoun:
-  - proName (esempio: he; him)
-  - proName (esempio: she; her)
+  - proName (esempio: he, him)
+  - proName (esempio: she, her)
 
 Alias:
+  -
 
 Compilatore:                                  # chi fa la scheda
 

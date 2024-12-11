@@ -1,18 +1,16 @@
 id: 2DigitForCategory-AreaCode-3DigitForSurname-OnlyOneFullName
 
-Type: legal entity
+Type: entity::[subtype]
 
 Name: (string)                     # Se type è "legalEntity"
 
-Name of legal entity:
+Name of legal entity:              ## se è uguale a name si può omettere
 
-Date of establishment: (gg/mm/aaaa)                 # Se type è "legalEntity"
-
-Language:                                     # ????????????????? (vedi idArea)
+Date of establishment: (gg/mm/aaaa) | mm/aaaa | aaaa                # Se type è "legalEntity"
 
 Headquarters:                                 # Se type è "legalEntity"
 
-Area: [jp | en | sp]                          # # ????????????????? vedi idLanguage)
+Area: [jp | en | es]                          # # ????????????????? vedi idLanguage)
 
 Alias:
 

@@ -1,6 +1,94 @@
 id:
   type: string
-  regex: '^au-(en|jp|es)-[a-z]{3}-[a-z]+$'
+  regex: '^au-(en|jp|es)-[a-z]+-[a-z]+$'
   required: True
 
 Type:
+  type: string
+  allowed:
+    - "entity"
+    - "person"
+  required: true
+
+Subtype:
+  type: string
+  regex: '(\w+(::)?)+'
+  required: false
+  dependencies:
+    Type: ["entity"]
+
+Name:
+  type: string
+  required: true
+
+Surname:
+  type: string
+  required: false
+  dependencies:
+    Type: ["person"]
+
+Legal entity name:
+  type: string
+  required: false
+  dependencies:
+    Type: ["entity"]
+
+Date of birth:
+  type: mydate
+  required: false
+  dependencies:
+    Type: ["person"]
+
+Language:
+  type: list
+  schema:
+    type: string
+    regex: '\w{2}'
+  required: false
+  dependencies:
+    Type: ["person"]
+
+Area:
+  type: string
+  coerce: tolower
+  allowed:
+    - "jp"
+    - "en"
+    - "es"
+  required: true
+
+
+Identifies as:
+  type: string
+  coerce: tolower
+  allowed:
+    - "cis-m"
+    - "cis-f"
+    - "trans"
+    - "non-binary"
+  required: false
+  dependencies:
+    Type: ["person"]
+
+Pronoun:
+  type: list
+  schema:
+    type: string
+    regex: '(\w+,? ?)+'
+  required: false
+  dependencies:
+    Type: ["person"]
+
+Date of establishment:
+  type: mydate
+  required: false
+  dependencies:
+    Type: ["entity"]
+
+Headquarters:
+  type: list
+  schema:
+    type: string
+  required: false
+  dependencies:
+    Type: ["entity"]
