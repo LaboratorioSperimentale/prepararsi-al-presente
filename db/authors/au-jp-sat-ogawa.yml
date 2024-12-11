@@ -1,4 +1,4 @@
-id:
+id: au-jp-sat-ogawa
 
 Type: person
 
@@ -8,7 +8,8 @@ Surname: “Ogawa”
 
 Date of birth: 25/12/1986
 
-Language: jp
+Language:
+  - jp
 
 Area: jp
 

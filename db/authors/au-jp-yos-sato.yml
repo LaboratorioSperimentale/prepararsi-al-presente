@@ -6,7 +6,8 @@ Name: "Yoshimi"
 
 Surname: “SATO”
 
-Language: jp
+Language:
+  - jp
 
 Area: jp
 

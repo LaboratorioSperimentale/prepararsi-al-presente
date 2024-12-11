@@ -1,4 +1,4 @@
-
+id: au-jp-yub-isukari
 
 Type: person
 
@@ -6,7 +6,8 @@ Name: Yuba
 
 Surname: “ISUKARI”
 
-Language: jp
+Language:
+  - jp
 
 Area: jp
 

@@ -1,4 +1,4 @@
-
+id: au-jp-kai-mitsaki
 
 Type: person
 
@@ -6,7 +6,8 @@ Name: Kairi
 
 Surname: “MISAKI”
 
-Language: jp
+Language:
+  - jp
 
 Area: jp
 
