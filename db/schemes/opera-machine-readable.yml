@@ -1,4 +1,7 @@
 id:
+  type: string
+  regex: '^op-(en|jp|es)-[a-z]+-[a-z]+$'
+  required: True
 
 Titolo prima pubblicazione:
 
