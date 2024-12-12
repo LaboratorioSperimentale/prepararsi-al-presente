@@ -141,7 +141,8 @@ if __name__ == "__main__":
 							fg.rs
 
 			print(output_str)
-			print()
+			# print()
+			# input()
 			# input()
 
 

@@ -1,28 +1,36 @@
 id:
 
-Titolo prima pubblicazione:
+Type: novel | serial | videogame | sequential art | feature-length
 
-Anno di prima pubblicazione:
+First known title:   # obbligatorio
 
-Autore:
+First edition:   ## obbligatorio
+
+Alternative titles:
+  -
+  -
+
+Creators:
   - Id-autore1
   - Id-autore2
   -
 
-Lingua:
-  - eng
-  - esp
+Languages:
+  - en
+  - es
   - ...
 
-Distributore:
+Distributore:  #??
 
-Editore:
+Publisher:     #??
 
-Area geosocioculturale: [anglo, ispano, nippo]
+Area geosocioculturale: jp | en | es
 
-Causa della fine:
+Trigger event:             # obbligatorio
 
-Sinossi:
+Trigger event aftermaths:  ## facoltativo
+
+Synopsis:
 
 Riferimento file txt:
 

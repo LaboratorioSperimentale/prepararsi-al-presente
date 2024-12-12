@@ -1,17 +1,28 @@
 id: op-en-fallout
+
 First known title: "Fallout"
+
 Type: tv_serial
+
 First_edition: 2024
+
 Creator_Entity:
   - au-en-gra-warner
   - au-en-gen-robertson
+
 Language: "en"
+
 Distributor: "Amazon Prime Video"
+
 Publisher:
+
 Area: "Anglosphere"
+
 Trigger_Event:
   - anthropogenic_war_inconclusive_planetary
+
 Trigger_Event_Aftermaths:
+
 Synopsis:
 
 Number of chapters:
