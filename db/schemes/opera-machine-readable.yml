@@ -3,36 +3,36 @@ id:
   regex: '^op-(en|jp|es)-[a-z]+-[a-z]+$'
   required: True
 
-Titolo prima pubblicazione:
+First known title:
 
-Anno di prima pubblicazione:
+First edition:
 
-Autore:
+Author:
   - Id-autore1
   - Id-autore2
   -
 
-Lingua:
+Language:
   - eng
   - esp
   - ...
 
-Distributore:
+Distributor:
 
-Editore:
+Publisher:
 
-Area geosocioculturale: [anglo, ispano, nippo]
+Area: [anglo, ispano, nippo]
 
-Causa della fine:
+Trigger event:
 
-Sinossi:
+Synopsis:
 
-Riferimento file txt:
+Riferimento file txt: ????????????
 
-Numero capitoli:
+Number of chapters:
 
-[AUTOMATICO] Numero token:
+[AUTOMATICO] Numero token: !!!!!!!!!!!!
 
-Link Relazione:
+Link Relazione: !!!!!!!!!!!!!!!!!!
 
-[AUTOMATICO] Personaggi:
+[AUTOMATICO] Personaggi: !!!!!!!!!!!
