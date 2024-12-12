@@ -7,11 +7,11 @@ Creator_Entity:
 Language:
   - jp
 Distributor: "Orthros"
-Publisher:
+
 Area: "Japan"
 Trigger_Event:
   - "anthropogenic_subversion_extra-societal_planetary"
-Trigger_Event_Aftermaths:
+
 
 
 
