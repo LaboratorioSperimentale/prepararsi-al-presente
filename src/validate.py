@@ -22,6 +22,19 @@ class AuthorValidator(cerberus.Validator):
 	def _normalize_coerce_tolower(self, value):
 		return value.lower()
 
+class OperaValidator(cerberus.Validator):
+
+	def _validate_type_mydate(self, value):
+
+		# TODO: add date validation
+		return True
+
+	def _check_with_trigger(self, field, value):
+		pass
+
+	def _check_with_authors_id(self, field, value):
+		pass
+
 	# def _check_with_CClist_construction(self, field, value):
 	# 	if value is not None:
 	# 		if value.startswith("cc"):
@@ -77,12 +90,15 @@ if __name__ == "__main__":
 	new_files = sys.argv[1:]
 
 	author_v = AuthorValidator(yaml.safe_load(open("db/schemes/author-machine-readable.yml", encoding="utf-8")))
-	# entity_v = AuthorValidator(yaml.safe_load(open("db/schemes/author_legal.yml", encoding="utf-8")))
-	# print(person_v)
+	opera_v = OperaValidator(yaml.safe_load(open("db/schemes/opera-machine-readable.yml", encoding="utf-8")))
+
+	# input()
+
+	validator = opera_v
 
 	n_warnings = 0
 	for file in new_files:
-		# print(file)
+		print(file)
 		with open(file, encoding="utf-8") as stream:
 			try:
 				instance = yaml.safe_load(stream)
@@ -91,65 +107,63 @@ if __name__ == "__main__":
 
 			# print(instance)
 
-			print(f"Examining Author ID. {Path(file).stem}: {instance['Name']}")
+			print(f"Examining Author ID. {Path(file).stem}: {instance['id']}")
 
-			validation_test = author_v.validate(instance)
+			validation_test = validator.validate(instance)
 
 			if validation_test:
 				output_str = fg.green + \
-					f"[PASSED] AUTHOR ID. {Path(file).stem}: {instance['Name']}" + \
+					f"[PASSED] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
 						fg.rs
 
 			else:
+							# print(validation_test)
+				print(validator.errors)
+				output_str = fg(255, 10, 10) + \
+					f"[FAILED] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
+						fg.rs
 
-				n_errors = 0
-				n_warning = 0
 
-				for field, value in author_v.errors.items():
-					print(f"Issue with field {field}")
-					for x in value:
-						if len(x) > 0:
-							if type(x) == str:
-								if x.startswith("(W)"):
-									n_warnings += 1
-								else:
-									n_errors += 1
-								print(f"\t{x}")
-							else:
-								for element, err_string in x.items():
-									err_string = err_string[0]
-									if err_string.startswith("(W)"):
-										n_warnings += 1
-									else:
-										n_errors += 1
-									print(f"\t{err_string}")
-						else:
-							if x.startswith("(W)"):
-								n_warnings += 1
-							else:
-								n_errors += 1
-							print(f"\t{x}")
-				print()
 
-				if n_errors > 0:
-					output_str = fg(255, 10, 10) + \
-						f"[FAILED] AUTHOR ID. {Path(file).stem}: {instance['Name']}" + \
-							fg.rs
-				else:
-					output_str = fg.blue + \
-						f"[WARNING] AUTHOR ID. {Path(file).stem}: {instance['Name']}" + \
-							fg.rs
+			# else:
+
+			# 	n_errors = 0
+			# 	n_warning = 0
+
+			# 	for field, value in author_v.errors.items():
+			# 		print(f"Issue with field {field}")
+			# 		for x in value:
+			# 			if len(x) > 0:
+			# 				if type(x) == str:
+			# 					if x.startswith("(W)"):
+			# 						n_warnings += 1
+			# 					else:
+			# 						n_errors += 1
+			# 					print(f"\t{x}")
+			# 				else:
+			# 					for element, err_string in x.items():
+			# 						err_string = err_string[0]
+			# 						if err_string.startswith("(W)"):
+			# 							n_warnings += 1
+			# 						else:
+			# 							n_errors += 1
+			# 						print(f"\t{err_string}")
+			# 			else:
+			# 				if x.startswith("(W)"):
+			# 					n_warnings += 1
+			# 				else:
+			# 					n_errors += 1
+			# 				print(f"\t{x}")
+			# 	print()
+
+			# 	if n_errors > 0:
+			# 		output_str = fg(255, 10, 10) + \
+			# 			f"[FAILED] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
+			# 				fg.rs
+			# 	elif n_warning > 0:
+			# 		output_str = fg.blue + \
+			# 			f"[WARNING] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
+			# 				fg.rs
 
 			print(output_str)
-			# print()
-			# input()
-			# input()
-
-
-
-
-
-
-	# if n_warnings > 0:
-	# 	print(f"During check {n_warnings} warnings have been detected. Please check your files!")
-	# print()
+			input()

@@ -1,38 +1,64 @@
 id:
   type: string
-  regex: '^op-(en|jp|es)-[a-z]+-[a-z]+$'
-  required: True
+  regex: '^op-(en|jp|es)-[a-z]+$'
+  required: true
+
+Type:
+  allowed:
+    - novel
+    - serial
+    - videogame
+    - sequential art
+    - feature-length
+  required: true
 
 First known title:
+  type: string
+  required: true
 
 First edition:
+  type: mydate
+  required: True
 
-Author:
-  - Id-autore1
-  - Id-autore2
-  -
+Alternative titles:
+  type: list
+  schema:
+    type: string
+  required: false
+
+Creators:
+  type: list
+  schema:
+    type: string
+    check_with: authors_id
 
 Language:
-  - eng
-  - esp
-  - ...
+  type: list
+  schema:
+    type: string
+    regex: '\w{2}'
+
 
 Distributor:
+  type: string
+  required: false
 
 Publisher:
+  type: string
+  required: false
 
-Area: [anglo, ispano, nippo]
+Area:
+  allowed:
+    - en
+    - jp
+    - es
 
 Trigger event:
+  type: list
+  schema:
+    type: string
+    check_with: trigger
 
 Synopsis:
-
-Riferimento file txt: ????????????
-
-Number of chapters:
-
-[AUTOMATICO] Numero token: !!!!!!!!!!!!
-
-Link Relazione: !!!!!!!!!!!!!!!!!!
-
-[AUTOMATICO] Personaggi: !!!!!!!!!!!
+  type: string
+  required: false
