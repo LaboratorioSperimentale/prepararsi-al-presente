@@ -4,7 +4,7 @@ Type: entity::[subtype]
 
 Name: (string)                     # Se type è "legalEntity"
 
-Name of legal entity:              ## se è uguale a name si può omettere
+Name of legal entity:              ## se è uguale a name si può omettere Luca: non sarà mai uguale perchè ci sarà sempre una sigla come spa, srl, llc, GmBH, yūgen gaisha, kabushikigaisha etc.
 
 Date of establishment: (gg/mm/aaaa) | mm/aaaa | aaaa                # Se type è "legalEntity"
 
@@ -23,4 +23,4 @@ Compilatore:                                  # chi fa la scheda
 #   Name e Legal_Entity_Name altre volte solo Legal_Entity_Name+
 
 
-# - cis-m e cis-f sono ridondanti?!?
+# - cis-m e cis-f sono ridondanti?!? Luca: no, serve perchè non abbiamo un campo 'sex'
