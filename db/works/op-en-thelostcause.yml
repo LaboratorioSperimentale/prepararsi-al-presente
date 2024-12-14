@@ -19,7 +19,11 @@ Publisher: "Tor Books"
 Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intrasocietal_planetary
+  - agendy: anthropogenic
+  - type: environmental
+  - kernel: intrasocietal
+  - scale: planetary
+
 
 
 

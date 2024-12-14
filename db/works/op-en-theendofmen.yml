@@ -19,7 +19,11 @@ Publisher: "G.P. Putnam's Sons"
 Area: en
 
 Trigger event:
-  - nonanthropogenic_environmental_natural_planetary
+  - agendy: nonanthropogenic
+  - type: environmental
+  - kernel: natural
+  - scale: planetary
+
 
 
 

@@ -11,7 +11,11 @@ Distributor: "YOX-Project"
 
 Area: "jp"
 Trigger event:
-  - "unknown_subversion_inconclusive_planetary"
+  - "agendy: unknown
+  - type: subversion
+  - kernel: inconclusive
+  - scale: planetary
+"
 
 
 

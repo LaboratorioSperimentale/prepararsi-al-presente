@@ -18,7 +18,11 @@ Distributor: "Sony Interactive Entertainment"
 Area: jp
 
 Trigger event:
-  - "anthropogenic_metaphysical_intrasocietal_planetary"
+  - "agendy: anthropogenic
+  - type: metaphysical
+  - kernel: intrasocietal
+  - scale: planetary
+"
 
 
 

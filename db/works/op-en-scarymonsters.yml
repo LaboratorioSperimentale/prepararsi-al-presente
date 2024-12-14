@@ -19,7 +19,11 @@ Publisher: "Faber and Faber"
 Area: en
 
 Trigger event:
-  - Anthropogenic_Environmental_intrasocietal_Planetary
+  - agendy: Anthropogenic
+  - type: Environmental
+  - kernel: intrasocietal
+  - scale: Planetary
+
 
 
 

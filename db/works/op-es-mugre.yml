@@ -15,7 +15,11 @@ Publisher: Penguin Randomhouse
 Area: es
 
 Trigger event:
-  - Nonanthropogenic_Subversion_Natural_Local
+  - agendy: Nonanthropogenic
+  - type: Subversion
+  - kernel: Natural
+  - scale: Local
+
 
 Synopsis: |
    In a port city reminiscent of Montevideo and ravaged by a mysterious plague, a woman tries to understand why her world is falling apart. It is not just the threat of illness and death, the poisonous winds and algae, or the pink paste that has become the only food available, but also the collapse of all her emotional ties, the uncertainty, and the emergence of a profound and radical loneliness.

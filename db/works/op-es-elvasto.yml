@@ -17,7 +17,11 @@ Publisher: Alfaguara
 Area: es
 
 Trigger event:
-  - Anthropogenic_Subversion_Inconclusive_Continental
+  - agendy: Anthropogenic
+  - type: Subversion
+  - kernel: Inconclusive
+  - scale: Continental
+
 
 Synopsis: |
   The environmental destruction caused by logging companies in southern Chile will shape the lives of each protagonist, bringing the deforestation and its impacts directly to the region’s inhabitants. The threat of a fungus near Concepción steadily grows in presence until it literally takes over a man's body, setting off a series of wild events.

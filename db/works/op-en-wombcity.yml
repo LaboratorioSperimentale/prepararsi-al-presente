@@ -19,7 +19,11 @@ Publisher: "Erewhon Books"
 Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intrasocietal_local
+  - agendy: anthropogenic
+  - type: subversion
+  - kernel: intrasocietal
+  - scale: local
+
 
 
 

@@ -20,7 +20,11 @@ Publisher: "Serpent's Tail"
 Area: en
 
 Trigger event:
-  - anthropogenic_environmental_natural_planetary
+  - agendy: anthropogenic
+  - type: environmental
+  - kernel: natural
+  - scale: planetary
+
 
 
 

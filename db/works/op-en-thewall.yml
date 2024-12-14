@@ -20,7 +20,11 @@ Publisher: "W. W. Norton & Company"
 Area: en
 
 Trigger event:
-  - Anthropogenic_Environmental_Inconclusive_Planetary
+  - agendy: Anthropogenic
+  - type: Environmental
+  - kernel: Inconclusive
+  - scale: Planetary
+
 
 
 

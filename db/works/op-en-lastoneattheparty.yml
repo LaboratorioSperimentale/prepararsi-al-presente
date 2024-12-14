@@ -19,7 +19,11 @@ Publisher: "Hodder And Stoughton Ltd."
 Area: en
 
 Trigger event:
-  - nonanthropogenic_environmental_natural_planetary
+  - agendy: nonanthropogenic
+  - type: environmental
+  - kernel: natural
+  - scale: planetary
+
 
 
 

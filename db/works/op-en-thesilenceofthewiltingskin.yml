@@ -20,7 +20,11 @@ Publisher: "Pink Narcissus Press"
 Area: en
 
 Trigger event:
-  - nonanthropogenic_metaphysical_intrasocietal_local
+  - agendy: nonanthropogenic
+  - type: metaphysical
+  - kernel: intrasocietal
+  - scale: local
+
 
 
 

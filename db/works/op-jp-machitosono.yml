@@ -17,7 +17,11 @@ Publisher: Shinchosha
 Area: jp
 
 Trigger event:
-  - anthropogenic_Subversion_intrasocial_local
+  - agendy: anthropogenic
+  - type: Subversion
+  - kernel: intrasocial
+  - scale: local
+
 
 Synopsis: |
   When a young man’s girlfriend mysteriously vanishes, he sets his heart on finding the imaginary city where her true self lives. His search will lead him to take a job in a remote library with mysteries of its own.

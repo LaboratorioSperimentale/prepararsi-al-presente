@@ -19,7 +19,11 @@ Publisher: "Blue Swan Entertainment"
 Area: en
 
 Trigger event:
-  - anthropogenic_environmental_inconclusive_planetary
+  - agendy: anthropogenic
+  - type: environmental
+  - kernel: inconclusive
+  - scale: planetary
+
 
 
 

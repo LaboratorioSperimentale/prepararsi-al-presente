@@ -18,7 +18,11 @@ Distributor: "Amazon Prime Video"
 Area: en
 
 Trigger event:
-  - anthropogenic_war_inconclusive_planetary
+  - agendy: anthropogenic
+  - type: war
+  - kernel: inconclusive
+  - scale: planetary
+
 
 
 

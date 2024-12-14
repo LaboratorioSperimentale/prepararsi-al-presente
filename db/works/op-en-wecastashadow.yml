@@ -19,7 +19,11 @@ Publisher: "One World"
 Area: en
 
 Trigger event:
-  - Anthropogenic_Subversion_Intrasocietal_Local
+  - agendy: Anthropogenic
+  - type: Subversion
+  - kernel: Intrasocietal
+  - scale: Local
+
 
 
 

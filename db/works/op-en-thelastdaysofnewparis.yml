@@ -19,7 +19,11 @@ Publisher: "Picador"
 Area: en
 
 Trigger event:
-  - anthropogenic_methaphysical_subversion_planetary
+  - agendy: anthropogenic
+  - type: methaphysical
+  - kernel: subversion
+  - scale: planetary
+
 
 
 

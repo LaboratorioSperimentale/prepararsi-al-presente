@@ -1,10 +1,11 @@
-id:
+id: op-jp-yokohamaeki
 
 First known title: “Yokohamaeki SF”
 
 First edition: 2016
 
-Creators: ISUKARI Yuba
+Creators:
+  - au-jp-yub-isukari
 
 Language:
   - jp
@@ -14,19 +15,17 @@ Distributor: “Kadokawa”
 Area: jp
 
 Trigger event:
-agency:  Anthropogenic
-type: Subversion
-kernel:  Intra-societal
-scale: Local
+  - agency:  Anthropogenic
+  - type: Subversion
+  - kernel:  Intra-societal
+  - scale: Local
 
-aftermaths: lista di tag da definire
 
 Synopsis: |
    “In a world where Yokohama Station, which was programmed to multiply itself to secure a base during the Winter War, is out of control, Honshu has fallen and its tentacles are reaching out to Hokkaido and Kyushu, there are two types of people: those who have Suica and can freely walk around Ekinka, and those who do not have Suica. The protagonist, one of these ‘have-nots’, lives in the waste from the station, when a mysterious person called ‘Professor’ gives him an ‘18 Ticket’ that allows him to stay legally in Ekinka for five days. (gomibon nante nai) I want this ‘18-ticket’ to free mankind from the domination of <Yokohama Station>.
+   Japan was ruled by the self-perpetuating <Yokohama Station>. Ekinka society is controlled by Suika implanted in the brain. Hiroto, who lives outside of this society, relying on waste, is given a ‘mission’ by a man who has been expelled from Ekinka to take charge of the future of humanity. (cover)”
 
-Japan was ruled by the self-perpetuating <Yokohama Station>. Ekinka society is controlled by Suika implanted in the brain. Hiroto, who lives outside of this society, relying on waste, is given a ‘mission’ by a man who has been expelled from Ekinka to take charge of the future of humanity. (cover)”
 
-relations: TBD
 
 
 

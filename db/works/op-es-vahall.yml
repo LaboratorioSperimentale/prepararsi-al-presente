@@ -17,7 +17,11 @@ Distributor: "Ysbryd Games"
 Area: es
 
 Trigger event:
-  - "anthropogenic_war_inconclusive_planetary"
+  - "agendy: anthropogenic
+  - type: war
+  - kernel: inconclusive
+  - scale: planetary
+"
 
 
 

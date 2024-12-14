@@ -11,7 +11,11 @@ Distributor: "Square Enix"
 
 Area: "jp"
 Trigger event:
-  - "anthropogenic_metaphysical_intrasocietal_multi-planetary"
+  - "agendy: anthropogenic
+  - type: metaphysical
+  - kernel: intrasocietal
+  - scale: multi
+-planetary"
 
 
 

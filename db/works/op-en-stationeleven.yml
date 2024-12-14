@@ -19,7 +19,11 @@ Publisher: "Alfred A. Knopf"
 Area: en
 
 Trigger event:
-  - nonanthropogenic_subversion_natural_planetary
+  - agendy: nonanthropogenic
+  - type: subversion
+  - kernel: natural
+  - scale: planetary
+
 
 
 
