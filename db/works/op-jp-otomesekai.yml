@@ -1,15 +1,15 @@
 id: op-jp-otomesekai
 First known title: "Otome Sekai no Arukikata - The Maiden's World"
 Type: videogame
-First_edition: 2024
-Creator_Entity:
+First edition: 2024
+Creators:
   - au-jp-ort-orutorosu
 Language:
   - jp
 Distributor: "Orthros"
 
-Area: "Japan"
-Trigger_Event:
+Area: "jp"
+Trigger event:
   - "anthropogenic_subversion_extra-societal_planetary"
 
 

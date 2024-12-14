@@ -115,6 +115,8 @@ if __name__ == "__main__":
 				output_str = fg.green + \
 					f"[PASSED] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
 						fg.rs
+				print(output_str)
+				# input()
 
 			else:
 							# print(validation_test)
@@ -123,6 +125,8 @@ if __name__ == "__main__":
 					f"[FAILED] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
 						fg.rs
 
+				print(output_str)
+				input()
 
 
 			# else:
@@ -165,5 +169,4 @@ if __name__ == "__main__":
 			# 			f"[WARNING] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
 			# 				fg.rs
 
-			print(output_str)
-			input()
+

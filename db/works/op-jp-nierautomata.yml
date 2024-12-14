@@ -1,16 +1,17 @@
 id: op-jp-nierautomata
 First known title: "Nier: Automata"
 Type: videogame
-First_edition: 2017
-Creator_Entity:
+First edition: 2017
+Creators:
   - au-jp-platinumgames-purachinageemuzukabushikigaisha
 Language:
   - jp
   - en
 Distributor: "Square Enix"
 
-Area: "Japan"
-Trigger_Event: "anthropogenic_metaphysical_intrasocietal_multi-planetary"
+Area: "jp"
+Trigger event:
+  - "anthropogenic_metaphysical_intrasocietal_multi-planetary"
 
 
 

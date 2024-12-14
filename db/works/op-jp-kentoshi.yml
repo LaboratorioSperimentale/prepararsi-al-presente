@@ -1,5 +1,7 @@
 id: op-jp-kentoshi
 
+
+
 First known title: "Kentōshi"
 
 First edition: 2014
@@ -7,13 +9,14 @@ First edition: 2014
 Creators:
   - au-jp-yok-tawada
 
-Language: jp
+Language:
+  - jp
 
 
 
 Publisher: "Kodansha Ltd."
 
-Area: nippo
+Area: jp
 
 Trigger event:
   - Anthropic_Unspecified_Unknown

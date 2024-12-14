@@ -4,7 +4,8 @@ First known title: Pyūa
 
 First edition: 2020
 
-Creators:   au-jp-miy-ono
+Creators:
+  - au-jp-miy-ono
 
 Language:
   - jp
@@ -13,9 +14,10 @@ Language:
 
 Publisher: Hayakawa Shobō
 
-Area: JAPAN
+Area: jp
 
-Trigger event: anthropogenic_Subversion_Intra-societal_Multi-planetary
+Trigger event:
+  - anthropogenic_Subversion_Intra-societal_Multi-planetary
 
 Synopsis: |
   Pure is a love story set in a world where women can’t get pregnant unless they eat their male partner after sex.

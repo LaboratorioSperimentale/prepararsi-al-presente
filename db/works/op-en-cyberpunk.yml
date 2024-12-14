@@ -4,9 +4,9 @@ First known title: "Cyberpunk 2077"
 
 Type: videogame
 
-First_edition: 2020
+First edition: 2020
 
-Creator_Entity:
+Creators:
   - au-en-cd-cd
 
 Language:
@@ -14,9 +14,7 @@ Language:
 
 Distributor: "CD Projekt"
 
+Area: en
 
-
-Area: "ensphere"
-
-Trigger_Event:
+Trigger event:
   - anthropogenic_subversion_intrasocietal_continental

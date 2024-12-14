@@ -2,23 +2,22 @@ id: op-en-fallout
 
 First known title: "Fallout"
 
-Type: tv_serial
+Type: tv serial
 
-First_edition: 2024
+First edition: 2024
 
-Creator_Entity:
+Creators
   - au-en-gra-warner
   - au-en-gen-robertson
 
-Language: "en"
+Language:
+- "en"
 
 Distributor: "Amazon Prime Video"
 
+Area: en
 
-
-Area: "ensphere"
-
-Trigger_Event:
+Trigger event:
   - anthropogenic_war_inconclusive_planetary
 
 

@@ -10,7 +10,7 @@ Creators:
   - ...
 
 Language: giapp
-  - eng
+  - en
   - esp
   - ...
 
@@ -20,7 +20,8 @@ Publisher: 講談社 Kodansha
 
 Area: [en, ispano, nippo] giappone
 
-Trigger event: climatica, geopolitica
+Trigger event:
+  - climatica, geopolitica
 
 Synopsis: |
   In un futuro in cui il pianeta è sconvolto da crisi climatiche ed economiche, molte nazioni, come il Giappone, decidono di attuare una politica di chiusura. Per motivi non chiariti, forse di natura sanitaria o per cambiamenti climatici, gli adulti sembrano non poter morire e continuano a invecchiare sempre più in una senilità ricca di vitalità, mentre i bambini nascono con problemi fisici sempre più importanti: carenza di calcio nelle ossa e nei denti, salute cagionevole, intolleranza alimentare e malformazioni.
