@@ -1,18 +1,19 @@
 id:
 
-first_known_title: “Jinkō chinō de 10 oku getto suru kanzen hanzai manyuaru”
+First known title: “Jinkō chinō de 10 oku getto suru kanzen hanzai manyuaru”
 
 First edition: 2020
 
-creator: TAKEDA Jinzō
+Creators: TAKEDA Jinzō
 
-language: “japanese”
+Language:
+  - jp
 
-circulating_entity: “Hayakawa Shobō”
+Distributor: “Hayakawa Shobō”
 
-area: jp
+Area: jp
 
-trigger_event:
+Trigger event:
 agency:  anthropogenic
 type: Subversion
 kernel: Intra-societal
@@ -20,7 +21,8 @@ scale: Planetary
 
 aftermaths: lista di tag da definire
 
-synopsis: “In the near future, when the metropolitan area's Big Data security system has been introduced, AI technician Minose and film enthusiast Goto try to kidnap an automated money transport vehicle.”
+Synopsis: |
+   “In the near future, when the metropolitan area's Big Data security system has been introduced, AI technician Minose and film enthusiast Goto try to kidnap an automated money transport vehicle.”
 
 relations: TBD
 

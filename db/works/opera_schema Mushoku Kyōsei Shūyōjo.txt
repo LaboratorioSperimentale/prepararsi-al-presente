@@ -1,18 +1,19 @@
 id:
 
-first_known_title: “Mushoku Kyōsei Shūyōjo”
+First known title: “Mushoku Kyōsei Shūyōjo”
 
 First edition: 2018
 
-creator: AKIRA Rei; KAMAKURA Atsushi
+Creators: AKIRA Rei; KAMAKURA Atsushi
 
-language: “japanese”
+Language:
+  - jp
 
-circulating_entity: “Futabasha”
+Distributor: “Futabasha”
 
-area: jp
+Area: jp
 
-trigger_event:
+Trigger event:
 agency:  Anthropogenic
 type: Subversion
 kernel:  Intra-societal
@@ -20,7 +21,8 @@ scale: Local
 
 aftermaths: lista di tag da definire
 
-synopsis: “From 2022, a new law imposes specific mental treatment on the unemployed. The aim: to make them become overqualified workers. Even the brilliant Tatsuya Kamijo is to be reprogrammed. But instead of a rehabilitation centre he will find himself in an inhuman concentration camp. (Planet Manga backcover)”
+Synopsis: |
+   “From 2022, a new law imposes specific mental treatment on the unemployed. The aim: to make them become overqualified workers. Even the brilliant Tatsuya Kamijo is to be reprogrammed. But instead of a rehabilitation centre he will find himself in an inhuman concentration camp. (Planet Manga backcover)”
 
 relations: TBD
 

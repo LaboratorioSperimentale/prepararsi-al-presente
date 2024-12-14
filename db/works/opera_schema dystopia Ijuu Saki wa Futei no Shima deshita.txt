@@ -1,18 +1,19 @@
 id:
 
-first_known_title: “Dystopia - Ijuu Saki wa Futei no Shima deshita”
+First known title: “Dystopia - Ijuu Saki wa Futei no Shima deshita”
 
 First edition: 2023
 
-creator: SUGINO Akiyuki
+Creators: SUGINO Akiyuki
 
-language: “japanese”
+Language:
+  - jp
 
-circulating_entity: “komikku auru”
+Distributor: “komikku auru”
 
-area: jp
+Area: jp
 
-trigger_event:
+Trigger event:
 agency: Anthropogenic
 type: Subversione
 kernel: Intra-societal
@@ -20,7 +21,8 @@ scale: Local
 
 aftermaths: lista di tag da definire
 
-synopsis: “Souta Naruse leads a happy life with his kind wife, Airi, and their adorable daughter, Marin. For work they move to an island where they are welcomed by the residents with kindness. A particular and dangerous cult exists there, and all the residents would do anything to follow its teachings and protect it. (Anime Click)”
+Synopsis: |
+   “Souta Naruse leads a happy life with his kind wife, Airi, and their adorable daughter, Marin. For work they move to an island where they are welcomed by the residents with kindness. A particular and dangerous cult exists there, and all the residents would do anything to follow its teachings and protect it. (Anime Click)”
 
 relations: TBD
 
