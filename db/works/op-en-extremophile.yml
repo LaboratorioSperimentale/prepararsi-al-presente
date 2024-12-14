@@ -19,7 +19,11 @@ Publisher: "Bloomsbury Publishing"
 Area: en
 
 Trigger event:
-  - Nonanthropogenic_Environmental_Intra-societal_Planetary
+  - agency:  non-anthropogenic
+  - type: environmental
+  - kernel: intra-societal
+  - scale: planetary
+
 
 
 

@@ -19,7 +19,7 @@ Publisher: "Harper"
 Area: en
 
 Trigger event:
-  - agendy: anthropogenic
+  - agency: anthropogenic
   - type: environmental
   - kernel: intrasocietal
   - scale: continental

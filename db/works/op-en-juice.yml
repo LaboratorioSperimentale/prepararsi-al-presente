@@ -19,7 +19,11 @@ Publisher: "Picador"
 Area: en
 
 Trigger event:
-  - anthropogenic_environmental_non-specified_planetary
+  - agency:  anthropogenic
+  - type: environmental
+  - kernel: non-specified
+  - scale: planetary
+
 
 
 

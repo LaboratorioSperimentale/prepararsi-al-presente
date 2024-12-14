@@ -17,9 +17,9 @@ Area: jp
 
 Trigger event:
   - agency:  Anthropogenic
-  - type: Subversion
-  - kernel:  Intra-societal
-  - scale: Local
+  - type: subversion
+  - kernel:  intra-societal
+  - scale: local
 
 
 Synopsis: |

@@ -17,8 +17,8 @@ Publisher: Shinchosha
 Area: jp
 
 Trigger event:
-  - agendy: anthropogenic
-  - type: Subversion
+  - agency: anthropogenic
+  - type: subversion
   - kernel: intrasocial
   - scale: local
 

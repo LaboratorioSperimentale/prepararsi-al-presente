@@ -18,7 +18,11 @@ Distributor: Storm Labels
 Area: jp
 
 Trigger event:
-  - anthropogenic_Subversion_Intra-societal_Local
+  - agency:  anthropogenic
+  - type: subversion
+  - kernel: intra-societal
+  - scale: local
+
 
 Synopsis: |
   This novel centers on the “It’s me” telephone scam―often targeting the elderly―that has escalated in Japan in recent years. Typically, the caller identifies himself only by saying, “Hey, it’s me,” and goes on to claim in great distress that he’s been in an accident or lost some money with which he was entrusted at work, etc., and needs funds wired to his account right away.

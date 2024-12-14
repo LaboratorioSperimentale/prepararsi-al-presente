@@ -15,7 +15,11 @@ Publisher: Sigilo
 Area: es
 
 Trigger event:
-  - Anthropogenic_Metaphysical_Non-specified_Multi-versal
+  - agency:  Anthropogenic
+  - type: Metaphysical
+  - kernel: non-specified
+  - scale: multi-versal
+
 
 Synopsis: |
   In a near-present world where people can escape to another dimension called “the phosphorescence,” two siblings, Rapo and Masita, strive to flee from the dull and insubstantial reality they inhabit through a dangerous game of vanishing and reappearing. When Rapo disappears into the phosphorescence, Masita is compelled to set off on a journey to bring him back to the present, encountering along the way a parade of characters who defy the rules of reality and blur the boundary between both worlds, all fugitives from a crumbling reality.

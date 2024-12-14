@@ -15,10 +15,10 @@ Publisher: Penguin Randomhouse
 Area: es
 
 Trigger event:
-  - agendy: Nonanthropogenic
-  - type: Subversion
-  - kernel: Natural
-  - scale: Local
+  - agency: non-anthropogenic
+  - type: subversion
+  - kernel: natural
+  - scale: local
 
 
 Synopsis: |

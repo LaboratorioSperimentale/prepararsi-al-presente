@@ -17,7 +17,7 @@ Distributor: "CD Projekt"
 Area: en
 
 Trigger event:
-  - agendy: anthropogenic
+  - agency: anthropogenic
   - type: subversion
   - kernel: intrasocietal
   - scale: continental

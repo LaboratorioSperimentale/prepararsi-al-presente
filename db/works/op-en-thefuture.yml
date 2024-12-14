@@ -19,7 +19,11 @@ Publisher: "Fourth Estate"
 Area: en
 
 Trigger event:
-  - Anthropogenic_Subversion_Intra-societal_Planetary
+  - agency:  Anthropogenic
+  - type: subversion
+  - kernel: intra-societal
+  - scale: planetary
+
 
 
 

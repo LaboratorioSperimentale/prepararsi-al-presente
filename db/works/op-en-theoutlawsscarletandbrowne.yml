@@ -19,7 +19,11 @@ Publisher: "WordUnited Ltd"
 Area: en
 
 Trigger event:
-  - anthropogenic_metaphysical_intra-societal_local
+  - agency:  anthropogenic
+  - type: metaphysical
+  - kernel: intra-societal
+  - scale: local
+
 
 
 

@@ -19,7 +19,11 @@ Publisher: "Tramp Press"
 Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_planetary
+  - agency:  anthropogenic
+  - type: subversion
+  - kernel: intra-societal
+  - scale: planetary
+
 
 
 

@@ -19,7 +19,11 @@ Publisher: "Faber and Faber"
 Area: en
 
 Trigger event:
-  - athropogenic_subversion_intra-societal_planetary
+  - agency:  athropogenic
+  - type: subversion
+  - kernel: intra-societal
+  - scale: planetary
+
 
 
 

@@ -19,7 +19,7 @@ Publisher: "Back Bay Books"
 Area: en
 
 Trigger event:
-  - agendy: anthropogenic
+  - agency: anthropogenic
   - type: subversion
   - kernel: intrasocietal
   - scale: local

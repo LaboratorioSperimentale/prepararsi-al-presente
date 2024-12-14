@@ -15,7 +15,11 @@ Publisher: Kōdansha
 Area: jp
 
 Trigger event:
-  - anthropogenic_Subversion_Intra-societal_Local
+  - agency:  anthropogenic
+  - type: subversion
+  - kernel: intra-societal
+  - scale: local
+
 
 Synopsis: |
   a future society which may be seen as dystopic for the use of Reproduction Technologies and the strange system called Birth-Murder System.

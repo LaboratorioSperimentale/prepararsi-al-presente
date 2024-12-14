@@ -19,7 +19,7 @@ Publisher: "Grand Central Publishing"
 Area: en
 
 Trigger event:
-  - agendy: anthropogenic
+  - agency: anthropogenic
   - type: environmental
   - kernel: natural
   - scale: local

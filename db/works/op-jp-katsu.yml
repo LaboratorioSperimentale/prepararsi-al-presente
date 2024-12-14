@@ -18,7 +18,11 @@ Distributor: "CUBE"
 Area: jp
 
 Trigger event:
-  - "unknown_subversion_non-specified_planetary"
+  - agency:  "unknown
+  - type: subversion
+  - kernel: non-specified
+  - scale: planetary"
+
 
 
 

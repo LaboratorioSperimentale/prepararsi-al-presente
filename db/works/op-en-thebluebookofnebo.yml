@@ -19,7 +19,11 @@ Publisher: "Deep Vellum Publishing"
 Area: en
 
 Trigger event:
-  - anthropogenic_war_extra-societal_planetary
+  - agency:  anthropogenic
+  - type: war
+  - kernel: extra-societal
+  - scale: planetary
+
 
 
 

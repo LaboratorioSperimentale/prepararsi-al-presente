@@ -19,7 +19,11 @@ Publisher: "Granta"
 Area: en
 
 Trigger event:
-  - nonanthropogenic_metaphysical_non-specified_planetary
+  - agency:  non-anthropogenic
+  - type: metaphysical
+  - kernel: non-specified
+  - scale: planetary
+
 
 
 

@@ -19,7 +19,11 @@ Publisher: "Tinder"
 Area: en
 
 Trigger event:
-  - unknown_environmental_intra-societal_local
+  - agency:  unknown
+  - type: environmental
+  - kernel: intra-societal
+  - scale: local
+
 
 
 

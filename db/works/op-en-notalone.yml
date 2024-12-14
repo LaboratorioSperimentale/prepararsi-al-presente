@@ -20,7 +20,11 @@ Publisher: "Picador"
 Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intra-societal_planetary
+  - agency:  anthropogenic
+  - type: environmental
+  - kernel: intra-societal
+  - scale: planetary
+
 
 
 

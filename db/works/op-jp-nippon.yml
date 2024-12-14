@@ -17,7 +17,11 @@ Publisher: Shogakukan
 Area: jp
 
 Trigger event:
-  - anthropogenic_Subversion_Intra-societal_Local
+  - agency:  anthropogenic
+  - type: subversion
+  - kernel: intra-societal
+  - scale: local
+
 
 Synopsis: |
   The story, set in a hypothetical near future, shows a divided Japan once again at war. A young man tries to use the strategy to unify the nation once again.

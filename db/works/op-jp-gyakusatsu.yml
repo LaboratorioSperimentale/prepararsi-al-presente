@@ -15,9 +15,9 @@ Area: jp
 
 Trigger event:
   - agency:  Anthropogenic
-  - type: War
-  - kernel:  Intra-societal
-  - scale: Global
+  - type: war
+  - kernel:  intra-societal
+  - scale: global
 
 
 Synopsis: |

@@ -19,7 +19,11 @@ Publisher: "Apex Publications"
 Area: en
 
 Trigger event:
-  - Nonanthropogenic_subversion_extra-societal_planetary
+  - agency:  non-anthropogenic
+  - type: subversion
+  - kernel: extra-societal
+  - scale: planetary
+
 
 
 

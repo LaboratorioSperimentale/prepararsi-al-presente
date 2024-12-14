@@ -17,10 +17,10 @@ Publisher: Alfaguara
 Area: es
 
 Trigger event:
-  - agendy: Anthropogenic
-  - type: Subversion
-  - kernel: Inconclusive
-  - scale: Continental
+  - agency: Anthropogenic
+  - type: subversion
+  - kernel: inconclusive
+  - scale: continental
 
 
 Synopsis: |

@@ -11,7 +11,7 @@ Distributor: "YOX-Project"
 
 Area: "jp"
 Trigger event:
-  - "agendy: unknown
+  - "agency: unknown
   - type: subversion
   - kernel: inconclusive
   - scale: planetary

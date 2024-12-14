@@ -17,7 +17,11 @@ Publisher: Kōdansha
 Area: jp
 
 Trigger event:
-  - anthropogenic_Subversion_Intra-societal_Local
+  - agency:  anthropogenic
+  - type: subversion
+  - kernel: intra-societal
+  - scale: local
+
 
 Synopsis: |
   The story is set in modern Japan where sexual activity is illegal. Hikaru Inuta is a model student who, together with a friend, witnesses a show that shocks him. The two had gone to a club and witnessed sex scenes... in front of this vision, dormant impulses arise in Hikaru.

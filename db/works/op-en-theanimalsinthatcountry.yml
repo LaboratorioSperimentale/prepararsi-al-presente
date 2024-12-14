@@ -19,7 +19,11 @@ Publisher: "Scribe"
 Area: en
 
 Trigger event:
-  - nonanthropogenic_subversion_extra-societal_planetary
+  - agency:  non-anthropogenic
+  - type: subversion
+  - kernel: extra-societal
+  - scale: planetary
+
 
 
 

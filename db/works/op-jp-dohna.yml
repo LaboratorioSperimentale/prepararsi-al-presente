@@ -17,7 +17,7 @@ Distributor: "Alice Soft"
 Area: jp
 
 Trigger event:
-  - "agendy: anthropogenic
+  - "agency: anthropogenic
   - type: subversion
   - kernel: inconclusive
   - scale: local

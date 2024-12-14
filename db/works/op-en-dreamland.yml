@@ -19,7 +19,11 @@ Publisher: "Scribner UK"
 Area: en
 
 Trigger event:
-  - Anthropogenic_Environmental_Intra-societal_Planetary
+  - agency:  Anthropogenic
+  - type: environmental
+  - kernel: intra-societal
+  - scale: planetary
+
 
 
 

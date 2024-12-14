@@ -17,10 +17,10 @@ Publisher: Almadía
 Area: es
 
 Trigger event:
-  - agendy: Ambiguous
-  - type: Subversion
-  - kernel: Inconclusive
-  - scale: Planetary
+  - agency: Ambiguous
+  - type: subversion
+  - kernel: inconclusive
+  - scale: planetary
 
 
 Synopsis: |

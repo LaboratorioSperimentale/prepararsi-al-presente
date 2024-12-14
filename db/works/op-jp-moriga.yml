@@ -16,9 +16,9 @@ Area: jp
 
 Trigger event:
   - agency: Anthropogenic
-  - type: Environmental
-  - kernel: Intra-societal
-  - scale: Local
+  - type: environmental
+  - kernel: intra-societal
+  - scale: local
 
 
 

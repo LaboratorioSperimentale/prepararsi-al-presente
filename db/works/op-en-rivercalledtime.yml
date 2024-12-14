@@ -19,7 +19,11 @@ Publisher: "Canongate"
 Area: en
 
 Trigger event:
-  - anthropogenic_war_intra-societal_planetary
+  - agency:  anthropogenic
+  - type: war
+  - kernel: intra-societal
+  - scale: planetary
+
 
 
 

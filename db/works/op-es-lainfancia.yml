@@ -17,10 +17,10 @@ Publisher: Anagrama
 Area: es
 
 Trigger event:
-  - agendy: Ambiguous
-  - type: Environmental
-  - kernel: Natural
-  - scale: Continental
+  - agency: Ambiguous
+  - type: environmental
+  - kernel: natural
+  - scale: continental
 
 
 Synopsis: |

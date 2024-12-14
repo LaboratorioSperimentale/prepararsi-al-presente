@@ -19,7 +19,7 @@ Publisher: "William Heinemann ltd"
 Area: en
 
 Trigger event:
-  - agendy: anthropogenic
+  - agency: anthropogenic
   - type: environmental
   - kernel: inconclusive
   - scale: planetary

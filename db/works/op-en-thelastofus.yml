@@ -19,7 +19,7 @@ Distributor: "Sony Interactive Entertainment"
 Area: en
 
 Trigger event:
-  - agendy: nonanthropogenic
+  - agency: non-anthropogenic
   - type: environmental
   - kernel: natural
   - scale: planetary

@@ -19,10 +19,10 @@ Publisher: "Sybaritic Press"
 Area: en
 
 Trigger event:
-  - agendy: Nonanthropogenic
-  - type: Subversion
-  - kernel: Natural
-  - scale: Planetary
+  - agency: non-anthropogenic
+  - type: subversion
+  - kernel: natural
+  - scale: planetary
 
 
 

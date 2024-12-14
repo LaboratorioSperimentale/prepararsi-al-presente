@@ -17,4 +17,7 @@ Publisher: "Hachette"
 Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_local
+  - agency:  anthropogenic
+  - type: subversion
+  - kernel: intra-societal
+  - scale: local

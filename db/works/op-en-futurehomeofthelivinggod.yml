@@ -19,7 +19,7 @@ Publisher: "HarperCollins"
 Area: en
 
 Trigger event:
-  - agendy: nonanthropogenic
+  - agency: non-anthropogenic
   - type: metaphysical
   - kernel: natural
   - scale: planetary
