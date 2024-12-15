@@ -5,19 +5,36 @@ from pathlib import Path
 import cerberus
 import yaml
 from sty import fg, bg
-# from pybtex.database import parse_file
 
 
-# CC_DB = yaml.safe_load(open("cc-database/cc-database.yaml", encoding="utf-8"))
-# CC_LIST = {x["Id"]:x["Type"] for x in CC_DB}
-# BIB = parse_file("bibliography/entries.bib", bib_format="bibtex")
+authors_ids = [x.stem for x in Path("db/authors/").glob("*.yml")]
 
 class AuthorValidator(cerberus.Validator):
 
-	def _validate_type_mydate(self, value):
+	def _check_with_mydate(self, field, value):
 
-		# TODO: add date validation
-		return True
+		value = value.strip().split("/")
+		day = '0'
+		month = '0'
+		year = '0'
+
+		if len(value) == 3:
+			day, month, year = value
+		elif len(value) == 2:
+			month, year = value
+		elif len(value) == 1:
+			year = value[0]
+		else:
+			self._error(f"Non valid format for value '{value}'")
+
+		try:
+			day = int(day)
+			month = int(month)
+			year = int(year)
+
+		except:
+			self._error(f"Non valid format for value '{value}'")
+
 
 	def _normalize_coerce_tolower(self, value):
 		return value.lower()
@@ -29,10 +46,34 @@ class AuthorValidator(cerberus.Validator):
 
 class OperaValidator(cerberus.Validator):
 
-	def _validate_type_mydate(self, value):
+	def _check_with_mydate(self, field, value):
 
-		# TODO: add date validation
-		return True
+		value = str(value)
+
+		value = value.strip().split("/")
+		day = '0'
+		month = '0'
+		year = '0'
+
+		if len(value) == 3:
+			day, month, year = value
+		elif len(value) == 2:
+			month, year = value
+		elif len(value) == 1:
+			year = value[0]
+		else:
+			self._error(f"Non valid format for value '{value}'")
+
+		try:
+			day = int(day)
+			month = int(month)
+			year = int(year)
+
+		except:
+			self._error(f"Non valid format for value '{value}'")
+
+	def _normalize_coerce_todate(self, value):
+		pass
 
 	def _normalize_coerce_tolower(self, value):
 		return value.lower()
@@ -42,11 +83,10 @@ class OperaValidator(cerberus.Validator):
 		normalized_value = [x[0].upper()+x[1:].lower() for x in valuesplit]
 		return " ".join(normalized_value)
 
-	def _check_with_trigger(self, field, value):
-		pass
-
 	def _check_with_authors_id(self, field, value):
-		pass
+		if not value in authors_ids:
+			self._error(field, f"Value '{value}' not among known creators")
+
 
 	# def _check_with_CClist_construction(self, field, value):
 	# 	if value is not None:
@@ -119,6 +159,7 @@ if __name__ == "__main__":
 				print(exc)
 
 			# print(instance)
+			# input()
 
 			print(f"Examining Author ID. {Path(file).stem}: {instance['id']}")
 
@@ -139,7 +180,7 @@ if __name__ == "__main__":
 						fg.rs
 
 				print(output_str)
-				input()
+				# input()
 
 
 			# else:

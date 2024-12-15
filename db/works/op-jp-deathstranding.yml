@@ -1,6 +1,6 @@
 id: op-jp-deathstranding
 
-First known title: "Death Stranding"
+First known title: Death Stranding
 
 Type: videogame
 
@@ -13,19 +13,12 @@ Language:
   - jp
   - en
 
-Distributor: "Sony Interactive Entertainment"
+Distributor: Sony Interactive Entertainment
 
 Area: jp
 
 Trigger event:
-  - "agency: anthropogenic
+  agency: anthropogenic
   event: metaphysical
   kernel: intra-societal
   scale: planetary
-"
-
-
-
-
-
-

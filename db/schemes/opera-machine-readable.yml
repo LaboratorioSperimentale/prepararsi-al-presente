@@ -20,7 +20,9 @@ First known title:
   coerce: tocapitalized
 
 First edition:
-  type: mydate
+  # coerce: lamnda x: str(x)
+  # type: string
+  check_with: mydate
   required: True
 
 Alternative titles:
