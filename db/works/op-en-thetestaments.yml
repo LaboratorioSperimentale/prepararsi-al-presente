@@ -19,10 +19,10 @@ Publisher: "Orenda Books"
 Area: en
 
 Trigger event:
-  - agency:  anthropogenic
-  - type: environmental
-  - kernel: intra-societal
-  - scale: local
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: local
 
 
 

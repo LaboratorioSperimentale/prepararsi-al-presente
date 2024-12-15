@@ -21,10 +21,10 @@ Publisher: "Sandstone Press"
 Area: en
 
 Trigger event:
-  - agency: anthropogenic
-  - type: subversion
-  - kernel: intrasocietal
-  - scale: continental
+  agency: anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: continental
 
 
 

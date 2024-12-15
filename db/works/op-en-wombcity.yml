@@ -19,10 +19,10 @@ Publisher: "Erewhon Books"
 Area: en
 
 Trigger event:
-  - agency: anthropogenic
-  - type: subversion
-  - kernel: intrasocietal
-  - scale: local
+  agency: anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
 
 
 

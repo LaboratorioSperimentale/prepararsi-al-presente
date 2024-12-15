@@ -17,8 +17,8 @@ Publisher: "DAW"
 Area: en
 
 Trigger event:
-  - agency:  anthropogenic
-  - type: subversion
-  - kernel: extra-societal
-  - scale: multi-planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: extra-societal
+  scale: multi-planetary
 

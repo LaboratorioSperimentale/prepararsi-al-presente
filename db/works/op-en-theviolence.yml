@@ -19,10 +19,10 @@ Publisher: "Del Rey"
 Area: en
 
 Trigger event:
-  - agency: non-anthropogenic
-  - type: subversion
-  - kernel: natural
-  - scale: local
+  agency: non-anthropogenic
+  event: subversion
+  kernel: natural
+  scale: local
 
 
 

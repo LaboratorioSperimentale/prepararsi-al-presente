@@ -19,10 +19,10 @@ Publisher: "Viking Press"
 Area: en
 
 Trigger event:
-  - agency: non-anthropogenic
-  - type: subversion
-  - kernel: natural
-  - scale: planetary
+  agency: non-anthropogenic
+  event: subversion
+  kernel: natural
+  scale: planetary
 
 
 

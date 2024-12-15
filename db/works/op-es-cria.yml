@@ -7,7 +7,7 @@ First edition: 2014
 Creators:
   - au-es-ger-maggiori
 
-Lingua:
+Language:
   - es
 
 
@@ -16,10 +16,10 @@ Publisher: Tusquets
 Area: es
 
 Trigger event:
-  - agency:  Anthropogenic
-  - type: subversion
-  - kernel: intra-societal
-  - scale: planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
 
 Synopsis: |

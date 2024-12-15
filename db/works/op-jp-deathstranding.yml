@@ -19,9 +19,9 @@ Area: jp
 
 Trigger event:
   - "agency: anthropogenic
-  - type: metaphysical
-  - kernel: intrasocietal
-  - scale: planetary
+  event: metaphysical
+  kernel: intra-societal
+  scale: planetary
 "
 
 

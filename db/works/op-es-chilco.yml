@@ -15,10 +15,10 @@ Publisher: Seix Barral; Editorial Planeta Chilena
 Area: es
 
 Trigger event:
-  - agency: ambiguous
-  - type: environmental
-  - kernel: environmental
-  - scale: local
+  agency: ambiguous
+  event: environmental
+  kernel: environmental
+  scale: local
 
 
 Synopsis: |

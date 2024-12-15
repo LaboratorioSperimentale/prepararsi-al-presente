@@ -8,7 +8,7 @@ Creators:
   - au-es-edm-paz
 
 
-Lingua:
+Language:
   - es
 
 
@@ -17,10 +17,10 @@ Publisher: Almadía
 Area: es
 
 Trigger event:
-  - agency: Ambiguous
-  - type: subversion
-  - kernel: inconclusive
-  - scale: planetary
+  agency: ambiguous
+  event: subversion
+  kernel: inconclusive
+  scale: planetary
 
 
 Synopsis: |

@@ -15,10 +15,10 @@ Distributor: “Kawade Shobo Shinsha”
 Area: jp
 
 Trigger event:
-  - agency: Anthropogenic
-  - type: environmental
-  - kernel: intra-societal
-  - scale: local
+  agency: anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: local
 
 
 

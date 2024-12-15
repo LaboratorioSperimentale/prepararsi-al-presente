@@ -17,10 +17,10 @@ Publisher: Literatura Random House
 Area: es
 
 Trigger event:
-  - agency:  Anthropogenic
-  - type: subversion
-  - kernel: intra-societal
-  - scale: planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
 
 Synopsis: |

@@ -19,10 +19,10 @@ Publisher: "Alfred A. Knopf"
 Area: en
 
 Trigger event:
-  - agency:  Anthropogenic
-  - type: environmental
-  - kernel: non-specified
-  - scale: continental
+  agency:  anthropogenic
+  event: environmental
+  kernel: non-specified
+  scale: continental
 
 
 

@@ -21,10 +21,10 @@ Publisher: Studio 4°C
 Area: jp
 
 Trigger event:
-  - agency:  anthropogenic
-  - type: subversion
-  - kernel: intra-societal
-  - scale: planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
 
 Synopsis: |

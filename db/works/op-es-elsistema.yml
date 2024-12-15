@@ -15,10 +15,10 @@ Publisher: Interzona
 Area: es
 
 Trigger event:
-  - agency:  non-anthropogenic
-  - type: environmental
-  - kernel: intra-societal
-  - scale: planetary
+  agency:  non-anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
 
 Synopsis: |

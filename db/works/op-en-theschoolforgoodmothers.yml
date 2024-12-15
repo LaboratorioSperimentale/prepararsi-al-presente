@@ -20,10 +20,10 @@ Publisher: "Simon & Schuster"
 Area: en
 
 Trigger event:
-  - agency:  anthropogenic
-  - type: subversion
-  - kernel: intra-societal
-  - scale: local
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
 
 
 

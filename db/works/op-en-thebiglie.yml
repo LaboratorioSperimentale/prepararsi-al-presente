@@ -19,10 +19,10 @@ Publisher: "Candlewick"
 Area: en
 
 Trigger event:
-  - agency:  anthropogenic
-  - type: war
-  - kernel: extra-societal
-  - scale: planetary
+  agency:  anthropogenic
+  event: war
+  kernel: extra-societal
+  scale: planetary
 
 
 

@@ -20,10 +20,10 @@ Publisher: "Hamish Hamilton"
 Area: en
 
 Trigger event:
-  - agency:  unknown
-  - type: subversion
-  - kernel: extra-societal
-  - scale: planetary
+  agency:  unknown
+  event: subversion
+  kernel: extra-societal
+  scale: planetary
 
 
 

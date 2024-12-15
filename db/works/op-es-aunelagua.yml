@@ -15,10 +15,10 @@ Publisher: Seix Barral, Bogotá
 Area: es
 
 Trigger event:
-  - agency: non-anthropogenic
-  - type: environmental
-  - kernel: natural
-  - scale: planetary
+  agency: non-anthropogenic
+  event: environmental
+  kernel: natural
+  scale: planetary
 
 
 Synopsis: |

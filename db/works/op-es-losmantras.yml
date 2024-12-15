@@ -15,10 +15,10 @@ Publisher: Sigilo
 Area: es
 
 Trigger event:
-  - agency:  Anthropogenic
-  - type: Metaphysical
-  - kernel: non-specified
-  - scale: multi-versal
+  agency:  anthropogenic
+  event: Metaphysical
+  kernel: non-specified
+  scale: multi-versal
 
 
 Synopsis: |

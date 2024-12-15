@@ -18,9 +18,9 @@ Area: es
 
 Trigger event:
   - "agency: anthropogenic
-  - type: war
-  - kernel: inconclusive
-  - scale: planetary
+  event: war
+  kernel: inconclusive
+  scale: planetary
 "
 
 

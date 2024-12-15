@@ -17,10 +17,10 @@ Publisher: Tokyo Sogensha Co., Ltd.
 Area: jp
 
 Trigger event:
-  - agency:  anthropogenic
-  - type: subversion
-  - kernel: intra-societal
-  - scale: universal
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: universal
 
 
 Synopsis: |

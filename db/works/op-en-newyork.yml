@@ -19,10 +19,10 @@ Publisher: "Orbit Books"
 Area: en
 
 Trigger event:
-  - agency:  anthropogenic
-  - type: environmental
-  - kernel: intra-societal
-  - scale: planetary
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
 
 

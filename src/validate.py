@@ -29,6 +29,9 @@ class OperaValidator(cerberus.Validator):
 		# TODO: add date validation
 		return True
 
+	def _normalize_coerce_tolower(self, value):
+		return value.lower()
+
 	def _check_with_trigger(self, field, value):
 		pass
 

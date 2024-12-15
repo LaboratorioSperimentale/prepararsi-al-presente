@@ -19,10 +19,10 @@ Publisher: "Mariner Books"
 Area: en
 
 Trigger event:
-  - agency: anthropogenic
-  - type: war
-  - kernel: inconclusive
-  - scale: planetary
+  agency: anthropogenic
+  event: war
+  kernel: inconclusive
+  scale: planetary
 
 
 

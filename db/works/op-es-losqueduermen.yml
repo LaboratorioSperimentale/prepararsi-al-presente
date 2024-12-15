@@ -17,10 +17,10 @@ Publisher: Alfaguara
 Area: es
 
 Trigger event:
-  - agency:  Anthropogenic
-  - type: war
-  - kernel: intra-societal
-  - scale: local
+  agency:  anthropogenic
+  event: war
+  kernel: intra-societal
+  scale: local
 
 
 Synopsis: |

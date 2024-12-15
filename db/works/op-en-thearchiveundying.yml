@@ -19,10 +19,10 @@ Publisher: "Tordotcom"
 Area: en
 
 Trigger event:
-  - agency:  Ambiguous
-  - type: subversion
-  - kernel: intra-societal
-  - scale: planetary
+  agency:  Ambiguous
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
 
 

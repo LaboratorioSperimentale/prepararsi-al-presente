@@ -12,9 +12,9 @@ Distributor: "KONAMI"
 Area: "jp"
 Trigger event:
   - "agency: anthropogenic
-  - type: subversion
-  - kernel: intrasocietal
-  - scale: planetary
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 "
 
 

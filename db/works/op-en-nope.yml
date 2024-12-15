@@ -19,10 +19,10 @@ Publisher: "Monkeypaw Productions"; "Universal Pictures"
 Area: en
 
 Trigger event:
-  - agency:  non-anthropogenic
-  - type: subversion
-  - kernel: extra-societal
-  - scale: local
+  agency:  non-anthropogenic
+  event: subversion
+  kernel: extra-societal
+  scale: local
 
 
 

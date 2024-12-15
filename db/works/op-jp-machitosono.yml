@@ -17,10 +17,10 @@ Publisher: Shinchosha
 Area: jp
 
 Trigger event:
-  - agency: anthropogenic
-  - type: subversion
-  - kernel: intrasocial
-  - scale: local
+  agency: anthropogenic
+  event: subversion
+  kernel: intrasocial
+  scale: local
 
 
 Synopsis: |

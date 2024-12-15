@@ -14,10 +14,10 @@ Distributor: “Kadokawa Shoten”
 Area: jp
 
 Trigger event:
-  - agency:  Anthropogenic
-  - type: war
-  - kernel:  intra-societal
-  - scale: global
+  agency:  anthropogenic
+  event: war
+  kernel:  intra-societal
+  scale: global
 
 
 Synopsis: |

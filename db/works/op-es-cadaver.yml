@@ -16,10 +16,10 @@ Publisher: Alfaguara
 Area: es
 
 Trigger event:
-  - agency: ambiguous
-  - type: subversion
-  - kernel: natural
-  - scale: planetary
+  agency: ambiguous
+  event: subversion
+  kernel: natural
+  scale: planetary
 
 
 Synopsis: |

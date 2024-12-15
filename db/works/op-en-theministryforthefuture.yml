@@ -20,10 +20,10 @@ Publisher: "Orbit Books"
 Area: en
 
 Trigger event:
-  - agency:  anthropogenic
-  - type: subversion
-  - kernel: extra-societal
-  - scale: planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: extra-societal
+  scale: planetary
 
 
 

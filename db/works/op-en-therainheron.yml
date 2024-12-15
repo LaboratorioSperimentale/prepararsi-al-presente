@@ -20,10 +20,10 @@ Publisher: "Text Publishing"
 Area: en
 
 Trigger event:
-  - agency:  anthropogenic
-  - type: war
-  - kernel: intra-societal
-  - scale: local
+  agency:  anthropogenic
+  event: war
+  kernel: intra-societal
+  scale: local
 
 
 

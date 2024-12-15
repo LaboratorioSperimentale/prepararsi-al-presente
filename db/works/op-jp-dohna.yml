@@ -18,9 +18,9 @@ Area: jp
 
 Trigger event:
   - "agency: anthropogenic
-  - type: subversion
-  - kernel: inconclusive
-  - scale: local
+  event: subversion
+  kernel: inconclusive
+  scale: local
 "
 
 

@@ -4,6 +4,8 @@ id:
   required: true
 
 Type:
+  type: string
+  coerce: tolower
   allowed:
     - novel
     - serial
@@ -36,6 +38,7 @@ Language:
   type: list
   schema:
     type: string
+    coerce: tolower
     regex: '\w{2}'
 
 
@@ -48,16 +51,54 @@ Publisher:
   required: false
 
 Area:
+  type: string
+  coerce: tolower
   allowed:
     - en
     - jp
     - es
 
 Trigger event:
-  type: list
+  type: dict
   schema:
-    type: string
-    check_with: trigger
+    agency:
+      type: string
+      coerce: tolower
+      allowed:
+        - anthropogenic
+        - non-anthropogenic
+        - ambiguous
+        - unknown
+    event:
+      type: string
+      coerce: tolower
+      allowed:
+        - subversion
+        - environmental
+        - war
+        - metaphysical
+    kernel:
+      type: string
+      coerce: tolower
+      allowed:
+        - extra-societal
+        - intra-societal
+        - natural
+        - non-specified
+        - inconclusive
+    scale:
+      type: string
+      coerce: tolower
+      allowed:
+        - local
+        - continental
+        - planetary
+        - multi-planetary
+        - universal
+        - multi-versal
+        - non-specified
+        - unknown
+
 
 Synopsis:
   type: string

@@ -14,10 +14,10 @@ Distributor: “Shinchōsha”
 Area: jp
 
 Trigger event:
-  - agency: non-anthropogenic
-  - type: subversion
-  - kernel:  intra-societal
-  - scale: local
+  agency: non-anthropogenic
+  event: subversion
+  kernel:  intra-societal
+  scale: local
 
 
 Synopsis: |

@@ -15,10 +15,10 @@ Distributor: “komikku auru”
 Area: jp
 
 Trigger event:
-  - agency: Anthropogenic
-  - type: subversione
-  - kernel: intra-societal
-  - scale: local
+  agency: anthropogenic
+  event: subversione
+  kernel: intra-societal
+  scale: local
 
 aftermaths: lista di tag da definire
 

@@ -19,10 +19,10 @@ Publisher: "Riverhead Books"
 Area: en
 
 Trigger event:
-  - agency: anthropogenic
-  - type: environmental
-  - kernel: natural
-  - scale: local
+  agency: anthropogenic
+  event: environmental
+  kernel: natural
+  scale: local
 
 
 

@@ -16,10 +16,10 @@ Distributor: “Futabasha”
 Area: jp
 
 Trigger event:
-  - agency:  Anthropogenic
-  - type: subversion
-  - kernel:  intra-societal
-  - scale: local
+  agency:  anthropogenic
+  event: subversion
+  kernel:  intra-societal
+  scale: local
 
 
 Synopsis: |

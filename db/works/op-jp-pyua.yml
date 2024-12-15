@@ -17,10 +17,10 @@ Publisher: Hayakawa Shobō
 Area: jp
 
 Trigger event:
-  - agency:  anthropogenic
-  - type: subversion
-  - kernel: intra-societal
-  - scale: multi-planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: multi-planetary
 
 
 Synopsis: |

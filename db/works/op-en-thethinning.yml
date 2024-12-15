@@ -20,10 +20,10 @@ Publisher: "Apex Publications"
 Area: en
 
 Trigger event:
-  - agency:  anthropogenic
-  - type: subversion
-  - kernel: intra-societal
-  - scale: planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
 
 

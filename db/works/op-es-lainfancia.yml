@@ -8,7 +8,7 @@ Creators:
   - au-es-mic-nieva
 
 
-Lingua:
+Language:
   - es
 
 
@@ -17,10 +17,10 @@ Publisher: Anagrama
 Area: es
 
 Trigger event:
-  - agency: Ambiguous
-  - type: environmental
-  - kernel: natural
-  - scale: continental
+  agency: Ambiguous
+  event: environmental
+  kernel: natural
+  scale: continental
 
 
 Synopsis: |

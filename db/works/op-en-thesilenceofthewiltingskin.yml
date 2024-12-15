@@ -20,10 +20,10 @@ Publisher: "Pink Narcissus Press"
 Area: en
 
 Trigger event:
-  - agency: non-anthropogenic
-  - type: metaphysical
-  - kernel: intrasocietal
-  - scale: local
+  agency: non-anthropogenic
+  event: metaphysical
+  kernel: intra-societal
+  scale: local
 
 
 

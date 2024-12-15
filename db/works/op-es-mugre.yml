@@ -7,7 +7,7 @@ First edition: 2020
 Creators:
   - au-es-fer-trias
 
-Lingua:
+Language:
   - es
 
 Publisher: Penguin Randomhouse
@@ -15,10 +15,10 @@ Publisher: Penguin Randomhouse
 Area: es
 
 Trigger event:
-  - agency: non-anthropogenic
-  - type: subversion
-  - kernel: natural
-  - scale: local
+  agency: non-anthropogenic
+  event: subversion
+  kernel: natural
+  scale: local
 
 
 Synopsis: |
