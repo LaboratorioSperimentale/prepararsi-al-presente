@@ -1,5 +1,5 @@
 id: op-jp-nierautomata
-First known title: Nier: Automata
+First known title: "Nier: Automata"
 Type: videogame
 First edition: 2017
 Creators:
@@ -11,11 +11,10 @@ Distributor: Square Enix
 
 Area: jp
 Trigger event:
-  - "agency: anthropogenic
+  agency: anthropogenic
   event: metaphysical
   kernel: intra-societal
-  scale: multi
--planetary"
+  scale: multi-planetary
 
 
 

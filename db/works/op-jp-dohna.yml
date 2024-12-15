@@ -1,6 +1,6 @@
 id: op-jp-dohna
 
-First known title: doHna:doHna -Issho ni Warui Koto o Shiyou-
+First known title: "doHna:doHna -Issho ni Warui Koto o Shiyou-""
 
 Type: videogame
 
@@ -17,11 +17,10 @@ Distributor: Alice Soft
 Area: jp
 
 Trigger event:
-  - "agency: anthropogenic
+  agency: anthropogenic
   event: subversion
   kernel: inconclusive
   scale: local
-"
 
 
 

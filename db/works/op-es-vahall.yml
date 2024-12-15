@@ -1,6 +1,6 @@
 id: op-en-vahall
 
-First known title: VA-11 Hall-A: Cyberpunk Bartender Action
+First known title: "VA-11 Hall-A: Cyberpunk Bartender Action"
 
 Type: videogame
 
@@ -17,11 +17,11 @@ Distributor: Ysbryd Games
 Area: es
 
 Trigger event:
-  - "agency: anthropogenic
+  agency: anthropogenic
   event: war
   kernel: inconclusive
   scale: planetary
-"
+
 
 
 

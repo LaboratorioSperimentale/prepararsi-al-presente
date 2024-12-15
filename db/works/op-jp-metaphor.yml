@@ -1,5 +1,5 @@
 id: op-jp-metaphor
-First known title: Metaphor: ReFantazio
+First known title: "Metaphor: ReFantazio"
 Type: videogame
 First edition: 2024
 Creators:
@@ -11,11 +11,11 @@ Distributor: Atlus
 
 Area: jp
 Trigger event:
-  - "agency: anthropogenic
+  agency: anthropogenic
   event: subversion
   kernel: intra-societal
   scale: local
-"
+
 
 
 

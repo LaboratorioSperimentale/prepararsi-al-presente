@@ -1,5 +1,5 @@
 id: op-jp-metalgear
-First known title: Metal Gear Solid V: The Phantom Pain
+First known title: "Metal Gear Solid V: The Phantom Pain"
 Type: videogame
 First edition: 2015
 Creators:
@@ -11,11 +11,11 @@ Distributor: KONAMI
 
 Area: jp
 Trigger event:
-  - "agency: anthropogenic
+  agency: anthropogenic
   event: subversion
   kernel: intra-societal
   scale: planetary
-"
+
 
 
 

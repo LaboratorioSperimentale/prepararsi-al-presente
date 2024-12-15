@@ -1,5 +1,5 @@
 id: op-jp-muyuu
-First known title: Muyuu Senkyō Romanesque: Chronicles of Refugia
+First known title: "Muyuu Senkyō Romanesque: Chronicles of Refugia"
 Type: videogame
 First edition: 2022
 Creators:
@@ -11,11 +11,11 @@ Distributor: YOX-Project
 
 Area: jp
 Trigger event:
-  - "agency: unknown
+  agency: unknown
   event: subversion
   kernel: inconclusive
   scale: planetary
-"
+
 
 
 
