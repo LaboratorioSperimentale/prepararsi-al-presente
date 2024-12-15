@@ -22,6 +22,11 @@ class AuthorValidator(cerberus.Validator):
 	def _normalize_coerce_tolower(self, value):
 		return value.lower()
 
+	def _normalize_coerce_tocapitalized(self, value):
+		valuesplit = value.strip().split()
+		normalized_value = [x[0].upper()+x[1:].lower() for x in valuesplit]
+		return " ".join(normalized_value)
+
 class OperaValidator(cerberus.Validator):
 
 	def _validate_type_mydate(self, value):
@@ -31,6 +36,11 @@ class OperaValidator(cerberus.Validator):
 
 	def _normalize_coerce_tolower(self, value):
 		return value.lower()
+
+	def _normalize_coerce_tocapitalized(self, value):
+		valuesplit = value.strip().split()
+		normalized_value = [x[0].upper()+x[1:].lower() for x in valuesplit]
+		return " ".join(normalized_value)
 
 	def _check_with_trigger(self, field, value):
 		pass

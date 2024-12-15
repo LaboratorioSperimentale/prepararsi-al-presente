@@ -20,16 +20,19 @@ Subtype:
 Name:
   type: string
   required: true
+  coerce: tocapitalized
 
 Surname:
   type: string
   required: false
+  coerce: tocapitalized
   dependencies:
     Type: ["person"]
 
 Legal entity name:
   type: string
   required: false
+  coerce: tocapitalized
   dependencies:
     Type: ["entity"]
 
@@ -89,6 +92,7 @@ Headquarters:
   type: list
   schema:
     type: string
+    coerce: tocapitalized
   required: false
   dependencies:
     Type: ["entity"]

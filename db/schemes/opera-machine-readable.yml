@@ -17,6 +17,7 @@ Type:
 First known title:
   type: string
   required: true
+  coerce: tocapitalized
 
 First edition:
   type: mydate
@@ -26,6 +27,7 @@ Alternative titles:
   type: list
   schema:
     type: string
+    coerce: tocapitalized
   required: false
 
 Creators:
@@ -45,10 +47,12 @@ Language:
 Distributor:
   type: string
   required: false
+  coerce: tocapitalized
 
 Publisher:
   type: string
   required: false
+  coerce: tocapitalized
 
 Area:
   type: string
