@@ -1,20 +1,24 @@
 id: op-jp-deathstranding
-First known title: "Death Stranding"
+
+First known title: Death Stranding
+
 Type: videogame
-First_edition: 2019
-Creator_Entity:
+
+First edition: 2019
+
+Creators:
   - au-jp-koj-kabushiki
+
 Language:
   - jp
   - en
-Distributor: "Sony Interactive Entertainment"
-Publisher:
-Area: "Japan"
-Trigger_Event:
-  - "anthropogenic_metaphysical_intrasocietal_planetary"
-Trigger_Event_Aftermaths:
 
-Number of chapters:
-[AUTOMATICO] Numero token:
-Link Relazione:
-[AUTOMATICO] Personaggi:
+Distributor: Sony Interactive Entertainment
+
+Area: jp
+
+Trigger event:
+  agency: anthropogenic
+  event: metaphysical
+  kernel: intra-societal
+  scale: planetary

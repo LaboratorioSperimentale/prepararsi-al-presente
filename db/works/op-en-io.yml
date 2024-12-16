@@ -1,33 +1,38 @@
 id: op-en-io
 
-First known title: "IO"
+First known title: IO
 
 First edition: 2019
 
 Type: feature-length
 
-Author:
+Creators:
   - au-en-jonathan-helpert
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Netflix"
 
-Area: anglo
+Publisher: Netflix
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_inconclusive_planetary
+  agency: anthropogenic
+  event: environmental
+  kernel: inconclusive
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

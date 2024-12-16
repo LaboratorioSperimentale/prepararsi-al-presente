@@ -1,33 +1,38 @@
 id: op-en-thegirlwithallthegifts
 
-First known title: "The Girl with All the Gifts"
+First known title: The Girl with All the Gifts
 
 First edition: 2014
 
 Type: novel
 
-Author:
+Creators:
   - au-en-mr-carey
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Orbit Books"
 
-Area: anglo
+Publisher: Orbit Books
+
+Area: en
 
 Trigger event:
-  - nonanthropogenic_environmental_natural_planetary
+  agency: non-anthropogenic
+  event: environmental
+  kernel: natural
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

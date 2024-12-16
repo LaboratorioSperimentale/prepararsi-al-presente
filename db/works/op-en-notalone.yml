@@ -1,34 +1,39 @@
 id: op-en-notalone
 
-First known title: "Not Alone"
+First known title: Not Alone
 
 First edition: 2023
 
 Type: novel
 
 
-Author:
+Creators:
   - au-en-sarahk-jackson
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Picador"
 
-Area: anglo
+Publisher: Picador
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intra-societal_planetary
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

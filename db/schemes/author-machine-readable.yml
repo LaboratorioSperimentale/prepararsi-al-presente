@@ -20,21 +20,25 @@ Subtype:
 Name:
   type: string
   required: true
+  coerce: tocapitalized
 
 Surname:
   type: string
   required: false
+  coerce: tocapitalized
   dependencies:
     Type: ["person"]
 
 Legal entity name:
   type: string
   required: false
+  coerce: tocapitalized
   dependencies:
     Type: ["entity"]
 
 Date of birth:
-  type: mydate
+  type: string
+  check_with: mydate
   required: false
   dependencies:
     Type: ["person"]
@@ -80,7 +84,8 @@ Pronoun:
     Type: ["person"]
 
 Date of establishment:
-  type: mydate
+  type: string
+  check_with: mydate
   required: false
   dependencies:
     Type: ["entity"]
@@ -89,6 +94,7 @@ Headquarters:
   type: list
   schema:
     type: string
+    coerce: tocapitalized
   required: false
   dependencies:
     Type: ["entity"]

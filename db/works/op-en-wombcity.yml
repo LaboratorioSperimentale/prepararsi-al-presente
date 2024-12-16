@@ -1,33 +1,38 @@
 id: op-en-wombcity
 
-First known title: "Womb City"
+First known title: Womb City
 
 First edition: 2024
 
 Type: novel
 
-Author:
+Creators:
   - au-en-tlotlo-tsamaase
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Erewhon Books"
 
-Area: anglo
+Publisher: Erewhon Books
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intrasocietal_local
+  agency: anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

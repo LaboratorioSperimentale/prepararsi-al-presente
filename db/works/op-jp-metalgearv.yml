@@ -1,20 +1,25 @@
 id: op-jp-metalgear
 First known title: "Metal Gear Solid V: The Phantom Pain"
 Type: videogame
-First_edition: 2015
-Creator_Entity:
+First edition: 2015
+Creators:
   - au-jp-kon-konami
 Language:
   - jp
   - en
-Distributor: "KONAMI"
-Publisher:
-Area: "Japan"
-Trigger_Event: "anthropogenic_subversion_intrasocietal_planetary"
-Trigger_Event_Aftermaths:
-Synopsis:
+Distributor: KONAMI
 
-Number of chapters:
-[AUTOMATICO] Numero token:
-Link Relazione:
-[AUTOMATICO] Personaggi:
+Area: jp
+Trigger event:
+  agency: anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
+
+
+
+
+
+
+
+

@@ -1,32 +1,36 @@
 id: op-en-thepower
 
-First known title: "The Power"
+First known title: The Power
 
 Type: novel
 
 First edition: 2016
 
-Author:
+Creators:
   - au-en-naomi-alderman
 
 Language:
-  - eng
+  - en
 
-Distributor:
 
-Publisher: "Viking Press"
 
-Area: anglo
+Publisher: Viking Press
+
+Area: en
 
 Trigger event:
-  - Nonanthropogenic_Subversion_Natural_Planetary
+  agency: non-anthropogenic
+  event: subversion
+  kernel: natural
+  scale: planetary
 
-Synopsis:
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

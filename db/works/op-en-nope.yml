@@ -1,33 +1,38 @@
 id: op-en-nope
 
-First known title: "NOPE"
+First known title: NOPE
 
 First edition: 2022
 
 Type: feature-length
 
-Author:
+Creators:
   - au-en-jordan-peele
 
-Language: eng
+Language:
+  - en
 
-Distributor: "Universal Pictures"
+Distributor: Universal Pictures
 
-Publisher: "Monkeypaw Productions"; "Universal Pictures"
+Publisher: Monkeypaw Productions; Universal Pictures
 
-Area: anglo
+Area: en
 
 Trigger event:
-  - nonanthropogenic_subversion_extra-societal_local
+  agency:  non-anthropogenic
+  event: subversion
+  kernel: extra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

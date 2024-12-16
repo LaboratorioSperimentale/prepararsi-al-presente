@@ -1,34 +1,39 @@
 id: op-en-thewaitingrooms
 
-First known title: "The Waiting Rooms"
+First known title: The Waiting Rooms
 
 First edition: 2020
 
 Type: novel
 
 
-Author:
+Creators:
   - au-en-naomi-alderman
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Orenda Books"
 
-Area: anglo
+Publisher: Orenda Books
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

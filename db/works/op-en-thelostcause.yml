@@ -1,33 +1,38 @@
 id: op-en-thelostcause
 
-First known title: "The Lost Cause"
+First known title: The Lost Cause
 
 First edition: 2023
 
 Type: novel
 
-Author:
+Creators:
   - au-en-cory-doctorow
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Tor Books"
 
-Area: anglo
+Publisher: Tor Books
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intrasocietal_planetary
+  agency: anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

@@ -1,33 +1,38 @@
 id: op-en-theferryman
 
-First known title: "The Ferryman"
+First known title: The Ferryman
 
 First edition: 2023
 
 Type: novel
 
-Author:
+Creators:
   - au-en-justin-cronin
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Ballantine Books"
 
-Area: anglo
+Publisher: Ballantine Books
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intra-societal_planetary
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

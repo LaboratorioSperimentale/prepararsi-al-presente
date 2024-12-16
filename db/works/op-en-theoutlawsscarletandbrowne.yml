@@ -1,33 +1,38 @@
 id: op-en-theoutlawsscarletandbrowne
 
-First known title: "The Outlaws Scarlett and Browne"
+First known title: The Outlaws Scarlett and Browne
 
 First edition: 2015
 
 Type: novel
 
-Author:
+Creators:
   - au-en-jonathan-stroud
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "WordUnited Ltd"
 
-Area: anglo
+Publisher: WordUnited Ltd
+
+Area: en
 
 Trigger event:
-  - anthropogenic_metaphysical_intra-societal_local
+  agency:  anthropogenic
+  event: metaphysical
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

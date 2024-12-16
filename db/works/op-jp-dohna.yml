@@ -1,19 +1,30 @@
 id: op-jp-dohna
-First known title: "doHna:doHna -Issho ni Warui Koto o Shiyou-"
+
+First known title: "doHna:doHna -Issho ni Warui Koto o Shiyou-""
+
 Type: videogame
-First_edition: 2020
-Creator_Entity:
+
+First edition: 2020
+
+Creators:
   - au-jp-ali-kabushikigaisha
+
 Language:
   - jp
-Distributor: "Alice Soft"
-Publisher:
-Area: "Japan"
-Trigger_Event: "anthropogenic_subversion_inconclusive_local"
-Trigger_Event_Aftermaths:
-Synopsis:
 
-Number of chapters:
-[AUTOMATICO] Numero token:
-Link Relazione:
-[AUTOMATICO] Personaggi:
+Distributor: Alice Soft
+
+Area: jp
+
+Trigger event:
+  agency: anthropogenic
+  event: subversion
+  kernel: inconclusive
+  scale: local
+
+
+
+
+
+
+

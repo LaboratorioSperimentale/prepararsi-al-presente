@@ -6,28 +6,33 @@ First edition: 2022
 
 Type: novel
 
-Author:
+Creators:
   - au-en-delilahs-dawson
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Del Rey"
 
-Area: anglo
+Publisher: Del Rey
+
+Area: en
 
 Trigger event:
-  - nonanthropogenic_subversion_natural_local
+  agency: non-anthropogenic
+  event: subversion
+  kernel: natural
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

@@ -1,34 +1,39 @@
 id: op-en-undertheblue
 
-First known title: "Oana Aristide"
+First known title: Oana Aristide
 
 First edition: 2023
 
 Type: novel
 
 
-Author:
+Creators:
   - au-en-oana-aristide
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Serpent's Tail"
 
-Area: anglo
+Publisher: Serpent's Tail
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_natural_planetary
+  agency: anthropogenic
+  event: environmental
+  kernel: natural
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

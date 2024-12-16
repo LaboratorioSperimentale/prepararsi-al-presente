@@ -1,33 +1,38 @@
 id: op-en-julia
 
-First known title: "Julia"
+First known title: Julia
 
 First edition: 2023
 
 Type: novel
 
-Author:
+Creators:
   - au-en-sandra-newman
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Mariner Books"
 
-Area: anglo
+Publisher: Mariner Books
+
+Area: en
 
 Trigger event:
-  - anthropogenic_war_inconclusive_planetary
+  agency: anthropogenic
+  event: war
+  kernel: inconclusive
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

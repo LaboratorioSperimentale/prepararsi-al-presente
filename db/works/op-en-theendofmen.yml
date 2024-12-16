@@ -1,33 +1,38 @@
 id: op-en-thenedofmen
 
-First known title: "The End of Men"
+First known title: The End of Men
 
 First edition: 2021
 
 Type: novel
 
-Author:
+Creators:
   - au-en-christina-sweeneybaird
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "G.P. Putnam's Sons"
 
-Area: anglo
+Publisher: G.P. Putnam's Sons
+
+Area: en
 
 Trigger event:
-  - nonanthropogenic_environmental_natural_planetary
+  agency: non-anthropogenic
+  event: environmental
+  kernel: natural
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

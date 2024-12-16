@@ -1,32 +1,36 @@
 id: op-en-scarymonsters
 
-First known title: "Scary Monsters"
+First known title: Scary Monsters
 
 Type: novel
 
 First edition: 2021
 
-Author:
+Creators:
   - au-en-michelle-dekretser
 
 Language:
-  - eng
+  - en
 
-Distributor:
 
-Publisher: "Faber and Faber"
 
-Area: anglo
+Publisher: Faber and Faber
+
+Area: en
 
 Trigger event:
-  - Anthropogenic_Environmental_intrasocietal_Planetary
+  agency: anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

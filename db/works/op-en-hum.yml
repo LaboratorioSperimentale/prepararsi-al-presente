@@ -6,28 +6,33 @@ First edition: 2024
 
 Type: novel
 
-Author:
-  - au-en-helen-phillips
+Creators:
+  - au-en-helen-philips
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "S&S/Marysue Rucci Books"
 
-Area: anglo
+Publisher: S&S/Marysue Rucci Books
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

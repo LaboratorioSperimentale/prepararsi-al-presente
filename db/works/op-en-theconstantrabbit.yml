@@ -1,33 +1,38 @@
 id: op-en-theconstantrabbit
 
-First known title: "The Constant Rabbit"
+First known title: The Constant Rabbit
 
 First edition: 2020
 
 Type: novel
 
-Author:
+Creators:
   - au-en-jasper-fforde
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Hodder & Stoughton"
 
-Area: anglo
+Publisher: Hodder & Stoughton
+
+Area: en
 
 Trigger event:
-  - nonanthropogenic_environmental_natural_planetary
+  agency: non-anthropogenic
+  event: environmental
+  kernel: natural
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

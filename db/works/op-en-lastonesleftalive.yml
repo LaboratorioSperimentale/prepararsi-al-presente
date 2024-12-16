@@ -1,33 +1,38 @@
 id: op-en-lastonesleftalive
 
-First known title: "Last Ones Left Alive"
+First known title: Last Ones Left Alive
 
 First edition: 2019
 
 Type: novel
 
-Author:
+Creators:
   - au-en-sarah-davisgoff
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Tinder Press"
 
-Area: anglo
+Publisher: Tinder Press
+
+Area: en
 
 Trigger event:
-  - anthropogenic_war_intra-societal_planetary
+  agency:  anthropogenic
+  event: war
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

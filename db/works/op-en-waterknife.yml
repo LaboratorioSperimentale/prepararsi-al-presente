@@ -1,32 +1,36 @@
 id: op-en-waterknife
 
-First known title: "The Water Knife"
+First known title: The Water Knife
 
 Type: novel
 
 First edition: 2015
 
-Author:
+Creators:
   - au-en-paolo-bacigalupi
 
 Language:
-  - eng
+  - en
 
-Distributor:
 
-Publisher: "Alfred A. Knopf"
 
-Area: anglo
+Publisher: Alfred A. Knopf
+
+Area: en
 
 Trigger event:
-  - Anthropogenic_Environmental_Non-specified_Continental
+  agency:  anthropogenic
+  event: environmental
+  kernel: non-specified
+  scale: continental
 
-Synopsis:
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

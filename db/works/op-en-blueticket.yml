@@ -1,33 +1,24 @@
 id: op-en-blueticket
 
-First known title: "Blue Ticket"
+First known title: Blue Ticket
 
 First edition: 2020
 
-Type: book
+Type: novel
 
-Author:
+Creators:
   - au-en-sophie-mackintosh
 
-Language: eng
+Language:
+  - en
 
-Distributor:
+Publisher: Hamish Hamilton
 
-Publisher: "Hamish Hamilton"
-
-Area: anglo
+Area: en
 
 Trigger event:
-  - Anthropogenic_Subversion_Intra-societal_Local
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
-
-
-
-Number of chapters:
-
-[AUTOMATICO] Numero token:
-
-Link Relazione:
-
-[AUTOMATICO] Personaggi:

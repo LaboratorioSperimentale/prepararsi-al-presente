@@ -1,33 +1,38 @@
 id: op-en-thebookofjoan
 
-First known title: "The Book of Joan"
+First known title: The Book of Joan
 
 First edition: 2018
 
 Type: novel
 
-Author:
+Creators:
   - au-en-lidia-yuknavitch
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Canongate Books Ltd"
 
-Area: anglo
+Publisher: Canongate Books Ltd
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

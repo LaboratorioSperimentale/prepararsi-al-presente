@@ -4,20 +4,24 @@ First known title: Machi to sono futashika na kabe
 
 First edition: 2023
 
-Autore:
+Creators:
   - au-jp-har-murakami
 
 Language:
   - jp
 
-Distributor:
+
 
 Publisher: Shinchosha
 
-Area: JAPAN
+Area: jp
 
 Trigger event:
-  - anthropogenic_Subversion_intrasocial_local
+  agency: anthropogenic
+  event: subversion
+  kernel: intrasocial
+  scale: local
+
 
 Synopsis: |
   When a young man’s girlfriend mysteriously vanishes, he sets his heart on finding the imaginary city where her true self lives. His search will lead him to take a job in a remote library with mysteries of its own.
@@ -27,10 +31,10 @@ Synopsis: |
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+

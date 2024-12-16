@@ -1,35 +1,111 @@
 id:
+  type: string
+  regex: '^op-(en|jp|es)-[a-z]+$'
+  required: true
 
-Titolo prima pubblicazione:
+Type:
+  type: string
+  coerce: tolower
+  allowed:
+    - novel
+    - serial
+    - videogame
+    - sequential art
+    - feature-length
+  required: true
 
-Anno di prima pubblicazione:
+First known title:
+  type: string
+  required: true
+  coerce: tocapitalized
 
-Autore:
-  - Id-autore1
-  - Id-autore2
-  -
+First edition:
+  # coerce: lamnda x: str(x)
+  # type: string
+  check_with: mydate
+  required: True
 
-Lingua:
-  - eng
-  - esp
-  - ...
+Alternative titles:
+  type: list
+  schema:
+    type: string
+    coerce: tocapitalized
+  required: false
 
-Distributore:
+Creators:
+  type: list
+  schema:
+    type: string
+    check_with: authors_id
 
-Editore:
+Language:
+  type: list
+  schema:
+    type: string
+    coerce: tolower
+    regex: '\w{2}'
 
-Area geosocioculturale: [anglo, ispano, nippo]
 
-Causa della fine:
+Distributor:
+  type: string
+  required: false
+  coerce: tocapitalized
 
-Sinossi:
+Publisher:
+  type: string
+  required: false
+  coerce: tocapitalized
 
-Riferimento file txt:
+Area:
+  type: string
+  coerce: tolower
+  allowed:
+    - en
+    - jp
+    - es
 
-Numero capitoli:
+Trigger event:
+  type: dict
+  schema:
+    agency:
+      type: string
+      coerce: tolower
+      allowed:
+        - anthropogenic
+        - non-anthropogenic
+        - ambiguous
+        - unknown
+    event:
+      type: string
+      coerce: tolower
+      allowed:
+        - subversion
+        - environmental
+        - war
+        - metaphysical
+    kernel:
+      type: string
+      coerce: tolower
+      allowed:
+        - extra-societal
+        - intra-societal
+        - natural
+        - non-specified
+        - inconclusive
+    scale:
+      type: string
+      coerce: tolower
+      allowed:
+        - local
+        - continental
+        - planetary
+        - multi-planetary
+        - universal
+        - multi-versal
+        - non-specified
+        - unknown
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
-
-[AUTOMATICO] Personaggi:
+Synopsis:
+  type: string
+  required: false

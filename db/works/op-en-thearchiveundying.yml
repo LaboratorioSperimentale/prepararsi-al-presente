@@ -1,33 +1,38 @@
 id: op-en-thearchiveundying
 
-First known title: "The Archive Undying"
+First known title: The Archive Undying
 
 First edition: 2023
 
 Type: novel
 
-Author:
+Creators:
   - au-en-emmamieko-candon
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Tordotcom"
 
-Area: anglo
+Publisher: Tordotcom
+
+Area: en
 
 Trigger event:
-  - Ambiguous_Subversion_Intra-societal_Planetary
+  agency:  Ambiguous
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

@@ -1,34 +1,39 @@
 id: op-en-therainheron
 
-First known title: "The Rain Heron"
+First known title: The Rain Heron
 
 First edition: 2020
 
 Type: novel
 
 
-Author:
+Creators:
   - au-en-robbie-arnott
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Text Publishing"
 
-Area: anglo
+Publisher: Text Publishing
+
+Area: en
 
 Trigger event:
-  - anthropogenic_war_intra-societal_local
+  agency:  anthropogenic
+  event: war
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

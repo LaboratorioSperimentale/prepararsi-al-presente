@@ -1,33 +1,38 @@
 id: op-en-thebees
 
-First known title: "The Bees"
+First known title: The Bees
 
 First edition: 2014
 
 Type: novel
 
-Author:
+Creators:
   - au-en-laline-paull
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "HarperCollins Publishers Ltd"
 
-Area: anglo
+Publisher: HarperCollins Publishers Ltd
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_local
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

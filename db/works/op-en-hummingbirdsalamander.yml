@@ -1,33 +1,38 @@
 id: op-en-hummingbirdsalamander
 
-First known title: "Hummingbird Salamander"
+First known title: Hummingbird Salamander
 
 First edition: 2021
 
 Type: novel
 
-Author:
+Creators:
   - au-en-jeff-vandermeer
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Macmillan Publishers"
 
-Area: anglo
+Publisher: Macmillan Publishers
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intra-societal_planetary
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

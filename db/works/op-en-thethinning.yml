@@ -1,34 +1,39 @@
 id: op-en-thethinning
 
-First known title: "The Thinning"
+First known title: The Thinning
 
 First edition: 2024
 
 Type: novel
 
 
-Author:
+Creators:
   - au-en-inga-simpson
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Apex Publications"
 
-Area: anglo
+Publisher: Apex Publications
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

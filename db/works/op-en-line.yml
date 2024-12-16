@@ -1,33 +1,38 @@
 id: op-en-line
 
-First known title: "Line"
+First known title: Line
 
 First edition: 2021
 
 Type: novel
 
-Author:
+Creators:
   - au-en-niall-bourke
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Tramp Press"
 
-Area: anglo
+Publisher: Tramp Press
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

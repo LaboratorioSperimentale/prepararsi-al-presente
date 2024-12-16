@@ -1,20 +1,25 @@
 id: op-jp-metaphor
 First known title: "Metaphor: ReFantazio"
 Type: videogame
-First_edition: 2024
-Creator_Entity:
+First edition: 2024
+Creators:
   - au-jp-stu-kabushikigaisha
 Language:
   - jp
   - en
-Distributor: "Atlus"
-Publisher:
-Area: "Japan"
-Trigger_Event: "anthropogenic_subversion_intrasocietal_local"
-Trigger_Event_Aftermaths:
-Synopsis:
+Distributor: Atlus
 
-Number of chapters:
-[AUTOMATICO] Numero token:
-Link Relazione:
-[AUTOMATICO] Personaggi:
+Area: jp
+Trigger event:
+  agency: anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
+
+
+
+
+
+
+
+

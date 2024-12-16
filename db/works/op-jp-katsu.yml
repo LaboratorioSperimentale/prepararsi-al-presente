@@ -1,19 +1,32 @@
 id: op-jp-katsu
-First known title: "Natsu no owari"
+
+First known title: Natsu no owari
+
 Type: videogame
-First_edition: 2022
-Creator_Entity: "aj0000013"
+
+First edition: 2022
+
+Creators:
+  - aj0000013
+
 Language:
   - jp
   - en
-Distributor: "CUBE"
-Publisher:
-Area: "Japan"
-Trigger_Event: "unknown_subversion_non-specified_planetary"
-Trigger_Event_Aftermaths:
-Synopsis:
 
-Number of chapters:
-[AUTOMATICO] Numero token:
-Link Relazione:
-[AUTOMATICO] Personaggi:
+Distributor: CUBE
+
+Area: jp
+
+Trigger event:
+  agency:  unknown
+  event: subversion
+  kernel: non-specified
+  scale: planetary
+
+
+
+
+
+
+
+

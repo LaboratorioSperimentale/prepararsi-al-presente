@@ -1,33 +1,38 @@
 id: op-en-gatherthedaughters
 
-First known title: "Gather the Daughters"
+First known title: Gather the Daughters
 
 First edition: 2017
 
 Type: novel
 
-Author:
+Creators:
   - au-en-jennie-melamed
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Tinder"
 
-Area: anglo
+Publisher: Tinder
+
+Area: en
 
 Trigger event:
-  - unknown_environmental_intra-societal_local
+  agency:  unknown
+  event: environmental
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

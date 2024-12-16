@@ -6,28 +6,19 @@ First edition: 2023
 
 Type: novel
 
-Author:
+Creators:
   - au-en-michellemin-sterling
 
-Language: eng
+Language:
+  - en
 
-Distributor:
+Publisher: Atria Books
 
-Publisher: "Atria Books"
-
-Area: anglo
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intra-societal_continental
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: continental
 
-Synopsis:
-
-
-
-Number of chapters:
-
-[AUTOMATICO] Numero token:
-
-Link Relazione:
-
-[AUTOMATICO] Personaggi:

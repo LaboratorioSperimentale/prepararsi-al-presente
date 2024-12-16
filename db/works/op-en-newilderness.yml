@@ -1,32 +1,36 @@
 id: op-en-newilderness
 
-First known title: "The New Wilderness"
+First known title: The New Wilderness
 
 Type: novel
 
 First edition: 2020
 
-Author:
+Creators:
   - au-en-diane-cook
 
 Language:
-  - eng
+  - en
 
-Distributor:
 
-Publisher: "Harper"
 
-Area: anglo
+Publisher: Harper
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intrasocietal_continental
+  agency: anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: continental
 
-Synopsis:
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

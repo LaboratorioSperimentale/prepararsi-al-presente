@@ -1,33 +1,25 @@
 id: op-en-foe
 
-First known title: "Foe"
+First known title: Foe
 
 First edition: 2023
 
 Type: feature-length
 
-Author:
+Creators:
   - au-en-garth-davis
 
-Language: eng
+Language:
+  - en
 
-Distributor:"Amazon MGM Studios"
+Distributor: Amazon MGM Studios
 
-Publisher: "Anonymous Content", "See-Saw Films", "I Am That Productions"
+Publisher: Anonymous Content, See-Saw Films, I Am That Productions
 
-Area: anglo
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_local
-
-Synopsis:
-
-
-
-Number of chapters:
-
-[AUTOMATICO] Numero token:
-
-Link Relazione:
-
-[AUTOMATICO] Personaggi:
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local

@@ -1,33 +1,38 @@
 id: op-en-findme
 
-First known title: "Gold Fame Citrus"
+First known title: Gold Fame Citrus
 
 First edition: 2015
 
 Type: novel
 
-Author:
+Creators:
   - au-en-clairevaye-watkins
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Riverhead Books"
 
-Area: anglo
+Publisher: Riverhead Books
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_natural_local
+  agency: anthropogenic
+  event: environmental
+  kernel: natural
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

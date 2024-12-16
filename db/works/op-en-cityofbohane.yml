@@ -1,33 +1,38 @@
 id: op-en-cityofbohan
 
-First known title: "City of Bohane"
+First known title: City of Bohane
 
 First edition: 2011
 
 Type: novel
 
-Author:
+Creators:
   - au-en-kevin-barry
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Jonathan Cape"
 
-Area: anglo
+Publisher: Jonathan Cape
+
+Area: en
 
 Trigger event:
-  - anthropogenic_war_intra-societal_local
+  agency: anthropogenic
+  event: war
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

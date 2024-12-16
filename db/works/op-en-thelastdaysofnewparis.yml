@@ -1,33 +1,38 @@
 id: op-en-thelastdaysofnewparis
 
-First known title: "The Last Days of New Paris"
+First known title: The Last Days of New Paris
 
 First edition: 2016
 
 Type: novel
 
-Author:
+Creators:
   - au-en-china-mieville
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Picador"
 
-Area: anglo
+Publisher: Picador
+
+Area: en
 
 Trigger event:
-  - anthropogenic_methaphysical_subversion_planetary
+  agency: anthropogenic
+  event: methaphysical
+  kernel: subversion
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

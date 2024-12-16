@@ -1,33 +1,36 @@
 id: op-en-findme
 
-First known title: "Find Me"
+First known title: Find Me
 
 First edition: 2015
 
 Type: novel
 
-Author:
-  - au-en-laura-vanderberg
+Creators:
+  - au-en-laura-vandenberg
 
-Language: eng
+Language:
+  - en
 
-Distributor:
+Publisher: HarperCollins Publishers
 
-Publisher: "HarperCollins Publishers"
-
-Area: anglo
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intra-societal_planetary
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

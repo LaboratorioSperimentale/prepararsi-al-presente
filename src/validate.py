@@ -5,22 +5,88 @@ from pathlib import Path
 import cerberus
 import yaml
 from sty import fg, bg
-# from pybtex.database import parse_file
 
 
-# CC_DB = yaml.safe_load(open("cc-database/cc-database.yaml", encoding="utf-8"))
-# CC_LIST = {x["Id"]:x["Type"] for x in CC_DB}
-# BIB = parse_file("bibliography/entries.bib", bib_format="bibtex")
+authors_ids = [x.stem for x in Path("db/authors/").glob("*.yml")]
 
 class AuthorValidator(cerberus.Validator):
 
-	def _validate_type_mydate(self, value):
+	def _check_with_mydate(self, field, value):
 
-		# TODO: add date validation
-		return True
+		value = value.strip().split("/")
+		day = '0'
+		month = '0'
+		year = '0'
+
+		if len(value) == 3:
+			day, month, year = value
+		elif len(value) == 2:
+			month, year = value
+		elif len(value) == 1:
+			year = value[0]
+		else:
+			self._error(f"Non valid format for value '{value}'")
+
+		try:
+			day = int(day)
+			month = int(month)
+			year = int(year)
+
+		except:
+			self._error(f"Non valid format for value '{value}'")
+
 
 	def _normalize_coerce_tolower(self, value):
 		return value.lower()
+
+	def _normalize_coerce_tocapitalized(self, value):
+		valuesplit = value.strip().split()
+		normalized_value = [x[0].upper()+x[1:].lower() for x in valuesplit]
+		return " ".join(normalized_value)
+
+class OperaValidator(cerberus.Validator):
+
+	def _check_with_mydate(self, field, value):
+
+		value = str(value)
+
+		value = value.strip().split("/")
+		day = '0'
+		month = '0'
+		year = '0'
+
+		if len(value) == 3:
+			day, month, year = value
+		elif len(value) == 2:
+			month, year = value
+		elif len(value) == 1:
+			year = value[0]
+		else:
+			self._error(f"Non valid format for value '{value}'")
+
+		try:
+			day = int(day)
+			month = int(month)
+			year = int(year)
+
+		except:
+			self._error(f"Non valid format for value '{value}'")
+
+	def _normalize_coerce_todate(self, value):
+		pass
+
+	def _normalize_coerce_tolower(self, value):
+		return value.lower()
+
+	def _normalize_coerce_tocapitalized(self, value):
+		valuesplit = value.strip().split()
+		normalized_value = [x[0].upper()+x[1:].lower() for x in valuesplit]
+		return " ".join(normalized_value)
+
+	def _check_with_authors_id(self, field, value):
+		if not value in authors_ids:
+			self._error(field, f"Value '{value}' not among known creators")
+
 
 	# def _check_with_CClist_construction(self, field, value):
 	# 	if value is not None:
@@ -77,12 +143,15 @@ if __name__ == "__main__":
 	new_files = sys.argv[1:]
 
 	author_v = AuthorValidator(yaml.safe_load(open("db/schemes/author-machine-readable.yml", encoding="utf-8")))
-	# entity_v = AuthorValidator(yaml.safe_load(open("db/schemes/author_legal.yml", encoding="utf-8")))
-	# print(person_v)
+	opera_v = OperaValidator(yaml.safe_load(open("db/schemes/opera-machine-readable.yml", encoding="utf-8")))
+
+	# input()
+
+	validator = opera_v
 
 	n_warnings = 0
 	for file in new_files:
-		# print(file)
+		print(file)
 		with open(file, encoding="utf-8") as stream:
 			try:
 				instance = yaml.safe_load(stream)
@@ -90,65 +159,68 @@ if __name__ == "__main__":
 				print(exc)
 
 			# print(instance)
+			# input()
 
-			print(f"Examining Author ID. {Path(file).stem}: {instance['Name']}")
+			print(f"Examining Author ID. {Path(file).stem}: {instance['id']}")
 
-			validation_test = author_v.validate(instance)
+			validation_test = validator.validate(instance)
 
 			if validation_test:
 				output_str = fg.green + \
-					f"[PASSED] AUTHOR ID. {Path(file).stem}: {instance['Name']}" + \
+					f"[PASSED] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
 						fg.rs
+				print(output_str)
+				# input()
 
 			else:
+							# print(validation_test)
+				print(validator.errors)
+				output_str = fg(255, 10, 10) + \
+					f"[FAILED] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
+						fg.rs
 
-				n_errors = 0
-				n_warning = 0
-
-				for field, value in author_v.errors.items():
-					print(f"Issue with field {field}")
-					for x in value:
-						if len(x) > 0:
-							if type(x) == str:
-								if x.startswith("(W)"):
-									n_warnings += 1
-								else:
-									n_errors += 1
-								print(f"\t{x}")
-							else:
-								for element, err_string in x.items():
-									err_string = err_string[0]
-									if err_string.startswith("(W)"):
-										n_warnings += 1
-									else:
-										n_errors += 1
-									print(f"\t{err_string}")
-						else:
-							if x.startswith("(W)"):
-								n_warnings += 1
-							else:
-								n_errors += 1
-							print(f"\t{x}")
-				print()
-
-				if n_errors > 0:
-					output_str = fg(255, 10, 10) + \
-						f"[FAILED] AUTHOR ID. {Path(file).stem}: {instance['Name']}" + \
-							fg.rs
-				else:
-					output_str = fg.blue + \
-						f"[WARNING] AUTHOR ID. {Path(file).stem}: {instance['Name']}" + \
-							fg.rs
-
-			print(output_str)
-			print()
-			# input()
+				print(output_str)
+				# input()
 
 
+			# else:
+
+			# 	n_errors = 0
+			# 	n_warning = 0
+
+			# 	for field, value in author_v.errors.items():
+			# 		print(f"Issue with field {field}")
+			# 		for x in value:
+			# 			if len(x) > 0:
+			# 				if type(x) == str:
+			# 					if x.startswith("(W)"):
+			# 						n_warnings += 1
+			# 					else:
+			# 						n_errors += 1
+			# 					print(f"\t{x}")
+			# 				else:
+			# 					for element, err_string in x.items():
+			# 						err_string = err_string[0]
+			# 						if err_string.startswith("(W)"):
+			# 							n_warnings += 1
+			# 						else:
+			# 							n_errors += 1
+			# 						print(f"\t{err_string}")
+			# 			else:
+			# 				if x.startswith("(W)"):
+			# 					n_warnings += 1
+			# 				else:
+			# 					n_errors += 1
+			# 				print(f"\t{x}")
+			# 	print()
+
+			# 	if n_errors > 0:
+			# 		output_str = fg(255, 10, 10) + \
+			# 			f"[FAILED] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
+			# 				fg.rs
+			# 	elif n_warning > 0:
+			# 		output_str = fg.blue + \
+			# 			f"[WARNING] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
+			# 				fg.rs
 
 
-
-
-	# if n_warnings > 0:
-	# 	print(f"During check {n_warnings} warnings have been detected. Please check your files!")
-	# print()

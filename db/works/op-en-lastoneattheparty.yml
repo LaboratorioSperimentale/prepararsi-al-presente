@@ -1,33 +1,38 @@
 id: op-en-lastoneattheparty
 
-First known title: "Last One at the Party"
+First known title: Last One at the Party
 
 First edition: 2022
 
 Type: novel
 
-Author:
+Creators:
   - au-en-bethany-clift
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Hodder And Stoughton Ltd."
 
-Area: anglo
+Publisher: Hodder And Stoughton Ltd.
+
+Area: en
 
 Trigger event:
-  - nonanthropogenic_environmental_natural_planetary
+  agency: non-anthropogenic
+  event: environmental
+  kernel: natural
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

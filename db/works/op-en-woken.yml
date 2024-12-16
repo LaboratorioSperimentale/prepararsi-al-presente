@@ -1,33 +1,38 @@
 id: op-en-woken
 
-First known title: "Woken"
+First known title: Woken
 
-First edition: 202e
+First edition: 2024
 
 Type: feature-length
 
-Author:
+Creators:
   - au-en-alan-friel
 
-Language: eng
+Language:
+  - en
 
-Distributor: "Fantastic Films"; "Propaganda Italia"; "Rocliffe Ltd."; "Bankside Films"
+Distributor: Fantastic Films; Propaganda Italia; Rocliffe Ltd.; Bankside Films
 
-Publisher: "Blue Swan Entertainment" 
+Publisher: Blue Swan Entertainment
 
-Area: anglo
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_inconclusive_planetary
+  agency: anthropogenic
+  event: environmental
+  kernel: inconclusive
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

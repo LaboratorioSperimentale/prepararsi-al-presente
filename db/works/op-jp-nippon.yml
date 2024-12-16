@@ -4,30 +4,34 @@ First known title: Nippon Sangoku
 
 First edition: 2021
 
-Autore:
+Creators:
   - au-jp-ikk-matsuki
 
 Language:
   - jp
 
-Distributor:
+
 
 Publisher: Shogakukan
 
-Area: JAPAN
+Area: jp
 
 Trigger event:
-  - anthropogenic_Subversion_Intra-societal_Local
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
+
 
 Synopsis: |
   The story, set in a hypothetical near future, shows a divided Japan once again at war. A young man tries to use the strategy to unify the nation once again.
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+

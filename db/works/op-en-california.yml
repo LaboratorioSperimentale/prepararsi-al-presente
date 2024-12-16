@@ -1,33 +1,23 @@
 id: op-en-borne
 
-First known title: "California"
+First known title: California
 
 First edition: 2014
 
 Type: novel
 
-Author:
+Creators:
   - au-en-edan-lepucki
 
-Language: eng
+Language:
+  - en
 
-Distributor:
+Publisher: Hachette
 
-Publisher: "Hachette"
-
-Area: anglo
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_local
-
-Synopsis:
-
-
-
-Number of chapters:
-
-[AUTOMATICO] Numero token:
-
-Link Relazione:
-
-[AUTOMATICO] Personaggi:
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local

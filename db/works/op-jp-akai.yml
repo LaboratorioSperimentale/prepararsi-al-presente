@@ -4,29 +4,34 @@ First known title: Akai ringo
 
 First edition: 2020
 
-Autore: au-jp-koj-murata
+Creators:
+  - au-jp-koj-murata
+
+
 
 Language:
-  - JAPANESE
-
-Distributor:
+  - jp
 
 Publisher: Kōdansha
 
-Area: [anglo, ispano, nippo]
+Area: jp
 
 Trigger event:
-  - anthropogenic_Subversion_Intra-societal_Local
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
+
 
 Synopsis: |
   The story is set in modern Japan where sexual activity is illegal. Hikaru Inuta is a model student who, together with a friend, witnesses a show that shocks him. The two had gone to a club and witnessed sex scenes... in front of this vision, dormant impulses arise in Hikaru.
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+

@@ -2,32 +2,34 @@ id: op-jp-satsujin
 
 First known title: Satsujin shūssan
 
-First edition:
-
-Autore:
+Creators:
   - au-jp-say-murata
 
 Language:
   - jp
 
-Distributor:
+
 
 Publisher: Kōdansha
 
-Area: JAPAN
+Area: jp
 
 Trigger event:
-  - anthropogenic_Subversion_Intra-societal_Local
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
+
 
 Synopsis: |
   a future society which may be seen as dystopic for the use of Reproduction Technologies and the strange system called Birth-Murder System.
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+

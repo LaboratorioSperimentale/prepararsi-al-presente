@@ -1,33 +1,38 @@
 id: op-en-rosewater
 
-First known title: "Rosewater"
+First known title: Rosewater
 
 First edition: 2020
 
-Type: book
+Type: novel
 
-Author:
+Creators:
   - au-en-martin-macinness
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Atlantic"
 
-Area: anglo
+Publisher: Atlantic
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

@@ -1,33 +1,38 @@
 id: op-en-moreperfect
 
-First known title: "More Perfect"
+First known title: More Perfect
 
 First edition: 2023
 
 Type: novel
 
-Author:
+Creators:
   - au-en-temi-oh
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Simon & Schuster UK"
 
-Area: anglo
+Publisher: Simon & Schuster UK
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_local
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

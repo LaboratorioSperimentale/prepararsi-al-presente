@@ -1,33 +1,38 @@
 id: op-en-hum
 
-First known title: "The High House"
+First known title: The High House
 
 First edition: 2021
 
 Type: novel
 
-Author:
+Creators:
   - au-en-jessie-greengrass
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Faber"
 
-Area: anglo
+Publisher: Faber
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intra-societal_planetary
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

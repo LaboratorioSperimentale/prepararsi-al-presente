@@ -1,33 +1,38 @@
 id: op-en-thebiglie
 
-First known title: "The Big Lie"
+First known title: The Big Lie
 
 First edition: 2016
 
 Type: novel
 
-Author:
+Creators:
   - au-en-julie-mayhew
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Candlewick"
 
-Area: anglo
+Publisher: Candlewick
+
+Area: en
 
 Trigger event:
-  - anthropogenic_war_extra-societal_planetary
+  agency:  anthropogenic
+  event: war
+  kernel: extra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

@@ -1,33 +1,38 @@
 id: op-en-one
 
-First known title: "One"
+First known title: One
 
 First edition: 2023
 
 Type: novel
 
-Author:
+Creators:
   - au-en-eve-smith
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Orenda Books"
 
-Area: anglo
+Publisher: Orenda Books
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intra-societal_local
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

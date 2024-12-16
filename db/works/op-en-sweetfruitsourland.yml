@@ -1,6 +1,6 @@
 id: op-en-sweetfruitsourland
 
-First known title: "Sweet Fruit, Sour Land"
+First known title: Sweet Fruit, Sour Land
 
 Type: novel
 
@@ -8,27 +8,31 @@ Type: novel
 
 First edition: 2018
 
-Author:
+Creators:
   - au-en-leni-zumas
 
 Language:
-  - eng
+  - en
 
-Distributor:
 
-Publisher: "Sandstone Press"
 
-Area: anglo
+Publisher: Sandstone Press
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intrasocietal_continental
+  agency: anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: continental
 
-Synopsis:
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

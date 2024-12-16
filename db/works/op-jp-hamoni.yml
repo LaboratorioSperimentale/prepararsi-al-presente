@@ -1,10 +1,12 @@
 id: op-jp-hamoni
 
+
+
 First known title: Hāmonī
 
 First edition: 2015
 
-Autore:
+Creators:
   - au-xx-mic-arias
   - au-xx-tak-nakamura
   - au-jp-sat-ito
@@ -13,24 +15,27 @@ Autore:
 Language:
   - jp
 
-Distributor:
 
 Publisher: Studio 4°C
 
-Area: JAPAN
+Area: jp
 
 Trigger event:
-  - anthropogenic_Subversion_Intra-societal_Planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
+
 
 Synopsis: |
-  In the future, after a nuclear cataclysm referred to as the "Maelstrom" and ensuing civil wars that almost wiped out humanity, peace and utopia have finally been achieved. Beyond country boundaries, society is controlled by the "Admedistration" and its WatchMe medical nanotechnology, devoted to protecting and extending human life, and is governed by a powerful ethic of social welfare and mutual consideration. (Wikipedia)
+  In the future, after a nuclear cataclysm referred to as the Maelstrom and ensuing civil wars that almost wiped out humanity, peace and utopia have finally been achieved. Beyond country boundaries, society is controlled by the Admedistration and its WatchMe medical nanotechnology, devoted to protecting and extending human life, and is governed by a powerful ethic of social welfare and mutual consideration. (Wikipedia)
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+

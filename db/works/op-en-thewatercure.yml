@@ -1,34 +1,39 @@
 id: op-en-thewatercure
 
-First known title: "The Water Cure"
+First known title: The Water Cure
 
 First edition: 2018
 
 Type: novel
 
 
-Author:
+Creators:
   - au-en-sophie-mackintosh
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Hamish Hamilton"
 
-Area: anglo
+Publisher: Hamish Hamilton
+
+Area: en
 
 Trigger event:
-  - unknown_subversion_extra-societal_planetary
+  agency:  unknown
+  event: subversion
+  kernel: extra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

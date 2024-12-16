@@ -1,33 +1,38 @@
 id: op-en-rosewater
 
-First known title: "Rosewater"
+First known title: Rosewater
 
 First edition: 2016
 
 Type: novel
 
-Author:
+Creators:
   - au-en-tade-thompson
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Apex Publications"
 
-Area: anglo
+Publisher: Apex Publications
+
+Area: en
 
 Trigger event:
-  - Nonanthropogenic_subversion_extra-societal_planetary
+  agency:  non-anthropogenic
+  event: subversion
+  kernel: extra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

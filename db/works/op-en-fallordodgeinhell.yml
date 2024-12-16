@@ -1,33 +1,38 @@
 id: op-en-fallordodgeinhell
 
-First known title: "Fall, or Dodge in Hell"
+First known title: Fall, or Dodge in Hell
 
 First edition: 2019
 
 Type: novel
 
-Author:
+Creators:
   - au-en-neal-stephenson
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "HarperCollins Publishers"
 
-Area: anglo
+Publisher: HarperCollins Publishers
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

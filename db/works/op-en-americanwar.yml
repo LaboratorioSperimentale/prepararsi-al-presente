@@ -1,33 +1,24 @@
 id: op-en-americanwar
 
-First known title: "American War"
+First known title: American War
 
 First edition: 2017
 
 Type: novel
 
-Author:
+Creators:
   - au-en-omar-elakkad
 
-Language: eng
+Language:
+  - en
 
-Distributor:
+Publisher: Alfred A. Knopf
 
-Publisher: "Alfred A. Knopf"
-
-Area: anglo
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intra-societal_planetary
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
-
-
-
-Number of chapters:
-
-[AUTOMATICO] Numero token:
-
-Link Relazione:
-
-[AUTOMATICO] Personaggi:

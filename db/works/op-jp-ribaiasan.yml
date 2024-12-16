@@ -4,29 +4,34 @@ First known title: Ribaiasan
 
 First edition: 2022
 
-Autore: au-jp-shi-kuroi
+Creators:
+  - au-jp-shi-kuroi
 
 Language:
   - jp
 
-Distributor:
+
 
 Publisher: Ki-oon
 
-Area: JAPAN
+Area: jp
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_multi-planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: multi-planetary
+
 
 Synopsis: |
   Leviathan is a dark science-fiction tale that somehow tries to delve into its pessimistic starting point in search of a glimmer of light. The very fact, for instance, that the children come from an Earth colony, whose inhabitants do not enjoy the same rights as those living on the mother planet, suggests that the law of the strongest is a lesson imparted to them by the unjust society in which they live, rather than an instinctive impulse to which they feel entitled.
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+

@@ -1,33 +1,38 @@
 id: op-en-thebluebookofnebo
 
-First known title: "The Blue Book of Nebo"
+First known title: The Blue Book of Nebo
 
 First edition: 2021
 
 Type: novel
 
-Author:
+Creators:
   - au-en-manonsteffan-ros
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Deep Vellum Publishing"
 
-Area: anglo
+Publisher: Deep Vellum Publishing
+
+Area: en
 
 Trigger event:
-  - anthropogenic_war_extra-societal_planetary
+  agency:  anthropogenic
+  event: war
+  kernel: extra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

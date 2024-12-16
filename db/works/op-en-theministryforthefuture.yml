@@ -1,34 +1,39 @@
 id: op-en-theministryforthefuture
 
-First known title: "The Ministry for the Future"
+First known title: The Ministry for the Future
 
 First edition: 2016
 
 Type: novel
 
 
-Author:
+Creators:
   - au-en-kimstanley-robinson
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Orbit Books"
 
-Area: anglo
+Publisher: Orbit Books
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_extra-societal_planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: extra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

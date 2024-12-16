@@ -1,33 +1,38 @@
 id: op-en-thefuture
 
-First known title: "The Future"
+First known title: The Future
 
 First edition: 2016
 
 Type: novel
 
-Author:
+Creators:
   - au-en-naomi-alderman
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Fourth Estate"
 
-Area: anglo
+Publisher: Fourth Estate
+
+Area: en
 
 Trigger event:
-  - Anthropogenic_Subversion_Intra-societal_Planetary
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

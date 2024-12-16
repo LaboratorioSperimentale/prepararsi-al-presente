@@ -1,33 +1,38 @@
 id: op-en-happy
 
-First known title: "H(a)ppy"
+First known title: H(a)ppy
 
 First edition: 2017
 
 Type: novel
 
-Author:
+Creators:
   - au-en-nicola-barker
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "William Heinemann ltd"
 
-Area: anglo
+Publisher: William Heinemann ltd
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_inconclusive_planetary
+  agency: anthropogenic
+  event: environmental
+  kernel: inconclusive
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

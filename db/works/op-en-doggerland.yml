@@ -1,33 +1,38 @@
 id: op-en-doggerland
 
-First known title: "Doggerland"
+First known title: Doggerland
 
 First edition: 2019
 
 Type: novel
 
-Author:
+Creators:
   - au-en-ben-smith
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Fourth Estate"
 
-Area: anglo
+Publisher: Fourth Estate
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intra-societal_planetary
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

@@ -1,34 +1,39 @@
 id: op-en-thesilenceofthewiltingskin
 
-First known title: "The Silence of The Wilting Skin"
+First known title: The Silence of The Wilting Skin
 
 First edition: 2016
 
 Type: novel
 
 
-Author:
+Creators:
   - au-en-tlotlo-tsamaase
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Pink Narcissus Press"
 
-Area: anglo
+Publisher: Pink Narcissus Press
+
+Area: en
 
 Trigger event:
-  - nonanthropogenic_metaphysical_intrasocietal_local
+  agency: non-anthropogenic
+  event: metaphysical
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

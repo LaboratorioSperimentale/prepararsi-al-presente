@@ -1,33 +1,38 @@
 id: op-en-theendwestartfrom
 
-First known title: "The End We Start From"
+First known title: The End We Start From
 
 First edition: 2017
 
 Type: novel
 
-Author:
+Creators:
   - au-en-megan-hunter
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Picador"
 
-Area: anglo
+Publisher: Picador
+
+Area: en
 
 Trigger event:
-  - anthropogenic_environmental_intra-societal_local
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

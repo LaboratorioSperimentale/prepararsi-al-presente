@@ -1,34 +1,39 @@
 id: op-en-theschoolforgoodmothers
 
-First known title: "The School for Good Mothers"
+First known title: The School for Good Mothers
 
 First edition: 2022
 
 Type: novel
 
 
-Author:
+Creators:
   - au-en-jessamine-chan
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Simon & Schuster"
 
-Area: anglo
+Publisher: Simon & Schuster
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_local
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

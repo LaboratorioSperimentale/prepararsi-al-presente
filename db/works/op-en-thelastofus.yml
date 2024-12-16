@@ -1,33 +1,38 @@
 id: op-en-thelastofus
 
-First known title: "The Last of Us"
+First known title: The Last of Us
 
 First edition: 2013
 
 Type: videogame
 
-Author:
+Creators:
   - au-en-naughtydog-naughtydogllc
 
-Language: eng
+Language:
+  - en
 
-Distributor: "Sony Interactive Entertainment"
+Distributor: Sony Interactive Entertainment
 
-Publisher:
 
-Area: anglo
+
+Area: en
 
 Trigger event:
-  - nonanthropogenic_environmental_natural_planetary
+  agency: non-anthropogenic
+  event: environmental
+  kernel: natural
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

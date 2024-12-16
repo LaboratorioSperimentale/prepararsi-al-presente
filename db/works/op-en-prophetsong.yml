@@ -1,33 +1,38 @@
 id: op-en-prophetsong
 
-First known title: "Prophet Song"
+First known title: Prophet Song
 
 First edition: 2023
 
 Type: novel
 
-Author:
+Creators:
   - au-en-paul-lynch
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Oneworld"
 
-Area: anglo
+Publisher: Oneworld
+
+Area: en
 
 Trigger event:
-  - anthropogenic_war_intra-societal_local
+  agency:  anthropogenic
+  event: war
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

@@ -1,33 +1,38 @@
 id: op-en-femlandia
 
-First known title: "Femlandia"
+First known title: Femlandia
 
 First edition: 2021
 
-Type: book
+Type: novel
 
-Author:
+Creators:
   - au-en-christina-dalcher
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Berkley Books"
 
-Area: anglo
+Publisher: Berkley Books
+
+Area: en
 
 Trigger event:
-  - anthropogenic_subversion_intra-societal_local
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

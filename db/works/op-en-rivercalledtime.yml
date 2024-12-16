@@ -1,33 +1,38 @@
 id: op-en-rivercalledtime
 
-First known title: "A River called Time"
+First known title: A River called Time
 
 First edition: 2021
 
 Type: novel
 
-Author:
+Creators:
   - au-en-curttia-newland
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "Canongate"
 
-Area: anglo
+Publisher: Canongate
+
+Area: en
 
 Trigger event:
-  - anthropogenic_war_intra-societal_planetary
+  agency:  anthropogenic
+  event: war
+  kernel: intra-societal
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

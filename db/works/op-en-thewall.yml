@@ -1,34 +1,39 @@
 id: op-en-thewall
 
-First known title: "The Wall"
+First known title: The Wall
 
 First edition: 2019
 
 Type: novel
 
 
-Author:
+Creators:
   - au-en-joh-lanchester
 
-Language: eng
+Language:
+  - en
 
-Distributor:
 
-Publisher: "W. W. Norton & Company"
 
-Area: anglo
+Publisher: W. W. Norton & Company
+
+Area: en
 
 Trigger event:
-  - Anthropogenic_Environmental_Inconclusive_Planetary
+  agency: anthropogenic
+  event: environmental
+  kernel: inconclusive
+  scale: planetary
 
-Synopsis:
 
 
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+

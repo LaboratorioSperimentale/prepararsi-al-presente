@@ -1,32 +1,36 @@
 id: op-en-wecastashadow
 
-First known title: "We cast a Shadow"
+First known title: We cast a Shadow
 
 Type: novel
 
 First edition: 2019
 
-Author:
+Creators:
   - au-en-mauricecarlos-ruffin
 
 Language:
-  - eng
+  - en
 
-Distributor:
 
-Publisher: "One World"
 
-Area: anglo
+Publisher: One World
+
+Area: en
 
 Trigger event:
-  - Anthropogenic_Subversion_Intrasocietal_Local
+  agency: anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
 
-Synopsis:
 
-Number of chapters:
 
-[AUTOMATICO] Numero token:
 
-Link Relazione:
 
-[AUTOMATICO] Personaggi:
+
+
+
+
+
+
