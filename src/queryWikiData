@@ -1,0 +1,171 @@
+SELECT ?person ?personLabel ?birthDate ?nationalityLabel ?notableWorkLabel WHERE {
+  # Specify the list of names and surnames
+  VALUES ?personLabel {
+"Ada Palmer"@en
+"Alan Friel"@en
+"Ali Smith"@en
+"Ben Smith"@en
+"Bethany Clift"@en
+"CD Projekt RED "@en
+"Celeste Ng"@en
+"Chang-Rae Lee"@en
+"China Tom Miéville"@en
+"Christina Dalcher"@en
+"Christina Sweeney-Baird"@en
+"Celeste Ng"@en
+"Cory Doctorow"@en
+"Courttia Newland"@en
+"Delilah S. Dawson"@en
+"Diane Cook"@en
+"Edan Lepucki"@en
+"Emily Barr"@en
+"Emily St. John Mandel"@en
+"Emma Mieko Candon"@en
+"Eve Smith"@en
+"Garth Davis"@en
+"Geneva Robertson-Dworet"@en
+"Graham Warner"@en
+"Helen Phillips"@en
+"Helen Sedgwick"@en
+"Ian Green"@en
+"Inga Simpson"@en
+"Jasper Fforde"@en
+"Jeff VanderMeer"@en
+"Jennie Melamed"@en
+"Jessamine Chan"@en
+"Jessie Greengrass"@en
+"Joanna Kavenna"@en
+"Joanne Ramos"@en
+"John Lanchester"@en
+"Jonathan Helpert"@en
+"Jonathan Stroud"@en
+"Jordan Peele"@en
+"Julie Mayhew"@en
+"Justin Cronin"@en
+"Kazuo Ishiguro"@en
+"Kevin Barry"@en
+"Kim Stanley Robinson"@en
+"Laline Paull"@en
+"Laura Jean McKay"@en
+"Laura Van Den Berg"@en
+"Lawrence Wright"@en
+"Leni Zumas"@en
+"Lidia Yuknavitch"@en
+"Lily Brooks-Dalton"@en
+"Ling Ma"@en
+"Louise Erdrich"@en
+"Louise O'Neill"@en
+"Manon Steffan Ros"@en
+"Margaret Atwood"@en
+"Martin MacInnes"@en
+"Maurice Carlos Ruffin"@en
+"Megan Hunter"@en
+"Michelle de Kretser"@en
+"Michelle Min Sterling"@en
+"M.R. (Mike) Carey"@en
+"Naomi Alderman"@en
+"Naughty Dog "@en
+"Neal Stephenson"@en
+"Niall Bourke"@en
+"Nicola Barker"@en
+"N. K. Jemisin"@en
+"Nnedi Okorafor"@en
+"Oana Aristide"@en
+"Omar El Akkad"@en
+"Paolo Bacigalupi"@en
+"Paul Lynch"@en
+"Pierce Brown"@en
+"Rebecca Ley"@en
+"Robbie Arnott"@en
+"Rosa Rankin-Gee"@en
+"Sandra Newman"@en
+"Sarah Davis-Goff"@en
+"Sarah K. Jackson"@en
+"Sophie Mackintosh"@en
+"Tade Thompson"@en
+"Temi Oh"@en
+"Tim Winton"@en
+"Tlotlo Tsamaase"@en
+"Ariel LUPPINO"@en
+"Agustina BAZTERRICA"@en
+"Betina KEIZMAN"@en
+"Carlos CHERNOV"@en
+"Daniela CATRILEO"@en
+"Edmundo PAZ SOLDÁN"@en
+"Eduardo RABASA"@en
+"Emiliano MONGE"@en
+"Fernanda TRÍAS"@en
+"Francisco OVANDO"@en
+"Francisco RIVAS"@en
+"Germán MAGGIORI"@en
+"Horacio CONVERTINI"@en
+"Juan ÁLVAREZA"@en
+"Katherina FRANGI"@en
+"Martín Felipe CASTAGNET"@en
+"Maximiliano BARRIENTOS"@en
+"Michel NIEVA"@en
+"Mónica OJEDA"@en
+"Pablo PLOTKIN"@en
+"Ramiro SANCHIZ"@en
+"Santiago PÁEZ"@en
+"Simón LÓPEZ TRUJILLO"@en
+"Sukeban Games"@en
+"Akane TORIKAI"@en
+"Akiyuki Sugino"@en
+"Alice Soft"@en
+"Atsushi KAMAKURA"@en
+"Chōko Tanaka"@en
+"CUBE "@en
+"Dempow Torishima"@en
+"Hajime ISAYAMA"@en
+"Haruki Murakami"@en
+"Hayakawa Shobō "@en
+"Hirokazu Mukōra"@en
+"Hiroshi YAMAMOTO"@en
+"Ikka Matsuki"@en
+"Jinzō Takeda"@en
+"Kairi MISAKI"@en
+"Kimi SATOSHI"@en
+"Kojima Productions Co., Ltd. "@en
+"Kōji MURATA"@en
+"Konami "@en
+"Man'ichi YOSHIMURA"@en
+"Maru Ayase"@en
+"Michael Arias"@en
+"Michi URUSHIBARA"@en
+"Miyuki ONO"@en
+"Motoki KOIDE"@en
+"Natsuki KOYATA"@en
+"Orthros "@en
+"PlatinumGames Inc. "@en
+"Rei AKIRA"@en
+"Satoshi ITŌ"@en
+"Satoshi Ogawa"@en
+"Sayaka Murata"@en
+"Shiro KUROI"@en
+"Shinsuke Satō"@en
+"Studio Zero "@en
+"Takuji Ichikawa"@en
+"Takashi NAKAMURA"@en
+"Tomoyuki Hoshino"@en
+"Yoko TAWADA"@en
+"Yoshimi SATO"@en
+"YOX-Project "@en
+"Yuba ISUKARI"@en
+"Yūya Satō"@en
+
+  }
+
+  # Retrieve the entity for the person
+  ?person rdfs:label ?personLabel.
+
+  # Retrieve birth date, nationality, and notable works if available
+  OPTIONAL { ?person wdt:P569 ?birthDate. }       # Birth date
+  OPTIONAL { ?person wdt:P27 ?nationality. }      # Nationality
+  OPTIONAL { ?person wdt:P800 ?notableWork. }     # Notable works
+
+  # Ensure labels are retrieved in English and Spanish
+  SERVICE wikibase:label { 
+    bd:serviceParam wikibase:language "en,es". 
+  }
+}
