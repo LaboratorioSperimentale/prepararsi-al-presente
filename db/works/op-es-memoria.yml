@@ -1,8 +1,14 @@
 id: op-es-memoria
 
+Type: novel 
+
 First known title: Memoria de las especies
 
 First edition: 2022
+
+Alternative titles:
+  -
+  -
 
 Creators:
   - au-es-kat-frangi
@@ -10,11 +16,31 @@ Creators:
 Language:
   - es
 
+Distributore: 
 
 Publisher: Club Hem
 
-Area: es
+Area geosocioculturale: es
 
 Trigger event:
-  - Apocalypse
+  agency: non-anthropogenic
+  event: subversion
+  kernel: natural
+  scale: planetary
 
+
+Trigger event aftermaths:
+
+
+Synopsis: |
+  The novel explores strategies of survival and transformation in a post-apocalyptic world reshaped by a “Great Flood”. Humanity, fragmented into nomadic clans, undergoes physical and societal reconfigurations, symbolizing a breakdown and renewal of individuality and collective identity. Central to the novel is the “memory of the species”, a primal, collective knowledge tied to human and non-human forms, emphasizing adaptability and becoming. 
+
+Riferimento file txt:
+
+Numero capitoli:
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:
