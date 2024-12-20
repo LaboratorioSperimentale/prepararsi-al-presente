@@ -10,7 +10,7 @@ Distributor: Orthros
 
 Area: jp
 Trigger event:
-  agency:  anthropogenic
+  agency: anthropogenic
   event: subversion
   kernel: extra-societal
   scale: planetary
