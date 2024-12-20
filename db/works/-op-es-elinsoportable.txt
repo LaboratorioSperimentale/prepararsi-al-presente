@@ -1,0 +1,29 @@
+id: op-es-elinsoportable
+
+First known title: El insoportable paso del tiempo: nunca la muerte siempre
+
+First edition: 2016
+
+Autore:
+  - au-es-fran-rivas
+Language:
+  - esp
+
+Distributor:
+
+Publisher: Ceibo ediciones
+
+Area: ispano
+
+Trigger event: Ambiguous-Metaphysical-Intra-societal-Planetary
+
+Synopsis: |
+In a groundbreaking exploration of reincarnation, this story follows a man with fragmented memories and a shadowed consciousness as he embarks on an extraordinary journey through time. Challenging the traditional concept of reincarnation as a linear progression, the narrative delves into the possibility of regressive reincarnation, where past lives and experiences resurface, partially preserved and intertwined with the present. Through encounters with remarkable figures and pivotal moments in history, the protagonist discovers a new dimension of existence that blurs the boundaries between personal memory and collective history, offering a fresh perspective on the nature of time, identity, and immortality.
+
+Number of chapters: 
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

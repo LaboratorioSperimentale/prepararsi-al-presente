@@ -1,0 +1,31 @@
+id: op-es-lamaestrarural
+
+First known title: La maestra rural
+
+First edition: 2016
+
+Autore:
+  - au-es-luc-lamberti
+
+Language:
+  - esp
+
+Distributor:
+
+Publisher: Literatura random house
+
+Area: ispano
+
+Trigger event: Nonanthropogenic-Subversion-Extra-societal-Multi-planetary
+
+Synopsis: |
+La maestra rural envisions an extraterrestrial conspiracy slowly taking over the world. In a small village in the province of Córdoba, Angélica Gólik, an unremarkable teacher with literary aspirations, begins to unsettle her family, neighbors, and students with her eccentric perception of reality. Is it madness, delusion, or the manifestation of something more unsettling, destined to change the fate of the world?
+
+
+Number of chapters:
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

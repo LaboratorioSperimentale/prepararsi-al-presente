@@ -1,0 +1,29 @@
+id: op-es-elamoresmasfrio
+
+First known title: El amor es mss frío que la muerte
+
+First edition: 2017
+Autore:
+  - au-es-edn-quintero
+
+Language:
+  - esp
+
+Distributor:
+
+Publisher: Candaya
+
+Area: ispano
+
+Trigger event: Ambiguous-Subversion-Extra-societal-Local
+
+Synopsis: |
+In a country ravaged by plague, the protagonist of this dystopian fable escapes the hospital for terminal patients where he had been confined and embarks on a harrowing journey. He eventually reaches a barren wasteland, resembling the icy mountains of the moon, which reminds him of the rugged terrain where he spent the early years of his life.
+
+Number of chapters: 18
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

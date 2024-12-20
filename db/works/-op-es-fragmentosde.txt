@@ -1,0 +1,29 @@
+id: op-es-fragmentosde
+
+First known title: Fragmentos de la tierra rota
+
+First edition: 2017
+
+Autore:
+  - au-es-ela-vilarmadruga
+Language:
+  - esp
+
+Distributor:
+
+Publisher: Sportula
+
+Area: ispano
+
+Trigger event: Ambiguous-Subversion-Inconclusive-Planetary
+
+Synopsis: |
+Straddling post-apocalyptic science fiction, fantasy, and steampunk, the novel narrates a possible future for humanity with a deeply personal and profoundly poetic voice. (Adapted,back cover)
+
+Number of chapters: 76
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

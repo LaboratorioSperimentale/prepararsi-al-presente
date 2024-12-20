@@ -1,0 +1,41 @@
+id: op-es-antiguasceremonias
+
+Type: novel
+
+First known title: Antiguas ceremonias
+
+First edition: 2015
+
+
+Alternative titles:
+  -
+
+Autore:
+  - au-es-san-paez
+Language:
+  - esp
+
+Distributor:
+
+Publisher: Paradiso Editores
+
+Area geosocioculturale: es
+
+Trigger event: 
+event: Ambiguous
+Agency: Metaphysical
+Kernel: Inconclusive
+Scale: Planetary
+
+Synopsis: |
+Antiguas Ceremonias is neither a dystopian nor a utopian work; instead, its pages reveal more horror than hope, more unease than illusions, more desolation than fantasies. From the very first page, the reader is thrust into an unrelenting and unpredictable journey through a world in ruins, exposing the human condition in its most primitive form. (by Óscar Vela, trans. From Spanish)
+
+Riferimento file txt:
+
+Number of chapters: 
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

@@ -1,0 +1,30 @@
+id: op-es-laguerradelpapel
+
+First known title: La guerra del papel: Facsímiles de funebrero y cuerpos del futuro
+
+First edition: 2016
+
+Autore:
+  - au-es-osw-catalayudcriales
+
+Language:
+  - esp
+
+Distributor:
+
+Publisher: Editorial 3600
+
+Area: ispano
+
+Trigger event: Anthropogenic-War-Intra-societal-Local
+
+Synopsis: |
+A unilateral epistolary novel set in a fictional country between 2033 and 2036: the protagonist, through the mediation of a nuncio, writes dozens of letters, trusting—without being able to verify—that they reach their intended destination. It offers a profound reflection on corporeality, the physical, physiological, and biological aspects of the human body, as well as its limits and limitations, juxtaposed with the mental and emotional dichotomy. (by Martín Zelaya)
+
+Number of chapters: 
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

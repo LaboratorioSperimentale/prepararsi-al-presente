@@ -1,0 +1,29 @@
+id: op-es-
+
+First known title: 
+
+First edition: 
+
+Autore:
+  - au-es-
+Language:
+  - esp
+
+Distributor:
+
+Publisher: Pepitas de calabaza
+
+Area: ispano
+
+Trigger event: 
+
+Synopsis: |
+
+
+Number of chapters: 
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

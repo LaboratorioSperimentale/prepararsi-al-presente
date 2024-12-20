@@ -1,0 +1,43 @@
+id: op-es-diorama
+
+Type: novel
+
+First known title: Diorama
+
+First edition: 2021
+
+Alternative titles:
+  -
+
+Autore:
+  - au-es-ana-torres
+
+Language:
+  - es
+
+Distributor:
+
+Publisher: Monroy Editor
+
+Area geosocioculturale: es
+
+Trigger event: 
+event:Anthropogenic
+agency:Subversion
+Kernel:Extra-societal
+Scale: Local
+
+Trigger event aftermaths: 
+
+Synopsis: |
+The story is set in the Kingdom of Joy, where mandatory happiness is decreed, and its inhabitants are subdued by dark forces that watch and control everything. As they struggle to survive amid confusion and scarcity, the things they once took for granted begin to vanish—places, people, and even books.
+
+Riferimento file txt:
+
+Number of chapters: 
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

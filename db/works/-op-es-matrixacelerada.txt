@@ -1,0 +1,30 @@
+id: op-es-matrixacelerada
+
+First known title: Matrix Acelerada
+
+First edition: 2022
+
+Autore:
+  - au-es-ram-sanchiz
+Language:
+  - esp
+
+Distributor:
+
+Publisher: Holobionte
+
+Area: ispano
+
+Trigger event: Ambiguous-Metaphysical-Extra-societal-Multi-versal
+
+Synopsis: |
+Matrix acelerada is an accelerationist reading of the Matrix saga, opening new speculative horizons. Here, David Bowie, sonic posthumanism, and radical ideas challenge the well-worn notion of a "frozen present," where all futures seemed canceled. Yet, in an era of metaverses, automation, and artificial intelligence, this reanimated future may belong to the machines.
+(back cover)
+
+Number of chapters: 
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

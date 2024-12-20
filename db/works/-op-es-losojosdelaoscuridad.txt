@@ -1,0 +1,29 @@
+id: op-es-losojosdelaoscuridad
+
+First known title: Los ojos de la oscuridad
+
+First edition: 2020
+
+Autore:
+  - au-es-ela-vilarmadruga
+Language:
+  - esp
+
+Distributor:
+
+Publisher: Libro Escuchas
+
+Area: ispano
+
+Trigger event: Nonanthropogenic-War-Extra-societal-Continental
+
+Synopsis: |
+A dark fantasy novel in which three characters form a fragile alliance to fight an almost invisible enemy: the encroaching darkness that is ravaging their kingdoms.
+
+Number of chapters: 
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

@@ -1,0 +1,29 @@
+id: op-es-losannosdelsilencio
+
+First known title: Los años del silencio
+
+First edition: 2019
+
+Autore:
+  - au-es-ela-vilarmadruga
+Language:
+  - esp
+
+Distributor:
+
+Publisher: Dilatando mentes
+
+Area: ispano
+
+Trigger event: Anthropogenic-War-Intra-societal-Planetary
+
+Synopsis: |
+The novel  introduces us to a society rooted in the past yet equipped with advanced technology, where rebellions are incessant.
+
+Number of chapters: 76
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

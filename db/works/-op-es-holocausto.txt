@@ -1,0 +1,29 @@
+id: op-es-holocausto
+
+First known title: Holocausto. Un nuevo comienzo
+
+First edition: 2016
+
+Autore:
+  - au-es-fer-rebollar
+Language:
+  - esp
+
+Distributor:
+
+Publisher: Grupo Rodrigo Porrúa
+
+Area: ispano
+
+Trigger event: Anthropogenic-Environmental-Intra-societal-Planetary
+
+Synopsis: |
+The human race has pushed the planet's regenerative capacity to its limit. The options to prevent collapse could spark a global conflict. One man holds in his hands a decision that could change life as we know it on Earth
+
+Number of chapters: 
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:
