@@ -1,0 +1,24 @@
+id: op-en-discoelysium
+
+First known title: "Disco Elysium"
+
+Type: videogame
+
+First edition: 2019
+
+Creators:
+  - au-en-zaum-zaumstudios
+
+Language:
+  - en
+
+Distributor: "ZA/UM"
+
+Area: en
+
+Trigger event:
+  agency: anthropogenic
+  event: war
+  kernel: extra-societal
+  scale: local
+
