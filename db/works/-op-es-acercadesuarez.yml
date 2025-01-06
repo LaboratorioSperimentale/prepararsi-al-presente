@@ -1,5 +1,7 @@
 id: op-es-acercadesuarez
 
+Type: novel
+
 First known title: Acerca de Suárez
 
 First edition: 2016
@@ -20,15 +22,15 @@ Publisher: Pez espiral
 Area geosocioculturale: es
 
 Trigger event: 
-event:Anthropogenic
-agency:Subversion
-Kernel:Intra-societal
+event: Anthropogenic
+agency: Subversion
+Kernel: Intra-societal
 Scale: Planetary
 
 Trigger event aftermaths: 
 
 Synopsis: |
-An apocalyptic dystopia where the world is ruled by the flow of electrical energy, with every aspect of life governed by circuits and energy streams. In this reality, even the format of the text and the way it is read are adapted to the movement of the electrical circuit: the narrative flows from right to left, mimicking the path of the current.
+ An apocalyptic dystopia where the world is ruled by the flow of electrical energy, with every aspect of life governed by circuits and energy streams. In this reality, even the format of the text and the way it is read are adapted to the movement of the electrical circuit: the narrative flows from right to left, mimicking the path of the current.
 
 Riferimento file txt:
 

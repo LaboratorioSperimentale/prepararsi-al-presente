@@ -1,8 +1,13 @@
 id: op-es-elamoresmasfrio
 
-First known title: El amor es mss frío que la muerte
+Type: novel
+
+First known title: El amor es más frío que la muerte
 
 First edition: 2017
+
+Alternative titles:
+  -
 
 Creators:
   - au-es-edn-quintero
@@ -14,12 +19,19 @@ Distributor:
 
 Publisher: Candaya
 
-Area: ispano
+Area geosocioculturale: es
 
-Trigger event: Ambiguous-Subversion-Extra-societal-Local
+Trigger event: 
+event: Ambiguous
+agency: Subversion
+Kernel: Extra-societal
+Scale: Local
 
 Synopsis: |
 In a country ravaged by plague, the protagonist of this dystopian fable escapes the hospital for terminal patients where he had been confined and embarks on a harrowing journey. He eventually reaches a barren wasteland, resembling the icy mountains of the moon, which reminds him of the rugged terrain where he spent the early years of his life.
+
+
+Riferimento file txt:
 
 Number of chapters: 18
 

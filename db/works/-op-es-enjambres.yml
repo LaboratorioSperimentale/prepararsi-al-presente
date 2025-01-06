@@ -1,22 +1,32 @@
 id: op-es-enjambres
 
+Type: novel
+
 First known title: enjambres
 
 First edition: 2020
 
-Autore:
+Alternative titles:
+  -
+
+Creators:
   - au-es-edg-borges
 
 Language:
-  - esp
+  - es
 
 Distributor:
 
 Publisher: Altamarea
 
-Area: ispano
+Area geosocioculturale: es
 
-Trigger event: Ambiguous-Environmental-Inconclusive-Local
+Trigger event: 
+event: Ambiguous
+agency: Environmental
+Kernel: Inconclusive
+Scale: Local
+
 
 
 Synopsis: |
@@ -25,6 +35,8 @@ To escape the chaos of street attacks, moral decay, collective delirium, and the
 In this state of voluntary isolation, the five friends must confront their solitude, inner demons, fears, aspirations, and memories in a dreamlike, hazy atmosphere suspended between the realms of life and death.
 
   
+
+Riferimento file txt:
 
 Number of chapters: 
 

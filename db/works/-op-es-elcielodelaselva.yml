@@ -1,24 +1,37 @@
 id: op-es-elcielodelaselva
 
+Type: novel
+
 First known title: El cielo de la selva
 
 First edition: 2023
 
-Autore:
+Alternative titles:
+  -
+
+Creators:
   - au-es-ela-vilarmadruga
+
 Language:
-  - esp
+  - es
 
 Distributor:
 
 Publisher: Lava
 
-Area: ispano
+Area geosocioculturale: es
 
-Trigger event: Ambiguous-War-Intra-societal-Planetary
+Trigger event: 
+event: Ambiguous
+agency: War
+Kernel: Intra-societal
+Scale: Planetary
+
 
 Synopsis: |
 In a ruthless world of guerrillas and drug traffickers, the jungle provides safety to its inhabitants, who relinquish any form of rights and hope in this harrowing fable about motherhood and the female body.(back cover)
+
+Riferimento file txt:
 
 Number of chapters: 
 
