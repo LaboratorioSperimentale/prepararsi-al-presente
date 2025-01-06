@@ -1,24 +1,38 @@
 id: op-es-losmurmurantes
 
+Type: novel
+
 First known title: Los murmurantes
 
 First edition: 2020
 
-Autore:
+Alternative titles:
+  -
+
+Creators:
   - au-es-san-paez
+
 Language:
-  - esp
+  - es
 
 Distributor:
 
 Publisher: Editorial Cactus Pink
 
-Area: ispano
+Area geosocioculturale: es
 
-Trigger event: Anthropogenic-War-Extra-societal-Local
+Trigger event: 
+event: Anthropogenic
+agency: War
+Kernel: Extra-societal
+Scale: Local
+
+Trigger event aftermaths: 
 
 Synopsis: |
-Set in a post-apocalyptic Ecuador overrun by zombies—creatures born of procreation and infection—the remnants of humanity struggle to survive as these beings destroy all that remains alive. Quito has fractured into two fortified camps: one ruled by the successors of an ultraconservative religious community, Mundus Dei, and the other controlled by a Jesuit-inspired soldierly order. (by Iván Rodrigo Mendizábal, Trans. from Spanish)
+Set in a post-apocalyptic Ecuador overrun by zombies—creatures born of procreation and infection—the remnants of humanity struggle to survive as these beings destroy all that remains alive. Quito has fractured into two fortified camps, one ruled by the successors of an ultraconservative religious community, Mundus Dei, and the other controlled by a Jesuit-inspired soldierly order. (by Iván Rodrigo Mendizábal, Trans. from Spanish)
+
+Riferimento file txt:
 
 Number of chapters: 
 
