@@ -1,26 +1,41 @@
 id: op-es-unfuturoradiante
 
+Type: novel
+
 First known title: Un futuro radiante
 
 First edition: 2016
 
-Autore:
+Alternative titles:
+  -
+
+
+Creators:
   - au-es-pab-plotkin
 
 Language:
-  - esp
+  - es
 
 Distributor:
 
 Publisher: Literature Random House
 
-Area: ispano
+Area geosocioculturale: es
 
-Trigger event: Anthropogenic-Subversion-Intra-societal-Local
+Trigger event: 
+event: Anthropogenic
+agency: Subversion
+Kernel: Intra-societal
+Scale: Local
+
+Trigger event aftermaths: 
 
 Synopsis: |
 A series of explosions shatters the social fabric of a dystopian Buenos Aires. In a chaotic era of moral decline, two siblings find themselves entangled in a power struggle between an army of environmentalists and a gang of homeless people led by an ambitious caveman-like figure.
 
+
+
+Riferimento file txt:
 
 Number of chapters: 33
 

@@ -1,24 +1,39 @@
 id: op-es-salome
 
+Type: novel
+
 First known title: Salomé
 
 First edition: 2018
 
-Autore:
+Alternative titles:
+  -
+
+Creators:
   - au-es-ela-vilarmadruga
+
 Language:
-  - esp
+  - es
 
 Distributor:
 
 Publisher: La pollera
 
-Area: ispano
+Area geosocioculturale: es
 
-Trigger event: Anthropogenic-War-Intra-societal-Multi-planetary
+Trigger event: 
+event: Anthropogenic
+agency: War
+Kernel: Intra-societal
+Scale: Multi-planetary
+
+
+Trigger event aftermaths: 
 
 Synopsis: |
 In a future where humans hunt priceless creatures on unknown planets, one of these beings falls into the hands of the highest ranks of the galactic empire, becoming the source of mutiny and mistrust. Political power is destabilized as a ravenous desire awakens within the rulers, stirred by this extraterrestrial being, whose fate echoes the earliest tales of humanity. (back cover)
+
+Riferimento file txt:
 
 Number of chapters: 
 
