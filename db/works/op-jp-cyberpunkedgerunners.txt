@@ -1,0 +1,44 @@
+id: op-jp-cyberpunkedgerunners
+
+Type: serial
+
+First known title:   # obbligatorio
+
+First edition:   ## obbligatorio
+
+Alternative titles:
+  -
+  -
+
+Creators:
+  - Id-autore1
+  - Id-autore2
+  -
+
+Languages:
+  - jp
+  - 
+  - 
+
+Distributore:  Netflix
+
+Publisher:     #??
+
+Area geosocioculturale: jp
+
+Trigger event:             # obbligatorio
+
+Trigger event aftermaths: 
+Anthropogenic_Subversion_Intra-societal_Planetary
+
+Synopsis: "In a dystopia overrun by corruption, crime, and cybernetic implants, an impulsive but talented street kid named David Martinez, after losing everything he has in a drive-by shooting, chooses to survive on the wrong side of the law as an "edgerunner": a high-tech, black-market mercenary also known as a 'cyberpunk'. (wiki)"
+
+Riferimento file txt:
+
+Numero capitoli:
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

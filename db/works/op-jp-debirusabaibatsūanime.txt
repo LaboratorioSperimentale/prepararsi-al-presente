@@ -1,0 +1,47 @@
+id: op-jp-debirusabaibatsūanime 
+
+Type: serial 
+
+First known title:   "Debiru Sabaibā Tsū Ji Animēshon"
+
+First edition:   2014
+
+Alternative titles:
+  - "Devil Survivor 2: The Animation"
+  -
+
+Creators:
+  - aut-jp-makotouezu
+  - Id-autore2
+  -
+
+Languages:
+  - jp
+  - 
+  - 
+
+Distributore:  #??
+
+Publisher:     Square Enix
+
+Area geosocioculturale: jp
+
+Trigger event:            
+Ambiguous_Metaphysical_Intra-societal_Planetary 
+
+Trigger event aftermaths: 
+
+Synopsis: "One Sunday afternoon, Hibiki Kuze and Daichi Shijima receive macabre videos from the Nicaea[J 1] website which predict their deaths mere seconds before they are involved in a gruesome train accident. They are spared however, when a Demon Summoning App[J 2] installs itself on their phones and allows the duo and schoolmate Io Nitta to escape from carnivorous monsters feasting on the dead in the wrecked subway station. The trio are shocked to discover a massive catastrophe on the surface and take refuge in Roppongi with other panicked citizens. Suddenly, when a creature known as Dubhe (ドゥベ, Duube) appears and attacks the crowd, Hibiki puts a stop to the carnage by summoning a demon from the app and destroying the creature. This prompts the Japan Meteorological Agency, Geomagnetism Research Department - JP's[J 3] to detain Hibiki and his friends and they are brought before its head—Yamato Hotsuin, who enlists their aid in defeating the remaining Septentriones[J 4] to prevent the end of the world in one week.
+Yamato then dispatches them on a mission to retrieve the JP's scientist Fumi Kanno with fellow demon summoners Hinako Kujou and Keita Wakui, which ends up as a success at the cost of Keita's life. Following a devastating battle with Merak (メラク, Meraku), Hibiki joins the Resistance leader—Ronaldo Kuriki and learns of Yamato's true intentions as opposed to his own. As events progress, Airi Ban and Jungo Torii attempt to recapture the JP's base from the Resistance but chaos ensues when Phecda (フェクダ, Fekuda) appears and targets a defenseless Hibiki. However Yamato arrives and slays the Septentrione, saving Hibiki's life. In the aftermath, Yamato and Ronaldo engage in a heated debate over their ideals and the situation only escalates when Alcor appears and proclaims himself to be the creator of both Nicaea and the Demon Summoning App, which he had hoped would aid humanity in their darkest hour.
+An unlikely alliance between the JP's, Resistance and the unaffiliated demon summoners result in the destruction of Megrez (メグレズ, Megurezu) the following day. While a somber Hibiki struggles to cope with the steep cost of victory, Alcor reveals the true nature of events thus far. He explains it all to be the will of an entity known as Polaris (ポラリス, Porarisu) as it seeks to erase humanity's "artificial" reality using its Void phenomenon and hence restore the "natural" order. Therefore, it sent the Septentriones to destroy the spiritual barriers protecting Japan from the Void. When Hinako and Airi defeat Alioth (アリオト, Arioto) the next day, its massive shell plummets from orbit and crushes the city—killing thousands more people and sparking outrage from Hibiki over the lengths Yamato will go to achieve his goal. Unperturbed, Yamato uses Io to summon a demon called Lugh and defeats the next Septentrione—Mizar (ミザール, Mizaaru). However, when the demon possesses Io and attempts to kill Yamato for its imprisonment, Hibiki wields the Dragon Stream[J 5] and saves Io.
+As the week draws to a close, Benetnasch (ベネトナシュ, Benetonashu) appears on Saturday and completely destroys the barriers. Upon engaging the creature, Yamato allows the other summoners to die by ignoring them in the battle and ultimately defeats it with Hibiki and Daichi's help. In the aftermath, Alcor decides to support Hibiki and Yamato ends up killing him. Finally, Yamato activates the Transport Terminal to seek an audience with Polaris and Io and Daichi forfeit their lives to give Hibiki a chance at going after Yamato and saving the world. Facing each other in another dimension, Hibiki desperately tries to reach out to Yamato and ultimately overpowers him with aid from his fallen comrades. Polaris then appears and Hibiki asks it to restore the world to the way it was. He then finds himself one week in the past, with his revived friends and his memory intact and reifies the will of humanity to keep on living. (wiki)"
+
+Riferimento file txt:
+
+Numero capitoli:
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

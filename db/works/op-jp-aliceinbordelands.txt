@@ -1,0 +1,23 @@
+
+id: op-jp-aliceinbordelands
+first_known_title: “Imawa no kuni no Arisu”
+creator: 
+- aut-jp-satoshinsuke
+- Satō Shinsuke
+Year of publication: 2020
+Type: Tv Serial
+language: “japanese”
+circulating_entity: “Shobō” 
+area: jp
+trigger_event:
+Anthropogenic_Subversion_Intra-societal_Local
+        aftermaths: lista di tag da definire
+        synopsis: “Arisu — a listless, jobless and video-game-obsessed young man — suddenly finds himself in a strange, emptied-out version of Tokyo in which he and his friends must compete in dangerous games in order to survive. In this strange world, Arisu meets Usagi, a young woman who's navigating the games alone. (Rotten Tomatoes)”
+        relations: TBD
+
+
+aftermaths: lista di tag da definire 
+
+synopsis: “” 
+
+relations: TBD 

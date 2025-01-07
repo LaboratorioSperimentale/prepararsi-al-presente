@@ -1,0 +1,44 @@
+id: op-jp-burakkuburetto
+
+Type: novel 
+
+First known title:   "Burakku Buretto"
+
+First edition:   2020
+
+Alternative titles:
+  - "Black Bullet"
+  -
+
+Creators:
+  - aut-jp-shidenkanzaki
+  - Id-autore2
+  -
+
+Languages:
+  - jp
+  - 
+  - 
+
+Distributore:  #??
+
+Publisher:     #??
+
+Area geosocioculturale: jp
+
+Trigger event:             
+Nonanthropogenic_Subversion_Inconclusive_Planetary
+
+Trigger event aftermaths: 
+
+Synopsis: "In the year 2021, mankind is ravaged by the epidemic of Gastrea, a parasitic virus, and is forced to live within the Monolith walls, which are created from Varanium: a metal that is able to subdue Gastrea. Soon, children who were born with the Gastrea virus and obtained superhuman abilities as a result, are discovered and dubbed "Cursed Children". Due to the Gastrea virus' intervention, the Cursed Children could only be female. Civil Securities are formed to specialize fighting against Gastrea, operating with the pair of an Initiator, who are cursed children, and a Promoter, serving to lead the cursed children. Ten years after the epidemic, Rentarō Satomi, a high school student who is also a Promoter in Tendō Civil Security Agency owned by his childhood friend Kisara Tendō, along with his Initiator, Enju Aihara, conducts missions to prevent the destruction of the Tokyo Area and the world. (wiki)"
+
+Riferimento file txt:
+
+Numero capitoli:
+
+[AUTOMATICO] Numero token:
+
+Link Relazione:
+
+[AUTOMATICO] Personaggi:

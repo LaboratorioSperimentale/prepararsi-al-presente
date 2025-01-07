@@ -1,0 +1,23 @@
+
+id: op-jp-aplessedalpha
+first_known_title: “Appleseed Alpha”
+creator: id - Arakami Shinji - Masamune Shirow
+Year of publication: 2014
+Type: Feature-lenght
+language: “japanese”
+circulating_entity: “” 
+area: jp
+trigger_event:
+Anthropogenic_war_Intra-societal_Planetary
+
+aftermaths: lista di tag da definire
+synopsis: “In the 22nd century, after a devastating world war, veterans Deunan Knute and Briareos are living in the ruins of New York doing jobs for a cyborg despot named Two Horns, with Deunan hoping that once they've paid off their debt to him for fixing Briareos' war injuries, they can go find the legendary utopic city of Olympus, though Briareos is more pessimistic. However, whenever they are close to finishing a job, they are sabotaged.
+
+One day, while eliminating rogue combat drones, Deunan and Briareos meet Olson, a cybernetics-equipped soldier, and a young girl named Iris. Though initially reserved with each other, Olson discovers that Two Horns' mechanic Mattews has been deliberately crippling Briareos' systems to keep him and Deunan under Two Horns' thumb. Soon after, two cyborgs named Talos and Nyx, who are trailing Olson and Iris, appear, forcing Deunan and Briareos to depart with their new friends. After questioning Two Horns, and then attempting to kill him, Talos puts Deunan and Briareos on his target list as well. After recovering, Two Horns follows them to capture Iris and use her as a bargaining chip against Talos.
+
+As they travel together, Iris and Olson gradually reveal that they are from Olympus, on a mission to dispose of leftover weapons from the war. Talos is also an agent from Olympus who has developed a messiah complex and wants to use Iris to take control of these weapons. When Two Horns finds and attacks them, Iris and Olson are captured by Talos. After brutally extracting the location of a prototype superweapon from Olson's memories, Talos murders him and takes Iris with him. Briareos and Deunan find Olson's body, recover the information they need, and follow Talos and Iris to the weapon's location.
+
+In a secret underground bunker, Talos activates the superweapon - a giant, heavily armed mobile fortress - using Iris' retinal pattern. Deunan and Briareos fight their way into the complex, supported by Two Horns, who is now out for revenge against Talos, and Mattews, who presents Deunan with a power armor suit. Briareos duels and kills Nyx, but Deunan is too late to save Iris; the fortress makes its way to the surface, but instead of following Talos' commands, it is hardwired on a suicide bombing mission against New York. With Two Horns and Briareos' help, Deunan boards the superwalker and kills Talos, but in order to destroy the weapon, Briareos must snipe its power core. To prevent countermeasures, Iris remains on board and evicts Deunan from the fortress after revealing that she is a bioroid specifically created for this mission. Briareos takes the shot, destroying both the fortress and Iris inside it.
+
+After regrouping, Deunan and Briareos depart for Olympus, with Two Horns absolving them of their debts and Mattews gifting them the restored exosuit. Unknown to them, they have been closely observed by Olympus Officer Hitomi, Iris' human template. When asked whether Deunan and Briareos should be brought to Olympus for their help, Hitomi explains instead: "They're like apple seeds. Wherever they go, hope will sprout. Others who are worthy are sure to follow. (wikipedia) ”
+relations: TBD

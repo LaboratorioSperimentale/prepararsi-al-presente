@@ -1,0 +1,15 @@
+
+id: op-jp-greattrailers
+first_known_title: “Great Trailers”
+creator: id - Akira Miyagawa
+Year of publication: 2021
+Type: Sequential Art
+language: “japanese”
+circulating_entity: “Toshokan” 
+area: jp
+trigger_event:
+Unknown_War_Non-specified_Planetary
+aftermaths: lista di tag da definire
+synopsis: “Nine years have passed since the global catastrophe. These are days of fierce fighting as people try to gain supremacy in this new world. A remodelled young man meets a girl driving a mechanical animal that is in danger. The woman is called the saviour.
+ (animeclick)”
+relations: TBD
