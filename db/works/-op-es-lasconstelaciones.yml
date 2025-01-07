@@ -1,24 +1,39 @@
 id: op-es-lasconstelaciones
 
+Type: novel
+
 First known title: Las constelaciones oscuras
 
 First edition: 2016
 
-Autore:
+Alternative titles:
+  -
+
+
+Creators:
   - au-es-pol-oloixarac
+
 Language:
-  - esp
+  - es
 
 Distributor:
 
 Publisher: Literatura Random House
 
-Area: ispano
+Area geosocioculturale: es
 
-Trigger event: Anthropogenic-Subversion-Intra-societal-Planetary
+Trigger event: 
+event: Anthropogenic
+agency: Subversion
+Kernel: Intra-societal
+Scale: Planetary
+
+Trigger event aftermaths: 
 
 Synopsis: |
 Las constelaciones oscuras is a dystopia much closer than we might think. The battle for data control has already begun. The state or other organizations are gaining complete control over individuals, even over their very DNA
+
+Riferimento file txt:
 
 Number of chapters: 
 

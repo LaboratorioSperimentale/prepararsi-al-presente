@@ -1,24 +1,39 @@
-id: op-es-
+id: op-es-lasuma
 
-First known title: 
+Type: novel
 
-First edition: 
+First known title: La suma de los ceros
 
-Autore:
-  - au-es-
+First edition: 2015
+
+Alternative titles:
+  -
+
+
+Creators:
+  - au-es-edu-rabasa
+
 Language:
-  - esp
+  - es
 
 Distributor:
 
 Publisher: Pepitas de calabaza
 
-Area: ispano
+Area geosocioculturale: es
 
-Trigger event: 
+Trigger event:
+event: Anthropogenic
+agency: Subversion
+Kernel: Intra-societal
+Scale: Local
+
+Trigger event aftermaths: 
 
 Synopsis: |
+Villa Miserias is an ordinary city in an unspecified Latin American country, and Max Michels is a man at odds with power and its new ideology called "quietism in motion." He is a man in perpetual conflict with every form of authority, with his love for Nelly López, and with his own mind and its many demons.
 
+Riferimento file txt:
 
 Number of chapters: 
 
@@ -27,3 +42,4 @@ Number of chapters:
 Link Relazione:
 
 [AUTOMATICO] Personaggi:
+

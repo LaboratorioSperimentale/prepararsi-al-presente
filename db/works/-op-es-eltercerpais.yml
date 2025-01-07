@@ -1,26 +1,40 @@
 id: op-es-eltercerpais
 
+Type: novel
+
 First known title: El tercer país
 
 First edition: 2021
 
-Autore:
+Alternative titles:
+  -
+
+Creators:
   - au-es-kar-sainzborgo
+
 Language:
-  - esp
+  - es
 
 Distributor:
 
 Publisher: Lumen
 
-Area: ispano
+Area geosocioculturale: es
 
-Trigger event: Ambiguous-War-Intra-societal-Continental
+Trigger event: 
+event: Ambiguous
+agency: War
+Kernel: Intra-societal
+Scale: Continental
+
+Trigger event aftermaths: 
 
 Synopsis: |
 Everything takes place on a border, the one dividing the eastern and western mountains. Angustias Romero flees the plague with her husband and their two infants tied to her back. The premature twins die along the way, and after placing them in shoeboxes, the couple heads to bury them in El Tercer País, the illegal cemetery run by the legendary Visitación Salazar.
 As danger and violence escalate, the boundaries between life and death blur until the very last moment.(back cover)
 
+
+Riferimento file txt:
 
 Number of chapters: 
 

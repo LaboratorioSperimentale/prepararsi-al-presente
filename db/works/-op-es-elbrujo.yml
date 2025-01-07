@@ -1,28 +1,39 @@
 id: op-es-elbrujo
 
+Type: novel
+
 First known title: El brujo
 
 First edition: 2015
 
-Autore:
+Alternative titles:
+  -
+
+Creators:
   - au-es-mat-bragagnolo
+  
 
 Language:
-  - esp
+  - es
 
 Distributor:
 
 Publisher: Del nuevo extremo
 
-Area: ispano
+Area geosocioculturale: es
 
-Trigger event: Anthropogenic-War-Intra-societal-Local
+Trigger event: 
+event: Anthropogenic
+agency: War
+Kernel: Intra-societal
+Scale: Local
 
+Trigger event aftermaths: 
 
 Synopsis: |
 A maximum-security prison built next to the Andes mountain range by the far-right triumvirate governing a decaying Argentina since 2018. Officially declared "drug-free," the prison is ruled by a psychopathic warden who supplies everyone with cocaine—until the National Punitive Service decides to sever all ties between the prison and drug trafficking. This sparks a horrific, widespread riot which, after a fleeting miracle, forces the warden to turn to the most feared and respected figure within his domain.
 
-  
+Riferimento file txt:
 
 Number of chapters: 
 
