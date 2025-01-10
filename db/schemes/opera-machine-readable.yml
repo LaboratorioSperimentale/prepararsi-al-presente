@@ -1,6 +1,6 @@
 id:
   type: string
-  regex: '^op-(en|jp|es)-[a-z]+$'
+  regex: '^op-(en|jp|es)-[a-z]+[1-9]*$'
   required: true
 
 Type:
