@@ -17,7 +17,7 @@ Distributor: MXR Productions
 Area: es
 
 Trigger event:
-  agency: nonanthropogenic
+  agency: non-anthropogenic
   event: environmental
   kernel: extra-societal
   scale: local
