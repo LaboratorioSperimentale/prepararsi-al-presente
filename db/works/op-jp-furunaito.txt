@@ -17,28 +17,18 @@ Creators:
 
 Languages:
   - jp
-  - 
-  - 
+  -
+  -
 
 Distributore:  #??
 
 Publisher:     Shogakukan
 
-Area geosocioculturale: jp
+Area: jp
 
-Trigger event:            
-Nonanthropogenic_Environmental_Natural_Planetary 
+Trigger event:
+Nonanthropogenic_Environmental_Natural_Planetary
 
-Trigger event aftermaths: 
+
 
 Synopsis: "In the distant future, planet Earth is a place covered in thick clouds and no longer as bright as it once was, a world where plants are dead and oxygen is running out. In this hostile environment, humans have survived by developing technology that turns them into plants that produce a small amount of oxygen. People are faced with a choice: whether to live as people in an uncertain world or to abandon suffering and embark on a new life as plants. (animeclick)"
-
-Riferimento file txt:
-
-Numero capitoli:
-
-[AUTOMATICO] Numero token:
-
-Link Relazione:
-
-[AUTOMATICO] Personaggi:

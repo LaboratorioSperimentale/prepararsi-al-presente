@@ -11,8 +11,6 @@ Creators:
 
 Language:
   - jp
-
-
 Publisher: 中公文庫 Chukobunko
 
 Area: jp

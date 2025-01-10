@@ -2,6 +2,8 @@ id: op-jp-kaikin
 
 First known title: Kaikin no to
 
+Type: novel
+
 First edition: 2013
 
 Creators:
@@ -9,9 +11,6 @@ Creators:
 
 Language:
   - jp
-
-
-
 Publisher: Tokyo Sogensha Co., Ltd.
 
 Area: jp
@@ -21,17 +20,5 @@ Trigger event:
   event: subversion
   kernel: intra-societal
   scale: universal
-
-
 Synopsis: |
   A strange journey into the far future of genetic engineering, and working life. After centuries of tinkering, many human bodies only have a casual similarity to what we now know, but both work and school continue apace. Will the enigmatic sad sack known only as 'the worker' survive the day? Will the young student Hanishibe get his questions about the biological future of humanity answered, or will he have to transfer to the department of theology? Will Umari and her master ever comprehend the secrets of nanodust?
-
-
-
-
-
-
-
-
-
-

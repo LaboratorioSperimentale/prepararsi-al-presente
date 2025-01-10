@@ -19,7 +19,7 @@ Anthropogenic_War_Intra-societal_Global
 aftermaths: atomic_weapon
 =======
 trigger_event:  nuclear bomb
-agency:  Anthropogenic
+	agency:  Anthropogenic
 type: War
 kernel:  Intra-societal
 scale: Global
@@ -31,12 +31,3 @@ synopsis: “Sarajevo once again becomes the centre of world history when a home
 
 relations: TBD
 
-
-
-Number of chapters:
-
-[AUTOMATICO] Numero token:
-
-Link Relazione:
-
-[AUTOMATICO] Personaggi:

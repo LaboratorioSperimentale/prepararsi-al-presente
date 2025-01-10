@@ -15,29 +15,18 @@ Creators:
 Language:
   - es
 
-Distributor:
-
 Publisher: Candaya
 
-Area geosocioculturale: es
+Area: es
 
-Trigger event: 
-event: Anthropogenic
-agency: Subversion
-Kernel: Intra-societal
-Scale: Local
+Trigger event:
+	event: Anthropogenic
+	agency: Subversion
+	kernel: Intra-societal
+	scale: Local
 
-Trigger event aftermaths: 
+
 
 Synopsis: |
 The novel follows the creation of a video game in the deep web. Its central characters—El Cuco Martínez, Iván Herrera, Kiki Ortega, and siblings Cecilia, Irene, and Emilio Terán—all share an apartment in Barcelona, weaving a story of collaboration, intrigue, and the uncharted digital world.
 
-Riferimento file txt:
-
-Number of chapters: 
-
-[AUTOMATICO] Numero token:
-
-Link Relazione:
-
-[AUTOMATICO] Personaggi:

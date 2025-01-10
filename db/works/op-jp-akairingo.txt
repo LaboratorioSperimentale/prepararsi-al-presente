@@ -4,28 +4,24 @@ Type: sequential Art
 
 first_known_title: "Akai ringo"
 
-creator: 
+creator:
 - aut-jp-muratakoji
  - MURATA Kōji
 
 Year of publication: 2020
 
 Type: Sequential Art
-
-
 language: “japanese”
 
-circulating_entity: “Kōdansha” 
+circulating_entity: “Kōdansha”
 
 area: jp
 
 trigger_event: anthropogenic_Subversion_Intra-societal_Local
 
  relations: TBD
+aftermaths: lista di tag da definire
 
+synopsis: “The story is set in modern Japan where sexual activity is illegal. Hikaru Inuta is a model student who, together with a friend, witnesses a show that shocks him. The two had gone to a club and witnessed sex scenes... in front of this vision, dormant impulses arise in Hikaru.”
 
-aftermaths: lista di tag da definire 
-
-synopsis: “The story is set in modern Japan where sexual activity is illegal. Hikaru Inuta is a model student who, together with a friend, witnesses a show that shocks him. The two had gone to a club and witnessed sex scenes... in front of this vision, dormant impulses arise in Hikaru.” 
-
-relations: TBD 
+relations: TBD

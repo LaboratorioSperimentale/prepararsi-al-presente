@@ -15,29 +15,18 @@ Creators:
 Language:
   - es
 
-Distributor:
-
 Publisher: Grupo Rodrigo Porrúa
 
-Area geosocioculturale: es
+Area: es
 
-Trigger event: 
-event: Anthropogenic
-agency: Environmental
-Kernel: Intra-societal
-Scale: Planetary
+Trigger event:
+	event: Anthropogenic
+	agency: Environmental
+	kernel: Intra-societal
+	scale: Planetary
 
-Trigger event aftermaths: 
+
 
 Synopsis: |
 The human race has pushed the planet's regenerative capacity to its limit. The options to prevent collapse could spark a global conflict. One man holds in his hands a decision that could change life as we know it on Earth
 
-Riferimento file txt:
-
-Number of chapters: 
-
-[AUTOMATICO] Numero token:
-
-Link Relazione:
-
-[AUTOMATICO] Personaggi:

@@ -17,29 +17,18 @@ Creators:
 
 Languages:
   - jp
-  - 
-  - 
+  -
+  -
 
 Distributore:  #??
 
 Publisher:     #??
 
-Area geosocioculturale: jp
+Area: jp
 
-Trigger event:            
+Trigger event:
 Anthropogenic_Metaphysical_Intra-societal_Non-specified
 
-Trigger event aftermaths: 
+
 
 Synopsis: "the story describes the downfall of human race due to paranoia towards anyone after Ryo Asuka, the main villain, spreads false information that anyone can be a demon due to dissatisfaction with society."
-
-
-Riferimento file txt:
-
-Numero capitoli:
-
-[AUTOMATICO] Numero token:
-
-Link Relazione:
-
-[AUTOMATICO] Personaggi:

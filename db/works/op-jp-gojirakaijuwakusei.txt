@@ -17,29 +17,18 @@ Creators:
 
 Languages:
   - jp
-  - 
-  - 
+  -
+  -
 
 Distributore:  #??
 
 Publisher:     #??
 
-Area geosocioculturale: jp
+Area: jp
 
 Trigger event:             # obbligatorio
 
-Trigger event aftermaths: 
+
 Anthropogenic_Environmental_Natural_Planetary
 
 Synopsis: "Humans are forced to evacuate Earth when several Kaiju including Godzilla surface and wreak havoc across the Earth. 20,000 years later they return after failing to find another habitable planet in order to reclaim the Earth and destroy Godzilla, however they discover that the planet has changed drastically in humanity’s absence. Was followed by two sequels Godzilla: City on the Edge of Battle and Godzilla: The Planet Eater."
-
-
-Riferimento file txt:
-
-Numero capitoli:
-
-[AUTOMATICO] Numero token:
-
-Link Relazione:
-
-[AUTOMATICO] Personaggi:

@@ -13,9 +13,6 @@ Language: giapp
   - en
   - esp
   - ...
-
-
-
 Publisher: 講談社 Kodansha
 
 Area: [en, es, nippo] giappone
@@ -26,14 +23,3 @@ Trigger event:
 Synopsis: |
   In un futuro in cui il pianeta è sconvolto da crisi climatiche ed economiche, molte nazioni, come il Giappone, decidono di attuare una politica di chiusura. Per motivi non chiariti, forse di natura sanitaria o per cambiamenti climatici, gli adulti sembrano non poter morire e continuano a invecchiare sempre più in una senilità ricca di vitalità, mentre i bambini nascono con problemi fisici sempre più importanti: carenza di calcio nelle ossa e nei denti, salute cagionevole, intolleranza alimentare e malformazioni.
   Il romanzo descrive nel dettaglio la vita di Yoshirō e il bisnipote Mumei. Mumei ha molte disabilità fisiche importanti, che gli rendono difficili i compiti quotidiani, come addirittura deglutire, mentre Yoshirō vive con una vitalità inalterata. Vivono alla periferia di Tokyo in una casa prefabbricata, perché il centro è diventato troppo pericoloso per essere abitato ora che la terra, l'aria e l'acqua sono molto inquinate.
-
-
-
-
-
-
-
-
-
-
-
