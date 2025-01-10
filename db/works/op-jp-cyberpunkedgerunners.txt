@@ -6,18 +6,14 @@ First known title:   # obbligatorio
 
 First edition:   ## obbligatorio
 
-Alternative titles:
-  -
-  -
+
 
 Creators:
   - Id-autore1
   - Id-autore2
-  -
 
 Languages:
   - jp
-  -
   -
 
 Distributore:  Netflix
