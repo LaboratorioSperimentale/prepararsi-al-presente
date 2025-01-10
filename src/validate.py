@@ -166,6 +166,7 @@ if __name__ == "__main__":
 			validation_test = validator.validate(instance)
 
 			if validation_test:
+				continue
 				output_str = fg.green + \
 					f"[PASSED] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
 						fg.rs
