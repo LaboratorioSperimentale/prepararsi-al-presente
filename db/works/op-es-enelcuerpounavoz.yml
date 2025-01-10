@@ -20,10 +20,10 @@ Publisher: Eterna Cadencia
 Area: es
 
 Trigger event:
-	event: Anthropogenic
-	agency: Subversion
-	kernel: Intra-societal
-	scale: Local
+  event: Anthropogenic
+  agency: Subversion
+  kernel: Intra-societal
+  scale: Local
 
 
 

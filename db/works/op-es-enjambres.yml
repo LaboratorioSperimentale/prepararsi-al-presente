@@ -20,10 +20,10 @@ Publisher: Altamarea
 Area: es
 
 Trigger event:
-	event: Ambiguous
-	agency: Environmental
-	kernel: Inconclusive
-	scale: Local
+  event: Ambiguous
+  agency: Environmental
+  kernel: Inconclusive
+  scale: Local
 
 
 

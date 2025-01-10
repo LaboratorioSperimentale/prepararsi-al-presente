@@ -20,10 +20,10 @@ Publisher: La pollera
 Area: es
 
 Trigger event:
-	event: Anthropogenic
-	agency: War
-	kernel: Intra-societal
-	scale: Multi-planetary
+  event: Anthropogenic
+  agency: War
+  kernel: Intra-societal
+  scale: Multi-planetary
 
 
 Synopsis: |

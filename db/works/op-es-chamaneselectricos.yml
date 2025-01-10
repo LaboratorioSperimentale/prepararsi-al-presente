@@ -20,10 +20,10 @@ Publisher: Literatura Random House
 Area: es
 
 Trigger event:
-	event: Anthropogenic
-	agency: War
-	kernel: Intra-societal
-	scale: Local
+  event: Anthropogenic
+  agency: War
+  kernel: Intra-societal
+  scale: Local
 
 
 

@@ -17,10 +17,10 @@ Publisher: Libro Escuchas
 Area: es
 
 Trigger event:
-	event: Nonanthropogenic
-	agency: War
-	kernel: Extra-societal
-	scale: Continental
+  event: Nonanthropogenic
+  agency: War
+  kernel: Extra-societal
+  scale: Continental
 
 
 

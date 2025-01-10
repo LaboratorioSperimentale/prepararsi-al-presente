@@ -20,10 +20,10 @@ Publisher: Pez espiral
 Area: es
 
 Trigger event:
-	event: Anthropogenic
-	agency: Subversion
-	kernel: Intra-societal
-	scale: Planetary
+  event: Anthropogenic
+  agency: Subversion
+  kernel: Intra-societal
+  scale: Planetary
 
 
 

@@ -20,10 +20,10 @@ Publisher: Los libros de la mujer rota
 Area: es
 
 Trigger event:
-	event: Ambiguous
-	agency: Subversion
-	kernel: Inconclusive
-	scale: Local
+  event: Ambiguous
+  agency: Subversion
+  kernel: Inconclusive
+  scale: Local
 
 
 

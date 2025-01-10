@@ -19,7 +19,7 @@ Anthropogenic_War_Intra-societal_Global
 aftermaths: atomic_weapon
 =======
 trigger_event:  nuclear bomb
-	agency:  Anthropogenic
+  agency:  Anthropogenic
 type: War
 kernel:  Intra-societal
 scale: Global

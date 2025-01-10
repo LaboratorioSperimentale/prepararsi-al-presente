@@ -151,7 +151,6 @@ if __name__ == "__main__":
 
 	n_warnings = 0
 	for file in new_files:
-		print(file)
 		with open(file, encoding="utf-8") as stream:
 			try:
 				instance = yaml.safe_load(stream)
@@ -161,7 +160,7 @@ if __name__ == "__main__":
 			# print(instance)
 			# input()
 
-			print(f"Examining Author ID. {Path(file).stem}: {instance['id']}")
+			# print(f"Examining Author ID. {Path(file).stem}: {instance['id']}")
 
 			validation_test = validator.validate(instance)
 
@@ -175,10 +174,10 @@ if __name__ == "__main__":
 
 			else:
 							# print(validation_test)
-				print(validator.errors)
+				# print(validator.errors)
 				output_str = fg(255, 10, 10) + \
-					f"[FAILED] AUTHOR ID. {Path(file).stem}: {instance['id']}" + \
-						fg.rs
+					f"[FAILED] FILE {Path(file).stem}: ID {instance['id']}" + \
+						fg.rs + " ---> " + str(validator.errors)
 
 				print(output_str)
 				# input()

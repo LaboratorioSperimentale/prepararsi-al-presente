@@ -20,10 +20,10 @@ Publisher: Tusquets
 Area: es
 
 Trigger event:
-	event: Ambiguous
-	agency: Subversion
-	kernel: Non-specified
-	scale: Planetary
+  event: Ambiguous
+  agency: Subversion
+  kernel: Non-specified
+  scale: Planetary
 
 
 

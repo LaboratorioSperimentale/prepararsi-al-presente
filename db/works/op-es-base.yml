@@ -23,10 +23,10 @@ Publisher:     Verbum
 Area: es
 
 Trigger event:
-	event: ambiguous
-	agency: Subversion
-	kernel: Intra-societal
-	scale: Continental
+  event: ambiguous
+  agency: Subversion
+  kernel: Intra-societal
+  scale: Continental
 
 
 

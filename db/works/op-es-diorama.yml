@@ -20,10 +20,10 @@ Publisher: Monroy Editor
 Area: es
 
 Trigger event:
-	event: Anthropogenic
-	agency: Subversion
-	kernel: Extra-societal
-	scale: Local
+  event: Anthropogenic
+  agency: Subversion
+  kernel: Extra-societal
+  scale: Local
 
 
 

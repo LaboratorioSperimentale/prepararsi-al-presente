@@ -19,10 +19,10 @@ Publisher: Alfaguara
 Area: es
 
 Trigger event:
-	event: Anthropogenic
-	agency: War
-	kernel: Intra-societal
-	scale: Planetary
+  event: Anthropogenic
+  agency: War
+  kernel: Intra-societal
+  scale: Planetary
 
 
 

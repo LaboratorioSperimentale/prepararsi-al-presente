@@ -20,10 +20,10 @@ Publisher:   Puerto de Escape
 Area: es
 
 Trigger event:
-	event: Anthropogenic
-	agency: Subversion
-	kernel: Extra-societal
-	scale: Multi-planetary
+  event: Anthropogenic
+  agency: Subversion
+  kernel: Extra-societal
+  scale: Multi-planetary
 
 
 Synopsis:
