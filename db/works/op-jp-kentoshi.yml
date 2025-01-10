@@ -1,8 +1,8 @@
 id: op-jp-kentoshi
 
-
-
 First known title: Kentōshi
+
+Type: novel
 
 First edition: 2014
 
@@ -13,13 +13,15 @@ Language:
   - jp
 
 
-
 Publisher: Kodansha Ltd.
 
 Area: jp
 
 Trigger event:
-  - Anthropic_Unspecified_Unknown
+  agency:  anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
 
 
