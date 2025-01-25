@@ -19,10 +19,10 @@ Publisher: Grupo Rodrigo Porrúa
 Area: es
 
 Trigger event:
-  event: Anthropogenic
-  agency: Environmental
-  kernel: Intra-societal
-  scale: Planetary
+  agency: anthropogenic
+  event: environmental
+  kernel: intra-societal
+  scale: planetary
 
 
 
