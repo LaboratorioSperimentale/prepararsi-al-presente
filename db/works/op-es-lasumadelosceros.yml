@@ -17,10 +17,10 @@ Publisher: Pepitas de calabaza
 Area: es
 
 Trigger event:
-  event: Anthropogenic
-  agency: Subversion
-  kernel: Intra-societal
-  scale: Local
+  agency: anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
 
 
 

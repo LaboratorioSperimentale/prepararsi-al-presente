@@ -17,10 +17,10 @@ Publisher: Ediciones Vestigio
 Area: es
 
 Trigger event:
-  event: Ambiguous
-  agency: Subversion
-  kernel: Intra-societal
-  scale: Local
+  agency: ambiguous
+  event: subversion
+  kernel: intra-societal
+  scale: local
 
 
 

@@ -5,11 +5,24 @@ Type: person
 Name: Takashi
 
 Surname: NAKAMURA
+<<<<<<< HEAD
+LegalEntityName: ~
+DataOfBirth: 12/09/1955
+DateEstablished: ~
+Language: jp
+HeadQuarters: ~
+Area: ~
+IdentifiesAs: cis-m
+=======
 
 Identifies as: cis-m
 
+<<<<<<< HEAD:db/authors/au-xx-tak-nakamura.yml
+>>>>>>> 8f3eae85a76f5da284c2e96f29966089d676c37f
+=======
 Area: jp
 
+>>>>>>> c3f279243ca6f4d52883283b3c679298f244f98e:db/authors/au-jp-tak-nakamura.yml
 Pronoun:
   - he, him
 

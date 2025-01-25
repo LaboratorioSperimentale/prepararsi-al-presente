@@ -1,0 +1,25 @@
+id: aut-jp-abiumeda
+
+Type: person
+
+Name: "Abi"                                
+
+Surname: "Umeda"                             
+
+Date of birth: (gg/mm/aaaa) | mm/aaaa | aaaa  
+
+Language:
+  - "japanese"
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp 
+
+Identifies as: cis-m/f
+
+Pronoun:
+  - proName (esempio: she, her)
+
+Alias:
+  -
+
+Compilatore: JS                    

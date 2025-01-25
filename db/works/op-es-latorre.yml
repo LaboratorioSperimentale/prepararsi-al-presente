@@ -16,8 +16,8 @@ Publisher: Lector Cómplice
 Area: es
 
 Trigger event:
-  event: Anthropogenic
-  agency: subversion
+  agency: Anthropogenic
+  event: subversion
   kernel: Intra-societal
   scale: Local
 

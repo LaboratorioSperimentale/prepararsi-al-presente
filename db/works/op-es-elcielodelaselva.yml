@@ -19,10 +19,10 @@ Publisher: Lava
 Area: es
 
 Trigger event:
-  event: Ambiguous
-  agency: War
-  kernel: Intra-societal
-  scale: Planetary
+  agency: ambiguous
+  event: war
+  kernel: intra-societal
+  scale: planetary
 
 
 

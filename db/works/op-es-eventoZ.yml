@@ -1,4 +1,4 @@
-id: op-es-eventoZ
+id: op-es-eventoz
 
 First known title: Evento Z. Zombis en Valparaíso
 
@@ -17,8 +17,8 @@ Publisher: Editorial Forja
 Area: es
 
 Trigger event:
-  event: Non-anthropogenic
-  agency: War
+  agency: non-anthropogenic
+  event: war
   kernel: Extra-societal
   scale: Planetary
 

@@ -4,13 +4,25 @@ Type: person
 
 Name: "Hiroshi"
 
+<<<<<<< HEAD
+Surname: “YAMAMOTO”
+<<<<<<< HEAD
+LegalEntityName: ~
+DataOfBirth: 1956
+DateEstablished: ~
+Language: “JAPANESE”
+HeadQuarters: ~
+=======
+=======
 Surname: YAMAMOTO
+>>>>>>> c3f279243ca6f4d52883283b3c679298f244f98e
 
 Date of birth: 1956
 
 Language:
   - jp
 
+>>>>>>> 8f3eae85a76f5da284c2e96f29966089d676c37f
 Area: jp
 
 Identifies as: cis-m

@@ -10,17 +10,17 @@ Creators:
   - au-es-fran-rivas
 
 Language:
-  - esp
+  - es
 
 Publisher: Ceibo ediciones
 
 Area: ispano
 
 Trigger event:
-  event: Ambiguous
-  agency: Metaphysical
-  kernel: Intra-societal
-  scale: Planetary
+  agency: ambiguous
+  event: metaphysical
+  kernel: intra-societal
+  scale: planetary
 
 
 

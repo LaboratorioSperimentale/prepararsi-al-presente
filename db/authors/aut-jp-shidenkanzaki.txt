@@ -1,0 +1,27 @@
+id:  aut-jp-shidenkanzaki
+
+
+Type: person
+
+Name: "Shiden"                                
+
+Surname: "Kanzaki"                             
+
+Date of birth: 1985 
+
+Language:
+  - "japanese"
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp 
+
+Identifies as: cis-m
+
+Pronoun:
+  - proName (esempio: he, him)
+ 
+
+Alias:
+  -
+
+Compilatore: JS                    

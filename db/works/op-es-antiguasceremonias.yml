@@ -19,10 +19,10 @@ Publisher: Paradiso Editores
 Area: es
 
 Trigger event:
-  event: Ambiguous
-  agency: Metaphysical
-  kernel: Inconclusive
-  scale: Planetary
+  agency: ambiguous
+  event: metaphysical
+  kernel: inconclusive
+  scale: planetary
 
 
 

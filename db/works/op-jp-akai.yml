@@ -16,7 +16,7 @@ Publisher: Kōdansha
 Area: jp
 
 Trigger event:
-  agency:  anthropogenic
+  agency: anthropogenic
   event: subversion
   kernel: intra-societal
   scale: local

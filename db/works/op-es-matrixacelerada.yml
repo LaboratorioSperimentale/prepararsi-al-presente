@@ -19,10 +19,10 @@ Publisher: Holobionte
 Area: es
 
 Trigger event:
-  event: Ambiguous
-  agency: Metaphysical
-  kernel: InExtratra-societal
-  scale: Multi-versal
+  agency: ambiguous
+  event: metaphysical
+  kernel: intra-societal
+  scale: multi-versal
 
 
 

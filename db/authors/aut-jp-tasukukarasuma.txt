@@ -1,0 +1,26 @@
+id: aut-jp-tasukukarasuma
+
+Type: person
+
+Name: "Tasuku"                                
+
+Surname: "Karasuma"                             
+
+Date of birth: (gg/mm/aaaa) | mm/aaaa | aaaa  
+
+Language:
+  - "japanese"
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp 
+
+Identifies as: cis-m
+
+Pronoun:
+  - proName (esempio: he, him)
+ 
+
+Alias:
+  -
+
+Compilatore: JS                    

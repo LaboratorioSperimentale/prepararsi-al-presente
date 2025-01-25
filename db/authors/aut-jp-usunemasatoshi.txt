@@ -1,0 +1,25 @@
+id: aut-jp-usunemasatoshi
+
+Type: person
+
+Name: "Usune"                               
+
+Surname: "Masatoshi"                             
+
+Date of birth: (10/03/1961)  
+
+Language:
+  - "japanese"
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp 
+
+Identifies as: cis-m
+
+Pronoun:
+  - proName (esempio: he, him)
+
+Alias:
+  -
+
+Compilatore: JS                    

@@ -19,8 +19,8 @@ Publisher: Editorial 3600
 Area: es
 
 Trigger event:
-  event: Anthropogenic
-  agency: War
+  agency: anthropogenic
+  event: war
   kernel: Intra-societal
   scale: Local
 

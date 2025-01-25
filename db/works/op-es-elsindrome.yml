@@ -17,8 +17,8 @@ Publisher: Indipendently published
 Area: es
 
 Trigger event:
-  event: Anthropogenic
-  agency: War
+  agency: anthropogenic
+  event: war
   kernel: Intra-societal
   scale: Planetary
 

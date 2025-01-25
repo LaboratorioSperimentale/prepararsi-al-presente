@@ -4,10 +4,22 @@ Type: person
 
 Name: Yūya
 
+<<<<<<< HEAD
+Surname: “Satō”
+<<<<<<< HEAD
+LegalEntityName: ~
+DataOfBirth: 1980
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+=======
+=======
 Surname: Satō
+>>>>>>> c3f279243ca6f4d52883283b3c679298f244f98e
 
 Date of birth: 1980
 
+>>>>>>> 8f3eae85a76f5da284c2e96f29966089d676c37f
 Area: jp
 
 Identifies as: cis-m

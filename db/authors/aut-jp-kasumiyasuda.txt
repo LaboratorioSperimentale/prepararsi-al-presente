@@ -1,0 +1,25 @@
+id: aut-jp-kasumiyasuda
+
+Type: person
+
+Name: "Kasumi"                                
+
+Surname: "Yusuda"                             
+
+Date of birth: (gg/mm/aaaa) | mm/aaaa | aaaa  
+
+Language:
+  - "japanese"
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp 
+
+Identifies as: [cis-m/f | trans | non-binario] # Se tupe è "person"
+
+Pronoun:
+
+
+Alias:
+  -
+
+Compilatore: JS                    

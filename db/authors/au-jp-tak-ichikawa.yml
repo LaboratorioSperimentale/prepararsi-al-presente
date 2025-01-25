@@ -2,14 +2,28 @@ id: au-jp-tak-ichikawa
 
 Type: person
 
-Name: Takuji
+Name: "Takuji"
 
+<<<<<<< HEAD
+Surname: “Ichikawa”
+<<<<<<< HEAD
+LegalEntityName: ~
+DataOfBirth: 07/10/1962
+DateEstablished: ~
+=======
+
+Date of birth: 10/07/1962
+
+>>>>>>> 8f3eae85a76f5da284c2e96f29966089d676c37f
+Language: jp
+=======
 Surname: Ichikawa
 
 Date of birth: 10/07/1962
 
 Language:
   - jp
+>>>>>>> c3f279243ca6f4d52883283b3c679298f244f98e
 
 Area: jp
 

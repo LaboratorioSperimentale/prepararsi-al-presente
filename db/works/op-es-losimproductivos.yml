@@ -18,10 +18,10 @@ Publisher: CreateSpace Independent Publishing Platform
 Area: es
 
 Trigger event:
-  event: Anthropogenic
-  agency: Subversion
-  kernel: Intra-societal
-  scale: Continental
+  agency: anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: continental
 
 
 

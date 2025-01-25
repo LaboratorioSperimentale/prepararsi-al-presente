@@ -1,0 +1,35 @@
+id: aut-jp-kazutakakodaka
+
+Type: person
+
+Name: "Kazutaka"                                
+
+Surname: "Kodaka"                            
+
+Date of birth: (08/07/1978)  
+
+Language:
+  - "japanese"
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp 
+
+Identifies as: cis-m
+
+Pronoun:
+  - proName (esempio: he, him)
+ 
+
+Alias:
+  -
+
+Compilatore: JS                    
+
+
+# ci sono un po' di questioni su cui accordarsi
+
+# - quando type è "legal-entity" alcune volte viene compilato
+#   Name e Legal_Entity_Name altre volte solo Legal_Entity_Name+
+
+
+# - cis-m e cis-f sono ridondanti?!?

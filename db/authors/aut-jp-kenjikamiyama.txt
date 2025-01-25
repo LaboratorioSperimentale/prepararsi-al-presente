@@ -1,0 +1,26 @@
+id: aut-jp-kenjikamiyama
+
+Type: person
+
+Name: "Kenji"                                
+
+Surname: "Kamiya"                             
+
+Date of birth: (20/03/1966)  
+
+Language:
+  - "japanese"
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp 
+
+Identifies as: cis-m
+
+Pronoun:
+  - proName (esempio: he, him)
+
+
+Alias:
+  -
+
+Compilatore: JS                    

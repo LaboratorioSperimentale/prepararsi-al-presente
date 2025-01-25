@@ -5,7 +5,15 @@ Type: person
 Name: Man'ichi
 
 Surname: YOSHIMURA
+<<<<<<< HEAD
+LegalEntityName: ~
+DataOfBirth: 19/02/1961
+DateEstablished: ~
+Language: ~
+HeadQuarters: ~
+=======
 
+>>>>>>> 8f3eae85a76f5da284c2e96f29966089d676c37f
 Area: jp
 
 Identifies as: CIS-M

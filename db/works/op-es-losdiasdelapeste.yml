@@ -17,10 +17,10 @@ Publisher: Malpaso ediciones
 Area: es
 
 Trigger event:
-  event: Ambiguous
-  agency: Metaphysical
-  kernel: Extra-societal
-  scale: Local
+  agency: ambiguous
+  event: metaphysical
+  kernel: extra-societal
+  scale: local
 
 
 

@@ -19,10 +19,10 @@ Publisher: Candaya
 Area: es
 
 Trigger event:
-  event: Ambiguous
-  agency: Subversion
-  kernel: Extra-societal
-  scale: Local
+  agency: ambiguous
+  event: subversion
+  kernel: extra-societal
+  scale: local
 
 
 

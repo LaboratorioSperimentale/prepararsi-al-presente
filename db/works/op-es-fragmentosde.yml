@@ -19,8 +19,8 @@ Publisher: Sportula
 Area: es
 
 Trigger event:
-  event: Ambiguous
-  agency: Subversion
+  agency: ambiguous
+  event: subversion
   kernel: Inconclusive
   scale: Planetary
 

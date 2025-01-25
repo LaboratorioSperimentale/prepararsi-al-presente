@@ -1,0 +1,27 @@
+id: op-jp-girlsfrontline
+
+First known title: "Girls' Frontline"
+
+Type: videogame
+
+First edition: 2016
+
+Creators:
+  - au-jp-micateam-micateam
+
+Language:
+  - jp
+  - chn
+
+Distributor: Dark Winter
+
+Area: jp
+
+Trigger event:
+  agency: anthropogenic
+  event: war
+  kernel: intra-societal
+  scale: planetary
+
+synopsis: “The story is set in an alternate timeline of Earth in 2060. The aftermath of a military accident causing widespread disease, as well as the recent conclusion of a nuclear war, has massively depopulated the planet, rendered much of the surface uninhabitable, and reduced nations once in the shadow of their former selves. Androids used for work and combat have become an important aspect of life, and easily replicable, disposable androids known as Tactical Dolls (T-Dolls) are used by private military companies on the front lines of numerous wars against the new AI threat.”
+relations: TBD

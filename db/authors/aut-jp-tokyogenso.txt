@@ -1,0 +1,34 @@
+id: aut-jp-tokyogenso
+
+Type: person
+
+Name: "Tokyo"                                
+
+Surname: "Gensō"                            
+
+Date of birth: (gg/mm/aaaa) | mm/aaaa | aaaa  
+
+Language:
+  - "japanese"
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp 
+
+Identifies as: 
+
+Pronoun:
+
+
+Alias:
+  -
+
+Compilatore: JS                    
+
+
+# ci sono un po' di questioni su cui accordarsi
+
+# - quando type è "legal-entity" alcune volte viene compilato
+#   Name e Legal_Entity_Name altre volte solo Legal_Entity_Name+
+
+
+# - cis-m e cis-f sono ridondanti?!?

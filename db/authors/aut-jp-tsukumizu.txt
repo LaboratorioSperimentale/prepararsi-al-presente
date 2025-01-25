@@ -1,0 +1,35 @@
+id: aut-jp-tsukumizu
+
+Type: person
+
+Name: "Tsukumizu"                                
+
+Surname: (string)                             
+
+Date of birth: (gg/mm/aaaa) | mm/aaaa | aaaa  
+
+Language:
+  - "japanese"
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp 
+
+Identifies as: [cis-m/f | trans | non-binario] # Se tupe è "person"
+
+Pronoun:
+  - proName (esempio: he, him)
+  - proName (esempio: she, her)
+
+Alias:
+  -
+
+Compilatore: JS                    
+
+
+# ci sono un po' di questioni su cui accordarsi
+
+# - quando type è "legal-entity" alcune volte viene compilato
+#   Name e Legal_Entity_Name altre volte solo Legal_Entity_Name+
+
+
+# - cis-m e cis-f sono ridondanti?!?

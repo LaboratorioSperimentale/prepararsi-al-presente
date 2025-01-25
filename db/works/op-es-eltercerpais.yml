@@ -19,10 +19,10 @@ Publisher: Lumen
 Area: es
 
 Trigger event:
-  event: Ambiguous
-  agency: War
-  kernel: Intra-societal
-  scale: Continental
+  agency: ambiguous
+  event: war
+  kernel: intra-societal
+  scale: continental
 
 
 

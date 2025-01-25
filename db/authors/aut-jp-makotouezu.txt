@@ -1,0 +1,26 @@
+id: aut-jp-makotouezu
+
+Type: person
+
+Name: "Makoto"                                
+
+Surname: "Uezu"                             
+
+Date of birth: (gg/mm/aaaa) | mm/aaaa | aaaa  
+
+Language:
+  - "japanese"
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp 
+
+Identifies as: [cis-m/f | trans | non-binario] # Se tupe è "person"
+
+Pronoun:
+  - proName (esempio: he, him)
+  - proName (esempio: she, her)
+
+Alias:
+  -
+
+Compilatore: JS                    

@@ -1,0 +1,26 @@
+id: aut-jp-kagamitakaya
+
+Type: Person
+
+Name: "Takaya"                                
+
+Surname: "Kagami"                             # Se type è "person"
+
+Date of birth: (22/05/1979) 
+
+Language: japanese
+  -
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp
+
+Identifies as: cis-m
+Pronoun:
+  - proName (esempio: he, him)
+
+Alias:
+  -
+
+Compilatore:  JS                               # chi fa la scheda
+
+

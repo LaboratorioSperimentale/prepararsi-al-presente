@@ -17,9 +17,9 @@ Publisher: Alfaguara
 Area: es
 
 Trigger event:
-  agency:  Nonanthropogenic
-  event: Subversion
-  kernel: Extra-societal
+  agency: non-anthropogenic
+  event: subversion
+  kernel: extra-societal
   scale: planetary
 Synopsis: |
   The world as we knew it has vanished after the Great Blackout, water wars, and environmental catastrophes. Days swing from freezing to scorching within hours, animals and nature are nearly extinct, and only a few people have survived. In this desolate present, a group of women live confined within the House of the Sacred Brotherhood, subjected to the will of a religious cult.

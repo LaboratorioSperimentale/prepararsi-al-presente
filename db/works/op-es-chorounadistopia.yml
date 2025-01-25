@@ -19,10 +19,10 @@ Publisher: Punto Cero
 Area: es
 
 Trigger event:
-  event: Anthropogenic
-  agency: War
-  kernel: Intra-societal
-  scale: Continental
+  agency: anthropogenic
+  event: war
+  kernel: intra-societal
+  scale: continental
 
 
 

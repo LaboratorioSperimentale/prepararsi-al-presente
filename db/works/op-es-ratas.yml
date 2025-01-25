@@ -17,10 +17,10 @@ Publisher: Editorial Cactus Pink
 Area: es
 
 Trigger event:
-  event: Anthropogenic
-  agency: Subversion
-  kernel: Extra-societal
-  scale: Local
+  agency: anthropogenic
+  event: subversion
+  kernel: extra-societal
+  scale: local
 
 
 Synopsis: |

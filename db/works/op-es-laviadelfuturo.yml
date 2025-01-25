@@ -18,10 +18,10 @@ Publisher: Editorial Páginas de Espuma
 Area: es
 
 Trigger event:
-  event: Anthropogenic
-  agency: Metaphysical
-  kernel: Extra-societal
-  scale: Planetary
+  agency: anthropogenic
+  event: metaphysical
+  kernel: extra-societal
+  scale: planetary
 
 
 

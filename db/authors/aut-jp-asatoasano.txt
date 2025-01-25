@@ -1,0 +1,34 @@
+id: aut-jp-asatoasano
+
+Type: person
+
+Name: (Asato)                                
+
+Surname: (Asano)                             
+
+Date of birth: 1984  
+
+Language:
+  - "japanese"
+  -                                     # ????????????????? (vedi idArea)
+
+Area: jp 
+
+Identifies as: cis-f 
+
+Pronoun:
+  - proName (esempio: she, her)
+
+Alias:
+  -
+
+Compilatore: JS                    
+
+
+# ci sono un po' di questioni su cui accordarsi
+
+# - quando type è "legal-entity" alcune volte viene compilato
+#   Name e Legal_Entity_Name altre volte solo Legal_Entity_Name+
+
+
+# - cis-m e cis-f sono ridondanti?!?

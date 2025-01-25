@@ -17,10 +17,10 @@ Publisher: Literatura Random House
 Area: es
 
 Trigger event:
-  event: Ambiguous
-  agency: Environmental
-  kernel: Inconclusive
-  scale: Planetary
+  agency: ambiguous
+  event: environmental
+  kernel: inconclusive
+  scale: planetary
 
 
 

@@ -18,8 +18,8 @@ Publisher: Dilatando mentes
 Area: es
 
 Trigger event:
-  event: Anthropogenic
-  agency: War
+  agency: Anthropogenic
+  event: War
   kernel: Intra-societal
   scale: Planetary
 

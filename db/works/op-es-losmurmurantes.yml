@@ -18,8 +18,8 @@ Publisher: Editorial Cactus Pink
 Area: es
 
 Trigger event:
-  event: Anthropogenic
-  agency: War
+  agency: Anthropogenic
+  event: War
   kernel: Extra-societal
   scale: Local
 
