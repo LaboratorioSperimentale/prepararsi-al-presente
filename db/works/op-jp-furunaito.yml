@@ -20,7 +20,7 @@ Distributor: Shogakukan
 Area: jp
 
 Trigger event:
-  agency: nonanthropogenic
+  agency: non-anthropogenic
   event: environmental
   kernel: natural
   scale: planetary

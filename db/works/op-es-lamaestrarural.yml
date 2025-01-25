@@ -19,7 +19,7 @@ Publisher: Literatura random house
 Area: es
 
 Trigger event:
-  agency: nonanthropogenic
+  agency: non-anthropogenic
   event: subversion
   kernel: extra-societal
   scale: planetary

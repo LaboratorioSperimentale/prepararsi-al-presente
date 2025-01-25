@@ -21,7 +21,7 @@ Distributor:  "ASCII Media Works"
 Area: jp
 
 Trigger event:
-  agency: nonanthropogenic
+  agency: non-anthropogenic
   event: subversion
   kernel: inconclusive
   scale: planetary
