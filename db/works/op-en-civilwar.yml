@@ -21,3 +21,5 @@ Trigger event:
   event: war
   kernel: intra-societal
   scale: local
+direct_consequences: authoritarianism_cultural, government_collapse 
+aftermaths: authoritarianism_social, censorship

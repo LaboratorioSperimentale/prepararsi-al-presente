@@ -22,3 +22,5 @@ Trigger event:
   kernel: extra-societal
   scale: local
 
+direct_consequences: government_oligarchical, government_collapse
+aftermaths: authoritarianism_social, authoritarianism_capitalist

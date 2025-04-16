@@ -21,3 +21,5 @@ Trigger event:
   event: subversion
   kernel: intra-societal
   scale: planetary
+direct_consequences: authoritarianism_social, authoritarianism_technological
+aftermaths: 

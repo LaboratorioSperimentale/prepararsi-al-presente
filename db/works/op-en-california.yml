@@ -1,4 +1,4 @@
-id: op-en-borne
+id: op-en-california
 
 First known title: California
 
@@ -21,3 +21,5 @@ Trigger event:
   event: subversion
   kernel: intra-societal
   scale: local
+direct_consequences: antisocial_into_prosocial, government_collapse 
+aftermaths: authoritarianism_cultural, familism 
