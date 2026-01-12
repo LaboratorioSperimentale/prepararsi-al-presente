@@ -1,16 +1,8 @@
 id: au-en-hel-sedgwick
-
 Type: person
-
-Name: Helen
-
-Surname: Sedgwick
-
+Name: "Helen"
+Surname: "Sedgwick"
 Date of birth: 00/00/1978
-
-Area: en
-
+Area: g-en
 Identifies as: cis-f
-
-Pronoun:
-  - she, her
+Pronoun: she-her

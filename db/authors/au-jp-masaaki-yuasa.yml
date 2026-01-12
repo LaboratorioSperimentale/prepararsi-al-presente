@@ -1,12 +1,8 @@
 id: au-jp-masaaki-yuasa
 Type: person
-
-Name: Masaaki
-
-Surname: Yuasa
-Area: jp
-
+Name: "Masaaki"
+Surname: "Yuasa"
+Date of birth: 16/03/1965
+Area: g-jp
 Identifies as: cis-m
-
-Pronoun:
-  - he, him
+Pronoun: he-him

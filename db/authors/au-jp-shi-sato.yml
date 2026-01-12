@@ -1,23 +1,8 @@
 id: au-jp-shi-sato
-
 Type: person
-
-Name: Shinsuke
-
-Surname: Satō
-<<<<<<< HEAD
-LegalEntityName: ~
+Name: "Shinsuke"
+Surname: "Satō"
 DataOfBirth: 16/09/1970
-DateEstablished: ~
-Language: ~
-HeadQuarters: ~
-=======
-
->>>>>>> 8f3eae85a76f5da284c2e96f29966089d676c37f
-Area: jp
-
+Area: g-jp
 Identifies as: cis-m
-
-Pronoun:
-  - he, him
-
+Pronoun: he-him

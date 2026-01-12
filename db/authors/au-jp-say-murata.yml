@@ -1,14 +1,8 @@
 id: au-jp-say-murata
-
 Type: person
-
-Name: Sayaka
-
-Surname: Murata
-Area: jp
-
+Name: "Sayaka"
+Surname: "Murata"
+Date of birth: 14/08/1979
+Area: g-jp
 Identifies as: cis-f
-
-Pronoun:
-  - she, her
-
+Pronoun: she-her

@@ -1,15 +1,9 @@
 id: au-es-car-chernov
-
 Type: person
-
-Name: Carlos
-
-Surname: CHERNOV
-
-Area: es
-
+Name: "Carlos"
+Surname: "Chernov"
+Date of birth: 00/00/1953
+Area: g-es
 Identifies as: cis-m
-
-Pronoun:
-  - he, him
+Pronoun: he-him
 

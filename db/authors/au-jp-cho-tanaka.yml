@@ -1,34 +1,8 @@
 id: au-jp-cho-tanaka
-
 Type: person
-
-Name: Chōko
-
-<<<<<<< HEAD
+Name: "Chōko"
 Surname: “Tanaka”
-<<<<<<< HEAD
-LegalEntityName: ~
-DataOfBirth: 1964
-DateEstablished: ~
-=======
-
-Date of birth: 1964
-
->>>>>>> 8f3eae85a76f5da284c2e96f29966089d676c37f
-Language: jp
-=======
-Surname: Tanaka
-
-Date of birth: 1964
-
-Language:
-  - jp
->>>>>>> c3f279243ca6f4d52883283b3c679298f244f98e
-
-Area: jp
-
+Date of birth: 00/00/1964
+Area: g-jp
 Identifies as: cis-f
-
-Pronoun:
-  - she, her
-
+Pronoun: she-her

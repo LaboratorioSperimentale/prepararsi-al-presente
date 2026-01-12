@@ -1,15 +1,7 @@
 id: au-es-hor-convertini
-
 Type: person
-
-Name: Horacio
-
-Surname: CONVERTINI
-
-Area: es
-
+Name: "Horacio"
+Surname: "Convertini"
+Area: g-es
 Identifies as: cis-m
-
-Pronoun:
-  - he, him
-
+Pronoun: he-him

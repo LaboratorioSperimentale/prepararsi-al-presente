@@ -1,14 +1,7 @@
 id: au-jp-hay-shobo
-
 Type: entity
-
-Name: Hayakawa Shobō
-
-Legal entity name: Kabushiki-gaisha
-
-Date of establishment: 08/1945
-
-Headquarters:
-  - Tachō
-
-Area: jp
+Subtype: publisher
+Name: "Hayakawa Shobō"
+Legal entity name: "Kabushikigaisha Hayakawa Shobō"
+Date established: 00/08/1945
+Area: g-jp

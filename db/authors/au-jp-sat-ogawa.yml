@@ -1,16 +1,8 @@
 id: au-jp-sat-ogawa
-
 Type: person
-
-Name: Satoshi
-
-Surname: Ogawa
-
+Name: "Satoshi"
+Surname: "Ogawa"
 Date of birth: 25/12/1986
-
-Language:
-  - jp
-
-Area: jp
-
+Area: g-jp
 Identifies as: cis-m
+Pronoun: he-him

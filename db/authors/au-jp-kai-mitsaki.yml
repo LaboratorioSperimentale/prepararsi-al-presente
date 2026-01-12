@@ -1,18 +1,8 @@
 id: au-jp-kai-mitsaki
-
 Type: person
-
-Name: Kairi
-
-Surname: MISAKI
-
-Language:
-  - jp
-
-Area: jp
-
+Name: "Kairi"
+Surname: "Misaki"
+Date of birth: 23/05/0000
+Area: g-jp
 Identifies as: cis-f
-
-Pronoun:
-  - she, her
-
+Pronoun: she-her

@@ -1,23 +1,8 @@
 id: au-jp-miy-ono
-
 Type: person
-
-Name: Miyuki
-
-Surname: ONO
-<<<<<<< HEAD
-LegalEntityName: ~
-DataOfBirth: 1985
-DateEstablished: ~
-Language: ~
-HeadQuarters: ~
-=======
-
->>>>>>> 8f3eae85a76f5da284c2e96f29966089d676c37f
-Area: jp
-
+Name: "Miyuki"
+Surname: "Ono"
+DataOfBirth: 00/00/1985
+Area: g-jp
 Identifies as: cis-f
-
-Pronoun:
-  - she, her
-
+Pronoun: she-her

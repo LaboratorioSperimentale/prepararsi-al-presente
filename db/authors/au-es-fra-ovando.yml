@@ -1,15 +1,8 @@
 id: au-es-fra-ovando
-
 Type: person
-
-Name: Francisco
-
-Surname: OVANDO
-
-Area: es
-
+Name: "Francisco"
+Surname: "Ovando"
+Date of birth: 00/00/1989
+Area: g-es
 Identifies as: cis-m
-
-Pronoun:
-  - he, him
-
+Pronoun: he-him

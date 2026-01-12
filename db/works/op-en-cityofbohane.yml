@@ -1,22 +1,11 @@
 id: op-en-cityofbohan
-
-First known title: City of Bohane
-
+First known title: "City of Bohane"
 First edition: 2011
-
 Type: novel
-
-Creators:
-  - au-en-kevin-barry
-
-Language:
-  - en
-Publisher: Jonathan Cape
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: intra-societal
-  scale: local
+Creators: au-en-kevin-barry
+Language: l-en
+Publisher: "Jonathan Cape"
+Area: g-en
+Trigger event: agency_anthropogenic, event_war, kernel_intrasocietal scale_local
+Direct Consequences: conflict_intrapolity, government_degradation
+Aftermaths: population_decline, prosocial_into_antisocial, antisocial_into_prosocial

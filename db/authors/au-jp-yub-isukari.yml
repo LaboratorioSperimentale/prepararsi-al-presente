@@ -1,14 +1,8 @@
 id: au-jp-yub-isukari
-
 Type: person
-
-Name: Yuba
-
-Surname: ISUKARI
-
-Language:
-  - jp
-
-Area: jp
-
+Name: "Yuba"
+Surname: "Isukari"
+Date of birth: 00/00/0000
+Area: g-jp
 Identifies as: cis-m
+Pronoun: he-him

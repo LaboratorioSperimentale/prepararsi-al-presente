@@ -1,16 +1,8 @@
 id: au-en-hel-phillips
-
 Type: person
-
-Name: Helen
-
-Surname: Phillips
-
+Name: "Helen"
+Surname: "Phillips"
 Date of birth: 00/00/1980
-
-Area: en
-
+Area: g-en
 Identifies as: cis-f
-
-Pronoun:
-  - she, her
+Pronoun: she-her

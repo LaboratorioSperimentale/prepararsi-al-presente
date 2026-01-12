@@ -1,15 +1,8 @@
 id: au-jp-mic-arias
-
 Type: person
-
-Name: Michael
-
-Surname: Arias
-
-Identifies as: cis-m
-
+Name: "Michael"
+Surname: "Arias"
+Date of birth: 02/02/1968
 Area: jp
-
-Pronoun:
-  - he, him
-
+Identifies as: cis-m
+Pronoun: he-him
