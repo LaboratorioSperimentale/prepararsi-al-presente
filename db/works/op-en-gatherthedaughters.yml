@@ -1,22 +1,11 @@
 id: op-en-gatherthedaughters
-
-First known title: Gather the Daughters
-
+First known title: "Gather the Daughters"
 First edition: 2017
-
 Type: novel
-
-Creators:
-  - au-en-jennie-melamed
-
-Language:
-  - en
-Publisher: Tinder
-
-Area: en
-
-Trigger event:
-  agency:  unknown
-  event: environmental
-  kernel: intra-societal
-  scale: local
+Creators: au-en-jennie-melamed
+Language: l-en
+Publisher: "Tinder"
+Area: g-en
+Trigger event: agency_unknown, event_environmental, kernel_intra-societal, scale_local
+Direct Consequences: authoritarianism_androcentrism, authoritarianism_religion, authoritarianism_social, segregationism_sexual, censorship
+Aftermaths: use_of_force_civilians, prosocial_into_antisocial, conflict_intrapolity, government_degradation

@@ -1,21 +1,11 @@
 id: op-en-vox
-
-First known title: Vox
-
+First known title: "Vox"
 First edition: 2018
-
 Type: novel
-Creators:
-  - au-en-christina-dalcher
-
-Language:
-  - en
-Publisher: HQ
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
+Creators: au-en-christina-dalcher
+Language: l-en
+Publisher: "HQ"
+Area: g-en
+Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_local
+Direct Consequences: authoritarianism_social, segregationism_sexual, censorship, conflict_information
+Aftermaths: use_of_force_civilians, prosocial_into_antisocial, government_degradation, familism

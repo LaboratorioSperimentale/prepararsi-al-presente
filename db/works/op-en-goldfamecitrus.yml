@@ -1,22 +1,11 @@
-id: op-en-findme
-
-First known title: Gold Fame Citrus
-
+id: op-en-goldfamecitrus
+First known title: "Gold Fame Citrus"
 First edition: 2015
-
 Type: novel
-
-Creators:
-  - au-en-clairevaye-watkins
-
-Language:
-  - en
-Publisher: Riverhead Books
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: environmental
-  kernel: natural
-  scale: local
+Creators: au-en-clairevaye-watkins
+Language: l-en
+Publisher: "Riverhead Books"
+Area: g-en
+Trigger event: agency_anthropogenic, event_environmental, kernel_natural, scale_local
+Direct Consequences: alteration_weather, depletion_biosphere, depletion_water, population_decline
+Aftermaths: segregationism_social, familism, prosocial_into_antisocial, government_degradation, conflict_intrapolity

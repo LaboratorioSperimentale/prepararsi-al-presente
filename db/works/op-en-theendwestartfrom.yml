@@ -1,22 +1,11 @@
 id: op-en-theendwestartfrom
-
-First known title: The End We Start From
-
+First known title: "The End We Start From"
 First edition: 2017
-
 Type: novel
-
-Creators:
-  - au-en-megan-hunter
-
-Language:
-  - en
-Publisher: Picador
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: environmental
-  kernel: intra-societal
-  scale: local
+Creators: au-en-megan-hunter
+Language: l-en
+Publisher: "Picador"
+Area: g-en
+Trigger event: agency_non-anthropogenic, event_environmental, kernel_intra-societal, scale_local
+Direct Consequences: alteration_weather, population_decline, government_degradation
+Aftermaths: familism, segregationism_social, prosocial_into_antisocial, conflict_intrapolity

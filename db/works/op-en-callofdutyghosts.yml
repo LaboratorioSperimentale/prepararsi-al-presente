@@ -7,5 +7,5 @@ Language: l-en
 Distributor: "Activision Publishing, Inc."
 Area: l-en
 Trigger event: agency_anthropogenic, event_war, kernel_extrasocietal, scale_planetary
-direct_consequences: government_degradation, wmd_use_nuclear, wmd_use_bacteriological, wmd_use_chemical, conflict_interpolity
-aftermaths: 
+Direct Consequences: conflict_interpolity, conflict_intrapolity, government_military, use_of_force_civilians
+Aftermaths: population_decline, pollution_land, government_degradation, prosocial_into_antisocial

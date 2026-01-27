@@ -1,22 +1,11 @@
 id: op-en-theconstantrabbit
-
-First known title: The Constant Rabbit
-
+First known title: "The Constant Rabbit"
 First edition: 2020
-
 Type: novel
-
-Creators:
-  - au-en-jasper-fforde
-
-Language:
-  - en
-Publisher: Hodder & Stoughton
-
-Area: en
-
-Trigger event:
-  agency: non-anthropogenic
-  event: environmental
-  kernel: natural
-  scale: planetary
+Creators: au-en-jasper-fforde
+Language: l-en
+Publisher: "Hodder & Stoughton"
+Area: g-en
+Trigger event: agency_non-anthropogenic, event_environmental, kernel_natural, scale_planetary
+Direct Consequences: segregationism_social, authoritarianism_social, censorship, conflict_information
+Aftermaths: use_of_force_civilians, prosocial_into_antisocial, government_degradation, conflict_intrapolity

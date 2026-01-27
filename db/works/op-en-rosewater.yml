@@ -1,22 +1,11 @@
 id: op-en-rosewater
-
-First known title: Rosewater
-
+First known title: "Rosewater"
 First edition: 2016
-
 Type: novel
-
-Creators:
-  - au-en-tade-thompson
-
-Language:
-  - en
-Publisher: Apex Publications
-
-Area: en
-
-Trigger event:
-  agency:  non-anthropogenic
-  event: subversion
-  kernel: extra-societal
-  scale: planetary
+Creators: au-en-tade-thompson
+Language: l-en
+Publisher: "Apex Publications"
+Area: g-en
+Trigger event: agency_non-anthropogenic, event_subversion, kernel_extra-societal, scale_planetary
+Direct Consequences: ontological_alteration, conflict_information, government_corporate, alteration_human_bodies
+Aftermaths: population_decline, segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity

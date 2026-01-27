@@ -1,22 +1,11 @@
 id: op-en-onlyeveryours
-
-First known title: Only Ever Yours
-
+First known title: "Only Ever Yours"
 First edition: 2014
-
 Type: novel
-
-Creators:
-  - au-en-louise-oneill
-
-Language:
-  - en
-Publisher: Quercus
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: planetary
+Creators: au-en-louise-oneill
+Language: l-en
+Publisher: "Quercus"
+Area: g-en
+Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_planetary
+Direct Consequences: authoritarianism_gynocentric, authoritarianism_reproduction, authoritarianism_social, censorship
+Aftermaths: segregationism_sexual, use_of_force_civilians, prosocial_into_antisocial, government_degradation

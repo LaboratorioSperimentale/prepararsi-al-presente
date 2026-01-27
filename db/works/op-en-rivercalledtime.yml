@@ -1,22 +1,11 @@
 id: op-en-rivercalledtime
-
-First known title: A River called Time
-
+First known title: "A River called Time"
 First edition: 2021
-
 Type: novel
-
-Creators:
-  - au-en-curttia-newland
-
-Language:
-  - en
-Publisher: Canongate
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: war
-  kernel: intra-societal
-  scale: planetary
+Creators: au-en-curttia-newland
+Language: l-en
+Publisher: "Canongate"
+Area: g-en
+Trigger event: agency_anthropogenic, event_war, kernel_intra-societal, scale_planetary
+Direct Consequences: conflict_intrapolity, government_degradation, population_decline
+Aftermaths: familism, segregationism_social, prosocial_into_antisocial, conflict_information

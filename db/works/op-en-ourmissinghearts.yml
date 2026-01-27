@@ -1,22 +1,11 @@
 id: op-en-ourmissinghearts
-
-First known title: Our Missing Hearts
-
+First known title: "Our Missing Hearts"
 First edition: 2022
-
 Type: novel
-
-Creators:
-  - au-en-celeste-ng
-
-Language:
-  - en
-Publisher: Penguin Press
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
+Creators: au-en-celeste-ng
+Language: l-en
+Publisher: "Penguin Press"
+Area: g-en
+Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_local
+Direct Consequences: authoritarianism_social, censorship, conflict_information, government_oligarchical
+Aftermaths: segregationism_social, use_of_force_civilians, familism, prosocial_into_antisocial, government_degradation

@@ -1,22 +1,11 @@
 id: op-en-theoutlawsscarletandbrowne
-
-First known title: The Outlaws Scarlett and Browne
-
+First known title: "The Outlaws Scarlett and Browne"
 First edition: 2015
-
 Type: novel
-
-Creators:
-  - au-en-jonathan-stroud
-
-Language:
-  - en
-Publisher: WordUnited Ltd
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: metaphysical
-  kernel: intra-societal
-  scale: local
+Creators: au-en-jonathan-stroud
+Language: l-en
+Publisher: "WordUnited Ltd"
+Area: g-en
+Trigger event: agency_anthropogenic, event_metaphysical, kernel_intra-societal, scale_local
+Direct Consequences: population_decline, government_degradation, conflict_intrapolity
+Aftermaths: familism, segregationism_social, use_of_force_civilians, prosocial_into_antisocial

@@ -1,22 +1,11 @@
 id: op-en-theviolence
-
 First known title: "The Violence: A Novel"
-
 First edition: 2022
-
 Type: novel
-
-Creators:
-  - au-en-delilahs-dawson
-
-Language:
-  - en
-Publisher: Del Rey
-
-Area: en
-
-Trigger event:
-  agency: non-anthropogenic
-  event: subversion
-  kernel: natural
-  scale: local
+Creators: au-en-delilahs-dawson
+Language: l-en
+Publisher: "Del Rey"
+Area: g-en
+Trigger event: agency_non-anthropogenic, event_subversion, kernel_natural, scale_local
+Direct Consequences: ontological_alteration, conflict_information, alteration_human_bodies
+Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, conflict_intrapolity, government_degradation

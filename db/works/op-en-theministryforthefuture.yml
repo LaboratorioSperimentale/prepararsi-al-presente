@@ -1,21 +1,11 @@
 id: op-en-theministryforthefuture
-
-First known title: The Ministry for the Future
-
+First known title: "The Ministry for the Future"
 First edition: 2016
-
 Type: novel
-Creators:
-  - au-en-kimstanley-robinson
-
-Language:
-  - en
-Publisher: Orbit Books
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: extra-societal
-  scale: planetary
+Creators: au-en-kimstanley-robinson
+Language: l-en
+Publisher: "Orbit Books"
+Area: g-en
+Trigger event: agency_anthropogenic, event_subversion, kernel_extra-societal, scale_planetary
+Direct Consequences: alteration_weather, conflict_economic, conflict_interpolity
+Aftermaths: conflict_information, government_degradation, segregationism_social, prosocial_into_antisocial

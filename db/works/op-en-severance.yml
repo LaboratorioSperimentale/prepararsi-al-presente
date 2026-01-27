@@ -1,22 +1,11 @@
 id: op-en-severance
-
-First known title: Severance
-
+First known title: "Severance"
 First edition: 2018
-
 Type: novel
-
-Creators:
-  - au-en-ling-ma
-
-Language:
-  - en
-Publisher: Farrar, Straus and Giroux
-
-Area: en
-
-Trigger event:
-  agency: non-anthropogenic
-  event: subversion
-  kernel: natural
-  scale: planetary
+Creators: au-en-ling-ma
+Language: l-en
+Publisher: "Farrar"
+Area: g-en
+Trigger event: agency_non-anthropogenic, event_subversion, kernel_natural, scale_planetary
+Direct Consequences: population_decline, conflict_information, government_degradation
+Aftermaths: familism, segregationism_social, prosocial_into_antisocial, conflict_intrapolity

@@ -1,26 +1,11 @@
 id: op-en-ghostrunner
-
 First known title: "Ghostrunner"
-
 Type: videogame
-
 First edition: 2020
-
-Creators:
-  - au-en-onemorelevel-onemorelevelsa
-  - au-en-slipgateironworks-slipgateironworkssps
-
-Language:
-  - en
-
+Creators: au-en-onemorelevel-onemorelevelsa, au-en-slipgateironworks-slipgateironworkssps
+Language: l-en
 Distributor: "505 Games s.p.a."
-
 Area: en
-
-Trigger event:
-  agency: ambiguous
-  event: environmental
-  kernel: inconclusive
-  scale: planetary
-direct_consequences: authoritarianism_capitalist, authoritarianism_social, authoritarianism_technological 
-aftermaths: 
+Trigger event: agency_ambiguous, event_environmental, kernel_inconclusive, scale_planetary
+Direct Consequences: government_corporate, authoritarianism_technological, alteration_human_bodies, pollution_biosphere
+Aftermaths: conflict_intrapolity, use_of_force_civilians, segregationism_social, government_degradation, prosocial_into_antisocial, conflict_information

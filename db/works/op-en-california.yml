@@ -1,5 +1,5 @@
 id: op-en-california
-First known title: California
+First known title: "California"
 First edition: 2014
 Type: novel
 Creators: au-en-edan-lepucki
@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Hachette"
 Area: en
 Trigger event: agency_anthropogenic, event_subversion, kernel_intrasocietal scale_local
-direct_consequences: antisocial_into_prosocial, government_degradation
-aftermaths: authoritarianism_cultural, familism, population_decline
+Direct Consequences: population_decline, conflict_intrapolity, depletion_water, depletion_biosphere
+Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation

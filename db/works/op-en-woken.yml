@@ -1,25 +1,11 @@
 id: op-en-woken
-
-First known title: Woken
-
+First known title: "Woken"
 First edition: 2024
-
 Type: feature-length
-
-Creators:
-  - au-en-alan-friel
-
-Language:
-  - en
-
-Distributor: Fantastic Films; Propaganda Italia; Rocliffe Ltd.; Bankside Films
-
-Publisher: Blue Swan Entertainment
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: environmental
-  kernel: inconclusive
-  scale: planetary
+Creators: au-en-alan-friel
+Language: l-en
+Distributor: "Blue Swan Entertainment"
+Area: g-en
+Trigger event: agency_anthropogenic, event_environmental, kernel_inconclusive, scale_planetary
+Direct Consequences: authoritarianism_social, conflict_information, government_degradation
+Aftermaths: segregationism_social, prosocial_into_antisocial, conflict_intrapolity, use_of_force_civilians

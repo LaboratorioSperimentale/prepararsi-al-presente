@@ -1,24 +1,11 @@
 id: op-en-dystopika
-
-First known title: Dystopika
-
+First known title: "Dystopika"
 Type: videogame
-
 First edition: 2024
-
-Creators:
-  - au-en-voidswithin-voidswithininc
-
-Language:
-  - en
-
-Distributor: Voids Within Studio Inc.
-
-Area: en
-
-Trigger event:
-  agency: unknown
-  event: subversion
-  kernel: non-specified
-  scale: non-specified
-
+Creators: au-en-voidswithin-voidswithininc
+Language: l-en
+Distributor: "Voids Within Studio Inc."
+Area: g-en
+Trigger event: agency_unknown, event_subversion, kernel_non-specified, scale_non-specified
+Direct Consequences: government_corporate, authoritarianism_market, pollution_biosphere
+Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, conflict_information

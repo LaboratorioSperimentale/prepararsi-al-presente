@@ -1,22 +1,11 @@
 id: op-en-thebiglie
-
-First known title: The Big Lie
-
+First known title: "The Big Lie"
 First edition: 2016
-
 Type: novel
-
-Creators:
-  - au-en-julie-mayhew
-
-Language:
-  - en
-Publisher: Candlewick
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: war
-  kernel: extra-societal
-  scale: planetary
+Creators: au-en-julie-mayhew
+Language: l-en
+Publisher: "Candlewick"
+Area: g-en
+Trigger event: agency_anthropogenic, event_war, kernel_extra-societal, scale_planetary
+Direct Consequences: authoritarianism_social, censorship, conflict_information, government_degradation
+Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, population_decline

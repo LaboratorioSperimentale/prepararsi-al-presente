@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "DAW"
 Area: g-en
 Trigger event: agency_anthropogenic, event_subversion, kernel_extrasocietal scale_multiplanetary
-Direct Consequences: alteration_ontological, alteration_fauna, alteration_flora, alteration_weather, alteration_human_bodies, population_decline, pollution_radiation, pollution_land, pollution_water_bodies, pollution_biosphere
-Aftermaths: conflict_interpolity, prosocial_into_antisocial
+Direct Consequences: conflict_interpolity, conflict_information, ontological_alteration, alteration_human_bodies
+Aftermaths: government_nonhuman, authoritarianism_cultural, segregationism_social, antisocial_into_prosocial

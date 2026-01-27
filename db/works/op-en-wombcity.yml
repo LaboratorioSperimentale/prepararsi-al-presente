@@ -1,22 +1,11 @@
 id: op-en-wombcity
-
-First known title: Womb City
-
+First known title: "Womb City"
 First edition: 2024
-
 Type: novel
-
-Creators:
-  - au-en-tlotlo-tsamaase
-
-Language:
-  - en
-Publisher: Erewhon Books
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
+Creators: au-en-tlotlo-tsamaase
+Language: l-en
+Publisher: "Erewhon Books"
+Area: g-en
+Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_local
+Direct Consequences: authoritarianism_reproduction, authoritarianism_social, ontological_alteration, conflict_information
+Aftermaths: segregationism_sexual, prosocial_into_antisocial, population_decline, government_degradation

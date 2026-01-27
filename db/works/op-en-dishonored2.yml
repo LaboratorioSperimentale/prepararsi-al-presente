@@ -7,5 +7,5 @@ Language: l-en
 Distributor: "Bethesda Softworks LLC"
 Area: g-en
 Trigger event: agency_anthropogenic, event_metaphysical, kernel_intra-societal, scale_continental
-direct_consequences: government_oligarchical, authoritarianism_capitalist, authoritarianism_technological, censorship
-aftermaths: authoritarianism_social, authoritarianism_religion, segregationism_religion 
+Direct Consequences: government_oligarchical, conflict_intrapolity, pollution_biosphere
+Aftermaths: population_decline, use_of_force_civilians, prosocial_into_antisocial, government_degradation, segregationism_social

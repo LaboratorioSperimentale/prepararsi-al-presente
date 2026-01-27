@@ -1,0 +1,11 @@
+id: op-jp-rteikoku
+First known title: "R Teikoku"
+First edition: 2017
+Type: novel
+Creators: au-jp-nakamura-fuminori
+Language: l-jp
+Publisher: "Chūōkōronsha"
+Area: g-jp
+Trigger event: agency_anthropogenic, event_subversion, kernel_intrasocietal, scale_local
+Direct Consequences: government_degradation, authoritarianism_technological, authoritarianism_cultural 
+Aftermaths: authoritarianism_language,authoritarianism_social, prosocial_into_antisocial, conflict_interpolity, conflict_intrapolity

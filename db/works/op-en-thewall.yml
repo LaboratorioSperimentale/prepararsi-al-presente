@@ -1,23 +1,11 @@
 id: op-en-thewall
-
-First known title: The Wall
-
+First known title: "The Wall"
 First edition: 2019
-
 Type: novel
-Creators:
-  - au-en-joh-lanchester
-
-Language:
-  - en
-Publisher: W. W. Norton & Company
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: environmental
-  kernel: inconclusive
-  scale: planetary
-direct_consequences: authoritarianism_capitalist, authoritarianism_cultural, authoritarianism_social
-aftermaths: 
+Creators: au-en-joh-lanchester
+Language: l-en
+Publisher: "W. W. Norton & Company"
+Area: g-en
+Trigger event: agency_anthropogenic, event_environmental, kernel_inconclusive, scale_planetary
+Direct Consequences: alteration_weather, population_decline, authoritarianism_social
+Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity

@@ -1,22 +1,11 @@
 id: op-en-thefarm
-
-First known title: The Farm
-
+First known title: "The Farm"
 First edition: 2019
-
 Type: novel
-
-Creators:
-  - au-en-joanne-ramos
-
-Language:
-  - en
-Publisher: Random House
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: planetary
+Creators: au-en-joanne-ramos
+Language: l-en
+Publisher: "Random House"
+Area: g-en
+Trigger event: agency_non-anthropogenic, event_environmental, kernel_intra-societal, scale_planetary
+Direct Consequences: authoritarianism_reproduction, government_corporate, conflict_economic
+Aftermaths: segregationism_sexual, use_of_force_civilians, prosocial_into_antisocial, government_degradation

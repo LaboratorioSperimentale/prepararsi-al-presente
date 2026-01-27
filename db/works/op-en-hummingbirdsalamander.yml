@@ -1,22 +1,11 @@
 id: op-en-hummingbirdsalamander
-
-First known title: Hummingbird Salamander
-
+First known title: "Hummingbird Salamander"
 First edition: 2021
-
 Type: novel
-
-Creators:
-  - au-en-jeff-vandermeer
-
-Language:
-  - en
-Publisher: Macmillan Publishers
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: environmental
-  kernel: intra-societal
-  scale: planetary
+Creators: au-en-jeff-vandermeer
+Language: l-en
+Publisher: "Macmillan Publishers"
+Area: g-en
+Trigger event: agency_anthropogenic, event_environmental, kernel_intra-societal, scale_planetary
+Direct Consequences: depletion_biosphere, alteration_weather, conflict_information, government_corporate
+Aftermaths: population_decline, pollution_biosphere, prosocial_into_antisocial, government_degradation, conflict_intrapolity

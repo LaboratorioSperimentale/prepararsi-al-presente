@@ -1,22 +1,11 @@
 id: op-en-thebluebookofnebo
-
-First known title: The Blue Book of Nebo
-
+First known title: "The Blue Book of Nebo"
 First edition: 2021
-
 Type: novel
-
-Creators:
-  - au-en-manonsteffan-ros
-
-Language:
-  - en
-Publisher: Deep Vellum Publishing
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: war
-  kernel: extra-societal
-  scale: planetary
+Creators: au-en-manonsteffan-ros
+Language: l-en
+Publisher: "Deep Vellum Publishing"
+Area: g-en
+Trigger event: agency_anthropogenic, event_war, kernel_extra-societal, scale_planetary
+Direct Consequences: population_decline, conflict_information
+Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation

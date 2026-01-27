@@ -1,22 +1,11 @@
-id: op-en-thepower
-
-First known title: Future Home of the Living God
-
+id: op-en-futurehomeofthelivinggod
+First known title: "Future Home of the Living God"
 First edition: 2017
-
 Type: novel
-
-Creators:
-  - au-en-louise-erdrich
-
-Language:
-  - en
-Publisher: HarperCollins
-
-Area: en
-
-Trigger event:
-  agency: non-anthropogenic
-  event: metaphysical
-  kernel: natural
-  scale: planetary
+Creators: au-en-louise-erdrich
+Language: l-en
+Publisher: "HarperCollins"
+Area: g-en
+Trigger event: agency_non-anthropogenic, event_metaphysical, kernel_natural, scale_planetary
+Direct Consequences: ontological_alteration, authoritarianism_reproduction, government_confessional, censorship
+Aftermaths: use_of_force_civilians, segregationism_sexual, population_decline, prosocial_into_antisocial, government_degradation

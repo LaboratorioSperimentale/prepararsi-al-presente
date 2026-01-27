@@ -1,21 +1,11 @@
 id: op-en-thesilenceofthewiltingskin
-
-First known title: The Silence of The Wilting Skin
-
+First known title: "The Silence of The Wilting Skin"
 First edition: 2016
-
 Type: novel
-Creators:
-  - au-en-tlotlo-tsamaase
-
-Language:
-  - en
-Publisher: Pink Narcissus Press
-
-Area: en
-
-Trigger event:
-  agency: non-anthropogenic
-  event: metaphysical
-  kernel: intra-societal
-  scale: local
+Creators: au-en-tlotlo-tsamaase
+Language: l-en
+Publisher: "Pink Narcissus Press"
+Area: g-en
+Trigger event: agency_non-anthropogenic, event_metaphysical, kernel_intra-societal, scale_local
+Direct Consequences: ontological_alteration, conflict_information, authoritarianism_cultural
+Aftermaths: segregationism_social, prosocial_into_antisocial, population_decline, conflict_intrapolity

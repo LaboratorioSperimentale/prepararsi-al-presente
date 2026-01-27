@@ -1,22 +1,11 @@
 id: op-en-stationeleven
-
-First known title: Station Eleven
-
+First known title: "Station Eleven"
 First edition: 2014
-
 Type: novel
-
-Creators:
-  - au-en-emily-stjohnmandel
-
-Language:
-  - en
-Publisher: Alfred A. Knopf
-
-Area: en
-
-Trigger event:
-  agency: non-anthropogenic
-  event: subversion
-  kernel: natural
-  scale: planetary
+Creators: au-en-emily-stjohnmandel
+Language: l-en
+Publisher: "Alfred A. Knopf"
+Area: g-en
+Trigger event: agency_non-anthropogenic, event_subversion, kernel_natural, scale_planetary
+Direct Consequences: population_decline, conflict_information
+Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity

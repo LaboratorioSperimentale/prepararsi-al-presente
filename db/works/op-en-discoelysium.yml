@@ -7,5 +7,5 @@ Language: l-en
 Distributor: "ZA/UM"
 Area: g-en
 Trigger event: agency_anthropogenic, event_war, kernel_extra-societal, scale_local
-direct_consequences: government_oligarchical, government_degradation
-aftermaths: authoritarianism_social, authoritarianism_capitalist, authoritarianism_cultural, authoritarianism_health
+Direct Consequences: government_degradation, conflict_intrapolity, conflict_economic, population_decline
+Aftermaths: prosocial_into_antisocial, segregationism_social, familism, conflict_information

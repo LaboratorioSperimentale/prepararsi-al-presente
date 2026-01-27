@@ -1,22 +1,11 @@
 id: op-en-thebees
-
-First known title: The Bees
-
+First known title: "The Bees"
 First edition: 2014
-
 Type: novel
-
-Creators:
-  - au-en-laline-paull
-
-Language:
-  - en
-Publisher: HarperCollins Publishers Ltd
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
+Creators: au-en-laline-paull
+Language: l-en
+Publisher: "HarperCollins Publishers Ltd"
+Area: g-en
+Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_local
+Direct Consequences: authoritarianism_social, authoritarianism_gynocentric, segregationism_social
+Aftermaths: use_of_force_civilians, prosocial_into_antisocial, population_decline, conflict_intrapolity

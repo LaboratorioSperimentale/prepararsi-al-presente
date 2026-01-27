@@ -1,5 +1,5 @@
 id: op-en-cyberpunk
-First known title: Cyberpunk 2077
+First known title: "Cyberpunk 2077"
 First edition: 2020
 Type: videogame
 Creators: au-en-cd-cd
@@ -7,5 +7,5 @@ Language: l-en
 Distributor: "CD Projekt"
 Area: g-en
 Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_continental
-direct_consequences: government_corporate, authoritarianism_market, authoritarianism_technological, government_degradation, alteration_fauna, alteration_flora, pollution_biosphere  
-aftermaths: authoritarianism_social, antisocial_into_prosocial, prosocial_into_antisocial, censorship, government_oligarchical, conflict_interpolity, conflict_information, conflict_economic
+Direct Consequences: government_corporate, authoritarianism_market, conflict_economic, alteration_human_bodies
+Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, pollution_biosphere, conflict_intrapolity

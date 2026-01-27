@@ -1,22 +1,11 @@
 id: op-en-thearchiveundying
-
-First known title: The Archive Undying
-
+First known title: "The Archive Undying"
 First edition: 2023
-
 Type: novel
-
-Creators:
-  - au-en-emmamieko-candon
-
-Language:
-  - en
-Publisher: Tordotcom
-
-Area: en
-
-Trigger event:
-  agency:  Ambiguous
-  event: subversion
-  kernel: intra-societal
-  scale: planetary
+Creators: au-en-emmamieko-candon
+Language: l-en
+Publisher: "Tordotcom"
+Area: g-en
+Trigger event: agency_ambiguous, event_subversion, kernel_intra-societal, scale_planetary
+Direct Consequences: authoritarianism_technological, government_corporate, ontological_alteration, conflict_information
+Aftermaths: alteration_human_bodies, segregationism_social, prosocial_into_antisocial, government_degradation

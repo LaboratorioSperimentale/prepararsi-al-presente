@@ -1,22 +1,11 @@
 id: op-en-thegirlwithallthegifts
-
-First known title: The Girl with All the Gifts
-
+First known title: "The Girl with All the Gifts"
 First edition: 2014
-
 Type: novel
-
-Creators:
-  - au-en-mr-carey
-
-Language:
-  - en
-Publisher: Orbit Books
-
-Area: en
-
-Trigger event:
-  agency: non-anthropogenic
-  event: environmental
-  kernel: natural
-  scale: planetary
+Creators: au-en-mr-carey
+Language: l-en
+Publisher: "Orbit Books"
+Area: g-en
+Trigger event: agency_non-anthropogenic, event_environmental, kernel_natural, scale_planetary
+Direct Consequences: population_decline, conflict_information, government_military
+Aftermaths: alteration_human_bodies, use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation

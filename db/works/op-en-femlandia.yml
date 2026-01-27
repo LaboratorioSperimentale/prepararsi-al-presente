@@ -1,22 +1,11 @@
 id: op-en-femlandia
-
 First known title: Femlandia
-
 First edition: 2021
-
 Type: novel
-
-Creators:
-  - au-en-christina-dalcher
-
-Language:
-  - en
-Publisher: Berkley Books
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
+Creators: au-en-christina-dalcher
+Language: l-en
+Publisher: "Berkley Books"
+Area: g-en
+Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_local
+Direct Consequences: authoritarianism_gynocentric, authoritarianism_social, segregationism_sexual, censorship
+Aftermaths: use_of_force_civilians, prosocial_into_antisocial, conflict_information, government_degradation

@@ -7,5 +7,5 @@ Language: l-en
 Distributor: Square Enix Europe
 Area: g-en
 Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_planetary
-direct_consequences: government_corporate, authoritarianism_market, authoritarianism_technological, government_degradation, 
-aftermaths: authoritarianism_social, censorship, government_oligarchical, conflict_interpolity, conflict_information, conflict_economic
+Direct Consequences: alteration_human_bodies, government_corporate, authoritarianism_market, conflict_economic
+Aftermaths: segregationism_social, conflict_information, prosocial_into_antisocial, government_degradation

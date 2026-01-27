@@ -1,25 +1,11 @@
 id: op-en-foe
-
 First known title: Foe
-
 First edition: 2023
-
 Type: feature-length
-
-Creators:
-  - au-en-garth-davis
-
-Language:
-  - en
-
-Distributor: Amazon MGM Studios
-
-Publisher: Anonymous Content, See-Saw Films, I Am That Productions
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
+Creators: au-en-garth-davis
+Language: l-en
+Distributor: "Amazon MGM Studios"
+Area: g-en
+Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_local
+Direct Consequences: alteration_weather, depletion_biosphere, government_corporate, authoritarianism_technological
+Aftermaths: conflict_information, government_degradation, segregationism_social, prosocial_into_antisocial
