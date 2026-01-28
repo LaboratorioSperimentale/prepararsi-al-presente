@@ -1,30 +1,11 @@
 id: op-es-nefando
-
 Type: novel
-
-First known title: Nefando
-
+First known title: "Nefando"
 First edition: 2016
-
-
-Creators:
-  - au-es-mon-ojeda
-
-Language:
-  - es
-
-Publisher: Candaya
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
-
-
-
-Synopsis: |
-  The novel follows the creation of a video game in the deep web. Its central characters—El Cuco Martínez, Iván Herrera, Kiki Ortega, and siblings Cecilia, Irene, and Emilio Terán—all share an apartment in Barcelona, weaving a story of collaboration, intrigue, and the uncharted digital world.
-
+Creators: au-es-mon-ojeda
+Language: l-es
+Publisher: "Candaya"
+Area: g-es
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
+Direct Consequences: conflict_information, ontological_alteration, authoritarianism_cultural
+Aftermaths: segregationism_social, prosocial_into_antisocial, population_decline, government_degradation

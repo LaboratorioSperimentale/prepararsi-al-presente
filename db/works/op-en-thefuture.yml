@@ -6,6 +6,6 @@ Creators: au-en-naomi-alderman
 Language: l-en
 Publisher: "Fourth Estate"
 Area: g-en
-Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_planetary
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: authoritarianism_technological, government_corporate, conflict_information, alteration_human_bodies
 Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity

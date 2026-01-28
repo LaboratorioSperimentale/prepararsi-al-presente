@@ -6,6 +6,6 @@ Creators: au-en-joanne-ramos
 Language: l-en
 Publisher: "Random House"
 Area: g-en
-Trigger event: agency_non-anthropogenic, event_environmental, kernel_intra-societal, scale_planetary
+Trigger event: agency_nonanthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
 Direct Consequences: authoritarianism_reproduction, government_corporate, conflict_economic
 Aftermaths: segregationism_sexual, use_of_force_civilians, prosocial_into_antisocial, government_degradation

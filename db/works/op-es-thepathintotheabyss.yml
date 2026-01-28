@@ -1,23 +1,11 @@
 id: op-es-thepathintotheabyss
 First known title: "The Path into the Abyss"
-
 Type: videogame
-
 First edition: 2025
-
-Creators:
-  - au-es-mxrproductions-mxrproductions
-
-Language:
-  - en
-  - es
-
-Distributor: MXR Productions
-
-Area: es
-
-Trigger event:
-  agency: non-anthropogenic
-  event: environmental
-  kernel: extra-societal
-  scale: local
+Creators: au-es-mxrproductions-mxrproductions
+Language: l-en, l-es
+Distributor: "MXR Productions"
+Area: g-es
+Trigger event: agency_nonanthropogenic, type_environmental, kernel_extrasocietal, scale_local
+Direct Consequences: ontological_alteration, eschatological_alteration, conflict_information
+Aftermaths: population_decline, segregationism_social, prosocial_into_antisocial, government_degradation

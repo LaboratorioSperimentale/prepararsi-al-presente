@@ -6,6 +6,6 @@ Creators: au-en-paolo-bacigalupi
 Language: l-en
 Publisher: "Alfred A. Knopf"
 Area: g-en
-Trigger event:  agency_anthropogenic, event_environmental, kernel_non-specified, scale_continental
+Trigger event:  agency_anthropogenic, type_environmental, kernel_nonspecified, scale_continental
 Direct Consequences: depletion_water, conflict_economic, government_corporate, alteration_weather
 Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation, population_decline

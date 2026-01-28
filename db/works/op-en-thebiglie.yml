@@ -6,6 +6,6 @@ Creators: au-en-julie-mayhew
 Language: l-en
 Publisher: "Candlewick"
 Area: g-en
-Trigger event: agency_anthropogenic, event_war, kernel_extra-societal, scale_planetary
+Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_planetary
 Direct Consequences: authoritarianism_social, censorship, conflict_information, government_degradation
 Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, population_decline

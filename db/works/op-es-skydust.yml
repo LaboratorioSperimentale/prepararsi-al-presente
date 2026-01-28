@@ -1,24 +1,11 @@
 id: op-es-skydust
-
-First known title: "SkyDust"
-
+First known title: "Sky Dust"
 Type: videogame
-
 First edition: 2025
-
-Creators:
-  - au-es-orbitstudio-orbitstudio
-
-Language:
-  - en
-  - es
-
-Distributor: Orbit Game Studio
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: inconclusive
-  scale: planetary
+Creators: au-es-orbitstudio-orbitstudio
+Language: l-en, l-es
+Distributor: "Orbit Game Studio"
+Area: g-es
+Trigger event: agency_anthropogenic, type_war kernel_inconclusive, scale_planetary
+Direct Consequences: authoritarianism_technological, government_corporate, conflict_information
+Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity

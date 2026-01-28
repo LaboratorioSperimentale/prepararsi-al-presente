@@ -1,28 +1,11 @@
 id: op-es-losannosdelsilencio
-
 Type: novel
-
-First known title: Los años del silencio
-
+First known title: "Los años del silencio"
 First edition: 2019
-
-
-Creators:
-  - au-es-ela-vilarmadruga
-
-Language:
-  - es
-
-Publisher: Dilatando mentes
-
-Area: es
-
-Trigger event:
-  agency: Anthropogenic
-  event: War
-  kernel: Intra-societal
-  scale: Planetary
-
-
-Synopsis: |
-  The novel  introduces us to a society rooted in the past yet equipped with advanced technology, where rebellions are incessant.
+Creators: au-es-ela-vilarmadruga
+Language: l-es
+Publisher: "Dilatando mentes"
+Area: g-es
+Trigger event:  agency_anthropogenic, type_war, kernel_intrasocietal,  scale_planetary
+Direct Consequences: authoritarianism_social, censorship, conflict_information
+Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, population_decline

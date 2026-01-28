@@ -6,6 +6,6 @@ Creators: au-en-christina-dalcher
 Language: l-en
 Publisher: "Berkley Books"
 Area: g-en
-Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_local
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: authoritarianism_gynocentric, authoritarianism_social, segregationism_sexual, censorship
 Aftermaths: use_of_force_civilians, prosocial_into_antisocial, conflict_information, government_degradation

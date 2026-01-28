@@ -1,27 +1,11 @@
 id: op-es-mujeresquematan
-
 Type: novel
-
-First known title: Mujeres que matan
-
+First known title: "Mujeres que matan"
 First edition: 2018
-
-Creators:
-  - au-es-Alb-Barreratyszka
-
-Language:
-  - es
-
-Publisher: Random House
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
-
-Synopsis: |
-  The literary adventure of a book club soon becomes a means of escaping the daily anguish of this Caribbean dystopia. A first accidental crime turns the protagonists into accomplices, and the reading of a self-help book transforms them into murderers. The unsettling question that implicitly runs through these pages is whether every woman, in our impunitive and machista societies, harbors a latent desire for revenge—whether every woman has an unresolved crime. The novel also explores the therapeutic value of literature, the many forms of desire, and the moral deceit of self-help books.
-
+Creators: au-es-alb-barreratyszka
+Language: l-es
+Publisher: "Random House"
+Area: g-es
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
+Direct Consequences: authoritarianism_social, conflict_information, segregationism_sexual
+Aftermaths: use_of_force_civilians, prosocial_into_antisocial, government_degradation, conflict_intrapolity

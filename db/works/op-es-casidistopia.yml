@@ -1,31 +1,11 @@
 id: op-es-casidistopia
-
 Type: novel
-
-First known title:   MM 2033 Casi una distopía
-
+First known title: "MM 2033 Casi una distopía"
 First edition:   2021
-
-
-
-Creators:
-  - au-es-mil-lopez
-
-Languages:
-  - es
-  - ...
-
-Publisher:     Verbum
-
-Area: es
-
-Trigger event:
-  agency: ambiguous
-  event: subversion
-  kernel: intra-societal
-  scale: continental
-
-
-
-Synopsis: |
-  In 2033 the climatic effects of draining the lagoon have been devastating. To quell the ensuing chaos, the Sistema rules the Region under the ruthless laws of an implacable Executive. Intrigue, love, resistance, rebellion, and two temporal planes guide the reader through the evolution of a society until it becomes a distorted version of itself. Along the way, the narrative reveals a powerful truth and this truth is that freedom is a fragile achievement. (back cover)
+Creators: au-es-mil-lopez
+Languages: l-es
+Publisher: "Verbum"
+Area: g-es
+Trigger event: agency_ambiguous, type_subversion, kernel_intrasocietal, scale_continental
+Direct Consequences: authoritarianism_social, conflict_information, government_degradation
+Aftermaths: segregationism_social, prosocial_into_antisocial, conflict_intrapolity, use_of_force_civilians

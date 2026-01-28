@@ -1,32 +1,11 @@
 id: op-es-eventoz
-
-First known title: Evento Z. Zombis en Valparaíso
-
+Type: novel
+First known title: "Evento Z. Zombis en Valparaíso"
 First edition: 2014
-
-Alternative titles:
-
-Creators:
-  - au-es-mar-muñozkaiser
-
-Language:
-  - es
-
-Publisher: Editorial Forja
-
-Area: es
-
-Trigger event:
-  agency: non-anthropogenic
-  event: war
-  kernel: Extra-societal
-  scale: Planetary
-
-
-
-Synopsis: |
-  A mysterious pandemic spreads across the globe. A transatlantic ship docks in the harbor of Valparaíso, where a tourist collapses dead on the streets of the port—only to rise again and bite the firefighters who try to help him.
-  The zombie apocalypse unfolds slowly, creeping and silent, before exploding right under the noses of authorities who fail to declare a state of emergency in time.
-  In the midst of the chaos, Javier, a 14-year-old student, tries to make it home by implementing the zombie contingency plan he had been perfecting during recess with Weipin, his best friend.
-  On the other side of the city, Claudia, an executive at a multinational company, flees her workplace alongside Shannon and Pedro, two colleagues she barely knows. Together, they fight to reach Valparaíso and survive the relentless hordes of the ravenous undead.
-
+Creators: au-es-mar-munozkaiser
+Language: l-es
+Publisher: "Editorial Forja"
+Area: g-es
+Trigger event: agency_nonanthropogenic, type_war, kernel_extrasocietal, scale_planetary
+Direct Consequences: alteration_human_bodies, conflict_information, population_decline
+Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, conflict_intrapolity, government_degradation

@@ -6,6 +6,6 @@ Creators: au-en-manonsteffan-ros
 Language: l-en
 Publisher: "Deep Vellum Publishing"
 Area: g-en
-Trigger event: agency_anthropogenic, event_war, kernel_extra-societal, scale_planetary
+Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_planetary
 Direct Consequences: population_decline, conflict_information
 Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation

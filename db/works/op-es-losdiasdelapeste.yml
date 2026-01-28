@@ -1,28 +1,11 @@
 id: op-es-losdiasdelapeste
-
 Type: novel
-
-First known title: Los días de la peste
-
+First known title: "Los días de la peste"
 First edition: 2017
-
-Creators:
-  - au-es-edm-pazsoldan
-
-Language:
-  - es
-
-Publisher: Malpaso ediciones
-
-Area: es
-
-Trigger event:
-  agency: ambiguous
-  event: metaphysical
-  kernel: extra-societal
-  scale: local
-
-
-
-Synopsis: |
-  The set of the novel, la Casona is far more than a prison; it is a microcosm where each individual—be it the prison governor, his wife, the inmates, or the guards—resigns themselves to their fate. Religion serves as both salvation and doom, with all secretly worshipping a forbidden cult devoted to a vengeful goddess intent on destroying the world. United by their shared faith and the looming plague that spares neither rich nor poor, these disparate characters confront their fragile existence in an isolated corner of the world. (back cover)
+Creators: au-es-edm-pazsoldan
+Language: l-es
+Publisher: "Malpaso ediciones"
+Area: g-es
+Trigger event: agency_ambiguous, type_metaphysical, kernel_extrasocietal, scale_local
+Direct Consequences: population_decline, conflict_information, government_degradation
+Aftermaths: segregationism_social, prosocial_into_antisocial, conflict_intrapolity, use_of_force_civilians

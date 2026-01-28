@@ -1,30 +1,11 @@
 id: op-es-aunelagua
-
 Type: novel
-
-First known title: Aún el agua
-
+First known title: "Aún el agua"
 First edition: 2019
-
-
-
-Creators:
-  - au-es-jua-alvarez
-
-Language:
-  - es
-
-Publisher: Seix Barral
-
-Area: es
-
-Trigger event:
-  agency: non-anthropogenic
-  event: environmental
-  kernel: natural
-  scale: planetary
-
-
-
-Synopsis: |
-  Between 2228 and 2233, a group of women gifted with the power to communicate with water is tasked with crossing the toxic veil that separates the two craters, North and South, created on Earth by a massive earthquake. Their mission is to restore the hydrological balance and bring water to where it no longer exists. However, the protagonists strive not to obey the commands of the artificial intelligence governing them and instead seek the true reason they were biologically designed to undertake this mission.
+Creators: au-es-jua-alvarez
+Language: l-es
+Publisher: "Seix Barral"
+Area: g-es
+Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
+Direct Consequences: alteration_weather, depletion_biosphere, population_decline
+Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation

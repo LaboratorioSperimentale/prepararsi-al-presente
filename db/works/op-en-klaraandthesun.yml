@@ -6,6 +6,6 @@ Creators: au-en-kazuo-ishiguro
 Language: l-en
 Publisher: "Faber and Faber"
 Area: g-en
-Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_planetary
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: alteration_human_bodies, authoritarianism_market, government_corporate, conflict_economic
 Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, population_decline

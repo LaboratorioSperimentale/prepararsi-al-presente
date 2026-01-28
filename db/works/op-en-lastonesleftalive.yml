@@ -6,6 +6,6 @@ Creators: au-en-sarah-davisgoff
 Language: l-en
 Publisher: "Tinder Press"
 Area: g-en
-Trigger event: agency_anthropogenic, event_war, kernel_intra-societal, scale_planetary
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
 Direct Consequences: population_decline, depletion_biosphere, conflict_intrapolity
 Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation

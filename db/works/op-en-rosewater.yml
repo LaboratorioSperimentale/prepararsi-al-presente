@@ -6,6 +6,6 @@ Creators: au-en-tade-thompson
 Language: l-en
 Publisher: "Apex Publications"
 Area: g-en
-Trigger event: agency_non-anthropogenic, event_subversion, kernel_extra-societal, scale_planetary
+Trigger event: agency_nonanthropogenic, type_subversion, kernel_extrasocietal, scale_planetary
 Direct Consequences: ontological_alteration, conflict_information, government_corporate, alteration_human_bodies
 Aftermaths: population_decline, segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity

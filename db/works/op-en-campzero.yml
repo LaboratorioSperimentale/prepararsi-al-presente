@@ -6,6 +6,6 @@ Creators: au-en-michellemin-sterling
 Language: l-en
 Publisher: "Atria Books"
 Area: g-en
-Trigger event: agency_anthropogenic, event_environmental, kernel_intrasocietal, scale_continental
+Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_continental
 Direct Consequences: alteration_weather, depletion_biosphere, conflict_economic, government_oligarchical
 Aftermaths: segregationism_social, familism, prosocial_into_antisocial, population_decline

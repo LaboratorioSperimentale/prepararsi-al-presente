@@ -6,6 +6,6 @@ Creators: au-en-eidosmontreal-eidosinteractivecorporation
 Language: l-en
 Distributor: Square Enix Europe
 Area: g-en
-Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_planetary
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: alteration_human_bodies, government_corporate, authoritarianism_market, conflict_economic
 Aftermaths: segregationism_social, conflict_information, prosocial_into_antisocial, government_degradation

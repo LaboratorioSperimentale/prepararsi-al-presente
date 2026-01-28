@@ -1,31 +1,11 @@
 id: op-es-allaafuera
-
 Type: novel
-
-First known title: Allá afuera hay monstruos
-
+First known title: "Allá afuera hay monstruos"
 First edition: 2021
-
-Alternative titles:
-
-Creators:
-  - au-es-edm-pazsoldan
-
-Language:
-  - es
-
-Publisher: Los libros de la mujer rota
-
-Area: es
-
-Trigger event:
-  agency: ambiguous
-  event: subversion
-  kernel: inconclusive
-  scale: local
-
-
-
-Synopsis: |
-  Allá afuera hay monstruos tells the story of a preteen girl navigating a devastating epidemic while witnessing the turbulent political and social upheaval brought on by the health crisis. Paz Soldán weaves a complex narrative exploring how disaster forces the reinvention of fragile familial, communal, and rational bonds. The novel is a haunting and vivid account of an altered world, offering a captivating reflection of our times. (Back cover)
-
+Creators: au-es-edm-pazsoldan
+Language: g-es
+Publisher: "Los libros de la mujer rota"
+Area: g-es
+Trigger event: agency_ambiguous, type_subversion, kernel_inconclusive, scale_local
+Direct Consequences: ontological_alteration, conflict_information, population_decline
+Aftermaths: segregationism_social, prosocial_into_antisocial, familism, government_degradation

@@ -6,6 +6,6 @@ Creators: au-en-eve-smith
 Language: l-en
 Publisher: "Orenda Books"
 Area: g-en
-Trigger event: agency_anthropogenic, event_environmental, kernel_intra-societal, scale_local
+Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_local
 Direct Consequences: alteration_weather, depletion_biosphere, conflict_economic, population_decline
 Aftermaths: segregationism_social, familism, prosocial_into_antisocial, government_degradation

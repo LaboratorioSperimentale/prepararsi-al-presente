@@ -6,6 +6,6 @@ Creators: au-en-jessamine-chan
 Language: l-en
 Publisher: "Simon & Schuster"
 Area: g-en
-Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_local
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: authoritarianism_social, authoritarianism_reproduction, government_corporate, conflict_information
 Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation

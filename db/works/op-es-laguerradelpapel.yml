@@ -1,31 +1,11 @@
 id: op-es-laguerradelpapel
-
 Type: novel
-
-First known title: La guerra del papel. Facsímiles de funebrero y cuerpos del futuro
-
+First known title: "La guerra del papel. Facsímiles de funebrero y cuerpos del futuro"
 First edition: 2016
-
-Alternative titles:
-
-Creators:
-  - au-es-osw-catalayudcriales
-
-Language:
-  - es
-
-Publisher: Editorial 3600
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: Intra-societal
-  scale: Local
-
-
-
-Synopsis: |
-  A unilateral epistolary novel set in a fictional country between 2033 and 2036. The protagonist, through the mediation of a nuncio, writes dozens of  letters, trusting—without being able to verify—that they reach their intended destination. It offers a profound reflection on corporeality, the physical, physiological, and biological aspects of the human body, as well as its limits and limitations, juxtaposed with the mental and emotional dichotomy. (by Martín Zelaya)
-
+Creators: au-es-osw-catalayudcriales
+Language: l-es
+Publisher: "Editorial 3600"
+Area: g-es
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal scale_local
+Direct Consequences: conflict_information, authoritarianism_cultural, government_degradation
+Aftermaths: segregationism_social, prosocial_into_antisocial, conflict_intrapolity, population_decline

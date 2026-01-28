@@ -1,27 +1,11 @@
 id: op-es-losmantras
-
 Type: novel
-
-First known title: Los mantras modernos
-
+First known title: "Los mantras modernos"
 First edition: 2017
-
-
-
-Creators:
-  - au-es-mar-castagnet
-
-Language:
-  - es
-
-Publisher: Sigilo
-
-Area: es
-
-Trigger event:
-  agency:  anthropogenic
-  event: Metaphysical
-  kernel: non-specified
-  scale: multi-versal
-Synopsis: |
-  In a near-present world where people can escape to another dimension called 'the phosphorescence,' two siblings, Rapo and Masita, strive to flee from the dull and insubstantial reality they inhabit through a dangerous game of vanishing and reappearing. When Rapo disappears into the phosphorescence, Masita is compelled to set off on a journey to bring him back to the present, encountering along the way a parade of characters who defy the rules of reality and blur the boundary between both worlds, all fugitives from a crumbling reality.
+Creators: au-es-mar-castagnet
+Language: l-es
+Publisher: "Sigilo"
+Area: g-es
+Trigger event: agency_anthropogenic, type_metaphysical, kernel_nonspecified, scale_multi-versal
+Direct Consequences: authoritarianism_cultural, conflict_information, government_degradation
+Aftermaths: segregationism_social, prosocial_into_antisocial, population_decline, conflict_intrapolity

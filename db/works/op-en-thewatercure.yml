@@ -6,6 +6,6 @@ Creators: au-en-sophie-mackintosh
 Language: l-en
 Publisher: "Hamish Hamilton"
 Area: g-en
-Trigger event: agency_unknown, event_subversion, kernel_extra-societal, scale_planetary
+Trigger event: agency_unknown, type_subversion, kernel_extrasocietal, scale_planetary
 Direct Consequences: authoritarianism_social, authoritarianism_gynocentric, censorship
 Aftermaths: segregationism_sexual, use_of_force_civilians, prosocial_into_antisocial, government_degradation

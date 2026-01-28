@@ -6,6 +6,6 @@ Creators: au-en-tlotlo-tsamaase
 Language: l-en
 Publisher: "Erewhon Books"
 Area: g-en
-Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_local
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: authoritarianism_reproduction, authoritarianism_social, ontological_alteration, conflict_information
 Aftermaths: segregationism_sexual, prosocial_into_antisocial, population_decline, government_degradation

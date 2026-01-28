@@ -6,6 +6,6 @@ Creators: au-en-meg-Elison
 Language: l-en
 Publisher: "Sybaritic Press"
 Area: g-en
-Trigger event: agency_non-anthropogenic, event_subversion, kernel_natural, scale_planetary
+Trigger event: agency_nonanthropogenic, type_subversion, kernel_natural, scale_planetary
 Direct Consequences: population_decline, conflict_information
 Aftermaths: segregationism_sexual, use_of_force_civilians, prosocial_into_antisocial, familism, government_degradation

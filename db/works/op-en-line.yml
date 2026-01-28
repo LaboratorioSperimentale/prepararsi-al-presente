@@ -1,22 +1,11 @@
 id: op-en-line
-
-First known title: Line
-
+First known title: "Line"
 First edition: 2021
-
 Type: novel
-
-Creators:
-  - au-en-niall-bourke
-
-Language:
-  - en
-Publisher: Tramp Press
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: planetary
+Creators: au-en-niall-bourke
+Language: l-en
+Publisher: "Tramp Press"
+Area: g-en
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
+Consequences: conflict_intrapolity, population_decline, government_degradation
+Aftermaths: segregationism_social, prosocial_into_antisocial, conflict_information, familism

@@ -6,6 +6,6 @@ Creators: au-en-jasper-fforde
 Language: l-en
 Publisher: "Hodder & Stoughton"
 Area: g-en
-Trigger event: agency_non-anthropogenic, event_environmental, kernel_natural, scale_planetary
+Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
 Direct Consequences: segregationism_social, authoritarianism_social, censorship, conflict_information
 Aftermaths: use_of_force_civilians, prosocial_into_antisocial, government_degradation, conflict_intrapolity

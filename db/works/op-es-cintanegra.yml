@@ -1,32 +1,11 @@
 id: op-es-cintanegra
-
 Type: novel
-
-First known title: Cinta negra
-
+First known title: "Cinta negra"
 First edition: 2017
-
-Alternative titles:
-
-Creators:
-  - au-es-edu-rabasa
-
-Language:
-  - es
-
-Publisher: Pepitas de calabaza
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: planetary
-
-
-
-Synopsis: |
-  Cinta negra is a hilariously sharp parody of the corporate world and the pursuit of social mobility. It sketches out how some corporations foster cult-like structures within, where reaching the top of the chain of command is akin to ascending to the heavens.
-  The "black belt” is the highest professional honor one can aspire to within Soluciones, a hyper-modern company devoted to "solutioneering" bespoke solutions. This is a booming service in an era of boundless inventiveness.
-
+Creators: au-es-edu-rabasa
+Language: l-es
+Publisher: "Pepitas de calabaza"
+Area: g-es
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
+Direct Consequences: conflict_information, authoritarianism_social, government_degradation
+Aftermaths: segregationism_social, prosocial_into_antisocial, conflict_intrapolity

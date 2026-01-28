@@ -6,6 +6,6 @@ Creators: au-en-leni-zumas
 Language: l-en
 Publisher: "Sandstone Press"
 Area: g-en
-Trigger event: agency_anthropogenic, event_subversion, kernel_intra-societal, scale_continental
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_continental
 Direct Consequences: alteration_weather, depletion_biosphere, conflict_economic, population_decline
 Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation

@@ -6,6 +6,6 @@ Creators: au-en-margaret-atwood
 Language: l-en
 Publisher: "McClelland & Stewart"
 Area: g-en
-Trigger event: agency_anthropogenic,  event_subversion, kernel_intra-societal, scale_local
+Trigger event: agency_anthropogenic,  type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: authoritarianism_reproduction, authoritarianism_social, censorship, government_confessional
 Aftermaths: segregationism_sexual, use_of_force_civilians, prosocial_into_antisocial, government_degradation, conflict_information

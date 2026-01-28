@@ -1,24 +1,11 @@
 id: op-es-retromachina
-
 First known title: "Retro Machina"
-
 Type: videogame
-
 First edition: 2021
-
-Creators:
-  - au-es-orbitstudio-orbitstudio
-
-Language:
-  - en
-  - es
-
-Distributor: SuperGG.com
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: inconclusive
-  scale: planetary
+Creators: au-es-orbitstudio-orbitstudio
+Language: l-en, l-es
+Distributor: "SuperGG.com"
+Area: g-es
+Trigger event: agency_anthropogenic, type_subversion kernel_inconclusive, scale_planetary
+Direct Consequences: authoritarianism_technological, government_corporate, conflict_information, alteration_human_bodies
+Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity

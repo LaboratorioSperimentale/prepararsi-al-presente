@@ -1,30 +1,11 @@
 id: op-es-unpianistadeprovincias
-
 Type: novel
-
-First known title: Un pianista de provincias
-
+First known title: "Un pianista de provincias"
 First edition: 2023
-
-Creators:
-  - au-es-ram-sanchiz
-
-Language:
-  - es
-
-Publisher: Literatura Random House
-
-Area: es
-
-Trigger event:
-  agency: ambiguous
-  event: environmental
-  kernel: inconclusive
-  scale: planetary
-
-
-
-Synopsis: |
-  "Set in the aftermath of the 1990s, when not only did oil run out but a new lifeform—the maraña, capable of digesting plastic but toxic to humans—emerged from depleted wells and the massive garbage patches in the oceans. This great pandemic nearly destroyed civilization, but as the 21st century progressed, humanity learned to survive in a world no longer globalized.
-  In this fragmented, provincial world, Federico Stahl, a former teenage piano prodigy, embarks on a musical tour through dreamlike and unsettling towns. Along the way, he encounters eccentric characters, such as an elderly Michael Jackson impersonator and a dwarf star of Argentine porn. Traveling along ruined highways through the maraña jungle, he uncovers secrets of even stranger futures hidden in the undergrowth, where post-apocalyptic pirates, lost toys, and old piano variations await in a landscape both haunting and surreal.
-  (back cover)"
+Creators: au-es-ram-sanchiz
+Language: l-es
+Publisher: "Literatura Random House"
+Area: g-es
+Trigger event: agency_ambiguous, type_environmental, kernel_inconclusive scale_planetary
+Direct Consequences: conflict_information, government_degradation, population_decline
+Aftermaths: familism, segregationism_social, prosocial_into_antisocial, conflict_intrapolity

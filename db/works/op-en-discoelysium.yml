@@ -6,6 +6,6 @@ Creators: au-en-zaum-zaumstudios
 Language: l-en
 Distributor: "ZA/UM"
 Area: g-en
-Trigger event: agency_anthropogenic, event_war, kernel_extra-societal, scale_local
+Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_local
 Direct Consequences: government_degradation, conflict_intrapolity, conflict_economic, population_decline
 Aftermaths: prosocial_into_antisocial, segregationism_social, familism, conflict_information

@@ -1,31 +1,11 @@
 id: op-es-acercadesuarez
-
 Type: novel
-
-First known title: Acerca de Suárez
-
+First known title: "Acerca de Suárez"
 First edition: 2016
-
-Alternative titles:
-
-Creators:
-  - au-es-fra-ovando
-
-Language:
-  - es
-
-Publisher: Pez espiral
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: planetary
-
-
-
-Synopsis: |
- An apocalyptic dystopia where the world is ruled by the flow of electrical energy, with every aspect of life governed by circuits and energy streams. In this reality, even the format of the text and the way it is read are adapted to the movement of the electrical circuit: the narrative flows from right to left, mimicking the path of the current.
-
+Creators: au-es-fra-ovando
+Language: l-es
+Publisher: "Pez espiral"
+Area: g-es
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
+Direct Consequences: government_degradation, conflict_intrapolity, conflict_information
+Aftermaths: prosocial_into_antisocial, segregationism_social, familism
