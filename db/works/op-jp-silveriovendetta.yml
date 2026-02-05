@@ -1,23 +1,11 @@
 id: op-jp-silveriotrinity
-
 First known title: "Silverio Trinity"
-
 Type: videogame
-
 First edition: 2014
-
-Creators:
-  - au-jp-light-yuugengaishaaresu
-
-Language:
-  - jp
-
+Creators: au-jp-light-yuugengaishaaresu
+Language: l-jp
 Distributor: Ares Co., Ltd., Greenwood Co., Ltd.
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: intra-societal
-  scale: planetary
+Area: g-jp
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
+Direct Consequences: ontological_alteration, conflict_interpolity, population_decline
+Aftermaths: government_nonhuman, conflict_intrapolity, prosocial_into_antisocial, segregationism_social

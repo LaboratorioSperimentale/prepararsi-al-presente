@@ -1,22 +1,11 @@
 id: op-jp-pyua
-
-First known title: Pyūa
-
+First known title: "Pyūa"
+Type: novel
 First edition: 2020
-
-Creators:
-  - au-jp-miy-ono
-
-Language:
-  - jp
-Publisher: Hayakawa Shobō
-
-Area: jp
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: multi-planetary
-Synopsis: |
-  Pure is a love story set in a world where women can’t get pregnant unless they eat their male partner after sex.
+Creators: au-jp-miyuki-ono
+Language: l-jp
+Publisher: "Hayakawa Shobō"
+Area: g-jp
+Trigger event: agency_ anthropogenic, type_subversion, kernel_intrasocietal, scale_multi-planetary
+Direct Consequences: alteration_human_bodies, ontological_alteration, conflict_information
+Aftermaths: population_decline, segregationism_social, prosocial_into_antisocial, government_degradation

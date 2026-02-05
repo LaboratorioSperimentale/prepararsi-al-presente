@@ -1,27 +1,11 @@
 id: op-jp-debirusabaibatsuanime
-
 first_known_title: "Debiru Sabaibā Tsū Ji Animēshon"
-
 Type: serial
-
 First edition: 2014
-
-Alternative titles:
-  - "Devil Survivor 2: The Animation"
-
-Creators:
-  - au-jp-seiji-kishi
-
-Language:
-  - jp
-
+Creators: au-jp-seiji-kishi
+Language: l-jp
 Distributor: “Shobō” 
-
-Area: jp
-
-Trigger event:
-  agency: ambiguous
-  event: metaphysical
-  kernel: intra-societal
-  scale: planetary
-
+Area: g-jp
+Trigger event: agency_ambiguous, type_metaphysical, kernel_intrasocietal, scale_planetary
+Direct Consequences: ontological_alteration, conflict_interpolity, population_decline
+Aftermaths: government_nonhuman, conflict_intrapolity, prosocial_into_antisocial, segregationism_social

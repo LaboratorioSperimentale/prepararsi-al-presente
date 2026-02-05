@@ -1,23 +1,11 @@
 id: op-jp-revolvergirlhammerlady
-
 First known title: "Revolver Girl ☆ Hammer Lady"
-
 Type: videogame
-
 First edition: 2012
-
-Creators:
-  - au-jp-kai-amolphas
-
-Language:
-  - jp
-
-Distributor: Amolphas
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: intra-societal
-  scale: planetary
+Creators: au-jp-kai-amolphas
+Language: l-jp
+Distributor: "Amolphas"
+Area: g-jp
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
+Direct Consequences: conflict_intrapolity, government_degradation, population_decline
+Aftermaths: use_of_force_civilians, prosocial_into_antisocial, segregationism_social

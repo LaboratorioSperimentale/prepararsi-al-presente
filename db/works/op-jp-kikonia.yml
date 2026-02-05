@@ -1,23 +1,11 @@
 id: op-jp-kikonianonakukoroni
-
 First known title: "Kikonia no Naku koro Ni"
-
 Type: videogame
-
 First edition: 2019
-
-Creators:
-  - au-jp-07thexpansion-07thexpansion
-
-Language:
-  - jp
-
+Creators: au-jp-07thexpansion-07thexpansion
+Language: l-jp
 Distributor: "07th Expansion"
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: inconclusive
-  scale: planetary
+Area: g-jp
+Trigger event: agency_anthropogenic, type_war, kernel_inconclusive, scale_planetary
+Direct Consequences: ontological_alteration, authoritarianism_technological, conflict_interpolity, government_corporate
+Aftermaths: alteration_human_bodies, population_decline, prosocial_into_antisocial, government_degradation, conflict_information

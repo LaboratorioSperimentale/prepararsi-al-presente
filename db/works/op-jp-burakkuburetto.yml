@@ -1,27 +1,11 @@
 id: op-jp-burakkuburetto
-
 Type: novel
-
 First known title: "Burakku Buretto"
-
 First edition:   2011
-
-Alternative titles:
-  - "Black Bullet"
-
-Creators:
-  - au-jp-shiden-kanzaki
-  - au-jp-saki-ukai
-
-Languages:
-  - jp
-
+Creators: au-jp-shiden-kanzaki, au-jp-saki-ukai
+Languages: l-jp
 Distributor:  "ASCII Media Works"
-
-Area: jp
-
-Trigger event:
-  agency: non-anthropogenic
-  event: subversion
-  kernel: inconclusive
-  scale: planetary
+Area: g-jp
+Trigger event: agency_non-anthropogenic, type_subversion, kernel_inconclusive, scale_planetary
+Direct Consequences: alteration_human_bodies, conflict_intrapolity, population_decline, government_military
+Aftermaths: segregationism_social, use_of_force_civilians, prosocial_into_antisocial, government_degradation

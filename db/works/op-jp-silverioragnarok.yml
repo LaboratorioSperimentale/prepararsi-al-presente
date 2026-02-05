@@ -1,25 +1,11 @@
-id: op-jp-silveriotrinity
-
-First known title: "Silverio Trinity"
-
+id: op-jp-silverioragnarok
+First known title: "Silverio Ragnarok"
 Type: videogame
-
-First edition: 2017
-
-Creators:
-  - au-jp-light-yuugengaishaaresu
-
-Language:
-  - jp
-
-Distributor: Ares Co., Ltd., Greenwood Co., Ltd.
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: intra-societal
-  scale: planetary
-direct_consequences: authoritarianism_social, authoritarianism_technological
-aftermaths: 
+First edition: 2019
+Creators: au-jp-light-yuugengaishaaresu
+Language: l-jp
+Distributor: "Ares Co., Ltd."
+Area: g-jp
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
+Direct Consequences: ontological_alteration, conflict_interpolity, population_decline
+Aftermaths: government_nonhuman, conflict_intrapolity, prosocial_into_antisocial, segregationism_social

@@ -1,25 +1,11 @@
 id: op-jp-zombienoafuretasekaideore
-
 First known title: "Zombie no Afureta Sekai de Ore Dake ga Osowarenai"
-
 Type: videogame
-
 First edition: 2015
-
-Creators:
-  - au-jp-seacox-spermation
-
-Language:
-  - jp
-
-Distributor: SEACOXX
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: planetary
-direct_consequences: antisocial_into_prosocial
-aftermaths: 
+Creators: au-jp-seacox-spermation
+Language: l-jp
+Distributor: "SEACOXX"
+Area: g-jp
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
+Direct Consequences: alteration_human_bodies, population_decline, ontological_alteration
+Aftermaths: conflict_intrapolity, use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation

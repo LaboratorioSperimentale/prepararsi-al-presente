@@ -1,23 +1,11 @@
 id: op-jp-karakara2
-
 First known title: Karakara 2
-
 Type: videogame
-
 First edition: 2017
-
-Creators:
-  - au-jp-calme-sekaiproject
-
-Language:
-  - jp
-
+Creators: au-jp-calme-sekaiproject
+Language: l-jp
 Distributor: Denpasoft
-
-Area: jp
-
-Trigger event:
-  agency: non-anthropogenic
-  event: environmental
-  kernel: natural
-  scale: planetary
+Area: g-jp
+Trigger event: agency_non-anthropogenic, type_environmental, kernel_natural, scale_planetary
+Direct Consequences: population_decline, depletion_biosphere, alteration_weather
+Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation

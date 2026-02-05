@@ -1,25 +1,11 @@
 id: op-jp-psychopassprovidence
-
 First known title: "Psycho-Pass Providence"
-
 Type: feature-length
-
 First edition: 2023
-
-Creators:
-  - au-jp-naoyoshi-shiotani
-
-Language:
-  - jp
-
-Distributor: Toho Animation
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
-direct_consequences: authoritarianism_social, authoritarianism_technological, prosocial_into_antisocial
-aftermaths: 
+Creators: au-jp-naoyoshi-shiotani
+Language: l-jp
+Distributor: "Toho Animation"
+Area: g-jp
+Trigger event: agency_anthropogenic, type_subversion, kernel_intra-societal, scale_local
+Direct Consequences: authoritarianism_technological, authoritarianism_social, conflict_information, government_oligarchical
+Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation

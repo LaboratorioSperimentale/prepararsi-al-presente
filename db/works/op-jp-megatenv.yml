@@ -1,23 +1,11 @@
 id: op-jp-megatenv
-
 First known title: Shin Megami Tensei V
-
 Type: videogame
-
 First edition: 2020
-
-Creators:
-  - au-jp-atorasu-kabushikigaishaatorasu
-
-Language:
-  - jp
-
-Distributor: Atlus
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: metaphysical
-  kernel: intra-societal
-  scale: multi-versal
+Creators: au-jp-atorasu-kabushikigaishaatorasu
+Language: l-jp
+Distributor: "Atlus"
+Area: g-jp
+Trigger event: agency_anthropogenic type_metaphysical kernel_intrasocietal, scale_multiversal
+Direct Consequences: ontological_alteration, conflict_interpolity, authoritarianism_religion, population_decline
+Aftermaths: government_nonhuman, conflict_intrapolity, prosocial_into_antisocial, segregationism_social

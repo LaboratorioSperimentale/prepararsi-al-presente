@@ -1,25 +1,11 @@
 id: op-jp-blazbluecentralfiction
-
 First known title: "BLAZBLUE CENTRAL FICTION"
-
 Type: videogame
-
 First edition: 2014
-
-Creators:
-  - au-jp-aakushisutemwaakusu-aakushisutemwaakusukabushikigaisha
-
-Language:
-  - jp
-
-Distributor: Arc System Works
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: metaphysical
-  kernel: intra-societal
-  scale: multi-versal
-direct_consequences: authoritarianism_social, authoritarianism_technological 
-aftermaths: 
+Creators: au-jp-aakushisutemwaakusu-aakushisutemwaakusukabushikigaisha
+Language: l-jp
+Distributor: "Arc System Works"
+Area: g-jp
+Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_multiversal
+Direct Consequences: ontological_alteration, conflict_interpolity, conflict_information
+Aftermaths: alteration_human_bodies, prosocial_into_antisocial, population_decline, government_degradation

@@ -2,18 +2,10 @@ id: op-jp-borado
 First known title: "Borādo byō"
 Type: novel
 First edition: 2017
-Creators:
-  - au-jp-man-yoshimura
-Language:
-  - jp
+Creators: au-jp-man-yoshimura
+Language: l-jp
 Distributor: "Bushun bunko"
-
-Area: jp
-Trigger event:
-  agency: unknown
-  event: subversion
-  kernel: intra-societal
-  scale: local
-
-synopsis: |
-  The city of Kaizuka, B Prefecture, is a town of recovery that is reviving from the disasters of the past. Everyone is united in singing the ‘Hymn to Amizuka’, eating fresh local fish and vegetables, and working hard to clean up the harbour, while their classmates are dying one after another. Through the perspective of Kyoko, a fifth-grader who lives with her mother in the town, her recollections are told in an indifferent manner, eventually bringing a distorted and otherworldly world into sharp relief.
+Area: g-jp
+Trigger event: agency_unknown, type_subversion, kernel_intrasocietal, scale_local
+Direct Consequences: alteration_human_bodies, ontological_alteration, conflict_information
+Aftermaths: population_decline, segregationism_social, prosocial_into_antisocial, government_degradation
