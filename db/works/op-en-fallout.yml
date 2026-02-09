@@ -1,6 +1,6 @@
 id: op-en-fallout
 First known title: "Fallout"
-Media form:serial
+Media form: serial
 First edition: 2024
 Creators: au-en-gra-warner, au-en-gen-robertson
 Language: l-en
@@ -8,4 +8,4 @@ Distributor: "Amazon Prime Video"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_inconclusive,  scale_planetary
 Direct Consequences: wmd_use_nuclear, conflict_interpolity, government_corporate, eschatological_alteration, pollution_radiation
-Aftermaths: population_decline, government_degradation, 'alteration_fauna, alteration_flora, alteration_human_bodies, conflict_intrapolity, use_of_force_civilians, segregationism_social, prosocial_into_antisocial
+Aftermaths: population_decline, government_degradation, alteration_fauna, alteration_flora, alteration_human_bodies, conflict_intrapolity, use_of_force_civilians, segregationism_social, prosocial_into_antisocial
