@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Netflix"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_inconclusive, scale_planetary
-Direct Consequences: alteration_weather, depletion_biosphere, population_decline, conflict_interpolity
-Aftermaths: segregationism_social, government_degradation, prosocial_into_antisocial, conflict_information
+Direct Consequences: pollution_biosphere, depletion_biosphere, alteration_weather
+Aftermaths: population_decline, government_degradation, depletion_water, alteration_fauna, alteration_flora

@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Editorial 3600"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal scale_local
-Direct Consequences: conflict_information, authoritarianism_cultural, government_degradation
-Aftermaths: segregationism_social, prosocial_into_antisocial, conflict_intrapolity, population_decline
+Direct Consequences: conflict_information, authoritarianism_cultural, government_oligarchical
+Aftermaths: censorship, authoritarianism_social, prosocial_into_antisocial, conflict_intrapolity, authoritarianism_language

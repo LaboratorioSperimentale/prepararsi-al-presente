@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Oneworld"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_local
-Direct Consequences: conflict_intrapolity, authoritarianism_social, government_degradation
-Aftermaths: use_of_force_civilians, population_decline, familism, prosocial_into_antisocial, segregationism_social
+Direct Consequences: government_military, conflict_intrapolity, government_degradation
+Aftermaths: authoritarianism_social, censorship, use_of_force_civilians, conflict_information, population_decline, familism

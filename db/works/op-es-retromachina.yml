@@ -7,5 +7,5 @@ Language: l-en, l-es
 Distributor: "SuperGG.com"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion kernel_inconclusive, scale_planetary
-Direct Consequences: authoritarianism_technological, government_corporate, conflict_information, alteration_human_bodies
-Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity
+Direct Consequences: government_nonhuman, authoritarianism_technological, conflict_interpolity
+Aftermaths: government_degradation, population_decline, alteration_fauna, alteration_human_bodies, prosocial_into_antisocial

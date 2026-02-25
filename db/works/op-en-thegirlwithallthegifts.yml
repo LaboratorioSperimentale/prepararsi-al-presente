@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Orbit Books"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
-Direct Consequences: population_decline, conflict_information, government_military
-Aftermaths: alteration_human_bodies, use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation
+Direct Consequences: alteration_fauna, alteration_human_bodies, wmd_use_bacteriological
+Aftermaths: government_degradation, government_military, population_decline, use_of_force_civilians, conflict_intrapolity, authoritarianism_health

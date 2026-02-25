@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Alfaguara"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_inconclusive, scale_continental
-Direct Consequences: alteration_weather, depletion_biosphere, population_decline
-Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation
+Direct Consequences: depletion_biosphere, alteration_weather, government_degradation
+Aftermaths: population_decline, conflict_intrapolity, authoritarianism_social, prosocial_into_antisocial, familism

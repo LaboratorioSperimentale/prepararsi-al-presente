@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "07th Expansion"
 Area: g-jp
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_local
-Direct Consequences: conflict_interpolity, conflict_intrapolity, government_military, population_decline
-Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation, conflict_information
+Direct Consequences: conflict_interpolity, government_degradation, conflict_economic
+Aftermaths: government_military, authoritarianism_social, authoritarianism_racism, segregationism_social, use_of_force_civilians, conflict_information, prosocial_into_antisocial

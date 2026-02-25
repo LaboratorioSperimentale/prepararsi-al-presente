@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Denpasoft"
 Area: g-jp
 Trigger event: agency_non-anthropogenic, type_environmental, kernel_natural, scale_planetary
-Direct Consequences: population_decline, depletion_biosphere, alteration_weather
-Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation
+Direct Consequences: depletion_biosphere, alteration_weather, depletion_water
+Aftermaths: population_decline, government_degradation, prosocial_into_antisocial, familism, authoritarianism_social

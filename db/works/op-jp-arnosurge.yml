@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "KOEI TECMO"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: ontological_alteration, conflict_information, alteration_human_bodies
-Aftermaths: segregationism_social, prosocial_into_antisocial, population_decline, conflict_intrapolity
+Direct Consequences: ontological_alteration, conflict_interpolity, government_degradation
+Aftermaths: population_decline, authoritarianism_social, alteration_human_bodies, conflict_intrapolity, prosocial_into_antisocial

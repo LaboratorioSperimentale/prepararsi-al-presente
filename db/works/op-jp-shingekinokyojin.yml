@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Kōdansha"
 Area: g-jp
 Trigger event: agency_nonanthropogenic, type_war, kernel_extrasocietal, scale_planetary
-Direct Consequences: alteration_fauna, population_decline, conflict_interpolity, government_military
-Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity
+Direct Consequences: alteration_human_bodies, conflict_interpolity, government_oligarchical
+Aftermaths: authoritarianism_social, authoritarianism_racism, segregationism_social, use_of_force_civilians, censorship, conflict_information, population_decline, conflict_intrapolity

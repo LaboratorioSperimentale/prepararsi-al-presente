@@ -7,5 +7,5 @@ Language: l-en
 Distributor: "505 Games s.p.a."
 Area: en
 Trigger event: agency_ambiguous, type_environmental, kernel_inconclusive, scale_planetary
-Direct Consequences: government_corporate, authoritarianism_technological, alteration_human_bodies, pollution_biosphere
-Aftermaths: conflict_intrapolity, use_of_force_civilians, segregationism_social, government_degradation, prosocial_into_antisocial, conflict_information
+Direct Consequences: depletion_biosphere, alteration_weather, government_corporate
+Aftermaths: authoritarianism_social, authoritarianism_market, authoritarianism_technological, government_oligarchical, segregationism_social, use_of_force_civilians, population_decline, conflict_intrapolity

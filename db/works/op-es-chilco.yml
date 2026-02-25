@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Seix Barral"
 Area: g-es
 Trigger event: agency_ambiguous, type_environmental, kernel_natural, scale_local
-Direct Consequences: conflict_intrapolity, government_degradation, population_decline
-Aftermaths: familism, segregationism_social, prosocial_into_antisocial, conflict_information
+Direct Consequences: authoritarianism_racism, depletion_biosphere, conflict_intrapolity
+Aftermaths: authoritarianism_cultural, authoritarianism_language, segregationism_social, use_of_force_civilians, government_degradation, censorship

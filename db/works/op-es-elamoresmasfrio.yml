@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Candaya"
 Area: g-es
 Trigger event: agency_ambiguous, type_subversion, kernel_extrasocietal scale_local
-Direct Consequences: conflict_information, government_degradation, population_decline
-Aftermaths: familism, segregationism_social, prosocial_into_antisocial, conflict_intrapolity
+Direct Consequences: government_degradation, conflict_intrapolity, authoritarianism_social
+Aftermaths: prosocial_into_antisocial, use_of_force_civilians, censorship, authoritarianism_cultural, conflict_information

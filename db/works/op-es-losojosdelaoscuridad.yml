@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Libro Escuchas"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_war, kernel_extrasocietal, scale_continental
-Direct Consequences: ontological_alteration, conflict_information, government_degradation
-Aftermaths: population_decline, segregationism_social, prosocial_into_antisocial, conflict_intrapolity
+Direct Consequences: alteration_human_bodies, alteration_fauna, government_degradation
+Aftermaths: population_decline, conflict_intrapolity, prosocial_into_antisocial, use_of_force_civilians, authoritarianism_social

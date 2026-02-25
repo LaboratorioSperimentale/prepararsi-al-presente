@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Canongate"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
-Direct Consequences: conflict_intrapolity, government_degradation, population_decline
-Aftermaths: familism, segregationism_social, prosocial_into_antisocial, conflict_information
+Direct Consequences: conflict_interpolity, authoritarianism_racism, government_degradation
+Aftermaths: authoritarianism_social, segregationism_social, ontological_alteration, conflict_information, censorship

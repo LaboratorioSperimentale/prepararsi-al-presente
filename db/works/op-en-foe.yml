@@ -7,5 +7,5 @@ Language: l-en
 Distributor: "Amazon MGM Studios"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: alteration_weather, depletion_biosphere, government_corporate, authoritarianism_technological
-Aftermaths: conflict_information, government_degradation, segregationism_social, prosocial_into_antisocial
+Direct Consequences: depletion_biosphere, alteration_weather, government_corporate
+Aftermaths: authoritarianism_technological, alteration_human_bodies, authoritarianism_social, population_decline

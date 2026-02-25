@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Penguin Randomhouse"
 Area: g-es
 Trigger event: agency_ambiguous, type_war, kernel_intrasocietal, scale_planetary
-Direct Consequences: ontological_alteration, conflict_information, authoritarianism_cultural
-Aftermaths: segregationism_social, prosocial_into_antisocial, population_decline, conflict_intrapolity
+Direct Consequences: government_military, conflict_intrapolity, use_of_force_civilians
+Aftermaths: authoritarianism_social, censorship, conflict_information, government_degradation, prosocial_into_antisocial, authoritarianism_cultural

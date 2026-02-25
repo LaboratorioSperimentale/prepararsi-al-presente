@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Editorial Lector Cómplice"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: conflict_intrapolity, population_decline, government_degradation
-Aftermaths: familism, segregationism_social, prosocial_into_antisocial, conflict_information
+Direct Consequences: government_military, conflict_intrapolity, government_degradation
+Aftermaths: authoritarianism_social, use_of_force_civilians, censorship, prosocial_into_antisocial, conflict_information

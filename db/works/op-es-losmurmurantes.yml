@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Editorial Cactus Pink"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_local
-Direct Consequences: ontological_alteration, conflict_information, authoritarianism_cultural
-Aftermaths: segregationism_social, prosocial_into_antisocial, population_decline, conflict_intrapolity
+Direct Consequences: ontological_alteration, government_degradation, authoritarianism_cultural
+Aftermaths: authoritarianism_social, prosocial_into_antisocial, censorship, conflict_intrapolity, alteration_human_bodies

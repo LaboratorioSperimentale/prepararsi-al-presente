@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Square Enix"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_multi-planetary
-Direct Consequences: government_nonhuman, ontological_alteration, population_decline, conflict_interpolity
-Aftermaths: alteration_human_bodies, conflict_intrapolity, prosocial_into_antisocial, segregationism_social, government_degradation
+Direct Consequences: conflict_interpolity, government_nonhuman, alteration_human_bodies
+Aftermaths: government_degradation, population_decline, alteration_fauna, conflict_intrapolity, prosocial_into_antisocial, authoritarianism_technological, ontological_alteration

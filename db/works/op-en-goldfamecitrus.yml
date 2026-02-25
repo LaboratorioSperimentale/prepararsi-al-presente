@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Riverhead Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_natural, scale_local
-Direct Consequences: alteration_weather, depletion_biosphere, depletion_water, population_decline
-Aftermaths: segregationism_social, familism, prosocial_into_antisocial, government_degradation, conflict_intrapolity
+Direct Consequences: depletion_water, alteration_weather, depletion_biosphere
+Aftermaths: population_decline, government_degradation, conflict_intrapolity, authoritarianism_social, alteration_fauna, use_of_force_civilians, prosocial_into_antisocial

@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Atlantic"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: alteration_weather, depletion_biosphere, conflict_information, government_corporate, authoritarianism_technological
-Aftermaths: government_degradation, pollution_biosphere, segregationism_social, prosocial_into_antisocial
+Direct Consequences: conflict_interpolity, government_degradation
+Aftermaths: authoritarianism_cultural, authoritarianism_social, censorship, use_of_force_civilians, conflict_information

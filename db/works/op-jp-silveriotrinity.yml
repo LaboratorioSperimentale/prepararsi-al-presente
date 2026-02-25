@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: Ares Co., Ltd., Greenwood Co., Ltd.
 Area: g-jp
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
-Direct Consequences: ontological_alteration, conflict_interpolity, population_decline
-Aftermaths: government_nonhuman, conflict_intrapolity, prosocial_into_antisocial, segregationism_social
+Direct Consequences: conflict_interpolity, authoritarianism_technological, alteration_human_bodies
+Aftermaths: government_military, authoritarianism_social, use_of_force_civilians, conflict_intrapolity, prosocial_into_antisocial, government_oligarchical

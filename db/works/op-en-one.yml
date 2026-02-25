@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Orenda Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_local
-Direct Consequences: alteration_weather, depletion_biosphere, conflict_economic, population_decline
-Aftermaths: segregationism_social, familism, prosocial_into_antisocial, government_degradation
+Direct Consequences: alteration_weather, depletion_biosphere, depletion_water
+Aftermaths: population_decline, government_degradation, conflict_intrapolity, authoritarianism_social, use_of_force_civilians

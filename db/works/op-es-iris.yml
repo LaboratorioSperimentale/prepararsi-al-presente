@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Alfaguara"
 Area: g-es
 Trigger event: agency_anthropogenic,  type_war, kernel_intrasocietal, scale_planetary
-Direct Consequences: government_corporate, conflict_information, ontological_alteration
-Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity
+Direct Consequences: conflict_interpolity, government_military, use_of_force_civilians
+Aftermaths: authoritarianism_social, authoritarianism_technological, censorship, conflict_information, authoritarianism_cultural, government_degradation

@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "NITRO PLUS"
 Area: g-jp
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
-Direct Consequences: conflict_interpolity, alteration_human_bodies, population_decline, government_military
-Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation, conflict_information
+Direct Consequences: alteration_human_bodies, government_degradation, wmd_use_bacteriological
+Aftermaths: government_corporate, authoritarianism_social, authoritarianism_market, conflict_intrapolity, use_of_force_civilians, population_decline, prosocial_into_antisocial

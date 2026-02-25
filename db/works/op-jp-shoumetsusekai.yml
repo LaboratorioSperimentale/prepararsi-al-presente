@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Kawade Shobō Shinsha"
 Area: g-jp
 Trigger event:  agency_anthropogenic, type_subversion, kernel_ intrasocietal, scale_local
-Direct Consequences: population_decline, ontological_alteration, conflict_information
-Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, familism
+Direct Consequences: authoritarianism_reproduction, authoritarianism_social, ontological_alteration
+Aftermaths: prosocial_into_antisocial, authoritarianism_cultural, population_decline, segregationism_sexual, censorship

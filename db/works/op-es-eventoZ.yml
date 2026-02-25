@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Editorial Forja"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_war, kernel_extrasocietal, scale_planetary
-Direct Consequences: alteration_human_bodies, conflict_information, population_decline
-Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, conflict_intrapolity, government_degradation
+Direct Consequences: alteration_human_bodies, alteration_fauna, wmd_use_bacteriological
+Aftermaths: government_degradation, population_decline, conflict_intrapolity, prosocial_into_antisocial, use_of_force_civilians

@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Lava"
 Area: g-es
 Trigger event: agency_ambiguous, type_war, kernel_intrasocietal, scale_planetary
-Direct Consequences: depletion_biosphere, alteration_weather, government_corporate
-Aftermaths: population_decline, segregationism_social, prosocial_into_antisocial, government_degradation
+Direct Consequences: depletion_biosphere, alteration_weather, alteration_fauna
+Aftermaths: population_decline, government_degradation, conflict_intrapolity, authoritarianism_social, prosocial_into_antisocial
