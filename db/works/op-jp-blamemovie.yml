@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: “Fujimi Shobō” 
 Area: g-jp
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_multiplanetary
-Direct Consequences: government_nonhuman, authoritarianism_technological, ontological_alteration
-Aftermaths: population_decline, alteration_human_bodies, alteration_fauna, government_degradation, conflict_intrapolity, prosocial_into_antisocial
+Direct consequences: government_nonhuman, alteration_human_bodies
+Aftermaths: population_decline, use_of_force_civilians, government_degradation, alteration_fauna

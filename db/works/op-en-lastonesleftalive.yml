@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Tinder Press"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
-Direct Consequences: alteration_fauna, wmd_use_bacteriological, population_decline
-Aftermaths: government_degradation, conflict_intrapolity, prosocial_into_antisocial, depletion_biosphere
+Direct consequences: alteration_fauna, population_decline
+Aftermaths: government_degradation, conflict_intrapolity, segregationism_sexual

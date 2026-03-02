@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Quercus"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: authoritarianism_androcentrism, authoritarianism_reproduction, segregationism_sexual
-Aftermaths: authoritarianism_social, authoritarianism_cultural, censorship, prosocial_into_antisocial, government_oligarchical
+Direct consequences: authoritarianism_androcentrism, authoritarianism_reproduction, segregationism_sexual
+Aftermaths: censorship, authoritarianism_cultural, authoritarianism_health, government_oligarchical

@@ -7,5 +7,5 @@ Language: l-en
 Distributor: "Amazon Prime Video"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_inconclusive,  scale_planetary
-Direct Consequences: wmd_use_nuclear, conflict_interpolity
-Aftermaths: government_degradation, pollution_radiation, pollution_land, alteration_fauna, alteration_flora, alteration_human_bodies, population_decline, conflict_intrapolity, government_military, authoritarianism_social, use_of_force_civilians
+Direct consequences: wmd_use_nuclear, pollution_radiation, pollution_land, alteration_fauna, alteration_flora
+Aftermaths: government_degradation, conflict_intrapolity, government_military, population_decline, authoritarianism_social, segregationism_social

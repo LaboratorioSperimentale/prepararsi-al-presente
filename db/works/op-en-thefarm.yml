@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Random House"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
-Direct Consequences: government_corporate, authoritarianism_market, authoritarianism_reproduction
-Aftermaths: authoritarianism_social, segregationism_social, authoritarianism_androcentrism, prosocial_into_antisocial, conflict_economic
+Direct consequences: authoritarianism_reproduction, authoritarianism_market
+Aftermaths: authoritarianism_social, segregationism_social, use_of_force_civilians

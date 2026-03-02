@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Hodder And Stoughton Ltd."
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
-Direct Consequences: alteration_fauna, alteration_human_bodies, population_decline
-Aftermaths: government_degradation, conflict_intrapolity, prosocial_into_antisocial, use_of_force_civilians, familism
+Direct consequences: population_decline
+Aftermaths: alteration_fauna, government_degradation

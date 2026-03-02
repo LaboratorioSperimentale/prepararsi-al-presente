@@ -7,5 +7,5 @@ Language: l-jp
 Publisher: "Shogakukan"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: government_degradation, conflict_intrapolity, government_military
-Aftermaths: authoritarianism_social, use_of_force_civilians, conflict_information, censorship, authoritarianism_cultural, segregationism_social
+Direct consequences: government_degradation, conflict_intrapolity
+Aftermaths: government_military, authoritarianism_social, population_decline

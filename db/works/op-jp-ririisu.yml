@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Kōbunsha"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: alteration_fauna, wmd_use_bacteriological, population_decline
-Aftermaths: government_degradation, conflict_intrapolity, prosocial_into_antisocial, authoritarianism_health, use_of_force_civilians
+Direct consequences: authoritarianism_social, government_degradation
+Aftermaths: censorship, use_of_force_civilians

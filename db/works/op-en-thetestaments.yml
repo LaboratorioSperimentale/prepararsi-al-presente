@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "McClelland & Stewart"
 Area: g-en
 Trigger event: agency_anthropogenic,  type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: government_confessional, authoritarianism_androcentrism, authoritarianism_reproduction
-Aftermaths: censorship, authoritarianism_social, segregationism_sexual, use_of_force_civilians, conflict_information, conflict_intrapolity, government_oligarchical
+Direct consequences: government_confessional, authoritarianism_androcentrism, authoritarianism_reproduction
+Aftermaths: censorship, segregationism_sexual, use_of_force_civilians, authoritarianism_social, conflict_information

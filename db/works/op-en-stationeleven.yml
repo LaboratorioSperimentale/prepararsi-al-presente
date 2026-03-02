@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Alfred A. Knopf"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_natural, scale_planetary
-Direct Consequences: alteration_fauna, wmd_use_bacteriological, population_decline
-Aftermaths: government_degradation, conflict_intrapolity, prosocial_into_antisocial, authoritarianism_religion, use_of_force_civilians
+Direct consequences: population_decline
+Aftermaths: government_degradation, conflict_intrapolity, alteration_fauna, authoritarianism_social

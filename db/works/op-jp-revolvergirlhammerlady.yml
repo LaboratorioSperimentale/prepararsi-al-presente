@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Amolphas"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
-Direct Consequences: government_corporate, authoritarianism_social, conflict_intrapolity
-Aftermaths: authoritarianism_market, use_of_force_civilians, prosocial_into_antisocial, censorship, authoritarianism_androcentrism
+Direct consequences: government_military, authoritarianism_social
+Aftermaths: use_of_force_civilians, conflict_intrapolity

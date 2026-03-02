@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Bloomsbury Publishing"
 Area: g-en
 Trigger event:  agency_nonanthropogenic,  type_environmental,  kernel_intrasocietal,  scale_planetary
-Direct Consequences: alteration_weather, depletion_biosphere, pollution_biosphere
-Aftermaths: population_decline, government_degradation, conflict_intrapolity, authoritarianism_social, use_of_force_civilians
+Direct consequences: alteration_weather, pollution_biosphere
+Aftermaths: alteration_fauna, alteration_flora, population_decline, depletion_biosphere

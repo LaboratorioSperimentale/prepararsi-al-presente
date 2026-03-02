@@ -7,5 +7,5 @@ Language: l-en
 Distributor: "A24 Films LLC"
 Area: g-en
 Trigger event: agency_anthropogenic,  type_war,  kernel_intrasocietal, scale_local
-Direct Consequences: conflict_intrapolity, government_degradation
-Aftermaths: government_military, use_of_force_civilians, censorship, conflict_information, population_decline
+Direct consequences: conflict_intrapolity
+Aftermaths: use_of_force_civilians, government_degradation, censorship, population_decline

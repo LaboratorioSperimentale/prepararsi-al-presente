@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Kobunsha"
 Area: g-jp
 Trigger event: agency_unknown, type_war, kernel_non-specified, scale_planetary
-Direct Consequences: government_degradation, conflict_intrapolity, authoritarianism_social
-Aftermaths: prosocial_into_antisocial, use_of_force_civilians, censorship, authoritarianism_cultural
+Direct consequences: conflict_intrapolity, government_degradation
+Aftermaths: use_of_force_civilians, authoritarianism_social

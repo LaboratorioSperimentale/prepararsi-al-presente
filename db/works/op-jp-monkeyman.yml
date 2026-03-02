@@ -7,5 +7,5 @@ Language: l-en
 Distributor: "Red Circle"
 Area: g-jp
 Trigger event:  agency_anthropogenic, type_subversion kernel_intrasocietal,  scale_planetary
-Direct Consequences: government_confessional, authoritarianism_racism, authoritarianism_social
-Aftermaths: government_oligarchical, use_of_force_civilians, conflict_information, censorship, prosocial_into_antisocial, segregationism_social
+Direct consequences: authoritarianism_religion, authoritarianism_racism
+Aftermaths: government_confessional, use_of_force_civilians, government_degradation, conflict_intrapolity, authoritarianism_social

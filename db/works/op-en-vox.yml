@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "HQ"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: government_confessional, authoritarianism_androcentrism, authoritarianism_language
-Aftermaths: censorship, authoritarianism_social, segregationism_sexual, use_of_force_civilians, conflict_information, prosocial_into_antisocial
+Direct consequences: authoritarianism_androcentrism, authoritarianism_language, government_confessional
+Aftermaths: censorship, authoritarianism_social, segregationism_sexual, use_of_force_civilians

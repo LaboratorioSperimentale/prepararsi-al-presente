@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Atria Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_continental
-Direct Consequences: alteration_weather, depletion_biosphere, depletion_fossil_fuels
-Aftermaths: government_oligarchical, authoritarianism_social, authoritarianism_androcentrism, segregationism_social, population_decline, conflict_economic
+Direct consequences: alteration_weather, depletion_fossil_fuels
+Aftermaths: government_corporate, authoritarianism_market, population_decline, depletion_biosphere

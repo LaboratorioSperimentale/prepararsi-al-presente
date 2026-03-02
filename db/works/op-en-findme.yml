@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "HarperCollins Publishers"
 Area: g-en
 Trigger event: agency_anthropogenic,  type_environmental, kernel_intrasocietal, scale_planetary
-Direct Consequences: alteration_fauna, alteration_human_bodies, population_decline
-Aftermaths: government_degradation, authoritarianism_health, censorship, conflict_intrapolity, prosocial_into_antisocial
+Direct consequences: alteration_human_bodies, government_degradation
+Aftermaths: use_of_force_civilians, censorship, authoritarianism_health

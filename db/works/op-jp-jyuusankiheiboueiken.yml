@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Atlus"
 Area: g-jp
 Trigger event: agency_non-anthropogenic, type_war, kernel_extrasocietal, scale_planetary
-Direct Consequences: ontological_alteration, conflict_interpolity, alteration_human_bodies
-Aftermaths: government_degradation, authoritarianism_technological, population_decline, conflict_intrapolity, alteration_fauna, use_of_force_civilians, prosocial_into_antisocial
+Direct consequences: conflict_interpolity, population_decline
+Aftermaths: government_degradation, alteration_human_bodies, conflict_intrapolity, ontological_alteration, government_nonhuman

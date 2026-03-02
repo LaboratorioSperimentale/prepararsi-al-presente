@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "William Heinemann ltd"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_inconclusive, scale_planetary
-Direct Consequences: government_nonhuman, authoritarianism_technological, conflict_information
-Aftermaths: censorship, authoritarianism_social, authoritarianism_cultural, prosocial_into_antisocial, ontological_alteration
+Direct consequences: authoritarianism_cultural, authoritarianism_technological
+Aftermaths: censorship, government_nonhuman, authoritarianism_social, authoritarianism_health

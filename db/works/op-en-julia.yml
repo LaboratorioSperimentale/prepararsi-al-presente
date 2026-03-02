@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Mariner Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_inconclusive, scale_planetary
-Direct Consequences: government_oligarchical, censorship, conflict_information, authoritarianism_cultural
-Aftermaths: authoritarianism_social, authoritarianism_androcentrism, use_of_force_civilians, prosocial_into_antisocial, conflict_intrapolity, segregationism_social
+Direct consequences: government_oligarchical, censorship, authoritarianism_social
+Aftermaths: conflict_information, use_of_force_civilians, authoritarianism_cultural, authoritarianism_language, conflict_intrapolity

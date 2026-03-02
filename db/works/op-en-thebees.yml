@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "HarperCollins Publishers Ltd"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: authoritarianism_social, authoritarianism_reproduction, government_oligarchical
-Aftermaths: prosocial_into_antisocial, authoritarianism_cultural, use_of_force_civilians, censorship, segregationism_social
+Direct consequences: government_oligarchical, authoritarianism_social
+Aftermaths: segregationism_social, use_of_force_civilians, authoritarianism_reproduction

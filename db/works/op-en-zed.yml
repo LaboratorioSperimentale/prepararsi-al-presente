@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Faber"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: government_corporate, government_nonhuman, authoritarianism_technological
-Aftermaths: censorship, conflict_information, authoritarianism_social, authoritarianism_market, prosocial_into_antisocial, government_degradation
+Direct consequences: government_nonhuman, government_corporate
+Aftermaths: authoritarianism_technological, censorship, authoritarianism_social, government_degradation

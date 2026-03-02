@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "HarperCollins"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_metaphysical, kernel_natural, scale_planetary
-Direct Consequences: alteration_human_bodies, alteration_fauna, ontological_alteration
-Aftermaths: government_military, authoritarianism_reproduction, authoritarianism_androcentrism, censorship, use_of_force_civilians, conflict_intrapolity, population_decline
+Direct consequences: alteration_human_bodies, alteration_fauna, alteration_flora
+Aftermaths: authoritarianism_reproduction, authoritarianism_health, government_military, use_of_force_civilians, censorship, population_decline

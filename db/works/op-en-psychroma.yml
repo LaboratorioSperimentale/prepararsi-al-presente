@@ -7,5 +7,5 @@ Language: l-en
 Distributor: "Voids Within Studio Inc."
 Area: g-en
 Trigger event: agency_unknown, type_subversion, kernel_nonspecified, scale_nonspecified
-Direct Consequences: authoritarianism_technological, government_corporate, alteration_human_bodies
-Aftermaths: authoritarianism_social, censorship, conflict_information, prosocial_into_antisocial, ontological_alteration
+Direct consequences: government_corporate, government_degradation
+Aftermaths: censorship, authoritarianism_social, conflict_intrapolity, authoritarianism_technological

@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Macmillan Publishers"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
-Direct Consequences: depletion_biosphere, alteration_fauna, pollution_biosphere
-Aftermaths: government_degradation, conflict_economic, conflict_intrapolity, authoritarianism_social, use_of_force_civilians
+Direct consequences: depletion_biosphere, pollution_biosphere
+Aftermaths: alteration_fauna, government_corporate, censorship, conflict_economic

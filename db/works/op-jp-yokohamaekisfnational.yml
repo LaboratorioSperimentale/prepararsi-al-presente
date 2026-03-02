@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: Kadokawa
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: government_nonhuman, authoritarianism_technological, ontological_alteration
-Aftermaths: government_degradation, population_decline, authoritarianism_social, conflict_intrapolity, prosocial_into_antisocial
+Direct consequences: government_nonhuman, government_degradation
+Aftermaths: authoritarianism_social, population_decline, alteration_flora, conflict_intrapolity

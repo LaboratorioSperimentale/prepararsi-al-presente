@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Orbit Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_extrasocietal, scale_planetary
-Direct Consequences: alteration_weather, depletion_biosphere, pollution_biosphere
-Aftermaths: government_degradation, conflict_economic, conflict_interpolity, conflict_intrapolity, authoritarianism_social, use_of_force_civilians, conflict_information, population_decline
+Direct consequences: alteration_weather, pollution_biosphere
+Aftermaths: conflict_intrapolity, conflict_interpolity, conflict_economic, government_degradation, use_of_force_civilians

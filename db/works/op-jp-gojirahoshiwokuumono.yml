@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Toho Animation"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_war, kernel_ intrasocietal, scale_planetary
-Direct Consequences: ontological_alteration, alteration_fauna, population_decline
-Aftermaths: government_degradation, conflict_intrapolity, prosocial_into_antisocial, authoritarianism_social, depletion_biosphere, eschatological_alteration
+Direct consequences: conflict_interpolity, ontological_alteration
+Aftermaths: population_decline, depletion_biosphere, eschatological_alteration, government_degradation
