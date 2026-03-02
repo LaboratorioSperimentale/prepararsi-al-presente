@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Orbit Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
-Direct Consequences: alteration_weather, pollution_biosphere, government_corporate, conflict_economic
-Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, conflict_information
+Direct Consequences: alteration_weather, pollution_biosphere, pollution_water_bodies
+Aftermaths: conflict_economic, government_degradation, conflict_intrapolity, authoritarianism_market

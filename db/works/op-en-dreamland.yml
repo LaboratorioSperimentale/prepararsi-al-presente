@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Scribner UK"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
-Direct Consequences: alteration_weather, depletion_biosphere, conflict_economic, government_degradation
-Aftermaths: population_decline, familism, segregationism_social, prosocial_into_antisocial
+Direct Consequences: conflict_economic, government_degradation, alteration_weather
+Aftermaths: segregationism_social, population_decline, use_of_force_civilians, depletion_biosphere

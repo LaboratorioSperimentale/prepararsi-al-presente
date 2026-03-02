@@ -8,4 +8,4 @@ Publisher: "Tinder Press"
 Area: g-en
 Trigger event:  agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
 Direct Consequences: population_decline, conflict_intrapolity, government_degradation
-Aftermaths: familism, segregationism_social, prosocial_into_antisocial, conflict_information
+Aftermaths: use_of_force_civilians, familism, segregationism_social

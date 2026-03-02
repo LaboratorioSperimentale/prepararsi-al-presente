@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Eterna Cadencia"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: alteration_human_bodies, ontological_alteration, conflict_information
-Aftermaths: segregationism_social, prosocial_into_antisocial, population_decline, conflict_intrapolity
+Direct Consequences: alteration_human_bodies, ontological_alteration, authoritarianism_social
+Aftermaths: conflict_information, prosocial_into_antisocial, segregationism_social

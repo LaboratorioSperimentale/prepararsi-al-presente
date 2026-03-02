@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "W. W. Norton & Company"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_inconclusive, scale_planetary
-Direct Consequences: alteration_weather, population_decline, authoritarianism_social
-Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity
+Direct Consequences: segregationism_social, conflict_interpolity, use_of_force_civilians
+Aftermaths: authoritarianism_racism, government_military, censorship, conflict_information

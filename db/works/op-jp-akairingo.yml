@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: “Kōdansha” 
 Area: g-jp
 Trigger event: agency_anthropogenic, event_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: authoritarianism_social, segregationism_sexual, conflict_information
-Aftermaths: use_of_force_civilians, prosocial_into_antisocial, government_degradation, population_decline
+Direct Consequences: authoritarianism_reproduction, authoritarianism_androcentrism, segregationism_sexual
+Aftermaths: use_of_force_civilians, familism, censorship

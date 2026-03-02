@@ -7,5 +7,5 @@ Languages: l-jp
 Distributor: "Crunchyroll"
 Area: g-jp
 Trigger event: agency_anthropogenic, event_war kernel_intrasocietal scale_local
-Direct Consequences: authoritarianism_technological, government_corporate, conflict_information, conflict_intrapolity
-Aftermaths: use_of_force_civilians, prosocial_into_antisocial, population_decline, government_degradation
+Direct Consequences: government_corporate, authoritarianism_technological, conflict_intrapolity
+Aftermaths: censorship, use_of_force_civilians, government_degradation

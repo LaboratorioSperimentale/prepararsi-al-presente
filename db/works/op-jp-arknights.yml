@@ -7,5 +7,5 @@ Language: l-chn, l-jp
 Distributor: “Hypergryph” 
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: alteration_human_bodies, conflict_interpolity, government_oligarchical
-Aftermaths: population_decline, segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity
+Direct Consequences: wmd_use_bacteriological, alteration_human_bodies, conflict_interpolity
+Aftermaths: authoritarianism_health, government_degradation, conflict_intrapolity

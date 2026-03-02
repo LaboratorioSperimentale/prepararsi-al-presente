@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Sportula"
 Area: g-es
 Trigger event: agency_ambiguous, type_subversion, kernel_inconclusive, scale_planetary
-Direct Consequences: alteration_weather, depletion_biosphere, eschatological_alteration
-Aftermaths: population_decline, segregationism_social, prosocial_into_antisocial, government_degradation, conflict_intrapolity
+Direct Consequences: conflict_intrapolity, government_degradation, conflict_information
+Aftermaths: population_decline, familism, prosocial_into_antisocial

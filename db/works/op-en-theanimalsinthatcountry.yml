@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Scribe"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_extrasocietal, scale_planetary
-Direct Consequences: ontological_alteration, conflict_information, government_degradation
-Aftermaths: population_decline, segregationism_social, prosocial_into_antisocial, conflict_intrapolity
+Direct Consequences: wmd_use_bacteriological, ontological_alteration
+Aftermaths: conflict_intrapolity, prosocial_into_antisocial, government_degradation, use_of_force_civilians

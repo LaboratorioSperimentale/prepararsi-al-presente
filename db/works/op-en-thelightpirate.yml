@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Grand Central Publishing"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_natural, scale_local
-Direct Consequences: alteration_weather, depletion_biosphere, population_decline
-Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation
+Direct Consequences: alteration_weather, pollution_biosphere, depletion_water
+Aftermaths: population_decline, government_degradation, familism, conflict_intrapolity

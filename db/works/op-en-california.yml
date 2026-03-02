@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Hachette"
 Area: en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal scale_local
-Direct Consequences: population_decline, conflict_intrapolity, depletion_water, depletion_biosphere
-Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation
+Direct Consequences: conflict_economic, government_degradation
+Aftermaths: conflict_intrapolity, segregationism_social, use_of_force_civilians, depletion_biosphere

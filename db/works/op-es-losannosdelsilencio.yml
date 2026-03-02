@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Dilatando mentes"
 Area: g-es
 Trigger event:  agency_anthropogenic, type_war, kernel_intrasocietal,  scale_planetary
-Direct Consequences: authoritarianism_social, censorship, conflict_information
-Aftermaths: segregationism_social, prosocial_into_antisocial, government_degradation, population_decline
+Direct Consequences: censorship, authoritarianism_language, conflict_information
+Aftermaths: prosocial_into_antisocial, segregationism_social, use_of_force_civilians

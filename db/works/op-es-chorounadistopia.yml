@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Punto Cero"
 Area: g-es
 Trigger event:  agency_anthropogenic, type_war, kernel_intrasocietal, scale_continental
-Direct Consequences: authoritarianism_social, conflict_information, government_oligarchical
-Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation
+Direct Consequences: government_degradation, conflict_intrapolity, conflict_economic
+Aftermaths: authoritarianism_social, use_of_force_civilians, conflict_information

@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: Bandai Namco Entertainment
 Area: g-jp
 Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_planetary
-Direct Consequences: alteration_human_bodies, wmd_use_nuclear, population_decline, ontological_alteration
-Aftermaths: conflict_intrapolity, use_of_force_civilians, prosocial_into_antisocial, government_degradation, segregationism_social
+Direct Consequences: alteration_human_bodies, population_decline, conflict_intrapolity
+Aftermaths: use_of_force_civilians, prosocial_into_antisocial, government_degradation

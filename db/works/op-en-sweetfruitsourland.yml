@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Sandstone Press"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_continental
-Direct Consequences: alteration_weather, depletion_biosphere, conflict_economic, population_decline
-Aftermaths: familism, segregationism_social, prosocial_into_antisocial, government_degradation
+Direct Consequences: wmd_use_bacteriological, population_decline, government_degradation
+Aftermaths: conflict_intrapolity, familism, use_of_force_civilians

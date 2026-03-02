@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Sybaritic Press"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_natural, scale_planetary
-Direct Consequences: population_decline, conflict_information
-Aftermaths: segregationism_sexual, use_of_force_civilians, prosocial_into_antisocial, familism, government_degradation
+Direct Consequences: wmd_use_bacteriological, population_decline, authoritarianism_reproduction
+Aftermaths: use_of_force_civilians, segregationism_sexual, government_degradation, prosocial_into_antisocial

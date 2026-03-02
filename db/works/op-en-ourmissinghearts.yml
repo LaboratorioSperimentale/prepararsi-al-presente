@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Penguin Press"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: authoritarianism_social, censorship, conflict_information, government_oligarchical
-Aftermaths: segregationism_social, use_of_force_civilians, familism, prosocial_into_antisocial, government_degradation
+Direct Consequences: censorship, authoritarianism_racism, authoritarianism_cultural, conflict_information
+Aftermaths: use_of_force_civilians, segregationism_social, familism, prosocial_into_antisocial

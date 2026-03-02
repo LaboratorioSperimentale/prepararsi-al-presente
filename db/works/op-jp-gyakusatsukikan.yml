@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: Kadokawa Shoten
 Area: g-jp
 Trigger event: agency_anthropogenic, type_war, kernel_ intrasocietal, scale_planetary
-Direct Consequences: conflict_interpolity, conflict_information, authoritarianism_market, government_corporate
-Aftermaths: use_of_force_civilians, prosocial_into_antisocial, government_degradation, population_decline
+Direct Consequences: conflict_information, conflict_interpolity, use_of_force_civilians
+Aftermaths: government_military, censorship, conflict_intrapolity

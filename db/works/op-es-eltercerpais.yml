@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Lumen"
 Area: g-es
 Trigger event: agency_ambiguous, type_war, kernel_intrasocietal, scale_continental
-Direct Consequences: conflict_interpolity, authoritarianism_social, government_degradation
-Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, conflict_intrapolity
+Direct Consequences: conflict_intrapolity, government_degradation, use_of_force_civilians
+Aftermaths: segregationism_social, familism, prosocial_into_antisocial

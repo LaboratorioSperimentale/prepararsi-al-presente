@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Periférica"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: authoritarianism_cultural, conflict_information, government_degradation
-Aftermaths: segregationism_social, prosocial_into_antisocial, population_decline, conflict_intrapolity
+Direct Consequences: authoritarianism_health, authoritarianism_technological, authoritarianism_androcentrism
+Aftermaths: use_of_force_civilians, segregationism_sexual, conflict_information

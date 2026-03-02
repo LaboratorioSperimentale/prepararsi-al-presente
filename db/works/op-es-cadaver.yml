@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Alfaguara"
 Area: g-es
 Trigger event: agency_ambiguous, type_subversion, kernel_natural, scale_planetary
-Direct Consequences: population_decline, government_corporate, authoritarianism_market, conflict_information
-Aftermaths: alteration_human_bodies, segregationism_social, use_of_force_civilians, prosocial_into_antisocial, government_degradation
+Direct Consequences: population_decline, depletion_biosphere, authoritarianism_market
+Aftermaths: authoritarianism_social, prosocial_into_antisocial, use_of_force_civilians

@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Alfred A. Knopf"
 Area: g-en
 Trigger event:  agency_anthropogenic, type_environmental, kernel_nonspecified, scale_continental
-Direct Consequences: depletion_water, conflict_economic, government_corporate, alteration_weather
-Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, government_degradation, population_decline
+Direct Consequences: depletion_water, alteration_weather, conflict_interpolity, conflict_economic
+Aftermaths: use_of_force_civilians, government_degradation, segregationism_social, pollution_water_bodies

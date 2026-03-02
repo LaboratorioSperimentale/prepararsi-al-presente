@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Shinchōsha"
 Area: g-jp
 Trigger event: agency_non-anthropogenic, type_subversion, kernel_ intrasocietal, scale_local
-Direct Consequences: ontological_alteration, alteration_human_bodies, conflict_information
-Aftermaths: segregationism_social, population_decline, prosocial_into_antisocial, government_degradation
+Direct Consequences: pollution_biosphere, pollution_water_bodies, alteration_weather
+Aftermaths: population_decline, conflict_intrapolity, government_degradation

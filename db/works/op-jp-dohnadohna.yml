@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: Alice Soft
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_inconclusive scale_local
-Direct Consequences: government_corporate, authoritarianism_market, segregationism_social, conflict_economic
-Aftermaths: use_of_force_civilians, prosocial_into_antisocial, government_degradation, conflict_intrapolity
+Direct Consequences: government_corporate, authoritarianism_market, authoritarianism_technological
+Aftermaths: conflict_intrapolity, use_of_force_civilians, segregationism_social

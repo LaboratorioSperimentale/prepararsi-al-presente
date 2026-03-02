@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Jonathan Cape"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal scale_local
-Direct Consequences: government_degradation, conflict_intrapolity, population_decline
-Aftermaths: segregationism_social, familism, prosocial_into_antisocial, conflict_information
+Direct Consequences: government_degradation, conflict_intrapolity
+Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial

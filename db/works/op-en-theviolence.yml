@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Del Rey"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_natural, scale_local
-Direct Consequences: ontological_alteration, conflict_information, alteration_human_bodies
-Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, conflict_intrapolity, government_degradation
+Direct Consequences: wmd_use_bacteriological, alteration_human_bodies, conflict_intrapolity
+Aftermaths: use_of_force_civilians, prosocial_into_antisocial, government_degradation, segregationism_social
