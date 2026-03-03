@@ -6,6 +6,6 @@ Creators: au-en-adam-muto
 Language: l-en
 Distributor: "Cartoon Network"
 Area: g-en
-Trigger event: agency_anthropogenic, type_war, kernel_inconclusive scale_planetary
+Trigger event: agency_anthropogenic, type_war, kernel_inconclusive, scale_planetary
 Direct Consequences: ontological_alteration
 Aftermaths: conflict_intrapolity, government_degradation

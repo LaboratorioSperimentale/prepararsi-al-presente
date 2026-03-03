@@ -6,6 +6,6 @@ Creators: au-en-sledgehammergames-sledgehammergamesinc
 Language: l-en
 Distributor: "Activision Publishing, Inc."
 Area: g-en
-Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal scale_planetary
+Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_planetary
 Direct Consequences: government_corporate, conflict_interpolity, authoritarianism_technological, use_of_force_civilians
 Aftermaths: conflict_information, government_degradation, censorship, conflict_economic
