@@ -7,6 +7,5 @@ Language: l-jp
 Publisher: "Kadokawa"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: government_degradation, authoritarianism_social, conflict_intrapolity
-Aftermaths: segregationism_social, authoritarianism_cultural, censorship, prosocial_into_antisocial
 Direct consequences: authoritarianism_racism, authoritarianism_social, use_of_force_civilians
+Aftermaths: segregationism_social, authoritarianism_cultural, censorship, prosocial_into_antisocial

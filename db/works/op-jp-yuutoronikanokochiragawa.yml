@@ -7,6 +7,5 @@ Language: l-jp
 Distributor: "Hayakawa Shobō"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: government_corporate, authoritarianism_technological, authoritarianism_social
-Aftermaths: ontological_alteration, authoritarianism_social, authoritarianism_market, conflict_information, government_nonhuman
 Direct consequences: authoritarianism_technological, alteration_human_bodies, government_corporate
+Aftermaths: ontological_alteration, authoritarianism_social, authoritarianism_market, conflict_information, government_nonhuman

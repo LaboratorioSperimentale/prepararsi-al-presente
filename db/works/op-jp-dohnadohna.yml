@@ -6,7 +6,6 @@ Creators: au-jp-ali-kabushikigaisha
 Language: l-jp
 Distributor: Alice Soft
 Area: g-jp
-Trigger event: agency_anthropogenic, type_subversion, kernel_inconclusive scale_local
-Direct Consequences: government_corporate, authoritarianism_market, authoritarianism_social
-Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, antisocial_into_prosocial, censorship
+Trigger event: agency_anthropogenic, type_subversion, kernel_inconclusive, scale_local
 Direct consequences: government_oligarchical, authoritarianism_market, authoritarianism_social
+Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial, antisocial_into_prosocial, censorship

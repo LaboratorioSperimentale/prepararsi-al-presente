@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Literatura Random House"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: government_oligarchical, authoritarianism_technological, conflict_information
-Aftermaths: authoritarianism_market, authoritarianism_social, conflict_information, government_oligarchical
 Direct consequences: authoritarianism_technological, government_corporate, censorship
+Aftermaths: authoritarianism_market, authoritarianism_social, conflict_information, government_oligarchical

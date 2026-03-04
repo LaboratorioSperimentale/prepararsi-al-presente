@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Literatura Random House"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: alteration_human_bodies, authoritarianism_technological, ontological_alteration
-Aftermaths: authoritarianism_ageism, authoritarianism_reproduction, authoritarianism_social, government_oligarchical, conflict_economic, segregationism_social
 Direct consequences: ontological_alteration, alteration_human_bodies, population_excess
+Aftermaths: authoritarianism_ageism, authoritarianism_reproduction, authoritarianism_social, government_oligarchical, conflict_economic, segregationism_social

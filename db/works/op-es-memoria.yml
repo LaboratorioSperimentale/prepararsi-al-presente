@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Club Hem"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_natural, scale_planetary
-Direct Consequences: depletion_biosphere, alteration_fauna, pollution_biosphere
-Aftermaths: population_decline, government_degradation, prosocial_into_antisocial
 Direct consequences: depletion_biosphere, alteration_fauna, alteration_flora, alteration_weather
+Aftermaths: population_decline, government_degradation, prosocial_into_antisocial

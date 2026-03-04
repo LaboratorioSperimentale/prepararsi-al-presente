@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Orenda Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: authoritarianism_health, authoritarianism_social, conflict_economic
-Aftermaths: prosocial_into_antisocial, use_of_force_civilians, censorship, conflict_information, population_decline
 Direct consequences: authoritarianism_health, authoritarianism_ageism, government_oligarchical
+Aftermaths: prosocial_into_antisocial, use_of_force_civilians, censorship, conflict_information, population_decline

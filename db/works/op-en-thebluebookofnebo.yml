@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Deep Vellum Publishing"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_planetary
-Direct Consequences: government_degradation, depletion_biosphere, alteration_weather
-Aftermaths: familism, prosocial_into_antisocial, antisocial_into_prosocial, depletion_fossil_fuels
 Direct consequences: wmd_use_nuclear, population_decline, government_degradation, pollution_radiation, pollution_land
+Aftermaths: familism, prosocial_into_antisocial, antisocial_into_prosocial, depletion_fossil_fuels

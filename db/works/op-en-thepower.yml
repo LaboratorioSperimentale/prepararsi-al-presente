@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Viking Press"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_natural, scale_planetary
-Direct Consequences: alteration_human_bodies, authoritarianism_gynocentric, conflict_intrapolity
-Aftermaths: authoritarianism_gynocentric, use_of_force_civilians, government_oligarchical, prosocial_into_antisocial, conflict_information
 Direct consequences: alteration_human_bodies, conflict_intrapolity, conflict_interpolity
+Aftermaths: authoritarianism_gynocentric, use_of_force_civilians, government_oligarchical, prosocial_into_antisocial, conflict_information

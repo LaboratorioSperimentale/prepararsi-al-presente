@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Puerto de Escape"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war,  kernel_intrasocietal, scale_planetary
-Direct Consequences: authoritarianism_technological, alteration_human_bodies, government_corporate
-Aftermaths: government_nonhuman, ontological_alteration, authoritarianism_social, authoritarianism_market
 Direct consequences: authoritarianism_technological, alteration_human_bodies
+Aftermaths: government_nonhuman, ontological_alteration, authoritarianism_social, authoritarianism_market

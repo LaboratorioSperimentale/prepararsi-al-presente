@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Harper"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_continental
-Direct Consequences: depletion_biosphere, pollution_biosphere, alteration_weather
-Aftermaths: government_degradation, authoritarianism_health, alteration_fauna, antisocial_into_prosocial
 Direct consequences: population_excess, pollution_biosphere, depletion_biosphere
+Aftermaths: government_degradation, authoritarianism_health, alteration_fauna, antisocial_into_prosocial

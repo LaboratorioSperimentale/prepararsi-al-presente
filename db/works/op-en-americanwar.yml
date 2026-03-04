@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Alfred A. Knopf"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
-Direct Consequences: conflict_intrapolity, depletion_fossil_fuels, conflict_economic
-Aftermaths: government_degradation, population_decline, prosocial_into_antisocial, conflict_information, authoritarianism_cultural
 Direct consequences: conflict_intrapolity, depletion_fossil_fuels, use_of_force_civilians, wmd_use_bacteriological, conflict_economic
+Aftermaths: government_degradation, population_decline, prosocial_into_antisocial, conflict_information, authoritarianism_cultural

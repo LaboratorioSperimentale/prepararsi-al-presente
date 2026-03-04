@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Scribe"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_extrasocietal, scale_planetary
-Direct Consequences: alteration_fauna, alteration_human_bodies, wmd_use_bacteriological
-Aftermaths: government_degradation, prosocial_into_antisocial, authoritarianism_health, conflict_intrapolity
 Direct consequences: alteration_fauna, alteration_human_bodies, population_decline
+Aftermaths: government_degradation, prosocial_into_antisocial, authoritarianism_health, conflict_intrapolity

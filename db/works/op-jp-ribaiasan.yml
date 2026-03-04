@@ -7,6 +7,5 @@ Language: l-jp
 Publisher: "Ki-oon"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_multi-planetary
-Direct Consequences: conflict_interpolity, government_military, wmd_use_nuclear
-Aftermaths: government_degradation, government_military, prosocial_into_antisocial, conflict_intrapolity
 Direct consequences: alteration_fauna, conflict_interpolity, population_decline, depletion_biosphere
+Aftermaths: government_degradation, government_military, prosocial_into_antisocial, conflict_intrapolity

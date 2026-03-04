@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "El cuervo editorial"
 Area: g-es
 Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_local
-Direct Consequences: authoritarianism_technological, conflict_information, government_corporate
-Aftermaths: authoritarianism_social, conflict_information, use_of_force_civilians, prosocial_into_antisocial
 Direct consequences: authoritarianism_technological, censorship, government_oligarchical
+Aftermaths: authoritarianism_social, conflict_information, use_of_force_civilians, prosocial_into_antisocial

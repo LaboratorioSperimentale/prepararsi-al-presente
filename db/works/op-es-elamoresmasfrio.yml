@@ -6,7 +6,6 @@ Creators: au-es-edn-quintero
 Language: l-es
 Publisher: "Candaya"
 Area: g-es
-Trigger event: agency_ambiguous, type_subversion, kernel_extrasocietal scale_local
-Direct Consequences: government_degradation, conflict_intrapolity, authoritarianism_social
-Aftermaths: prosocial_into_antisocial, authoritarianism_social, population_decline
+Trigger event: agency_ambiguous, type_subversion, kernel_extrasocietal, scale_local
 Direct consequences: conflict_intrapolity, government_degradation, use_of_force_civilians
+Aftermaths: prosocial_into_antisocial, authoritarianism_social, population_decline

@@ -7,6 +7,5 @@ Language: l-jp
 Distributor: "Shinchōsha"
 Area: g-jp
 Trigger event: agency_non-anthropogenic, type_subversion, kernel_ intrasocietal, scale_local
-Direct Consequences: pollution_biosphere, alteration_weather, depletion_biosphere
-Aftermaths: authoritarianism_social, segregationism_social, government_corporate, authoritarianism_market
 Direct consequences: alteration_human_bodies, authoritarianism_technological, authoritarianism_reproduction
+Aftermaths: authoritarianism_social, segregationism_social, government_corporate, authoritarianism_market

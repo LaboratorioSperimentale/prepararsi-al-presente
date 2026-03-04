@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Tinder"
 Area: g-en
 Trigger event: agency_unknown, type_environmental, kernel_intrasocietal, scale_local
-Direct Consequences: government_degradation, conflict_intrapolity, depletion_biosphere
-Aftermaths: government_confessional, authoritarianism_androcentrism, authoritarianism_religion, segregationism_sexual, authoritarianism_reproduction, censorship, familism
 Direct consequences: population_decline, depletion_biosphere, government_degradation
+Aftermaths: government_confessional, authoritarianism_androcentrism, authoritarianism_religion, segregationism_sexual, authoritarianism_reproduction, censorship, familism

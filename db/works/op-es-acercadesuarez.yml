@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Pez espiral"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: government_military, conflict_intrapolity, use_of_force_civilians
-Aftermaths: censorship, authoritarianism_social, conflict_information, authoritarianism_cultural
 Direct consequences: conflict_intrapolity, government_oligarchical, use_of_force_civilians
+Aftermaths: censorship, authoritarianism_social, conflict_information, authoritarianism_cultural

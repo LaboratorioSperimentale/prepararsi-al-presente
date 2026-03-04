@@ -7,6 +7,5 @@ Language: l-en, l-es
 Distributor: "Orbit Game Studio"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war kernel_inconclusive, scale_planetary
-Direct Consequences: pollution_orbital, depletion_biosphere, alteration_weather
-Aftermaths: prosocial_into_antisocial, conflict_intrapolity, government_nonhuman, alteration_fauna
 Direct consequences: depletion_biosphere, government_degradation, population_decline, pollution_biosphere
+Aftermaths: prosocial_into_antisocial, conflict_intrapolity, government_nonhuman, alteration_fauna

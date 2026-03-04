@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Editorial Cactus Pink"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_extrasocietal, scale_local
-Direct Consequences: government_confessional, government_oligarchical, authoritarianism_religion
-Aftermaths: censorship, authoritarianism_social, authoritarianism_cultural, conflict_information
 Direct consequences: government_confessional, government_oligarchical, authoritarianism_religion
+Aftermaths: censorship, authoritarianism_social, authoritarianism_cultural, conflict_information

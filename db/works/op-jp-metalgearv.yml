@@ -7,6 +7,5 @@ Language: l-jp, l-en
 Distributor: "KONAMI"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: conflict_interpolity, government_military, wmd_use_bacteriological
-Aftermaths: government_military, government_corporate, authoritarianism_social, censorship, authoritarianism_technological, conflict_economic
 Direct consequences: conflict_interpolity, wmd_use_bacteriological, use_of_force_civilians, conflict_information
+Aftermaths: government_military, government_corporate, authoritarianism_social, censorship, authoritarianism_technological, conflict_economic

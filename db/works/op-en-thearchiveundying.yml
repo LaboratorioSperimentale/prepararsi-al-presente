@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Tordotcom"
 Area: g-en
 Trigger event: agency_ambiguous, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: government_nonhuman, ontological_alteration, conflict_interpolity
-Aftermaths: authoritarianism_religion, prosocial_into_antisocial, ontological_alteration
 Direct consequences: government_nonhuman, government_degradation, conflict_intrapolity
+Aftermaths: authoritarianism_religion, prosocial_into_antisocial, ontological_alteration

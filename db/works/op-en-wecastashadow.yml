@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "One World"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: authoritarianism_racism, authoritarianism_social, government_oligarchical
-Aftermaths: authoritarianism_market, alteration_human_bodies, censorship, conflict_information, segregationism_social, prosocial_into_antisocial
+Direct consequences: authoritarianism_racism, authoritarianism_cultural, authoritarianism_technological, conflict_information
+Aftermaths: familism, prosocial_into_antisocial, segregationism_social, use_of_force_civilians

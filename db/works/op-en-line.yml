@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Tramp Press"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: government_oligarchical, authoritarianism_social, conflict_economic
-Aftermaths: authoritarianism_social, prosocial_into_antisocial, censorship
 Direct consequences: government_oligarchical, government_degradation
+Aftermaths: authoritarianism_social, prosocial_into_antisocial, censorship

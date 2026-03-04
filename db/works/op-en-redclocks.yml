@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Back Bay Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: authoritarianism_reproduction, authoritarianism_androcentrism, government_degradation
-Aftermaths: censorship, authoritarianism_social, prosocial_into_antisocial, use_of_force_civilians
 Direct consequences: authoritarianism_reproduction, authoritarianism_androcentrism, government_oligarchical
+Aftermaths: censorship, authoritarianism_social, prosocial_into_antisocial, use_of_force_civilians

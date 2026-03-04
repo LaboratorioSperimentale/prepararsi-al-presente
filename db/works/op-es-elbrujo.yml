@@ -6,7 +6,6 @@ Creators: au-es-mat-bragagnolo
 Language: l-es
 Publisher: "Del nuevo extremo"
 Area: g-es
-Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal scale_local
-Direct Consequences: government_military, conflict_intrapolity, authoritarianism_cultural
-Aftermaths: authoritarianism_social, prosocial_into_antisocial, authoritarianism_religion
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_local
 Direct consequences: government_degradation, conflict_intrapolity, authoritarianism_cultural
+Aftermaths: authoritarianism_social, prosocial_into_antisocial, authoritarianism_religion

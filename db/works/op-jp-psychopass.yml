@@ -7,6 +7,5 @@ Language: l-jp
 Distributor: "Toho Animation"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intra-societal, scale_local
-Direct Consequences: government_nonhuman, authoritarianism_technological, authoritarianism_health
-Aftermaths: censorship, authoritarianism_social, authoritarianism_ableist, conflict_information, use_of_force_civilians, government_oligarchical
 Direct consequences: government_nonhuman, authoritarianism_technological, authoritarianism_health
+Aftermaths: censorship, authoritarianism_social, authoritarianism_ableist, conflict_information, use_of_force_civilians, government_oligarchical

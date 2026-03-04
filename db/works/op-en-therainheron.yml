@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Text Publishing"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_local
-Direct Consequences: government_military, conflict_intrapolity, depletion_biosphere
-Aftermaths: government_military, authoritarianism_social, use_of_force_civilians, depletion_water, alteration_fauna, alteration_weather
 Direct consequences: conflict_intrapolity, government_degradation
+Aftermaths: government_military, authoritarianism_social, use_of_force_civilians, depletion_water, alteration_fauna, alteration_weather

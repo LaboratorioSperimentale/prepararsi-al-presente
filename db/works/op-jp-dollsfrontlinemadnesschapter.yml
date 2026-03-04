@@ -1,5 +1,5 @@
-id: op-jp-girlsfrontlinemadnesschapter
-First known title: "Girls' Frontline: Madness Chapter"
+id: op-jp-dollsfrontlinemadnesschapter
+First known title: "Dolls' Frontline: Madness Chapter"
 First edition: 2019
 Media form: serial
 Creators: au-jp-lu-hongxi
@@ -7,5 +7,5 @@ Language: l-jp, l-chn
 Distributor: Tokyo MX
 Area: g-jp
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
-Direct Consequences: wmd_use_bacteriological, wmd_use_chemical, conflict_interpolity
-Aftermaths: government_degradation, government_military, alteration_human_bodies, authoritarianism_technological, conflict_intrapolity, use_of_force_civilians, population_decline, pollution_land
+Direct consequences: conflict_interpolity, authoritarianism_technological
+Aftermaths: conflict_intrapolity, alteration_human_bodies, use_of_force_civilians

@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "La pollera"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_multiplanetary
-Direct Consequences: authoritarianism_androcentrism, authoritarianism_reproduction, government_oligarchical
-Aftermaths: authoritarianism_androcentrism, use_of_force_civilians, prosocial_into_antisocial, antisocial_into_prosocial
 Direct consequences: government_degradation, population_decline, conflict_intrapolity
+Aftermaths: authoritarianism_androcentrism, use_of_force_civilians, prosocial_into_antisocial, antisocial_into_prosocial

@@ -6,7 +6,6 @@ Creators: au-jp-atorasu-kabushikigaishaatorasu
 Language: l-jp
 Distributor: "Atlus"
 Area: g-jp
-Trigger event: agency_anthropogenic type_metaphysical kernel_intrasocietal, scale_multiversal
-Direct Consequences: ontological_alteration, government_degradation, conflict_interpolity
-Aftermaths: government_confessional, authoritarianism_religion, alteration_human_bodies, use_of_force_civilians, conflict_interpolity
+Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_multiversal
 Direct consequences: ontological_alteration, conflict_intrapolity, population_decline, government_degradation, alteration_fauna
+Aftermaths: government_confessional, authoritarianism_religion, alteration_human_bodies, use_of_force_civilians, conflict_interpolity

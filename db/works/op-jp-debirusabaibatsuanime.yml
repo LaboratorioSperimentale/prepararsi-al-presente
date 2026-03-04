@@ -7,6 +7,5 @@ Language: l-jp
 Distributor: “Shobō”
 Area: g-jp
 Trigger event: agency_ambiguous, type_metaphysical, kernel_intrasocietal, scale_planetary
-Direct Consequences: government_degradation, ontological_alteration, conflict_intrapolity
-Aftermaths: government_degradation, prosocial_into_antisocial, antisocial_into_prosocial, conflict_intrapolity, use_of_force_civilians
 Direct consequences: alteration_human_bodies, alteration_fauna, conflict_interpolity, population_decline
+Aftermaths: government_degradation, prosocial_into_antisocial, antisocial_into_prosocial, conflict_intrapolity, use_of_force_civilians

@@ -6,7 +6,6 @@ Creators: au-en-kevin-barry
 Language: l-en
 Publisher: "Jonathan Cape"
 Area: g-en
-Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal scale_local
-Direct Consequences: government_degradation, conflict_intrapolity
-Aftermaths: prosocial_into_antisocial, government_oligarchical, authoritarianism_social
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_local
 Direct consequences: government_degradation, conflict_intrapolity
+Aftermaths: prosocial_into_antisocial, government_oligarchical, authoritarianism_social

@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: Spike Chunsoft
 Area: g-jp
 Trigger event: agency_non-anthropogenic, type_war, kernel_extrasocietal, scale_planetary
-Direct Consequences: government_nonhuman, authoritarianism_technological, alteration_fauna
-Aftermaths: authoritarianism_social, segregationism_social, censorship, conflict_information, prosocial_into_antisocial, use_of_force_civilians
+Direct consequences: alteration_fauna, population_decline, government_nonhuman
+Aftermaths: authoritarianism_technological, segregationism_social, conflict_intrapolity
