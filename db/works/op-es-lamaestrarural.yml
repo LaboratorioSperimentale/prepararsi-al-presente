@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Literatura random house"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_extrasocietal, scale_planetary
-Direct Consequences: government_degradation, authoritarianism_cultural, conflict_intrapolity
-Aftermaths: authoritarianism_social, government_degradation, prosocial_into_antisocial
-Direct consequences: authoritarianism_cultural, conflict_intrapolity, use_of_force_civilians
+Direct consequences: ontological_alteration, alteration_human_bodies
+Aftermaths: prosocial_into_antisocial, government_degradation, alteration_flora

@@ -6,7 +6,6 @@ Creators: au-en-midboss-midbossllc
 Language: l-en, l-es
 Distributor: "Chorus Worldwide Games, Ltd."
 Area: g-en
-Trigger event: agency_anthropogenic, type_subversion kernel_intrasocietal, scale_planetary
-Direct Consequences: authoritarianism_technological, alteration_human_bodies, government_corporate
-Aftermaths: authoritarianism_social, segregationism_social, censorship, authoritarianism_ableist
-Direct consequences: government_corporate, authoritarianism_technological, alteration_human_bodies
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
+Direct consequences: alteration_human_bodies, conflict_information
+Aftermaths: authoritarianism_technological, censorship, ontological_alteration

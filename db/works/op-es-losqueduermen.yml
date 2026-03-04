@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Alfaguara"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_local
-Direct Consequences: depletion_biosphere, alteration_weather, population_decline
-Aftermaths: government_degradation, prosocial_into_antisocial, conflict_intrapolity, antisocial_into_prosocial
-Direct consequences: depletion_biosphere, pollution_land, population_decline, alteration_weather
+Direct consequences: wmd_use_bacteriological, population_decline
+Aftermaths: segregationism_social, prosocial_into_antisocial, government_military

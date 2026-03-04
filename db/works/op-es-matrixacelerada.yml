@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Holobionte"
 Area: l-es
 Trigger event: agency_ambiguous, type_metaphysical, kernel_intra-societal, scale_multi-versal
-Direct Consequences: authoritarianism_technological, ontological_alteration, government_corporate
-Aftermaths: government_nonhuman, conflict_information, authoritarianism_social, authoritarianism_market
-Direct consequences: authoritarianism_technological, ontological_alteration, government_corporate
+Direct consequences: authoritarianism_technological, ontological_alteration
+Aftermaths: conflict_information, censorship, government_nonhuman

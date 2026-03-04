@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Riverhead Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
-Direct Consequences: pollution_biosphere, pollution_water_bodies, government_oligarchical
-Aftermaths: segregationism_social, authoritarianism_market, authoritarianism_social, government_oligarchical, censorship, alteration_weather
-Direct consequences: depletion_biosphere, pollution_biosphere, government_corporate
+Direct consequences: pollution_biosphere, segregationism_social
+Aftermaths: government_corporate, censorship, population_decline

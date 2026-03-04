@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Altamarea"
 Area: g-es
 Trigger event: agency_ambiguous, type_environmental, kernel_inconclusive, scale_local
-Direct Consequences: alteration_fauna, alteration_human_bodies, government_degradation
-Aftermaths: prosocial_into_antisocial, conflict_intrapolity, alteration_human_bodies
-Direct consequences: alteration_fauna, population_decline, government_degradation
+Direct consequences: authoritarianism_social, censorship
+Aftermaths: segregationism_social, conflict_information, prosocial_into_antisocial

@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Almadía"
 Area: g-es
 Trigger event: agency_ambiguous, type_subversion, kernel_inconclusive, scale_planetary
-Direct Consequences: depletion_biosphere, alteration_weather, government_oligarchical
-Aftermaths: population_decline, authoritarianism_social, alteration_fauna, alteration_flora, government_degradation
-Direct consequences: depletion_biosphere, alteration_weather, government_corporate
+Direct consequences: depletion_biosphere, authoritarianism_health
+Aftermaths: alteration_fauna, segregationism_social, censorship

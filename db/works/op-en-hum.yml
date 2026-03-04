@@ -6,6 +6,6 @@ Creators: au-en-helen-philips
 Language: l-en
 Publisher: "S&S/Marysue Rucci Books"
 Area: g-en
-Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal scale_planetary
-Direct Consequences: government_corporate, authoritarianism_technological
-Aftermaths: authoritarianism_social, authoritarianism_market, alteration_human_bodies, prosocial_into_antisocial, conflict_economic, censorship
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
+Direct consequences: alteration_weather, pollution_biosphere, authoritarianism_technological, government_corporate
+Aftermaths: familism, segregationism_social, conflict_economic, depletion_biosphere

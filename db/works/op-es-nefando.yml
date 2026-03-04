@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Candaya"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: authoritarianism_social, authoritarianism_cultural, conflict_information
-Aftermaths: censorship, conflict_information, prosocial_into_antisocial, authoritarianism_cultural
-Direct consequences: authoritarianism_technological, use_of_force_civilians, authoritarianism_social
+Direct consequences: conflict_information, authoritarianism_social
+Aftermaths: prosocial_into_antisocial, censorship, alteration_human_bodies

@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Fourth Estate"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
-Direct Consequences: alteration_weather, depletion_biosphere, pollution_biosphere
-Aftermaths: government_degradation, population_decline, alteration_fauna
-Direct consequences: alteration_weather, depletion_biosphere, depletion_fossil_fuels
+Direct consequences: alteration_weather, pollution_orbital
+Aftermaths: depletion_fossil_fuels, pollution_water_bodies, government_degradation

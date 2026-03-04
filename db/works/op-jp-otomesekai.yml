@@ -7,6 +7,5 @@ Language: l-jp
 Distributor: "Orthros"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_extrasocietal, scale_planetary
-Direct Consequences: authoritarianism_gynocentric, authoritarianism_reproduction, government_oligarchical
-Aftermaths: segregationism_sexual, authoritarianism_social, authoritarianism_cultural, use_of_force_civilians
-Direct consequences: authoritarianism_androcentrism, authoritarianism_gynocentric, government_oligarchical
+Direct consequences: population_decline, segregationism_sexual
+Aftermaths: censorship, government_degradation, familism

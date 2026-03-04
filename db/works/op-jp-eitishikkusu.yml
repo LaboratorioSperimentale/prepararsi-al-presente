@@ -7,6 +7,5 @@ Language: l-jp
 Distributor: "ASCII Media Works"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_continental
-Direct Consequences: authoritarianism_racism, conflict_interpolity, government_oligarchical
-Aftermaths: government_military, use_of_force_civilians, authoritarianism_social, conflict_intrapolity, prosocial_into_antisocial
-Direct consequences: conflict_interpolity, wmd_use_nuclear, population_decline, government_degradation
+Direct consequences: conflict_interpolity, government_nonhuman
+Aftermaths: authoritarianism_racism, segregationism_social, use_of_force_civilians

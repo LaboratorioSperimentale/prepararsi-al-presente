@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Apex Publications"
 Area: en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: authoritarianism_ableist, government_oligarchical, authoritarianism_social
-Aftermaths: government_degradation, population_decline, prosocial_into_antisocial, conflict_intrapolity, alteration_fauna
-Direct consequences: depletion_biosphere, alteration_weather, depletion_water
+Direct consequences: depletion_biosphere, population_decline
+Aftermaths: authoritarianism_ageism, government_military, censorship

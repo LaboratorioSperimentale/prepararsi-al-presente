@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "HarperCollins Publishers"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: government_degradation, conflict_information, alteration_human_bodies
-Aftermaths: ontological_alteration, government_nonhuman, authoritarianism_market, conflict_information
-Direct consequences: government_corporate, authoritarianism_technological
+Direct consequences: alteration_human_bodies, ontological_alteration
+Aftermaths: authoritarianism_technological, conflict_information, censorship

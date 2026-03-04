@@ -7,6 +7,5 @@ Language: l-jp
 Distributor: "komikku auru"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: authoritarianism_reproduction, authoritarianism_androcentrism, government_oligarchical
-Aftermaths: prosocial_into_antisocial, antisocial_into_prosocial, conflict_intrapolity, authoritarianism_social
-Direct consequences: government_degradation, population_decline
+Direct consequences: population_decline, government_degradation
+Aftermaths: prosocial_into_antisocial, segregationism_sexual, isolationism_social

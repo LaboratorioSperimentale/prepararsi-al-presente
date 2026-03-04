@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Farrar"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_natural, scale_planetary
-Direct Consequences: alteration_fauna, wmd_use_bacteriological, population_decline
-Aftermaths: prosocial_into_antisocial, antisocial_into_prosocial, familism, conflict_intrapolity
-Direct consequences: population_decline, government_degradation, alteration_human_bodies
+Direct consequences: wmd_use_bacteriological, population_decline
+Aftermaths: prosocial_into_antisocial, government_degradation, censorship

@@ -7,6 +7,5 @@ Language: l-jp
 Publisher: "Studio 4°C"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: authoritarianism_health, government_nonhuman, authoritarianism_social
-Aftermaths: censorship, authoritarianism_social, prosocial_into_antisocial, conflict_information, authoritarianism_cultural
-Direct consequences: government_nonhuman, authoritarianism_health, authoritarianism_technological
+Direct consequences: population_decline, authoritarianism_health
+Aftermaths: authoritarianism_technological, censorship, prosocial_into_antisocial

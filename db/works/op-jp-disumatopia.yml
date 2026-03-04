@@ -7,6 +7,5 @@ Language: l-jp
 Distributor: "Comic High!"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: government_oligarchical, authoritarianism_social, censorship
-Aftermaths: censorship, authoritarianism_cultural, conflict_intrapolity, prosocial_into_antisocial
-Direct consequences: government_oligarchical, authoritarianism_social, use_of_force_civilians
+Direct consequences: alteration_human_bodies, population_decline
+Aftermaths: censorship, authoritarianism_technological, government_degradation

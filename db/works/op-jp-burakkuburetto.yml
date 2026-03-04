@@ -7,6 +7,5 @@ Languages: l-jp
 Distributor: "ASCII Media Works"
 Area: g-jp
 Trigger event: agency_non-anthropogenic, type_subversion, kernel_inconclusive, scale_planetary
-Direct Consequences: alteration_fauna, wmd_use_bacteriological, population_decline
-Aftermaths: authoritarianism_social, censorship, authoritarianism_market, segregationism_social
-Direct consequences: government_oligarchical, use_of_force_civilians, conflict_intrapolity
+Direct consequences: alteration_fauna, wmd_use_bacteriological
+Aftermaths: segregationism_social, government_military, authoritarianism_health

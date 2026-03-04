@@ -7,6 +7,5 @@ Language: l-jp
 Distributor: "Yūgengaisha CUFFS"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_environmental, kernel_inconclusive, scale_planetary
-Direct Consequences: government_degradation, authoritarianism_social, authoritarianism_cultural
-Aftermaths: government_degradation, prosocial_into_antisocial, familism, conflict_intrapolity
-Direct consequences: depletion_biosphere, alteration_weather, population_decline
+Direct consequences: population_decline, alteration_weather
+Aftermaths: government_degradation, prosocial_into_antisocial, depletion_biosphere

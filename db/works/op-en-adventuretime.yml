@@ -6,7 +6,6 @@ Creators: au-en-pendleton-ward, au-en-adam-muto
 Language: l-en
 Distributor: "Cartoon Network"
 Area: g-en
-Trigger event: agency_anthropogenic, type_war, kernel_inconclusive scale_planetary
-Direct Consequences: wmd_use_nuclear, conflict_interpolity
-Aftermaths: government_degradation, conflict_intrapolity, prosocial_into_antisocial, antisocial_into_prosocial
-Direct consequences: wmd_use_nuclear, population_decline, alteration_fauna, alteration_flora, alteration_human_bodies, pollution_radiation, pollution_land
+Trigger event: agency_anthropogenic, type_war, kernel_inconclusive, scale_planetary
+Direct consequences: wmd_use_nuclear
+Aftermaths: alteration_fauna, alteration_flora, ontological_alteration, population_decline, government_degradation

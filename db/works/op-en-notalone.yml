@@ -7,6 +7,5 @@ Language: l-en
 Publisher: "Picador"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
-Direct Consequences: alteration_weather, depletion_biosphere, population_decline
-Aftermaths: population_decline, government_degradation, alteration_fauna, alteration_flora, prosocial_into_antisocial, familism
-Direct consequences: pollution_biosphere, pollution_water_bodies, pollution_land, depletion_biosphere
+Direct consequences: pollution_biosphere, pollution_land
+Aftermaths: isolationism_social, depletion_biosphere, government_degradation

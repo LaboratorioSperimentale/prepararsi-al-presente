@@ -7,5 +7,5 @@ Language: l-jp
 circulating_entity: “Square Enix” 
 Area: g-jp
 Trigger event: agency_unknown, type_environmental, kernel_non-specified, scale_unknown
-Direct Consequences: ontological_alteration, alteration_weather, depletion_biosphere
-Aftermaths: population_decline, government_degradation, conflict_intrapolity, prosocial_into_antisocial, alteration_fauna
+Direct consequences: ontological_alteration, alteration_weather, eschatological_alteration
+Aftermaths: conflict_intrapolity, government_degradation, population_decline

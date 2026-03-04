@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Editorial Forja"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_war, kernel_extrasocietal, scale_planetary
-Direct Consequences: alteration_human_bodies, alteration_fauna, wmd_use_bacteriological
-Aftermaths: prosocial_into_antisocial, antisocial_into_prosocial, conflict_intrapolity, use_of_force_civilians, familism, government_military
-Direct consequences: alteration_human_bodies, alteration_fauna, population_decline, government_degradation
+Direct consequences: wmd_use_bacteriological, population_decline
+Aftermaths: prosocial_into_antisocial, alteration_human_bodies, government_military

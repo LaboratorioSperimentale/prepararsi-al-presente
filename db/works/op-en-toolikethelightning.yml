@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Tor Books"
 Area: g-en
 Trigger event:  agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: government_degradation, conflict_interpolity, authoritarianism_cultural
-Aftermaths: government_oligarchical, authoritarianism_social, censorship, conflict_information, conflict_intrapolity, segregationism_social, authoritarianism_religion
+Direct consequences: government_oligarchical, authoritarianism_cultural, conflict_information, conflict_economic
+Aftermaths: censorship, segregationism_social, use_of_force_civilians, ontological_alteration

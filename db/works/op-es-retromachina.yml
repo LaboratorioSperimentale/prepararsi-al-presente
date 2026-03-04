@@ -6,7 +6,6 @@ Creators: au-es-orbitstudio-orbitstudio
 Language: l-en, l-es
 Distributor: "SuperGG.com"
 Area: g-es
-Trigger event: agency_anthropogenic, type_subversion kernel_inconclusive, scale_planetary
-Direct Consequences: government_nonhuman, authoritarianism_technological, conflict_interpolity
-Aftermaths: alteration_fauna, prosocial_into_antisocial, conflict_intrapolity, depletion_biosphere
-Direct consequences: government_nonhuman, population_decline, government_degradation
+Trigger event: agency_anthropogenic, type_subversion, kernel_inconclusive, scale_planetary
+Direct consequences: population_decline, government_nonhuman
+Aftermaths: alteration_fauna, pollution_land, prosocial_into_antisocial

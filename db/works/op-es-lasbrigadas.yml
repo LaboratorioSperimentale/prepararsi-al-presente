@@ -7,6 +7,5 @@ Language: l-es
 Publisher: "Club Hem"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: government_military, conflict_intrapolity, authoritarianism_social
-Aftermaths: authoritarianism_social, censorship, prosocial_into_antisocial, government_degradation
-Direct consequences: conflict_intrapolity, government_military, use_of_force_civilians
+Direct consequences: authoritarianism_social, government_military
+Aftermaths: censorship, use_of_force_civilians, segregationism_social

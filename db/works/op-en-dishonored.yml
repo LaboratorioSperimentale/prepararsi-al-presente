@@ -7,6 +7,5 @@ Language: l-en
 Distributor: "Bethesda Softworks LLC"
 Area: g-en
 Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_continental
-Direct Consequences: alteration_fauna, government_degradation, conflict_intrapolity
-Aftermaths: authoritarianism_social, segregationism_social, censorship, prosocial_into_antisocial, authoritarianism_health
-Direct consequences: population_decline, government_degradation, government_oligarchical, use_of_force_civilians
+Direct consequences: wmd_use_bacteriological, conflict_intrapolity
+Aftermaths: government_military, alteration_fauna, use_of_force_civilians, authoritarianism_social
