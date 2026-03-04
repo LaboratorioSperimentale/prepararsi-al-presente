@@ -7,5 +7,5 @@ Language: l-jp
 Publisher: "Chūōkōronsha"
 Area: g-jp
 Trigger event: agency_anthropogenic, event_subversion, kernel_intrasocietal, scale_local
-Direct Consequences: authoritarianism_social, authoritarianism_language, censorship
-Aftermaths: conflict_information, use_of_force_civilians, segregationism_social
+Direct consequences: authoritarianism_social, authoritarianism_cultural, censorship
+Aftermaths: government_oligarchical, conflict_information, segregationism_social

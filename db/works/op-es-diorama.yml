@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Monroy Editor"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_extrasocietal, scale_local
-Direct Consequences: conflict_information, authoritarianism_cultural
-Aftermaths: censorship, prosocial_into_antisocial, segregationism_social
+Direct consequences: conflict_information, censorship, authoritarianism_social
+Aftermaths: prosocial_into_antisocial, familism, government_degradation

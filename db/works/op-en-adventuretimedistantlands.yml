@@ -7,5 +7,5 @@ Language: l-en
 Distributor: "Cartoon Network"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_inconclusive, scale_planetary
-Direct Consequences: wmd_use_nuclear, pollution_radiation, ontological_alteration
+Direct consequences: wmd_use_nuclear, pollution_radiation, ontological_alteration
 Aftermaths: alteration_fauna, alteration_flora, alteration_human_bodies, government_degradation, conflict_intrapolity

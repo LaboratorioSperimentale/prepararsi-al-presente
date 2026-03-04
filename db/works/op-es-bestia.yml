@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Lugar Común editorial"
 Area: g-es
 Trigger event: agency_ambiguous, type_war, kernel_intrasocietal, scale_planetary
-Direct Consequences: authoritarianism_social, authoritarianism_androcentrism, use_of_force_civilians
-Aftermaths: censorship, prosocial_into_antisocial, conflict_information
+Direct consequences: authoritarianism_social, alteration_human_bodies
+Aftermaths: use_of_force_civilians, segregationism_social, prosocial_into_antisocial

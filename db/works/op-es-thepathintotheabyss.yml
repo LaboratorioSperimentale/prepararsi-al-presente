@@ -7,5 +7,5 @@ Language: l-en, l-es
 Distributor: "MXR Productions"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_extrasocietal, scale_local
-Direct Consequences: conflict_interpolity, conflict_intrapolity, population_decline
-Aftermaths: government_degradation, use_of_force_civilians, antisocial_into_prosocial
+Direct consequences: conflict_interpolity, government_military, use_of_force_civilians
+Aftermaths: government_degradation, censorship, conflict_intrapolity

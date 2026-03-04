@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Ballantine Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
-Direct Consequences: authoritarianism_technological, ontological_alteration, censorship
-Aftermaths: segregationism_social, use_of_force_civilians, conflict_information, government_oligarchical
+Direct consequences: government_nonhuman, authoritarianism_technological, censorship
+Aftermaths: segregationism_social, conflict_information, use_of_force_civilians, population_decline

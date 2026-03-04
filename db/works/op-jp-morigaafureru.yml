@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Kawade Shobo Shinsha"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_local
-Direct Consequences: alteration_flora, ontological_alteration, pollution_biosphere
-Aftermaths: conflict_intrapolity, government_degradation, population_decline
+Direct consequences: depletion_biosphere, alteration_flora, alteration_fauna
+Aftermaths: conflict_intrapolity, government_degradation, familism

@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Seix Barral"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
-Direct Consequences: depletion_water, alteration_weather, pollution_biosphere
-Aftermaths: conflict_intrapolity, familism, government_degradation
+Direct consequences: depletion_water, alteration_weather, pollution_water_bodies
+Aftermaths: conflict_intrapolity, government_degradation, familism

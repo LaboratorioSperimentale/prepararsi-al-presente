@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Fourth Estate"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: government_corporate, authoritarianism_technological, conflict_economic, pollution_biosphere
-Aftermaths: conflict_information, authoritarianism_market, use_of_force_civilians, ontological_alteration
+Direct consequences: conflict_economic, government_corporate, authoritarianism_technological
+Aftermaths: alteration_weather, conflict_information, censorship

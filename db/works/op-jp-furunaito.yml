@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "Shogakukan"
 Area: g-jp
 Trigger event: agency_non-anthropogenic, type_environmental, kernel_natural, scale_planetary
-Direct Consequences: pollution_biosphere, alteration_flora, alteration_human_bodies
-Aftermaths: conflict_economic, segregationism_social, government_degradation
+Direct consequences: authoritarianism_technological, conflict_information, censorship
+Aftermaths: government_corporate, segregationism_social, conflict_economic

@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Canongate Books Ltd"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: pollution_biosphere, alteration_weather, government_corporate
-Aftermaths: alteration_human_bodies, conflict_interpolity, use_of_force_civilians, eschatological_alteration
+Direct consequences: conflict_interpolity, pollution_biosphere, pollution_land, alteration_human_bodies, authoritarianism_androcentrism
+Aftermaths: government_oligarchical, censorship, use_of_force_civilians, population_decline

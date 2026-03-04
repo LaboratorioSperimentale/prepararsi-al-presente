@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Canongate"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
-Direct Consequences: conflict_information, ontological_alteration, authoritarianism_cultural
+Direct consequences: conflict_information, ontological_alteration, authoritarianism_cultural
 Aftermaths: censorship, conflict_intrapolity, segregationism_social

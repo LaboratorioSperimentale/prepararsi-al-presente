@@ -7,5 +7,5 @@ Language: l-en, l-es
 Distributor: "Chorus Worldwide Games, Ltd."
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: authoritarianism_technological, government_corporate, alteration_human_bodies
-Aftermaths: conflict_information, segregationism_social, authoritarianism_market
+Direct consequences: alteration_human_bodies, authoritarianism_technological, government_corporate
+Aftermaths: conflict_information, segregationism_social, conflict_economic

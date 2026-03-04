@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Serpent's Tail"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_natural, scale_planetary
-Direct Consequences: alteration_weather, pollution_biosphere, depletion_biosphere
+Direct consequences: alteration_weather, pollution_biosphere, depletion_biosphere
 Aftermaths: population_decline, government_degradation, conflict_intrapolity

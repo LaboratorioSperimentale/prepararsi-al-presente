@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Literatura Random House"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: ontological_alteration, eschatological_alteration, conflict_information
-Aftermaths: conflict_intrapolity, government_degradation, population_decline
+Direct consequences: alteration_weather, depletion_biosphere, conflict_economic
+Aftermaths: government_degradation, conflict_intrapolity, population_decline, familism

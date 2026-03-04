@@ -7,5 +7,5 @@ Language: g-es
 Publisher: "Los libros de la mujer rota"
 Area: g-es
 Trigger event: agency_ambiguous, type_subversion, kernel_inconclusive, scale_local
-Direct Consequences: ontological_alteration, alteration_fauna, population_decline
-Aftermaths: conflict_intrapolity, government_degradation, prosocial_into_antisocial
+Direct consequences: ontological_alteration, alteration_human_bodies
+Aftermaths: conflict_intrapolity, government_degradation, use_of_force_civilians

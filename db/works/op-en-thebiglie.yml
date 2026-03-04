@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Candlewick"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_planetary
-Direct Consequences: authoritarianism_language, censorship, conflict_information, authoritarianism_social
-Aftermaths: use_of_force_civilians, prosocial_into_antisocial, segregationism_social
+Direct consequences: government_confessional, authoritarianism_religion, authoritarianism_androcentrism, censorship
+Aftermaths: use_of_force_civilians, segregationism_social, familism

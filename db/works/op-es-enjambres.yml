@@ -6,6 +6,6 @@ Creators: au-es-edg-borges
 Language: l-es
 Publisher: "Altamarea"
 Area: g-es
-Trigger event:  agency_ambiguous, type_environmental, kernel_inconclusive, scale_local
-Direct Consequences: alteration_fauna, pollution_biosphere, ontological_alteration
-Aftermaths: conflict_intrapolity, government_degradation, population_decline
+Trigger event: agency_ambiguous, type_environmental, kernel_inconclusive, scale_local
+Direct consequences: alteration_fauna, ontological_alteration
+Aftermaths: conflict_intrapolity, use_of_force_civilians, government_degradation

@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Anagrama"
 Area: g-es
 Trigger event: agency_ambiguous, type_environmental, kernel_natural, scale_continental
-Direct Consequences: pollution_biosphere, depletion_biosphere, ontological_alteration
-Aftermaths: conflict_intrapolity, alteration_human_bodies, government_degradation
+Direct consequences: alteration_weather, depletion_biosphere, pollution_biosphere, ontological_alteration
+Aftermaths: conflict_intrapolity, government_degradation, use_of_force_civilians

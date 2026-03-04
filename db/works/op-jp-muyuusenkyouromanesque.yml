@@ -7,5 +7,5 @@ Language: l-jp
 Distributor: "YOX-Project"
 Area: g-jp
 Trigger event: agency_unknown, type_subversion, kernel_inconclusive, scale_planetary
-Direct Consequences: conflict_information, authoritarianism_social, censorship
-Aftermaths: conflict_intrapolity, prosocial_into_antisocial, segregationism_social
+Direct consequences: conflict_intrapolity, government_degradation, segregationism_social
+Aftermaths: use_of_force_civilians, familism, censorship

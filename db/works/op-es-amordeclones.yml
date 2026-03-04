@@ -7,5 +7,5 @@ Language: l-es
 Publisher: "Editorial Forja"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct Consequences: authoritarianism_technological, alteration_human_bodies, authoritarianism_market
-Aftermaths: conflict_information, segregationism_social, prosocial_into_antisocial
+Direct consequences: authoritarianism_technological, alteration_human_bodies, authoritarianism_reproduction
+Aftermaths: segregationism_social, conflict_information, familism

@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Apex Publications"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_extrasocietal, scale_planetary
-Direct Consequences: ontological_alteration, alteration_human_bodies, conflict_interpolity
-Aftermaths: conflict_information, government_degradation, conflict_intrapolity, segregationism_social
+Direct consequences: alteration_human_bodies, alteration_flora, ontological_alteration
+Aftermaths: government_corporate, censorship, conflict_interpolity, conflict_information
