@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Grand Central Publishing"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_natural, scale_local
-Direct consequences: alteration_weather, depletion_biosphere
-Aftermaths: government_degradation, population_decline, conflict_intrapolity, alteration_human_bodies
+Direct Consequences: alteration_weather, depletion_biosphere, pollution_biosphere
+Aftermaths: government_degradation, population_decline, prosocial_into_antisocial, antisocial_into_prosocial, alteration_fauna
+Direct consequences: alteration_weather, depletion_biosphere, pollution_water_bodies

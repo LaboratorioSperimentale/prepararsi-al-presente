@@ -7,5 +7,6 @@ Language: l-jp, l-en
 Distributor: "Sony Interactive Entertainment"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_planetary
-Direct consequences: ontological_alteration, population_decline
-Aftermaths: government_degradation, conflict_intrapolity, alteration_fauna, alteration_weather
+Direct Consequences: ontological_alteration, alteration_fauna, population_decline
+Aftermaths: prosocial_into_antisocial, antisocial_into_prosocial, conflict_intrapolity, familism, alteration_human_bodies
+Direct consequences: population_decline, ontological_alteration, government_degradation, alteration_fauna

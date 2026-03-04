@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Erewhon Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct consequences: authoritarianism_reproduction, authoritarianism_androcentrism
-Aftermaths: alteration_human_bodies, government_nonhuman, use_of_force_civilians, authoritarianism_social
+Direct Consequences: authoritarianism_racism, authoritarianism_reproduction, government_oligarchical
+Aftermaths: censorship, authoritarianism_technological, authoritarianism_social, use_of_force_civilians, segregationism_sexual, authoritarianism_health
+Direct consequences: authoritarianism_reproduction, authoritarianism_androcentrism, government_nonhuman

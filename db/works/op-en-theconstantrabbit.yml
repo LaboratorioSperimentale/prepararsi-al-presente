@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Hodder & Stoughton"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
+Direct Consequences: alteration_fauna, authoritarianism_racism, authoritarianism_cultural
+Aftermaths: authoritarianism_cultural, authoritarianism_social, segregationism_social, censorship, conflict_information, government_oligarchical, use_of_force_civilians
 Direct consequences: alteration_fauna, authoritarianism_racism
-Aftermaths: segregationism_social, authoritarianism_cultural, use_of_force_civilians, conflict_information

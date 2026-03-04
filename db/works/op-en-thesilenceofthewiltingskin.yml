@@ -7,5 +7,5 @@ Language: l-en
 Publisher: "Pink Narcissus Press"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_metaphysical, kernel_intrasocietal, scale_local
-Direct consequences: authoritarianism_racism, authoritarianism_social
-Aftermaths: alteration_human_bodies, use_of_force_civilians
+Direct Consequences: authoritarianism_racism, authoritarianism_social, government_oligarchical
+Aftermaths: alteration_human_bodies, censorship, use_of_force_civilians, prosocial_into_antisocial, conflict_information, segregationism_social

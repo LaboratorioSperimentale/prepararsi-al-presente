@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Hamish Hamilton"
 Area: g-en
 Trigger event: agency_unknown, type_subversion, kernel_extrasocietal, scale_planetary
-Direct consequences: authoritarianism_androcentrism, segregationism_sexual
-Aftermaths: authoritarianism_health, use_of_force_civilians, government_degradation
+Direct Consequences: authoritarianism_androcentrism, authoritarianism_social, government_degradation
+Aftermaths: authoritarianism_androcentrism, authoritarianism_gynocentric, segregationism_sexual, familism, prosocial_into_antisocial
+Direct consequences: government_degradation, conflict_intrapolity

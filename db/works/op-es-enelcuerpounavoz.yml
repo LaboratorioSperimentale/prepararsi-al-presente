@@ -8,4 +8,5 @@ Publisher: "Eterna Cadencia"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: government_degradation, conflict_intrapolity, alteration_weather
-Aftermaths: authoritarianism_social, prosocial_into_antisocial, population_decline, familism, use_of_force_civilians
+Aftermaths: prosocial_into_antisocial, familism, conflict_intrapolity, antisocial_into_prosocial
+Direct consequences: government_degradation, population_decline, alteration_human_bodies

@@ -7,5 +7,6 @@ Language: l-jp
 Publisher: "Shinchosha"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct consequences: ontological_alteration
-Aftermaths: authoritarianism_social, population_decline
+Direct Consequences: ontological_alteration, government_degradation, authoritarianism_social
+Aftermaths: authoritarianism_social, prosocial_into_antisocial, conflict_intrapolity, censorship
+Direct consequences: ontological_alteration, government_degradation

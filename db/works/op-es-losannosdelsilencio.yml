@@ -6,6 +6,7 @@ Creators: au-es-ela-vilarmadruga
 Language: l-es
 Publisher: "Dilatando mentes"
 Area: g-es
-Trigger event:  agency_anthropogenic, type_war, kernel_intrasocietal,  scale_planetary
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal,  scale_planetary
 Direct Consequences: government_military, authoritarianism_social, censorship
-Aftermaths: conflict_information, use_of_force_civilians, prosocial_into_antisocial, government_degradation, authoritarianism_cultural
+Aftermaths: authoritarianism_social, population_decline, prosocial_into_antisocial, conflict_information, conflict_intrapolity
+Direct consequences: censorship, government_oligarchical, use_of_force_civilians

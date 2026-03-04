@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Picador"
 Area: g-en
 Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_planetary
-Direct consequences: conflict_interpolity
-Aftermaths: use_of_force_civilians, ontological_alteration
+Direct Consequences: conflict_interpolity, ontological_alteration, use_of_force_civilians
+Aftermaths: use_of_force_civilians, conflict_intrapolity, government_military
+Direct consequences: conflict_interpolity, ontological_alteration, alteration_fauna

@@ -7,5 +7,6 @@ Language: l-jp
 Distributor: Spike Chunsoft
 Area: g-jp
 Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_universal
-Direct consequences: conflict_interpolity, use_of_force_civilians
-Aftermaths: government_degradation, population_decline, conflict_intrapolity, wmd_use_nuclear, authoritarianism_social, alteration_human_bodies
+Direct Consequences: ontological_alteration, alteration_human_bodies, alteration_fauna
+Aftermaths: prosocial_into_antisocial, antisocial_into_prosocial, conflict_intrapolity, use_of_force_civilians, government_military
+Direct consequences: alteration_human_bodies, alteration_fauna, conflict_interpolity, population_decline

@@ -8,4 +8,5 @@ Publisher: "Grupo Rodrigo Porrúa"
 Area: g-es
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
 Direct Consequences: conflict_interpolity, wmd_use_nuclear, population_decline
-Aftermaths: government_degradation, pollution_radiation, alteration_fauna, alteration_human_bodies, conflict_intrapolity, prosocial_into_antisocial
+Aftermaths: government_military, prosocial_into_antisocial, antisocial_into_prosocial, conflict_intrapolity
+Direct consequences: conflict_interpolity, population_decline, government_degradation, use_of_force_civilians

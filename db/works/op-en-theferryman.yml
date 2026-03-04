@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Ballantine Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
-Direct consequences: government_oligarchical, authoritarianism_health
-Aftermaths: censorship, use_of_force_civilians, government_degradation, authoritarianism_social, ontological_alteration
+Direct Consequences: government_nonhuman, ontological_alteration, authoritarianism_technological
+Aftermaths: authoritarianism_health, authoritarianism_reproduction, prosocial_into_antisocial, conflict_information, government_nonhuman
+Direct consequences: government_oligarchical, authoritarianism_social, censorship

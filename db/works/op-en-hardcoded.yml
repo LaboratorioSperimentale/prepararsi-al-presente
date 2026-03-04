@@ -7,5 +7,6 @@ Language: l-en
 Distributor: "CD Projekt"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_inconclusive, scale_planetary
-Direct consequences: government_corporate, authoritarianism_market
-Aftermaths: censorship, government_nonhuman, authoritarianism_technological, authoritarianism_social
+Direct Consequences: government_corporate, authoritarianism_technological, alteration_human_bodies
+Aftermaths: segregationism_social, censorship, authoritarianism_technological
+Direct consequences: government_corporate, authoritarianism_market, authoritarianism_social

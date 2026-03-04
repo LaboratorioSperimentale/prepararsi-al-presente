@@ -8,4 +8,5 @@ ublisher: "Ceibo ediciones"
 Area: g-es
 Trigger event: agency_ambiguous, type_metaphysical, kernel_intrasocietal, scale_planetary
 Direct Consequences: ontological_alteration, government_degradation, authoritarianism_social
-Aftermaths: prosocial_into_antisocial, censorship, conflict_intrapolity, authoritarianism_cultural
+Aftermaths: authoritarianism_cultural, conflict_information, prosocial_into_antisocial
+Direct consequences: government_oligarchical, authoritarianism_social, censorship

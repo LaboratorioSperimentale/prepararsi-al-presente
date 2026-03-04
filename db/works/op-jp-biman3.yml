@@ -7,5 +7,6 @@ Language: l-jp
 Distributor: "ωstar"
 Area: g-jp
 Trigger event: agency_ambiguous, type_environmental, kernel_inconclusive, scale_planetary
-Direct consequences: government_oligarchical
-Aftermaths: authoritarianism_social, use_of_force_civilians
+Direct Consequences: authoritarianism_social, authoritarianism_cultural, government_degradation
+Aftermaths: authoritarianism_social, prosocial_into_antisocial, authoritarianism_cultural
+Direct consequences: ontological_alteration, government_degradation

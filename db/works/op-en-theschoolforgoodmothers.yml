@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Simon & Schuster"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct consequences: authoritarianism_social, authoritarianism_androcentrism
-Aftermaths: use_of_force_civilians, censorship, authoritarianism_health, government_degradation
+Direct Consequences: authoritarianism_social, government_corporate, authoritarianism_technological
+Aftermaths: authoritarianism_androcentrism, use_of_force_civilians, censorship, authoritarianism_reproduction, authoritarianism_ableist
+Direct consequences: government_oligarchical, authoritarianism_social

@@ -8,4 +8,5 @@ Publisher: "Literatura Random House"
 Area: g-es
 Trigger event: agency_ambiguous, type_environmental, kernel_inconclusive scale_planetary
 Direct Consequences: government_military, authoritarianism_cultural, conflict_intrapolity
-Aftermaths: authoritarianism_social, censorship, use_of_force_civilians, conflict_information, prosocial_into_antisocial
+Aftermaths: authoritarianism_social, conflict_information, prosocial_into_antisocial
+Direct consequences: authoritarianism_cultural, government_oligarchical, censorship

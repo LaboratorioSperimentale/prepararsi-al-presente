@@ -4,8 +4,9 @@ First edition: 2020
 Media form: sequential art
 Creators: au-jp-koji-murata
 Language: l-jp
-Distributor: “Kōdansha” 
+Distributor: “Kōdansha”
 Area: g-jp
 Trigger event: agency_anthropogenic, event_subversion, kernel_intrasocietal, scale_local
-Direct consequences: authoritarianism_social
-Aftermaths: censorship, use_of_force_civilians
+Direct Consequences: government_oligarchical, authoritarianism_social, censorship
+Aftermaths: censorship, authoritarianism_social, prosocial_into_antisocial, authoritarianism_cultural
+Direct consequences: conflict_intrapolity, government_oligarchical, use_of_force_civilians

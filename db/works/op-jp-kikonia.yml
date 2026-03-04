@@ -7,5 +7,6 @@ Language: l-jp
 Distributor: "07th Expansion"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_war, kernel_inconclusive, scale_planetary
-Direct consequences: conflict_interpolity, authoritarianism_technological
-Aftermaths: conflict_information, use_of_force_civilians, government_degradation, government_military
+Direct Consequences: conflict_interpolity, authoritarianism_technological, government_oligarchical
+Aftermaths: government_oligarchical, censorship, authoritarianism_social, conflict_information, alteration_human_bodies
+Direct consequences: conflict_interpolity, authoritarianism_technological, government_military, use_of_force_civilians

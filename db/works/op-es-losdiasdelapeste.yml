@@ -8,4 +8,5 @@ Publisher: "Malpaso ediciones"
 Area: g-es
 Trigger event: agency_ambiguous, type_metaphysical, kernel_extrasocietal, scale_local
 Direct Consequences: wmd_use_bacteriological, population_decline, government_degradation
-Aftermaths: conflict_intrapolity, authoritarianism_health, authoritarianism_social, use_of_force_civilians, prosocial_into_antisocial, censorship
+Aftermaths: authoritarianism_health, prosocial_into_antisocial, conflict_intrapolity, government_military
+Direct consequences: population_decline, government_degradation, alteration_human_bodies

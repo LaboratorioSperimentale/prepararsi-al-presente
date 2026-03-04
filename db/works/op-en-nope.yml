@@ -7,5 +7,6 @@ Language: l-en
 Distributor: "Universal Pictures"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_extrasocietal, scale_local
-Direct consequences: alteration_fauna
+Direct Consequences: alteration_fauna, ontological_alteration
 Aftermaths: use_of_force_civilians, government_degradation
+Direct consequences: conflict_interpolity

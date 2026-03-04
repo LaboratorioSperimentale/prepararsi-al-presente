@@ -7,5 +7,6 @@ Language: l-jp
 Distributor: "Arc System Works"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_multiversal
-Direct consequences: government_oligarchical, authoritarianism_social
-Aftermaths: censorship, conflict_intrapolity, use_of_force_civilians, authoritarianism_cultural
+Direct Consequences: government_oligarchical, ontological_alteration, conflict_intrapolity
+Aftermaths: authoritarianism_social, authoritarianism_military, censorship, alteration_human_bodies, government_military
+Direct consequences: ontological_alteration, conflict_intrapolity, government_oligarchical, use_of_force_civilians

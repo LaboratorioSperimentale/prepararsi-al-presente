@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "WordUnited Ltd"
 Area: g-en
 Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_local
-Direct consequences: alteration_weather, depletion_biosphere
-Aftermaths: government_degradation, conflict_intrapolity, authoritarianism_social, segregationism_social
+Direct Consequences: conflict_interpolity, wmd_use_nuclear, depletion_biosphere
+Aftermaths: government_confessional, authoritarianism_religion, segregationism_religion, authoritarianism_cultural, prosocial_into_antisocial
+Direct consequences: population_decline, government_degradation, conflict_intrapolity, depletion_biosphere

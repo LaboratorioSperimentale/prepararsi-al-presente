@@ -8,4 +8,5 @@ Publisher: "Literatura Random House"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_local
 Direct Consequences: authoritarianism_cultural, ontological_alteration, government_degradation
-Aftermaths: authoritarianism_social, authoritarianism_religion, conflict_intrapolity, prosocial_into_antisocial, censorship
+Aftermaths: government_degradation, alteration_fauna, authoritarianism_racism, prosocial_into_antisocial
+Direct consequences: depletion_biosphere, alteration_weather, alteration_flora, authoritarianism_cultural

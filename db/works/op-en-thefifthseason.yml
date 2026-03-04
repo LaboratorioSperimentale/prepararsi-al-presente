@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Orbit Books"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
-Direct consequences: authoritarianism_social, authoritarianism_racism
-Aftermaths: segregationism_social, use_of_force_civilians, conflict_intrapolity, government_military, censorship
+Direct Consequences: ontological_alteration, alteration_human_bodies, alteration_weather
+Aftermaths: authoritarianism_social, segregationism_social, authoritarianism_cultural, censorship, use_of_force_civilians, government_oligarchical, authoritarianism_ableist
+Direct consequences: ontological_alteration, alteration_human_bodies, conflict_intrapolity

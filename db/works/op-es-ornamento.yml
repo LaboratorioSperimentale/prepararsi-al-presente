@@ -8,4 +8,5 @@ Publisher: "Periférica"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: government_corporate, authoritarianism_market, authoritarianism_social
-Aftermaths: authoritarianism_technological, prosocial_into_antisocial, conflict_information, censorship, segregationism_social
+Aftermaths: alteration_human_bodies, authoritarianism_market, authoritarianism_social, authoritarianism_cultural
+Direct consequences: government_corporate, authoritarianism_health, authoritarianism_technological

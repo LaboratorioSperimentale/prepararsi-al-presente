@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Berkley Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct consequences: government_degradation, conflict_economic
-Aftermaths: authoritarianism_gynocentric, segregationism_sexual, familism, use_of_force_civilians
+Direct Consequences: government_degradation, conflict_economic, conflict_intrapolity
+Aftermaths: authoritarianism_gynocentric, segregationism_sexual, government_oligarchical, prosocial_into_antisocial, familism
+Direct consequences: conflict_intrapolity, government_degradation, conflict_economic

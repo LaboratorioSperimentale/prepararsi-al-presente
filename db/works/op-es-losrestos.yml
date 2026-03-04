@@ -8,4 +8,5 @@ Publisher: "Alquimia Ediciones"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: government_degradation, conflict_intrapolity, depletion_biosphere
-Aftermaths: population_decline, authoritarianism_social, prosocial_into_antisocial, familism, use_of_force_civilians
+Aftermaths: prosocial_into_antisocial, familism, conflict_intrapolity, antisocial_into_prosocial
+Direct consequences: government_degradation, population_decline

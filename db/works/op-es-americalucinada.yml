@@ -8,4 +8,5 @@ Publisher: "Tusquets"
 Area: g-es
 Trigger event: agency_ambiguous, type_subversion, kernel_nonspecified, scale_planetary
 Direct Consequences: government_oligarchical, authoritarianism_cultural, conflict_information
-Aftermaths: censorship, authoritarianism_social, ontological_alteration, prosocial_into_antisocial, conflict_intrapolity
+Aftermaths: authoritarianism_social, prosocial_into_antisocial, government_degradation, authoritarianism_racism
+Direct consequences: authoritarianism_cultural, conflict_intrapolity, use_of_force_civilians

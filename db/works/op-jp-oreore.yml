@@ -7,5 +7,6 @@ Language: l-jp
 Distributor: "Storm Labels"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct consequences: ontological_alteration
-Aftermaths: government_degradation, authoritarianism_social, conflict_intrapolity
+Direct Consequences: ontological_alteration, government_degradation, authoritarianism_social
+Aftermaths: government_degradation, authoritarianism_social, prosocial_into_antisocial, conflict_intrapolity
+Direct consequences: ontological_alteration, alteration_human_bodies

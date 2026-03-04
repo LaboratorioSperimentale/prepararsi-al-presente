@@ -7,5 +7,6 @@ Language: l-jp
 Distributor: "Atlus"
 Area: g-jp
 Trigger event: agency_anthropogenic type_metaphysical kernel_intrasocietal, scale_multiversal
-Direct consequences: conflict_interpolity, wmd_use_nuclear
-Aftermaths: government_confessional, government_military, government_degradation, population_decline, alteration_fauna, authoritarianism_social
+Direct Consequences: wmd_use_nuclear, ontological_alteration, government_degradation
+Aftermaths: government_confessional, authoritarianism_religion, conflict_interpolity, government_military, use_of_force_civilians, alteration_human_bodies, alteration_fauna
+Direct consequences: ontological_alteration, conflict_intrapolity, government_degradation, population_decline

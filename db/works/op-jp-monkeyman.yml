@@ -6,6 +6,7 @@ Creators: au-jp-tak-ichikawa
 Language: l-en
 Distributor: "Red Circle"
 Area: g-jp
-Trigger event:  agency_anthropogenic, type_subversion kernel_intrasocietal,  scale_planetary
-Direct consequences: authoritarianism_religion, authoritarianism_racism
-Aftermaths: government_confessional, use_of_force_civilians, government_degradation, conflict_intrapolity, authoritarianism_social
+Trigger event: agency_anthropogenic, type_subversion kernel_intrasocietal,  scale_planetary
+Direct Consequences: government_confessional, authoritarianism_racism, authoritarianism_social
+Aftermaths: prosocial_into_antisocial, familism, conflict_intrapolity, antisocial_into_prosocial
+Direct consequences: depletion_biosphere, alteration_weather, government_degradation, population_decline

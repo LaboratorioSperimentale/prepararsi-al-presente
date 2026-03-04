@@ -7,5 +7,6 @@ Language: l-jp
 Distributor: "SEACOXX"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
-Direct consequences: alteration_human_bodies, alteration_fauna, population_decline
-Aftermaths: government_degradation, conflict_intrapolity
+Direct Consequences: alteration_human_bodies, alteration_fauna, wmd_use_bacteriological
+Aftermaths: prosocial_into_antisocial, antisocial_into_prosocial, conflict_intrapolity, familism, use_of_force_civilians
+Direct consequences: alteration_human_bodies, alteration_fauna, population_decline, government_degradation

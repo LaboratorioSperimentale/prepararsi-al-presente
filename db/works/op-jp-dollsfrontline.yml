@@ -7,5 +7,5 @@ Language: l-jp, l-chn
 Distributor: "Tokyo MX"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
-Direct consequences: conflict_interpolity, wmd_use_chemical, government_degradation
-Aftermaths: alteration_human_bodies, government_military, population_decline, conflict_intrapolity, alteration_fauna
+Direct Consequences: wmd_use_bacteriological, wmd_use_chemical, conflict_interpolity
+Aftermaths: government_degradation, government_military, alteration_human_bodies, authoritarianism_technological, conflict_intrapolity, use_of_force_civilians, population_decline, pollution_land

@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Candlewick"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_planetary
-Direct consequences: authoritarianism_cultural, authoritarianism_racism, conflict_interpolity
-Aftermaths: censorship, segregationism_social, use_of_force_civilians, authoritarianism_social, government_oligarchical
+Direct Consequences: government_oligarchical, authoritarianism_cultural, conflict_interpolity
+Aftermaths: censorship, government_oligarchical, authoritarianism_androcentrism, authoritarianism_social, authoritarianism_religion, segregationism_religion, segregationism_social
+Direct consequences: conflict_interpolity, authoritarianism_cultural, authoritarianism_racism

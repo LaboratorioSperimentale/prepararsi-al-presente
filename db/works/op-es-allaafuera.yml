@@ -8,4 +8,5 @@ Publisher: "Los libros de la mujer rota"
 Area: g-es
 Trigger event: agency_ambiguous, type_subversion, kernel_inconclusive, scale_local
 Direct Consequences: alteration_fauna, government_degradation, depletion_biosphere
-Aftermaths: conflict_intrapolity, prosocial_into_antisocial, population_decline, authoritarianism_social, use_of_force_civilians
+Aftermaths: prosocial_into_antisocial, familism, conflict_intrapolity
+Direct consequences: alteration_fauna, government_degradation, population_decline

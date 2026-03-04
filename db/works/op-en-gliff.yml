@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Hamish Hamilton"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
-Direct consequences: government_degradation, authoritarianism_social
-Aftermaths: censorship, use_of_force_civilians, segregationism_social, authoritarianism_cultural
+Direct Consequences: government_degradation, authoritarianism_cultural, conflict_information
+Aftermaths: censorship, authoritarianism_social, use_of_force_civilians, segregationism_social, authoritarianism_language
+Direct consequences: authoritarianism_cultural, government_degradation, conflict_information

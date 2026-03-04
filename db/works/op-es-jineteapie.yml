@@ -8,4 +8,5 @@ Publisher: "Editorial Lector Cómplice"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: government_military, conflict_intrapolity, government_degradation
-Aftermaths: authoritarianism_social, use_of_force_civilians, censorship, prosocial_into_antisocial, conflict_information
+Aftermaths: population_decline, censorship, authoritarianism_social, conflict_information
+Direct consequences: conflict_intrapolity, government_oligarchical, use_of_force_civilians

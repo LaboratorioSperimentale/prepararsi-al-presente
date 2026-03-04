@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "DAW"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_extrasocietal scale_multiplanetary
-Direct consequences: conflict_interpolity, authoritarianism_racism
-Aftermaths: use_of_force_civilians, population_decline, conflict_intrapolity, authoritarianism_cultural
+Direct Consequences: conflict_interpolity, authoritarianism_cultural, authoritarianism_racism
+Aftermaths: authoritarianism_cultural, segregationism_social, antisocial_into_prosocial
+Direct consequences: conflict_interpolity, alteration_human_bodies

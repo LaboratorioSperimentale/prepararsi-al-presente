@@ -7,5 +7,6 @@ Language: l-en
 Publisher: "Granta"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_metaphysical, kernel_nonspecified, scale_planetary
-Direct consequences: ontological_alteration, population_decline
-Aftermaths: government_degradation, conflict_intrapolity, authoritarianism_gynocentric
+Direct Consequences: ontological_alteration, population_decline, authoritarianism_gynocentric
+Aftermaths: authoritarianism_gynocentric, conflict_intrapolity, prosocial_into_antisocial, antisocial_into_prosocial, authoritarianism_religion, familism
+Direct consequences: population_decline, ontological_alteration, government_degradation

@@ -8,4 +8,5 @@ Publisher: "Libro Escuchas"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_war, kernel_extrasocietal, scale_continental
 Direct Consequences: alteration_human_bodies, alteration_fauna, government_degradation
-Aftermaths: population_decline, conflict_intrapolity, prosocial_into_antisocial, use_of_force_civilians, authoritarianism_social
+Aftermaths: prosocial_into_antisocial, conflict_intrapolity, antisocial_into_prosocial, familism
+Direct consequences: government_degradation, population_decline, alteration_fauna

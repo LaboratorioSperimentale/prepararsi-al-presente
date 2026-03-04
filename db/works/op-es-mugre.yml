@@ -8,4 +8,5 @@ Publisher: "Penguin Randomhouse"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_natural, scale_local
 Direct Consequences: pollution_biosphere, alteration_weather, alteration_fauna
-Aftermaths: population_decline, government_degradation, authoritarianism_health, conflict_intrapolity, prosocial_into_antisocial, authoritarianism_social
+Aftermaths: government_degradation, authoritarianism_health, prosocial_into_antisocial, depletion_biosphere
+Direct consequences: pollution_biosphere, pollution_water_bodies, alteration_fauna, population_decline

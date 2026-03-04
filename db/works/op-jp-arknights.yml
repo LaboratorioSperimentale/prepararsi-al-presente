@@ -4,8 +4,9 @@ First edition: 2019
 Media form: videogame
 Creators: au-jp-hypergryph-shanghaiyingjiaowangluokejiyouxiangongsi
 Language: l-chn, l-jp
-Distributor: “Hypergryph” 
+Distributor: “Hypergryph”
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
-Direct consequences: alteration_human_bodies, authoritarianism_health
-Aftermaths: authoritarianism_social, segregationism_social, use_of_force_civilians, conflict_intrapolity, censorship
+Direct Consequences: alteration_human_bodies, authoritarianism_health, government_degradation
+Aftermaths: authoritarianism_health, segregationism_social, authoritarianism_social, government_degradation, authoritarianism_racism, conflict_interpolity
+Direct consequences: alteration_human_bodies, population_decline, use_of_force_civilians, conflict_intrapolity

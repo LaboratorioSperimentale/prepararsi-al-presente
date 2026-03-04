@@ -7,5 +7,6 @@ Language: l-jp
 Publisher: "Hayakawa Shobō"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_multi-planetary
-Direct consequences: authoritarianism_androcentrism, authoritarianism_social
-Aftermaths: segregationism_sexual, use_of_force_civilians
+Direct Consequences: authoritarianism_social, authoritarianism_cultural, government_degradation
+Aftermaths: authoritarianism_social, censorship, conflict_information, prosocial_into_antisocial, authoritarianism_ableist
+Direct consequences: authoritarianism_health, government_oligarchical, authoritarianism_technological
