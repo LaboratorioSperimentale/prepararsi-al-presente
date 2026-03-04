@@ -8,4 +8,5 @@ Distributor: "Kobunsha"
 Area: g-jp
 Trigger event: agency_unknown, type_war, kernel_non-specified, scale_planetary
 Direct Consequences: conflict_economic, government_degradation
-Aftermaths: conflict_intrapolity, familism, use_of_force_civilians
+Aftermaths: prosocial_into_antisocial, government_degradation
+Direct consequences: conflict_information, censorship, authoritarianism_cultural

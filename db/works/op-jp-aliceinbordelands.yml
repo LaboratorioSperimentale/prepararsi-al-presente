@@ -1,11 +1,12 @@
 id: op-jp-aliceinbordelands
-First known title: “Imawa no kuni no Arisu”
+First known title: "Imawa no kuni no Arisu"
 First edition: 2020
 Media form: serial
 Creators: au-jp-shinsuke-sato
 Language: l-jp
-Distributor: “Kōdansha” 
+Distributor: "Kōdansha"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: ontological_alteration, population_decline
-Aftermaths: conflict_intrapolity, use_of_force_civilians, prosocial_into_antisocial
+Aftermaths: conflict_intrapolity, prosocial_into_antisocial, government_degradation
+Direct consequences: ontological_alteration, population_decline, use_of_force_civilians

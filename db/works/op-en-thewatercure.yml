@@ -8,4 +8,5 @@ Publisher: "Hamish Hamilton"
 Area: g-en
 Trigger event: agency_unknown, type_subversion, kernel_extrasocietal, scale_planetary
 Direct Consequences: authoritarianism_androcentrism, segregationism_sexual, conflict_intrapolity
-Aftermaths: familism, prosocial_into_antisocial, use_of_force_civilians, censorship
+Aftermaths: segregationism_sexual, prosocial_into_antisocial, use_of_force_civilians
+Direct consequences: authoritarianism_androcentrism, authoritarianism_gynocentric, familism

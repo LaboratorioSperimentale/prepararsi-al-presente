@@ -1,5 +1,5 @@
 id: op-en-robocoproguecity
-First known title: "Robocop: Rogue City"
+First known title: "RoboCop: Rogue City"
 Media form: videogame
 First edition: 2023
 Creators: au-en-teyon-teyonsa
@@ -8,4 +8,5 @@ Distributor: "Nacon S.A."
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: government_corporate, authoritarianism_technological, conflict_intrapolity, use_of_force_civilians
-Aftermaths: conflict_information, censorship, pollution_land, segregationism_social
+Aftermaths: censorship, conflict_intrapolity, segregationism_social
+Direct consequences: government_corporate, authoritarianism_technological, conflict_economic, use_of_force_civilians

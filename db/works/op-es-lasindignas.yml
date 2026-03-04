@@ -8,4 +8,5 @@ Publisher: "Alfaguara"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_extrasocietal, scale_planetary
 Direct Consequences: government_confessional, authoritarianism_reproduction, authoritarianism_androcentrism
-Aftermaths: segregationism_sexual, use_of_force_civilians, familism
+Aftermaths: segregationism_sexual, use_of_force_civilians, familism, censorship
+Direct consequences: government_confessional, authoritarianism_religion, authoritarianism_gynocentric, authoritarianism_reproduction

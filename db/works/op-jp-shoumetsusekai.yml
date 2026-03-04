@@ -6,6 +6,7 @@ Creators: au-jp-koji-murata
 Language: l-jp
 Distributor: "Kawade Shobō Shinsha"
 Area: g-jp
-Trigger event:  agency_anthropogenic, type_subversion, kernel_ intrasocietal, scale_local
+Trigger event: agency_anthropogenic, type_subversion, kernel_ intrasocietal, scale_local
 Direct Consequences: authoritarianism_reproduction, authoritarianism_gynocentric, segregationism_sexual
-Aftermaths: familism, prosocial_into_antisocial, conflict_intrapolity
+Aftermaths: government_degradation, conflict_intrapolity, familism
+Direct consequences: population_decline, alteration_weather, pollution_land

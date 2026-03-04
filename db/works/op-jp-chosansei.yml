@@ -8,4 +8,5 @@ Distributor: "Shinchōsha"
 Area: g-jp
 Trigger event: agency_non-anthropogenic, type_subversion, kernel_ intrasocietal, scale_local
 Direct Consequences: pollution_biosphere, pollution_water_bodies, alteration_weather
-Aftermaths: population_decline, conflict_intrapolity, government_degradation
+Aftermaths: segregationism_social, familism, government_corporate
+Direct consequences: alteration_human_bodies, authoritarianism_reproduction, authoritarianism_health

@@ -8,4 +8,5 @@ Distributor: "Voids Within Studio Inc."
 Area: g-en
 Trigger event: agency_unknown, type_subversion, kernel_nonspecified, scale_nonspecified
 Direct Consequences: authoritarianism_technological, conflict_information, segregationism_social
-Aftermaths: censorship, use_of_force_civilians, prosocial_into_antisocial, ontological_alteration
+Aftermaths: segregationism_social, government_degradation, use_of_force_civilians
+Direct consequences: authoritarianism_technological, censorship, conflict_information

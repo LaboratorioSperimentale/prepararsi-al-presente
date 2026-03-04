@@ -8,4 +8,5 @@ Publisher: "Riverhead Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_natural, scale_local
 Direct Consequences: alteration_weather, depletion_water, depletion_biosphere, pollution_land
-Aftermaths: conflict_intrapolity, government_degradation, use_of_force_civilians, population_decline
+Aftermaths: government_degradation, conflict_intrapolity, use_of_force_civilians, population_decline
+Direct consequences: alteration_weather, depletion_water, depletion_biosphere, pollution_land

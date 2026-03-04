@@ -8,4 +8,5 @@ Distributor: "SuperGG.com"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_inconclusive, scale_planetary
 Direct Consequences: government_nonhuman, authoritarianism_technological, government_degradation
-Aftermaths: conflict_intrapolity, use_of_force_civilians, ontological_alteration
+Aftermaths: censorship, conflict_economic, use_of_force_civilians, segregationism_social
+Direct consequences: authoritarianism_technological, government_corporate, conflict_information

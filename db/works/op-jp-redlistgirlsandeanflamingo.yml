@@ -8,4 +8,5 @@ Distributor: "Double Challenge, inc."
 Area: g-jp
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
 Direct Consequences: depletion_biosphere, alteration_fauna, pollution_biosphere
-Aftermaths: conflict_economic, segregationism_social, conflict_intrapolity
+Aftermaths: government_corporate, conflict_economic, segregationism_social
+Direct consequences: depletion_biosphere, alteration_fauna, authoritarianism_market

@@ -8,4 +8,5 @@ Publisher: "Faber and Faber"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: authoritarianism_technological, alteration_human_bodies, segregationism_social
-Aftermaths: familism, authoritarianism_market, prosocial_into_antisocial
+Aftermaths: segregationism_social, authoritarianism_market, familism
+Direct consequences: authoritarianism_technological, government_corporate, alteration_human_bodies

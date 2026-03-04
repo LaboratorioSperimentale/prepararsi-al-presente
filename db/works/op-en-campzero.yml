@@ -8,4 +8,5 @@ Publisher: "Atria Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_continental
 Direct Consequences: alteration_weather, conflict_economic, government_corporate, pollution_biosphere
-Aftermaths: authoritarianism_market, segregationism_social, depletion_biosphere, conflict_intrapolity
+Aftermaths: authoritarianism_market, authoritarianism_reproduction, segregationism_social, familism
+Direct consequences: alteration_weather, depletion_biosphere, conflict_economic

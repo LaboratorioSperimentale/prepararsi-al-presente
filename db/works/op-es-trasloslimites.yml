@@ -8,4 +8,5 @@ Publisher: "Puerto de Escape"
 Area: g-es
 Trigger event: agency_anthropogenic, event_subversion, kernel_extrasocietal, scale_multiplanetary
 Direct Consequences: conflict_interpolity, ontological_alteration, eschatological_alteration
-Aftermaths: population_decline, government_degradation, conflict_intrapolity
+Aftermaths: government_corporate, conflict_information, segregationism_social
+Direct consequences: conflict_interpolity, ontological_alteration, pollution_orbital

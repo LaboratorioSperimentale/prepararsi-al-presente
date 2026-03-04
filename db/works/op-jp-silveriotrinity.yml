@@ -8,4 +8,5 @@ Distributor: Ares Co., Ltd., Greenwood Co., Ltd.
 Area: g-jp
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
 Direct Consequences: eschatological_alteration, conflict_interpolity, ontological_alteration
-Aftermaths: conflict_intrapolity, use_of_force_civilians, government_degradation
+Aftermaths: population_decline, government_degradation, prosocial_into_antisocial
+Direct consequences: ontological_alteration, conflict_intrapolity, use_of_force_civilians

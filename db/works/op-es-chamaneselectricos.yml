@@ -8,4 +8,5 @@ Publisher: "Literatura Random House"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_local
 Direct Consequences: alteration_weather, depletion_biosphere, pollution_biosphere
-Aftermaths: conflict_intrapolity, familism, antisocial_into_prosocial
+Aftermaths: conflict_intrapolity, familism, government_degradation
+Direct consequences: alteration_weather, depletion_biosphere, ontological_alteration

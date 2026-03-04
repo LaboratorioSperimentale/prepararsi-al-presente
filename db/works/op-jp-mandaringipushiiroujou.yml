@@ -8,4 +8,5 @@ Publisher: "Kadokawa"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: conflict_economic, segregationism_social
-Aftermaths: government_degradation, conflict_intrapolity, prosocial_into_antisocial
+Aftermaths: prosocial_into_antisocial, familism, use_of_force_civilians
+Direct consequences: conflict_intrapolity, conflict_economic, government_degradation

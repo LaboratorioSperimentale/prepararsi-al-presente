@@ -8,4 +8,5 @@ Publisher: "Alfaguara"
 Area: g-es
 Trigger event: agency_anthropogenic,  type_war, kernel_intrasocietal, scale_planetary
 Direct Consequences: conflict_interpolity, government_corporate, alteration_human_bodies
-Aftermaths: conflict_intrapolity, use_of_force_civilians, conflict_information
+Aftermaths: use_of_force_civilians, conflict_information, segregationism_social, government_degradation
+Direct consequences: conflict_interpolity, government_corporate, authoritarianism_technological, alteration_human_bodies

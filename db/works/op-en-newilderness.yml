@@ -8,4 +8,5 @@ Publisher: "Harper"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_continental
 Direct Consequences: pollution_biosphere, depletion_biosphere, authoritarianism_health, segregationism_social
-Aftermaths: familism, use_of_force_civilians, conflict_intrapolity, prosocial_into_antisocial
+Aftermaths: segregationism_social, familism, government_degradation
+Direct consequences: alteration_weather, depletion_biosphere, pollution_biosphere, authoritarianism_health

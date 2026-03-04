@@ -8,4 +8,5 @@ Distributor: "Bandai Namco Entertainment"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_multiplanetary,
 Direct Consequences: government_corporate, conflict_interpolity, pollution_land
-Aftermaths: use_of_force_civilians, conflict_economic, government_degradation
+Aftermaths: conflict_economic, use_of_force_civilians, government_degradation, authoritarianism_technological
+Direct consequences: conflict_interpolity, government_corporate, pollution_orbital, pollution_land

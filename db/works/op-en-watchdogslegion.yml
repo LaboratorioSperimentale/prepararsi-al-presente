@@ -8,4 +8,5 @@ Distributor: "Ubisoft Entertainment SA"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: authoritarianism_technological, government_corporate, government_military, use_of_force_civilians
-Aftermaths: censorship, segregationism_social, conflict_information, conflict_intrapolity
+Aftermaths: use_of_force_civilians, conflict_intrapolity, segregationism_social
+Direct consequences: authoritarianism_technological, government_corporate, government_military, censorship, conflict_information

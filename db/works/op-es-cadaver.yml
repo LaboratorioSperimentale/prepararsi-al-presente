@@ -8,4 +8,5 @@ Publisher: "Alfaguara"
 Area: g-es
 Trigger event: agency_ambiguous, type_subversion, kernel_natural, scale_planetary
 Direct Consequences: population_decline, depletion_biosphere, authoritarianism_market
-Aftermaths: authoritarianism_social, prosocial_into_antisocial, use_of_force_civilians
+Aftermaths: government_corporate, alteration_human_bodies, use_of_force_civilians, prosocial_into_antisocial
+Direct consequences: wmd_use_bacteriological, depletion_biosphere, authoritarianism_market

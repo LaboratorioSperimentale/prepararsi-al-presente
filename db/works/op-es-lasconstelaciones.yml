@@ -8,4 +8,5 @@ Publisher: "Literatura Random House"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: authoritarianism_technological, alteration_human_bodies, conflict_information
-Aftermaths: authoritarianism_market, segregationism_social, prosocial_into_antisocial
+Aftermaths: government_corporate, conflict_information, segregationism_social
+Direct consequences: authoritarianism_technological, alteration_human_bodies, depletion_biosphere

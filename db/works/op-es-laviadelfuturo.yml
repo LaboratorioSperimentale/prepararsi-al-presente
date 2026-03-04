@@ -8,4 +8,5 @@ Publisher: "Editorial Páginas de Espuma"
 Area: g-es
 Trigger event: agency_anthropogenic, type_metaphysical, kernel_extrasocietal, scale_planetary
 Direct Consequences: conflict_intrapolity, government_degradation, population_decline
-Aftermaths: use_of_force_civilians, familism, antisocial_into_prosocial
+Aftermaths: censorship, conflict_economic, segregationism_social, use_of_force_civilians
+Direct consequences: authoritarianism_technological, government_corporate, conflict_information

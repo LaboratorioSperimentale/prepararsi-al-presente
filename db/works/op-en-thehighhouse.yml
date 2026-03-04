@@ -8,4 +8,5 @@ Publisher: "Faber"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
 Direct Consequences: alteration_weather, pollution_biosphere, population_decline
-Aftermaths: familism, government_degradation, depletion_biosphere, conflict_intrapolity
+Aftermaths: government_degradation, familism, population_decline
+Direct consequences: alteration_weather, pollution_water_bodies, depletion_biosphere

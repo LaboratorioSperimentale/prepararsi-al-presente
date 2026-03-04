@@ -9,3 +9,4 @@ Area: g-es
 Trigger event: agency_anthropogenic, type_war kernel_inconclusive, scale_planetary
 Direct Consequences: pollution_orbital, authoritarianism_technological, government_corporate
 Aftermaths: conflict_information, conflict_economic, segregationism_social
+Direct consequences: authoritarianism_technological, government_corporate, pollution_orbital

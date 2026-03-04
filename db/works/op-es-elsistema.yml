@@ -8,4 +8,5 @@ Publisher: "Interzona"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
 Direct Consequences: government_nonhuman, authoritarianism_technological, conflict_information
-Aftermaths: censorship, segregationism_social, conflict_intrapolity
+Aftermaths: segregationism_social, conflict_economic, censorship
+Direct consequences: authoritarianism_technological, government_corporate, conflict_information

@@ -8,4 +8,5 @@ Publisher: "Riverhead Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
 Direct Consequences: pollution_biosphere, alteration_human_bodies, segregationism_social, government_corporate
-Aftermaths: conflict_intrapolity, use_of_force_civilians, population_decline, authoritarianism_health
+Aftermaths: conflict_economic, authoritarianism_market, use_of_force_civilians, familism
+Direct consequences: pollution_biosphere, wmd_use_bacteriological, government_corporate, segregationism_social

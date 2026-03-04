@@ -8,4 +8,5 @@ Distributor: "Toho Animation"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intra-societal, scale_local
 Direct Consequences: authoritarianism_technological, authoritarianism_health, government_nonhuman
-Aftermaths: conflict_information, use_of_force_civilians, conflict_intrapolity
+Aftermaths: censorship, segregationism_social, conflict_intrapolity
+Direct consequences: government_nonhuman, authoritarianism_technological, conflict_information, use_of_force_civilians

@@ -8,4 +8,5 @@ Publisher: "La pollera"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_multiplanetary
 Direct Consequences: authoritarianism_social, authoritarianism_androcentrism, segregationism_sexual
-Aftermaths: use_of_force_civilians, conflict_intrapolity, prosocial_into_antisocial
+Aftermaths: segregationism_sexual, use_of_force_civilians, familism, censorship
+Direct consequences: government_confessional, authoritarianism_religion, authoritarianism_gynocentric

@@ -8,4 +8,5 @@ Publisher: "Ki-oon"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_multi-planetary
 Direct Consequences: conflict_information, conflict_interpolity, use_of_force_civilians
-Aftermaths: censorship, government_degradation, conflict_intrapolity
+Aftermaths: government_degradation, use_of_force_civilians, population_decline
+Direct consequences: ontological_alteration, alteration_human_bodies, conflict_intrapolity

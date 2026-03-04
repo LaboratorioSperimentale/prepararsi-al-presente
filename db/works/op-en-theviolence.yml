@@ -8,4 +8,5 @@ Publisher: "Del Rey"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_natural, scale_local
 Direct Consequences: wmd_use_bacteriological, alteration_human_bodies, conflict_intrapolity
-Aftermaths: use_of_force_civilians, prosocial_into_antisocial, government_degradation, segregationism_social
+Aftermaths: conflict_intrapolity, use_of_force_civilians, prosocial_into_antisocial, familism
+Direct consequences: alteration_human_bodies

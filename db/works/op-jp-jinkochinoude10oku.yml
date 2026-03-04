@@ -8,4 +8,5 @@ Distributor: Hayakawa Shobō
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: authoritarianism_technological, conflict_information
-Aftermaths: conflict_economic, censorship, prosocial_into_antisocial
+Aftermaths: government_corporate, censorship, prosocial_into_antisocial
+Direct consequences: authoritarianism_technological, conflict_information, conflict_economic

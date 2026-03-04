@@ -8,4 +8,5 @@ Distributor: "Bushun bunko"
 Area: g-jp
 Trigger event: agency_unknown, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: wmd_use_bacteriological, alteration_human_bodies
-Aftermaths: conflict_intrapolity, government_degradation, prosocial_into_antisocial
+Aftermaths: government_degradation, censorship, use_of_force_civilians
+Direct consequences: wmd_use_bacteriological, authoritarianism_health, population_decline

@@ -8,4 +8,5 @@ Publisher: "Literatura Random House"
 Area: g-es
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: authoritarianism_technological, conflict_information, authoritarianism_social
-Aftermaths: censorship, conflict_intrapolity, segregationism_social
+Aftermaths: censorship, segregationism_social, conflict_economic
+Direct consequences: authoritarianism_technological, conflict_information, government_corporate

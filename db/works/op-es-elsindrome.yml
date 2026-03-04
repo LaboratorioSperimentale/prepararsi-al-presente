@@ -8,4 +8,5 @@ Publisher: "Indipendently published"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
 Direct Consequences: conflict_information, authoritarianism_social, censorship
-Aftermaths: prosocial_into_antisocial, conflict_intrapolity, segregationism_social
+Aftermaths: government_degradation, censorship, familism
+Direct consequences: wmd_use_bacteriological, population_decline, conflict_information

@@ -8,4 +8,5 @@ Publisher: "G.P. Putnam's Sons"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
 Direct Consequences: wmd_use_bacteriological, population_decline, conflict_economic
-Aftermaths: authoritarianism_gynocentric, conflict_intrapolity, familism, segregationism_social
+Aftermaths: conflict_economic, government_degradation, authoritarianism_gynocentric, familism
+Direct consequences: wmd_use_bacteriological, population_decline

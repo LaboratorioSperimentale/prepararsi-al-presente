@@ -6,6 +6,7 @@ Creators: au-es-car-zitelmann
 Language: l-es
 Publisher: "Punto Cero"
 Area: g-es
-Trigger event:  agency_anthropogenic, type_war, kernel_intrasocietal, scale_continental
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_continental
 Direct Consequences: government_degradation, conflict_intrapolity, conflict_economic
-Aftermaths: authoritarianism_social, use_of_force_civilians, conflict_information
+Aftermaths: use_of_force_civilians, prosocial_into_antisocial, segregationism_social
+Direct consequences: government_degradation, conflict_economic, censorship, conflict_information

@@ -4,8 +4,9 @@ First edition: 2014
 Media form: serial
 Creators: au-jp-seiji-kishi
 Language: l-jp
-Distributor: “Shobō” 
+Distributor: “Shobō”
 Area: g-jp
 Trigger event: agency_ambiguous, type_metaphysical, kernel_intrasocietal, scale_planetary
 Direct Consequences: eschatological_alteration, ontological_alteration, population_decline
-Aftermaths: conflict_intrapolity, use_of_force_civilians, government_degradation
+Aftermaths: government_degradation, population_decline, prosocial_into_antisocial
+Direct consequences: eschatological_alteration, conflict_intrapolity, use_of_force_civilians

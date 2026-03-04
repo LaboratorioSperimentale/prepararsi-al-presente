@@ -8,4 +8,5 @@ Publisher: "Simon & Schuster"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: authoritarianism_social, authoritarianism_technological, use_of_force_civilians
-Aftermaths: familism, prosocial_into_antisocial, segregationism_social, censorship
+Aftermaths: use_of_force_civilians, familism, prosocial_into_antisocial
+Direct consequences: authoritarianism_reproduction, authoritarianism_gynocentric, authoritarianism_technological

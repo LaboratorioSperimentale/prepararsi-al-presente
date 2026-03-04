@@ -8,4 +8,5 @@ Publisher: "Studio 4°C"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: authoritarianism_health, authoritarianism_technological, authoritarianism_social
-Aftermaths: conflict_information, prosocial_into_antisocial, segregationism_social
+Aftermaths: government_nonhuman, censorship, prosocial_into_antisocial, use_of_force_civilians
+Direct consequences: authoritarianism_health, authoritarianism_technological, conflict_information, authoritarianism_social

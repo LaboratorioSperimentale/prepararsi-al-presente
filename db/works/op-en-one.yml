@@ -8,4 +8,5 @@ Publisher: "Orenda Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_local
 Direct Consequences: conflict_intrapolity, conflict_economic, government_degradation
-Aftermaths: population_decline, use_of_force_civilians, familism
+Aftermaths: use_of_force_civilians, segregationism_social, familism
+Direct consequences: authoritarianism_reproduction, authoritarianism_health, authoritarianism_technological

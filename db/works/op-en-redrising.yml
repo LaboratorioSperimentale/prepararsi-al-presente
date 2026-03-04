@@ -8,4 +8,5 @@ Publisher: "HarperCollins Publishers"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
 Direct Consequences: segregationism_social, authoritarianism_market, government_oligarchical, use_of_force_civilians
-Aftermaths: conflict_intrapolity, conflict_interpolity, alteration_human_bodies, prosocial_into_antisocial
+Aftermaths: conflict_intrapolity, censorship, authoritarianism_technological
+Direct consequences: segregationism_social, authoritarianism_androcentrism, authoritarianism_market, conflict_interpolity, use_of_force_civilians

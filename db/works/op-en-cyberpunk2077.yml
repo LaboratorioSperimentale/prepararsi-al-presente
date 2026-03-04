@@ -8,4 +8,5 @@ Distributor: "CD Projekt"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_continental
 Direct Consequences: government_corporate, authoritarianism_technological, conflict_economic, pollution_biosphere
-Aftermaths: alteration_human_bodies, segregationism_social, conflict_information, use_of_force_civilians, authoritarianism_market
+Aftermaths: censorship, segregationism_social, authoritarianism_market, conflict_intrapolity, use_of_force_civilians, pollution_land
+Direct consequences: government_corporate, authoritarianism_technological, conflict_economic, alteration_human_bodies

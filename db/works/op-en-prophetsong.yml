@@ -8,4 +8,5 @@ Publisher: "Oneworld"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_local
 Direct Consequences: government_military, conflict_intrapolity, use_of_force_civilians, censorship
-Aftermaths: population_decline, familism, conflict_information, government_degradation
+Aftermaths: population_decline, familism, prosocial_into_antisocial
+Direct consequences: government_military, conflict_intrapolity, use_of_force_civilians, censorship
