@@ -8,5 +8,4 @@ Distributor: "Atlus"
 Area: g-jp
 Trigger event: agency_non-anthropogenic, type_war, kernel_extrasocietal, scale_planetary
 Direct Consequences: conflict_interpolity, ontological_alteration, eschatological_alteration
-Aftermaths: population_decline, government_degradation, conflict_information
-Direct consequences: ontological_alteration, conflict_interpolity, alteration_human_bodies
+Aftermaths: population_decline, government_degradation, conflict_intrapolity

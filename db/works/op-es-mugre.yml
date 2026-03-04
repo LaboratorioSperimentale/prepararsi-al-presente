@@ -8,5 +8,4 @@ Publisher: "Penguin Randomhouse"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_natural, scale_local
 Direct Consequences: wmd_use_bacteriological, pollution_biosphere, population_decline
-Aftermaths: government_degradation, conflict_intrapolity, familism, prosocial_into_antisocial
-Direct consequences: wmd_use_bacteriological, pollution_biosphere, population_decline
+Aftermaths: government_degradation, conflict_intrapolity, familism

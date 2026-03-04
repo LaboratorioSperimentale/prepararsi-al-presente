@@ -8,5 +8,4 @@ Publisher: "Sandstone Press"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_continental
 Direct Consequences: wmd_use_bacteriological, population_decline, government_degradation
-Aftermaths: government_degradation, conflict_intrapolity, familism
-Direct consequences: wmd_use_bacteriological, population_decline
+Aftermaths: conflict_intrapolity, familism, use_of_force_civilians

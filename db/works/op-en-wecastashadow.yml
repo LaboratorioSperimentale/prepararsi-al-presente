@@ -1,5 +1,5 @@
 id: op-en-wecastashadow
-First known title: "We Cast a Shadow"
+First known title: "We cast a Shadow"
 Media form: prose
 First edition: 2019
 Creators: au-en-mauricecarlos-ruffin
@@ -8,5 +8,4 @@ Publisher: "One World"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: authoritarianism_racism, authoritarianism_cultural, authoritarianism_technological, conflict_information
-Aftermaths: familism, segregationism_social, prosocial_into_antisocial
-Direct consequences: authoritarianism_racism, authoritarianism_technological, conflict_information
+Aftermaths: familism, prosocial_into_antisocial, segregationism_social, use_of_force_civilians

@@ -8,5 +8,4 @@ Publisher: "Editorial 3600"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_local
 Direct Consequences: conflict_information, censorship, conflict_economic
-Aftermaths: government_degradation, prosocial_into_antisocial
-Direct consequences: conflict_information, censorship, authoritarianism_language
+Aftermaths: authoritarianism_market, conflict_intrapolity, prosocial_into_antisocial

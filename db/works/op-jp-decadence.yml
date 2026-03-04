@@ -1,5 +1,5 @@
 id: op-jp-decadence
-First known title: "DECA-DENCE"
+First known title: “DECA-DENCE”
 First edition: 2020
 Media form: serial
 Creators: au-jp-yuzuru-tachikawa
@@ -8,5 +8,4 @@ Distributor: Spike Chunsoft
 Area: g-jp
 Trigger event: agency_non-anthropogenic, type_war, kernel_extrasocietal, scale_planetary
 Direct Consequences: alteration_fauna, population_decline, government_nonhuman
-Aftermaths: segregationism_social, conflict_information, government_degradation
-Direct consequences: government_nonhuman, authoritarianism_technological, alteration_human_bodies, use_of_force_civilians
+Aftermaths: authoritarianism_technological, segregationism_social, conflict_intrapolity

@@ -8,5 +8,4 @@ Distributor: "Universal Pictures"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_extrasocietal, scale_local
 Direct Consequences: alteration_fauna, ontological_alteration
-Aftermaths: use_of_force_civilians
-Direct consequences: alteration_fauna
+Aftermaths: conflict_information, use_of_force_civilians

@@ -8,5 +8,4 @@ Publisher: "Netflix"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_inconclusive, scale_planetary
 Direct Consequences: pollution_biosphere, population_decline
-Aftermaths: population_decline, government_degradation, familism
-Direct consequences: pollution_biosphere, pollution_air_bodies
+Aftermaths: government_degradation, conflict_intrapolity, familism

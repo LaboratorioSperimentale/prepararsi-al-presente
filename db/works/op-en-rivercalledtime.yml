@@ -1,5 +1,5 @@
 id: op-en-rivercalledtime
-First known title: "A River Called Time"
+First known title: "A River called Time"
 First edition: 2021
 Media form: prose
 Creators: au-en-curttia-newland
@@ -8,5 +8,4 @@ Publisher: "Canongate"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary
 Direct Consequences: conflict_information, ontological_alteration, authoritarianism_cultural
-Aftermaths: conflict_information, government_degradation, segregationism_social
-Direct consequences: ontological_alteration, authoritarianism_technological, censorship
+Aftermaths: censorship, conflict_intrapolity, segregationism_social

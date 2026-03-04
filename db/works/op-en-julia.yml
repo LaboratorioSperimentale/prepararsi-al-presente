@@ -8,5 +8,4 @@ Publisher: "Mariner Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_inconclusive, scale_planetary
 Direct Consequences: censorship, conflict_information, authoritarianism_language, use_of_force_civilians
-Aftermaths: use_of_force_civilians, prosocial_into_antisocial, familism
-Direct consequences: government_oligarchical, censorship, conflict_information, authoritarianism_language, authoritarianism_reproduction, authoritarianism_social
+Aftermaths: prosocial_into_antisocial, conflict_intrapolity, authoritarianism_social, segregationism_social

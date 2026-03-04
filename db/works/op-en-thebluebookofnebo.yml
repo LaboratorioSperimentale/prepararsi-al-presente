@@ -8,5 +8,4 @@ Publisher: "Deep Vellum Publishing"
 Area: g-en
 Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_planetary
 Direct Consequences: wmd_use_nuclear, pollution_radiation, population_decline
-Aftermaths: government_degradation, familism, depletion_fossil_fuels
-Direct consequences: wmd_use_nuclear, pollution_radiation, pollution_land, population_decline
+Aftermaths: government_degradation, familism, conflict_intrapolity, depletion_fossil_fuels

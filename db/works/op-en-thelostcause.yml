@@ -8,5 +8,4 @@ Publisher: "Tor Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
 Direct Consequences: alteration_weather, conflict_intrapolity, conflict_information
-Aftermaths: government_degradation, conflict_economic, use_of_force_civilians
-Direct consequences: alteration_weather, conflict_intrapolity, conflict_information
+Aftermaths: government_degradation, use_of_force_civilians, antisocial_into_prosocial, depletion_biosphere

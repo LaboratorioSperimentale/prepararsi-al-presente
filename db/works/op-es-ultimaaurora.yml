@@ -8,5 +8,4 @@ Publisher: "Editorial tres inviernos"
 Area: g-es
 Trigger event: agency_anthropogenic, event_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: conflict_intrapolity, population_decline, use_of_force_civilians
-Aftermaths: use_of_force_civilians, government_degradation, familism
-Direct consequences: conflict_intrapolity, alteration_human_bodies, population_decline
+Aftermaths: government_degradation, familism, prosocial_into_antisocial

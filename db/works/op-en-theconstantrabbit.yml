@@ -8,5 +8,4 @@ Publisher: "Hodder & Stoughton"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
 Direct Consequences: authoritarianism_racism, segregationism_social, authoritarianism_social
-Aftermaths: use_of_force_civilians, conflict_information, familism
-Direct consequences: authoritarianism_racism, authoritarianism_cultural, censorship, segregationism_social
+Aftermaths: censorship, use_of_force_civilians, conflict_information, prosocial_into_antisocial

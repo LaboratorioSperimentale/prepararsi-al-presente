@@ -8,5 +8,4 @@ Distributor: "Crunchyroll"
 Area: g-jp
 Trigger event: agency_anthropogenic, event_war, kernel_intrasocietal, scale_local
 Direct Consequences: government_corporate, authoritarianism_technological, conflict_intrapolity
-Aftermaths: censorship, conflict_intrapolity, segregationism_social
-Direct consequences: government_corporate, authoritarianism_technological, conflict_information, use_of_force_civilians
+Aftermaths: censorship, use_of_force_civilians, government_degradation

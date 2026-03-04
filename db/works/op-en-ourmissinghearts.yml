@@ -8,5 +8,4 @@ Publisher: "Penguin Press"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: censorship, authoritarianism_racism, authoritarianism_cultural, conflict_information
-Aftermaths: use_of_force_civilians, segregationism_social, familism
-Direct consequences: authoritarianism_cultural, authoritarianism_racism, censorship, conflict_information
+Aftermaths: use_of_force_civilians, segregationism_social, familism, prosocial_into_antisocial

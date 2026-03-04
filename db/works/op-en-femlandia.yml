@@ -8,5 +8,4 @@ Publisher: "Berkley Books"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: population_decline, conflict_economic, segregationism_sexual, authoritarianism_gynocentric
-Aftermaths: authoritarianism_reproduction, segregationism_sexual, use_of_force_civilians, familism
-Direct consequences: conflict_economic, government_degradation, authoritarianism_gynocentric
+Aftermaths: authoritarianism_reproduction, use_of_force_civilians, prosocial_into_antisocial, familism

@@ -8,5 +8,4 @@ Distributor: "Activision Publishing, Inc."
 Area: l-en
 Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_planetary
 Direct Consequences: conflict_interpolity, wmd_use_nuclear, use_of_force_civilians
-Aftermaths: government_military, censorship, conflict_intrapolity, depletion_fossil_fuels
-Direct consequences: conflict_interpolity, use_of_force_civilians, wmd_use_nuclear
+Aftermaths: government_military, government_degradation, conflict_information, population_decline

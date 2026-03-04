@@ -8,5 +8,4 @@ Publisher: "Hachette"
 Area: en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: conflict_economic, government_degradation
-Aftermaths: government_degradation, conflict_intrapolity, use_of_force_civilians, familism
-Direct consequences: alteration_weather, depletion_water, depletion_biosphere, conflict_economic
+Aftermaths: conflict_intrapolity, segregationism_social, use_of_force_civilians, depletion_biosphere

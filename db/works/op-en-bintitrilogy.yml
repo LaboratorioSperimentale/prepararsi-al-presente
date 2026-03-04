@@ -8,5 +8,4 @@ Publisher: "DAW"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_extrasocietal, scale_multiplanetary
 Direct Consequences: conflict_interpolity, ontological_alteration
-Aftermaths: conflict_information, segregationism_social, authoritarianism_cultural
-Direct consequences: conflict_interpolity, alteration_human_bodies
+Aftermaths: alteration_human_bodies, conflict_intrapolity, prosocial_into_antisocial, antisocial_into_prosocial

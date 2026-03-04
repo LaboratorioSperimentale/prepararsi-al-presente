@@ -8,5 +8,4 @@ Publisher: "William Heinemann ltd"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_inconclusive, scale_planetary
 Direct Consequences: authoritarianism_health, authoritarianism_technological, censorship
-Aftermaths: authoritarianism_health, conflict_information, use_of_force_civilians
-Direct consequences: authoritarianism_technological, censorship, government_corporate
+Aftermaths: conflict_information, prosocial_into_antisocial, use_of_force_civilians, segregationism_social

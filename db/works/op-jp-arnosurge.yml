@@ -8,5 +8,4 @@ Distributor: "KOEI TECMO"
 Area: g-jp
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: ontological_alteration, conflict_interpolity, government_oligarchical
-Aftermaths: government_nonhuman, conflict_information, segregationism_social
-Direct consequences: ontological_alteration, conflict_interpolity, alteration_human_bodies
+Aftermaths: alteration_human_bodies, conflict_information, use_of_force_civilians

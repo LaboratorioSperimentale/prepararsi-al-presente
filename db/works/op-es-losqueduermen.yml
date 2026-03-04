@@ -8,5 +8,4 @@ Publisher: "Alfaguara"
 Area: g-es
 Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_local
 Direct Consequences: wmd_use_bacteriological, population_decline, conflict_intrapolity
-Aftermaths: conflict_intrapolity, government_degradation, use_of_force_civilians
-Direct consequences: wmd_use_bacteriological, alteration_human_bodies, population_decline
+Aftermaths: government_degradation, use_of_force_civilians, familism

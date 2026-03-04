@@ -8,5 +8,4 @@ Publisher: "Ediciones Vestigio"
 Area: g-es
 Trigger event: agency_ambiguous, type_subversion, kernel_intrasocietal, scale_local
 Direct Consequences: ontological_alteration, alteration_human_bodies, conflict_information
-Aftermaths: conflict_information, segregationism_social, familism
-Direct consequences: authoritarianism_technological, alteration_human_bodies, ontological_alteration
+Aftermaths: prosocial_into_antisocial, segregationism_social, conflict_intrapolity

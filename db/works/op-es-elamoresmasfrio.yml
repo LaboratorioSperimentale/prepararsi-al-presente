@@ -8,5 +8,4 @@ Publisher: "Candaya"
 Area: g-es
 Trigger event: agency_ambiguous, type_subversion, kernel_extrasocietal, scale_local
 Direct Consequences: ontological_alteration, authoritarianism_social
-Aftermaths: conflict_intrapolity, prosocial_into_antisocial
-Direct consequences: ontological_alteration, alteration_human_bodies
+Aftermaths: conflict_intrapolity, prosocial_into_antisocial, conflict_information

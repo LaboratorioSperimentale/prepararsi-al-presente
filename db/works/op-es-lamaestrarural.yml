@@ -8,5 +8,4 @@ Publisher: "Literatura random house"
 Area: g-es
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_extrasocietal, scale_planetary
 Direct Consequences: conflict_intrapolity, authoritarianism_social, use_of_force_civilians
-Aftermaths: familism, prosocial_into_antisocial
-Direct consequences: conflict_intrapolity, use_of_force_civilians, government_degradation
+Aftermaths: familism, government_degradation, prosocial_into_antisocial

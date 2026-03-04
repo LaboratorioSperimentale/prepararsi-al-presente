@@ -8,5 +8,4 @@ Publisher: "Granta"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_metaphysical, kernel_nonspecified, scale_planetary
 Direct Consequences: population_decline, conflict_economic, conflict_intrapolity
-Aftermaths: conflict_intrapolity, authoritarianism_gynocentric, familism, government_degradation
-Direct consequences: population_decline
+Aftermaths: authoritarianism_gynocentric, segregationism_social, familism, prosocial_into_antisocial

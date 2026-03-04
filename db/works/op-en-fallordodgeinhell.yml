@@ -8,5 +8,4 @@ Publisher: "HarperCollins Publishers"
 Area: g-en
 Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary
 Direct Consequences: authoritarianism_technological, government_corporate, ontological_alteration
-Aftermaths: conflict_economic, segregationism_social, government_nonhuman
-Direct consequences: authoritarianism_technological, government_corporate, alteration_human_bodies
+Aftermaths: conflict_information, alteration_human_bodies, segregationism_social, authoritarianism_market

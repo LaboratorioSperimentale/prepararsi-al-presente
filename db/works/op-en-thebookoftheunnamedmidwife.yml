@@ -8,5 +8,4 @@ Publisher: "Sybaritic Press"
 Area: g-en
 Trigger event: agency_nonanthropogenic, type_subversion, kernel_natural, scale_planetary
 Direct Consequences: wmd_use_bacteriological, population_decline, authoritarianism_reproduction
-Aftermaths: use_of_force_civilians, segregationism_sexual, familism, prosocial_into_antisocial
-Direct consequences: wmd_use_bacteriological, population_decline, authoritarianism_gynocentric, conflict_intrapolity
+Aftermaths: use_of_force_civilians, segregationism_sexual, government_degradation, prosocial_into_antisocial

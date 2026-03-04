@@ -8,5 +8,4 @@ Publisher: "Penguin Randomhouse"
 Area: g-es
 Trigger event: agency_ambiguous, type_war, kernel_intrasocietal, scale_planetary
 Direct Consequences: conflict_intrapolity, government_degradation, authoritarianism_social
-Aftermaths: familism, prosocial_into_antisocial, population_decline
-Direct consequences: conflict_intrapolity, use_of_force_civilians, government_degradation
+Aftermaths: use_of_force_civilians, familism, prosocial_into_antisocial

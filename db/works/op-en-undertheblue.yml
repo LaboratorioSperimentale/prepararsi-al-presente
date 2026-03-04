@@ -1,5 +1,5 @@
 id: op-en-undertheblue
-First known title: "Under the Blue"
+First known title: "Under The Blue"
 First edition: 2023
 Media form: prose
 Creators: au-en-oana-aristide
@@ -8,5 +8,4 @@ Publisher: "Serpent's Tail"
 Area: g-en
 Trigger event: agency_anthropogenic, type_environmental, kernel_natural, scale_planetary
 Direct Consequences: alteration_weather, pollution_biosphere, depletion_biosphere
-Aftermaths: government_degradation, population_decline, familism
-Direct consequences: alteration_weather, pollution_water_bodies, depletion_biosphere
+Aftermaths: population_decline, government_degradation, conflict_intrapolity
