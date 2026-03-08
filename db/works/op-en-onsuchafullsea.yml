@@ -1,22 +1,9 @@
 id: op-en-onsuchafullsea
-
-First known title: On Such a Full Sea
-
+First known title: "On Such a Full Sea"
 First edition: 2014
-
-Type: novel
-
-Creators:
-  - au-en-changrae-lee
-
-Language:
-  - en
-Publisher: Riverhead Books
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: environmental
-  kernel: intra-societal
-  scale: planetary
+Media form: prose
+Creators: au-en-changrae-lee
+Language: l-en
+Publisher: "Riverhead Books"
+Area: g-en
+Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary

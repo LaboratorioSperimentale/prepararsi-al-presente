@@ -1,22 +1,9 @@
 id: op-en-theanimalsinthatcountry
-
-First known title: The Animals in That Country
-
+First known title: "The Animals in That Country"
 First edition: 2020
-
-Type: novel
-
-Creators:
-  - au-en-laurajean-mckay
-
-Language:
-  - en
-Publisher: Scribe
-
-Area: en
-
-Trigger event:
-  agency:  non-anthropogenic
-  event: subversion
-  kernel: extra-societal
-  scale: planetary
+Media form: prose
+Creators: au-en-laurajean-mckay
+Language: l-en
+Publisher: "Scribe"
+Area: g-en
+Trigger event: agency_nonanthropogenic, type_subversion, kernel_extrasocietal, scale_planetary

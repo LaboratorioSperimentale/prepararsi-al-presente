@@ -1,0 +1,25 @@
+id: op-en-deusexmankinddivided
+
+First known title: "Deus Ex: Mankind Divided"
+
+Type: videogame
+
+First edition: 2016
+
+Creators:
+  - au-en-eidosmontreal-eidosinteractivecorporation
+
+Language:
+  - en
+
+Distributor: Square Enix Europe
+
+Area: en
+
+Trigger event:
+  agency: anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: planetary
+direct_consequences: government_oligarchical, authoritarianism_capitalist, authoritarianism_technological 
+aftermaths: censorship, authoritarianism_social, antisocial_into_prosocial

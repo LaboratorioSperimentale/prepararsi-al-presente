@@ -1,19 +1,9 @@
 id: op-jp-natsunoowari
-First known title: Natsu no Owari
-Type: videogame
+First known title: "Natsu no Owari"
 First edition: 2022
-Creators:
-  - au-jp-cube-yuugengaishacuffs
-
-Language:
-  - jp
-
-Distributor: Yūgengaisha CUFFS
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: environmental
-  kernel: inconclusive
-  scale: planetary
+Media form: videogame
+Creators: au-jp-cube-yuugengaishacuffs
+Language: l-jp
+Distributor: "Yūgengaisha CUFFS"
+Area: g-jp
+Trigger event: agency_anthropogenic, type_environmental, kernel_inconclusive, scale_planetary

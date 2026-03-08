@@ -1,22 +1,9 @@
 id: op-en-thelastofus
-
-First known title: The Last of Us
-
+First known title: "The Last of Us"
 First edition: 2013
-
-Type: videogame
-
-Creators:
-  - au-en-naughtydog-naughtydogllc
-
-Language:
-  - en
-
-Distributor: Sony Interactive Entertainment
-Area: en
-
-Trigger event:
-  agency: non-anthropogenic
-  event: environmental
-  kernel: natural
-  scale: planetary
+Media form: videogame
+Creators: au-en-naughtydog-naughtydogllc
+Language: l-en
+Distributor: "Sony Interactive Entertainment"
+Area: g-en
+Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary

@@ -1,25 +1,9 @@
 id: op-en-dishonored
-
 First known title: "Dishonored"
-
-Type: videogame
-
 First edition: 2012
-
-Creators:
-  - au-en-arkanestudios-arkanestudiossasu
-
-Language:
-  - en
-
+Media form: videogame
+Creators: au-en-arkanestudios-arkanestudiossasu
+Language: l-en
 Distributor: "Bethesda Softworks LLC"
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: metaphysical
-  kernel: intra-societal
-  scale: continental
-direct_consequences: government_oligarchical, authoritarianism_capitalist, authoritarianism_technological, censorship
-aftermaths: authoritarianism_social, authoritarianism_religion 
+Area: g-en
+Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_continental

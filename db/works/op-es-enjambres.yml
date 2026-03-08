@@ -1,33 +1,9 @@
 id: op-es-enjambres
-
-Type: novel
-
-First known title: enjambres
-
+First known title: "enjambres"
 First edition: 2020
-
-Alternative titles:
-
-Creators:
-  - au-es-edg-borges
-
-Language:
-  - es
-
-Publisher: Altamarea
-
-Area: es
-
-Trigger event:
-  agency: ambiguous
-  event: environmental
-  kernel: inconclusive
-  scale: local
-
-
-
-Synopsis: |
-  A swarm of flying insects descends upon an undefined city in an abstract present, like an ominous sign. Black, vibrating clouds stain the metallic sky thickened by an oppressive heatwave, during which violence erupts and suicides multiply exponentially.
-  To escape the chaos of street attacks, moral decay, collective delirium, and the mass fear consuming civilization—unleashing humanity's darkest instincts—five young people retreat to a secluded house deep in the forest. There, they are safe from the prying eyes of corrupt authorities and the hellish abjection engulfing a society on the brink of collapse.
-  In this state of voluntary isolation, the five friends must confront their solitude, inner demons, fears, aspirations, and memories in a dreamlike, hazy atmosphere suspended between the realms of life and death.
-
+Media form: prose
+Creators: au-es-edg-borges
+Language: l-es
+Publisher: "Altamarea"
+Area: g-es
+Trigger event: agency_ambiguous, type_environmental, kernel_inconclusive, scale_local

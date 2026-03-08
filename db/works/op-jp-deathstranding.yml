@@ -1,26 +1,9 @@
 id: op-jp-deathstranding
-
-First known title: Death Stranding
-
-Type: videogame
-
+First known title: "Death Stranding"
 First edition: 2019
-
-Creators:
-  - au-jp-kojimaproduction-kabushikigaishakojimaproduction
-
-Language:
-  - jp
-  - en
-
-Distributor: Sony Interactive Entertainment
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: metaphysical
-  kernel: intra-societal
-  scale: planetary
-direct_consequences: authoritarianism_social, authoritarianism_technological, prosocial_into_antisocial 
-aftermaths: 
+Media form: videogame
+Creators: au-jp-kojimaproduction-kabushikigaishakojimaproduction
+Language: l-jp, l-en
+Distributor: "Sony Interactive Entertainment"
+Area: g-jp
+Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_planetary

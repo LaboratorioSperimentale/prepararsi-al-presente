@@ -1,31 +1,9 @@
 id: op-es-fragmentosde
-
-Type: novel
-
-First known title: Fragmentos de la tierra rota
-
+First known title: "Fragmentos de la tierra rota"
 First edition: 2017
-
-Alternative titles:
-
-Creators:
-  - au-es-ela-vilarmadruga
-
-Language:
-  - es
-
-Publisher: Sportula
-
-Area: es
-
-Trigger event:
-  agency: ambiguous
-  event: subversion
-  kernel: Inconclusive
-  scale: Planetary
-
-
-
-Synopsis: |
-  Straddling post-apocalyptic science fiction, fantasy, and steampunk, the novel narrates a possible future for humanity with a deeply personal and profoundly poetic voice. (Adapted,back cover)
-
+Media form: prose
+Creators: au-es-ela-vilarmadruga
+Language: l-es
+Publisher: "Sportula"
+Area: g-es
+Trigger event: agency_ambiguous, type_subversion, kernel_inconclusive, scale_planetary

@@ -1,25 +1,9 @@
 id: op-en-civilwar
-
-First known title: Civil War
-
-Type: serial
-
+First known title: "Civil War"
+Media form: feature-length
 First edition: 2024
-
-Creators:
-  - au-en-alex-garland
-
-Language:
-  - en
-
-Distributor: A24 Films LLC
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: intra-societal
-  scale: local
-direct_consequences: authoritarianism_cultural, government_collapse 
-aftermaths: authoritarianism_social, censorship
+Creators: au-en-alex-garland
+Language: l-en
+Distributor: "A24 Films LLC"
+Area: g-en
+Trigger event: agency_anthropogenic,  type_war,  kernel_intrasocietal, scale_local

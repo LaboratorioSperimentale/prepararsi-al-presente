@@ -1,22 +1,9 @@
 id: op-en-gliff
-
-First known title: Gliff
-
+First known title: "Gliff"
 First edition: 2024
-
-Type: novel
-
-Creators:
-  - au-en-ali-smith
-
-Language:
-  - en
-Publisher: Hamish Hamilton
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: environmental
-  kernel: intra-societal
-  scale: planetary
+Media form: prose
+Creators: au-en-ali-smith
+Language: l-en
+Publisher: "Hamish Hamilton"
+Area: g-en
+Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary

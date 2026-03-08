@@ -1,23 +1,9 @@
-id: op-jp-gojirakaijuwakusei
-
-First known title: "Gojira Hoshi wo Kū mono"
-
-Type: feature-length
-
+id: op-jp-gojirahoshiwokuumono
+First known title: "Gojira hoshi wo kū mono"
 First edition: 2017
-
-Creators:
-  - au-jp-kobun-shizuno
-
-Language:
-  - jp
-
-Distributor: Toho Animation, Netflix
-
-Area: jp
-
-Trigger event:
-  agency:  anthropogenic
-  event: war
-  kernel:  intra-societal
-  scale: planetary
+Media form: feature-length
+Creators: au-jp-kobun-shizuno
+Language: l-jp
+Distributor: "Toho Animation"
+Area: g-jp
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary

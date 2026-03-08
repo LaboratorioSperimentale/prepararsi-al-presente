@@ -1,24 +1,9 @@
 id: op-en-psychroma
-
-First known title: Psychroma
-
-Type: videogame
-
+First known title: "Psychroma"
+Media form: videogame
 First edition: 2024
-
-Creators:
-  - au-en-rocketadriftgames-rocketadriftgames
-
-Language:
-  - en
-
-Distributor: Voids Within Studio Inc.
-
-Area: en
-
-Trigger event:
-  agency: unknown
-  event: subversion
-  kernel: non-specified
-  scale: non-specified
-
+Creators: au-en-voidswithin-voidswithininc
+Language: l-en
+Distributor: "Voids Within Studio Inc."
+Area: g-en
+Trigger event: agency_unknown, type_subversion, kernel_nonspecified, scale_nonspecified

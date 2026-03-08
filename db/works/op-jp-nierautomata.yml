@@ -1,17 +1,9 @@
 id: op-jp-nierautomata
 First known title: "Nier: Automata"
-Type: videogame
 First edition: 2017
-Creators:
-  - au-jp-platinumgames-purachinageemuzukabushikigaisha
-Language:
-  - jp
-  - en
-Distributor: Square Enix
-
-Area: jp
-Trigger event:
-  agency: anthropogenic
-  event: metaphysical
-  kernel: intra-societal
-  scale: multi-planetary
+Media form: videogame
+Creators: au-jp-platinumgames-purachinageemuzukabushikigaisha
+Language: l-jp
+Distributor: "Square Enix"
+Area: g-jp
+Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_multi-planetary

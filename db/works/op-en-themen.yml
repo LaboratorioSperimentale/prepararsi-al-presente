@@ -1,22 +1,9 @@
 id: op-en-themen
-
-First known title: The Men
-
+First known title: "The Men"
 First edition: 2022
-
-Type: novel
-
-Creators:
-  - au-en-sandra-newman
-
-Language:
-  - en
-Publisher: Granta
-
-Area: en
-
-Trigger event:
-  agency:  non-anthropogenic
-  event: metaphysical
-  kernel: non-specified
-  scale: planetary
+Media form: prose
+Creators: au-en-sandra-newman
+Language: l-en
+Publisher: "Granta"
+Area: g-en
+Trigger event: agency_nonanthropogenic, type_metaphysical, kernel_nonspecified, scale_planetary

@@ -1,22 +1,9 @@
 id: op-en-onlyeveryours
-
-First known title: Only Ever Yours
-
+First known title: "Only Ever Yours"
 First edition: 2014
-
-Type: novel
-
-Creators:
-  - au-en-louise-oneill
-
-Language:
-  - en
-Publisher: Quercus
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: planetary
+Media form: prose
+Creators: au-en-louise-oneill
+Language: l-en
+Publisher: "Quercus"
+Area: g-en
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary

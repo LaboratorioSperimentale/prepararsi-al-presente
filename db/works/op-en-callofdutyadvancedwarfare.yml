@@ -1,24 +1,9 @@
 id: op-en-callofdutyadvancedwarfare
-
 First known title: "Call of Duty: Advanced Warfare"
-
-Type: videogame
-
+Media form: videogame
 First edition: 2014
-
-Creators:
-  - au-en-sledgehammergames-sledgehammergamesinc
-
-Language:
-  - en
-
+Creators: au-en-sledgehammergames-sledgehammergamesinc
+Language: l-en
 Distributor: "Activision Publishing, Inc."
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: extra-societal
-  scale: planetary
-
+Area: g-en
+Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_planetary

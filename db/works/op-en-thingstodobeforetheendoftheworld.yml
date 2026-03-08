@@ -1,22 +1,9 @@
 id: op-en-thingstodobeforetheendoftheworld
-
-First known title: Things to Do Before the End of the World
-
+First known title: "Things to Do Before the End of the World"
 First edition: 2021
-
-Type: novel
-
-Creators:
-  - au-en-emily-barr
-
-Language:
-  - en
-Publisher: Penguin
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: environmental
-  kernel: intra-societal
-  scale: planetary
+Media form: prose
+Creators: au-en-emily-barr
+Language: l-en
+Publisher: "Penguin"
+Area: g-en
+Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary

@@ -1,25 +1,9 @@
 id: op-jp-imenta
-First known title: Imentā
-
-Type: novel
-
+First known title: "Imentā"
 First edition: 2019
-
-Creators:
-  - au-jp-mot-koide
-
-Language:
-  - jp
-
-Publisher: Kōdansha
-
-Area: jp
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
-
-Synopsis: |
-  In the near future, there are devices called i-mentors, which use a sophisticated artificial intelligence capable of verifying the DNA of the subjects who use them, filtering and personalizing the necessary information. This technology decides the fate of human beings, debasing their dignity.
+Media form: prose
+Creators: au-jp-motoki-koide
+Language: l-jp
+Publisher: "Kōdansha"
+Area: g-jp
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal,  scale_local

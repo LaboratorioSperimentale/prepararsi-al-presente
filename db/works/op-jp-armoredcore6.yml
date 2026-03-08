@@ -1,25 +1,9 @@
 id: op-jp-armoredcore6
-
 First known title: "ARMORED CORE IV FIRES OF RUBICON"
-
-Type: videogame
-
 First edition: 2023
-
-Creators:
-  - au-jp-fromsoftware-kabushikigaishafuromusofutowea
-
-Language:
-  - jp
-
-Distributor: Bandai Namco Entertainment
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: intra-societal
-  scale: multi-planetary
-direct_consequences: authoritarianism_technological; authoritarianism_social 
-aftermaths: censorship 
+Media form: videogame
+Creators: au-jp-fromsoftware-kabushikigaishafuromusofutowea
+Language: l-jp
+Distributor: "Bandai Namco Entertainment"
+Area: g-jp
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_multiplanetary,

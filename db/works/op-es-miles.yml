@@ -1,17 +1,9 @@
 id: op-es-miles
-
-Type: novel 
-
-First known title: Miles de ojos
-
+First known title: "Miles de ojos"
 First edition: 2021
-
-Creators:
-  - au-es-max-barrientos
-
-Language:
-  - es
-
-Publisher: El cuervo editorial
-
-Area: es
+Media form: prose
+Creators: au-es-max-barrientos
+Language: l-es
+Publisher: "El cuervo editorial"
+Area: g-es
+Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_local

@@ -1,24 +1,9 @@
 id: op-en-hardcoded
-
-First known title: Hardcoded
-
-Type: videogame
-
+First known title: "Hardcoded"
+Media form: videogame
 First edition: 2024
-
-Creators:
-  - au-en-ghosthuggames-ghosthuggames
-
-Language:
-  - en
-
-Distributor: CD Projekt
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: inconclusive
-  scale: planetary
-
+Creators: au-en-ghosthuggames-ghosthuggames
+Language: l-en
+Distributor: "CD Projekt"
+Area: g-en
+Trigger event: agency_anthropogenic, type_subversion, kernel_inconclusive, scale_planetary

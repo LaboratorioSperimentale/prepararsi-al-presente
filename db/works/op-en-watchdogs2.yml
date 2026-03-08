@@ -1,25 +1,9 @@
 id: op-en-watchdogs2
-
 First known title: "Watch Dogs 2"
-
-Type: videogame
-
+Media form: videogame
 First edition: 2016
-
-Creators:
-  - id: au-en-ubisoftmontreal-ubisoftdivertissementsinc
-
-Language:
-  - en
-
+Creators: au-en-ubisoftmontreal-ubisoftdivertissementsinc
+Language: l-en
 Distributor: "Ubisoft Entertainment SA"
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
-direct_consequences: authoritarianism_capitalist, authoritarianism_technological 
-aftermaths: 
+Area: g-en
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local

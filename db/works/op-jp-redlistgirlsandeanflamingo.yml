@@ -1,23 +1,9 @@
 id: op-jp-redlistgirlsandeanflamingo
-
 First known title: "Red List Girls. -Andean Flamingo-"
-
-Type: videogame
-
 First edition: 2022
-
-Creators:
-  - au-jp-7thmint-7thmint
-
-Language:
-  - jp
-
+Media form: videogame
+Creators: au-jp-7thmint-7thmint
+Language: l-jp
 Distributor: "Double Challenge, inc."
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: intra-societal
-  scale: planetary
+Area: g-jp
+Trigger event: agency_anthropogenic, type_war, kernel_intrasocietal, scale_planetary

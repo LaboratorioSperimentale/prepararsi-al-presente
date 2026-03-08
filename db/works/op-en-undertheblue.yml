@@ -1,21 +1,9 @@
 id: op-en-undertheblue
-
-First known title: Oana Aristide
-
+First known title: "Under The Blue"
 First edition: 2023
-
-Type: novel
-Creators:
-  - au-en-oana-aristide
-
-Language:
-  - en
-Publisher: Serpent's Tail
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: environmental
-  kernel: natural
-  scale: planetary
+Media form: prose
+Creators: au-en-oana-aristide
+Language: l-en
+Publisher: "Serpent's Tail"
+Area: g-en
+Trigger event: agency_anthropogenic, type_environmental, kernel_natural, scale_planetary

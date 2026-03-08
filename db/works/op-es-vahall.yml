@@ -1,25 +1,9 @@
 id: op-es-vahall
-
 First known title: "VA-11 Hall-A: Cyberpunk Bartender Action"
-
-Type: videogame
-
 First edition: 2016
-
-Creators:
-  - au-es-sukeban-sukeban
-
-Language:
-  - en
-
-Distributor: Ysbryd Games
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: inconclusive
-  scale: planetary
-direct_consequences: authoritarianism_technological, authoritarianism_capitalist, authoritarianism_social, authoritarianism_health
-Aftermaths: 
+Media form: videogame
+Creators: au-es-sukeban-sukeban
+Language: l-en
+Distributor: "Ysbryd Games"
+Area: g-es
+Trigger event: agency_anthropogenic, type_war, kernel_inconclusive, scale_planetary

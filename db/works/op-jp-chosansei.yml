@@ -1,24 +1,9 @@
 id: op-jp-chosansei
-
-First known title: chōsansei
-
+First known title: "Chōsansei"
 First edition: 2018
-
-Creators: Tanaka Chōko
-
-Type: Novel
-
-Language:
-  - jp
-
-Distributor: Shinchōsha
-
-Area: jp
-
-Trigger event:
-  agency: non-anthropogenic
-  event: subversion
-  kernel:  intra-societal
-  scale: local
-Synopsis: |
-   In 2092, most young women in Japan died as a result of the spread of the smida flu, which originated in bats. In order to halt the declining birth rate, a ‘conscription system’ was adopted by referendum, in which adult males were required to undergo a temporary sex change to encourage pregnancy and childbirth. What is society as seen from the perspective of five men (and women) who are subjected to a ‘conscription system’? (Gomibon nante ai)
+Media form: prose
+Creators: au-jp-choko-tanaka
+Language: l-jp
+Distributor: "Shinchōsha"
+Area: g-jp
+Trigger event: agency_non-anthropogenic, type_subversion, kernel_intrasocietal, scale_local

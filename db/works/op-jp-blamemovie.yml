@@ -1,24 +1,9 @@
 id: op-jp-blamemovie
-
-first_known_title: “Buramu!”
-
-Type: Feature-length 
-
+First known title: “Buramu!”
 First edition: 2017
-
-Creators:
-  - au-jp-hiroyuki-seshita
-  - au-jp-tsutomu-nihei 
-
-Language:
-  - jp
-
-Distributor: “Shobō” 
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: environmental
-  kernel: intra-societal
-  scale: multi-planetary
+Media form: feature-length 
+Creators: au-jp-hiroyuki-seshita, au-jp-tsutomu-nihei 
+Language: l-jp
+Distributor: “Fujimi Shobō” 
+Area: g-jp
+Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_multiplanetary

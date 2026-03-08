@@ -1,23 +1,9 @@
 id: op-en-adventuretimedistantlands
-
 First known title: "Adventure Time: Distand Lands"
-
-Type: serial
-
+Media form: serial
 First edition: 2019
-
-Creators:
-  - au-en-adam-muto
-
-Language:
-  - en
-
-Distributor: HBO Max
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: inconclusive
-  scale: planetary
+Creators: au-en-adam-muto
+Language: l-en
+Distributor: "Cartoon Network"
+Area: g-en
+Trigger event: agency_anthropogenic, type_war, kernel_inconclusive, scale_planetary

@@ -1,0 +1,25 @@
+id: op-jp-psychopasssinnersofthesystem
+
+First known title: "Psycho-Pass: Sinners of the System"
+
+Type: serial
+
+First edition: 2019
+
+Creators:
+  - au-jp-naoyoshi-shiotani
+
+Language:
+  - jp
+
+Distributor: Toho Animation
+
+Area: jp
+
+Trigger event:
+  agency: anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
+direct_consequences: authoritarianism_social, authoritarianism_technological, prosocial_into_antisocial
+aftermaths: 

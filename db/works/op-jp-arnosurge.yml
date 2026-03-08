@@ -1,16 +1,9 @@
 id: op-jp-arnosurge
 First known title: "Ar Nosurge ~Umareizuru Hoshi e Inoru Uta~"
-Type: videogame
 First edition: 2014
-Creators:
-  - au-jp-gasuto-kabushikigaishagasuto
-Language:
-  - jp
-Distributor: KOEI TECMO
-
-Area: jp
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: planetary
+Media form: videogame
+Creators: au-jp-gasuto-kabushikigaishagasuto
+Language: l-jp
+Distributor: "KOEI TECMO"
+Area: g-jp
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary

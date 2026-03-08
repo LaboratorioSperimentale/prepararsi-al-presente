@@ -1,22 +1,9 @@
 id: op-en-thelightpirate
-
-First known title: The Light Pirate
-
+First known title: "The Light Pirate"
 First edition: 2022
-
-Type: novel
-
-Creators:
-  - au-en-lily-brooksdalton
-
-Language:
-  - en
-Publisher: Grand Central Publishing
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: environmental
-  kernel: natural
-  scale: local
+Media form: prose
+Creators: au-en-lily-brooksdalton
+Language: l-en
+Publisher: "Grand Central Publishing"
+Area: g-en
+Trigger event: agency_anthropogenic, type_environmental, kernel_natural, scale_local

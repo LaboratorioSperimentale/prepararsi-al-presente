@@ -1,24 +1,9 @@
 id: op-en-bintitrilogy
-
-First known title: The Binti Trilogy
-
+First known title: "The Binti Trilogy"
 First edition: 2015
-
-Type: novel
-
-Creators:
-  - au-en-nnedi-okorafor
-
-Language:
-  - en
-
-Publisher: DAW
-
-Area: en
-
-Trigger event:
-  agency:  anthropogenic
-  event: subversion
-  kernel: extra-societal
-  scale: multi-planetary
-
+Media form: prose
+Creators: au-en-nnedi-okorafor
+Language: l-en
+Publisher: "DAW"
+Area: g-en
+Trigger event: agency_anthropogenic, type_subversion, kernel_extrasocietal, scale_multiplanetary

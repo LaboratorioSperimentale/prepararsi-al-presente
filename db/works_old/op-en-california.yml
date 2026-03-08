@@ -1,0 +1,25 @@
+id: op-en-california
+
+First known title: California
+
+First edition: 2014
+
+Type: novel
+
+Creators:
+  - au-en-edan-lepucki
+
+Language:
+  - en
+
+Publisher: Hachette
+
+Area: en
+
+Trigger event:
+  agency:  anthropogenic
+  event: subversion
+  kernel: intra-societal
+  scale: local
+direct_consequences: antisocial_into_prosocial, government_collapse 
+aftermaths: authoritarianism_cultural, familism 

@@ -1,33 +1,9 @@
 id: op-es-bestia
-
-Type: novel
-
-First known title: Bestia
-
+First known title: "Bestia"
 First edition: 2015
-
-Alternative titles:
-
-Creators:
-  - au-es-ela-vilarmadruga
-
-Language:
-  - es
-
-Publisher: Lugar Común editorial
-
-Area: es
-
-Trigger event:
-  agency: ambiguous
-  event: war
-  kernel: intra-societal
-  scale: planetary
-
-
-
-Synopsis: |
-  In Bestia, love, science fiction, and horror intertwine in a futuristic and distorted universe. Olave, a storyteller and poet, is the center of the plot, a muse whose imagination becomes an object of desire and control. In this cyberpunk world, a technocrat known as Barba Azul hides dark secrets behind the mystical golden key door, while a cyborg stalks in his role as a ruthless assassin, obsessed with his creator and goddess, Olave.
-  As reality fractures into dreams and nightmares, the reader traverses a landscape marked by extreme technology, violence, and the loss of humanity. The novel becomes an exploration of creativity as a commodity, love as a driving force, and survival as an impossibility in a setting of destruction and chaos.
-  With echoes of fairy tales transformed into horrors, Bestia immerses us in a story filled with mystery, psychological terror, and twisted beauty, where the magical and the technological merge into a portrait of cruelty and poetry. (back cover)
-
+Media form: prose
+Creators: au-es-ela-vilarmadruga
+Language: l-es
+Publisher: "Lugar Común editorial"
+Area: g-es
+Trigger event: agency_ambiguous, type_war, kernel_intrasocietal, scale_planetary

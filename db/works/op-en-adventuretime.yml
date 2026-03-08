@@ -1,24 +1,9 @@
 id: op-en-adventuretime
-
-First known title: Adventure Time
-
-Type: serial
-
+First known title: "Adventure Time"
+Media form: serial
 First edition: 2010
-
-Creators:
-  - au-en-pendleton-ward
-  - au-en-adam-muto
-
-Language:
-  - en
-
-Distributor: Cartoon Network
-
-Area: en
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: inconclusive
-  scale: planetary
+Creators: au-en-pendleton-ward, au-en-adam-muto
+Language: l-en
+Distributor: "Cartoon Network"
+Area: g-en
+Trigger event: agency_anthropogenic, type_war, kernel_inconclusive, scale_planetary

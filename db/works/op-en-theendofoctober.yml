@@ -1,22 +1,9 @@
 id: op-en-theendofoctober
-
-First known title: The End of October
-
+First known title: "The End of October"
 First edition: 2019
-
-Type: novel
-
-Creators:
-  - au-en-lawrence-wright
-
-Language:
-  - en
-Publisher: Alfred A. Knopf
-
-Area: en
-
-Trigger event:
-  agency: non-anthropogenic
-  event: environmental
-  kernel: natural
-  scale: planetary
+Media form: prose
+Creators: au-en-lawrence-wright
+Language: l-en
+Publisher: "Alfred A. Knopf"
+Area: g-en
+Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary

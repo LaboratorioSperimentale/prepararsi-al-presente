@@ -1,28 +1,9 @@
 id: op-jp-aplessedalpha
-
-first_known_title: “Appleseed Alpha”
-
-Type: feature-length 
-
+First known title: “Appleseed Alpha”
 First edition: 2014
-
-Creators:
-  - au-jp-shinji-aramaki
-
-Language:
-  - jp
-  - en
-
+Media form: feature-length 
+Creators: au-jp-shinji-aramaki
+Language: l-jp
 Distributor: “Kōdansha” 
-
-Area: jp, en
-
-Trigger event:
-  agency: anthropogenic
-  event: war
-  kernel: inconclusive
-  scale: planetary
-
-synopsis: 
-
-relations: TBD
+Area: g-jp,
+Trigger event: agency_anthropogenic, type_war, kernel_inconclusive, scale_planetary

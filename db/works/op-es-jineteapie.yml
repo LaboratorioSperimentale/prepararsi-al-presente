@@ -1,32 +1,9 @@
 id: op-es-jineteapie
-
-Type: novel
-
-First known title: Jinete a pie
-
+First known title: "Jinete a pie"
 First edition: 2015
-
-Alternative titles:
-  -
-Creators:
-  - au-es-isr-centeno
-
-Language:
-  - es
-
-Publisher: Editorial Lector Cómplice
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
-
-
-
-Synopsis: |
-  Roberto Morel is a jinete a pie—as those without the privilege of riding a motorcycle are called—voiceless and rightless pedestrians exiled to some canton of what was once Caracas, before the crash. The novel evokes a rarefied and anarchic atmosphere, portraying the relentless loneliness of a city turned into a reactionary, decadent, and dehumanized nightmare.
-  The protagonist survives obsessed with salvaging the erratic memories of hallucinatory and terrifying women, women who blur and dissolve into the pages of a diary—perhaps the only document that recorded Roberto Morel's steps before the collapse.
-
+Media form: prose
+Creators: au-es-isr-centeno
+Language: l-es
+Publisher: "Editorial Lector Cómplice"
+Area: g-es
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local

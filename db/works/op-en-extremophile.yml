@@ -1,22 +1,9 @@
 id: op-en-extremophile
-
-First known title: Extremophile
-
+First known title: "Extremophile"
 First edition: 2024
-
-Type: novel
-
-Creators:
-  - au-en-ian-green
-
-Language:
-  - en
-Publisher: Bloomsbury Publishing
-
-Area: en
-
-Trigger event:
-  agency:  non-anthropogenic
-  event: environmental
-  kernel: intra-societal
-  scale: planetary
+Media form: prose
+Creators: au-en-ian-green
+Language: l-en
+Publisher: "Bloomsbury Publishing"
+Area: g-en
+Trigger event: agency_nonanthropogenic,  type_environmental,  kernel_intrasocietal,  scale_planetary

@@ -1,31 +1,9 @@
 id: op-es-enelcuerpounavoz
-
-Type: novel
-
-First known title: En el cuerpo una voz
-
+First known title: "En el cuerpo una voz"
 First edition: 2018
-
-Alternative titles:
-
-Creators:
-  - au-es-max-barrientos
-
-Language:
-  - es
-
-Publisher: Eterna Cadencia
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: local
-
-
-
-Synopsis: |
-  After a brutal civil war, Bolivia has ceased to exist as a nation. The population has abandoned the cities, retreating to rural communes, while armed groups known as brigades enforce their rule with blood and fire. Executions, mass graves, and cannibalism form the backdrop of En el cuerpo una voz, a novel that, through a fictional event, encapsulates episodes from the history of many Latin American nations—even reflecting aspects of present-day Mexico.
-
+Media form: prose
+Creators: au-es-max-barrientos
+Language: l-es
+Publisher: "Eterna Cadencia"
+Area: g-es
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_local

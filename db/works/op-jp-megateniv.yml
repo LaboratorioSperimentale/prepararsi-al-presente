@@ -1,23 +1,9 @@
 id: op-jp-megateniv
-
-First known title: Shin Megami Tensei IV
-
-Type: videogame
-
+First known title: "Shin Megami Tensei IV"
 First edition: 2013
-
-Creators:
-  - au-jp-atorasu-kabushikigaishaatorasu
-
-Language:
-  - jp
-
+Media form: videogame
+Creators: au-jp-atorasu-kabushikigaishaatorasu
+Language: l-jp
 Distributor: "Atlus"
-
-Area: jp
-
-Trigger event:
-  agency: anthropogenic
-  event: metaphysical
-  kernel: intra-societal
-  scale: multi-versal
+Area: g-jp
+Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_multiversal

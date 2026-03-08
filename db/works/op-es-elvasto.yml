@@ -1,30 +1,9 @@
 id: op-es-elvasto
-
-Type: novel
-
-First known title: El vasto territorio
-
+First known title: "El vasto territorio"
 First edition: 2021
-
-
-
-Creators:
-  - au-es-sim-lopez
-
-Language:
-  - es
-
-Publisher: Alfaguara
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: inconclusive
-  scale: continental
-
-
-
-Synopsis: |
-  The environmental destruction caused by logging companies in southern Chile will shape the lives of each protagonist, bringing the deforestation and its impacts directly to the region’s inhabitants. The threat of a fungus near Concepción steadily grows in presence until it literally takes over a man's body, setting off a series of wild events.
+Media form: prose
+Creators: au-es-sim-lopez
+Language: l-es
+Publisher: "Alfaguara"
+Area: g-es
+Trigger event: agency_anthropogenic, type_subversion, kernel_inconclusive, scale_continental

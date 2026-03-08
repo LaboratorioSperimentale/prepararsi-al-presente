@@ -1,22 +1,9 @@
 id: op-jp-kentoshi
-
-First known title: Kentōshi
-
-Type: novel
-
+First known title: "Kentōshi"
 First edition: 2014
-
-Creators:
-  - au-jp-yok-tawada
-
-Language:
-  - jp
-Publisher: Kodansha Ltd.
-
-Area: jp
-
-Trigger event:
-  agency:  anthropogenic
-  event: environmental
-  kernel: intra-societal
-  scale: planetary
+Media form: prose
+Creators: au-jp-yok-tawada
+Language: l-jp
+Publisher: "Kodansha Ltd."
+Area: g-jp
+Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary

@@ -1,24 +1,9 @@
 id: op-es-akane
-
 First known title: "Akane"
-
-Type: videogame
-
 First edition: 2018
-
-Creators:
-  - au-es-ludicstudio-ludicstudio
-
-Language:
-  - en
-  - es
-
-Distributor: Ludic Studios
-
-Area: es
-
-Trigger event:
-  agency: anthropogenic
-  event: subversion
-  kernel: intra-societal
-  scale: planetary
+Media form: videogame
+Creators: au-es-ludicstudio-ludicstudio
+Language: l-en, l-es
+Distributor: "Ludic Studios"
+Area: g-es
+Trigger event: agency_anthropogenic, type_subversion, kernel_intrasocietal, scale_planetary

@@ -1,23 +1,9 @@
 id: op-jp-biman3
-
 First known title: "Bishōjo Mangekyō -Kami ga Tsukuritamouta Shōjotachi-"
-
-Type: videogame
-
 First edition: 2019
-
-Creators:
-  - au-jp-ωstar-omegasutaa
-
-Language:
-  - jp
-
+Media form: videogame
+Creators: au-jp-ωstar-omegasutaa
+Language: l-jp
 Distributor: "ωstar"
-
-Area: jp
-
-Trigger event:
-  agency: ambiguous
-  event: environmental
-  kernel: inconclusive
-  scale: planetary
+Area: g-jp
+Trigger event: agency_ambiguous, type_environmental, kernel_inconclusive, scale_planetary
