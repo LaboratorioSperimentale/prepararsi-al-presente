@@ -6,6 +6,6 @@ Creators: au-jp-vanillaware-banirraweaakabushikigaisha
 Language: l-jp
 Distributor: "Atlus"
 Area: g-jp
-Trigger event: agency_non-anthropogenic, type_war, kernel_extrasocietal, scale_planetary
+Trigger event: agency_nonanthropogenic, type_war, kernel_extrasocietal, scale_planetary
 Direct consequences: ontological_alteration, population_decline
 Aftermaths: government_nonhuman, alteration_human_bodies, censorship

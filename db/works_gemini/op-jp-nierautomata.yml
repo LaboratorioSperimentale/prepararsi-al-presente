@@ -6,6 +6,6 @@ Creators: au-jp-platinumgames-purachinageemuzukabushikigaisha
 Language: l-jp
 Distributor: "Square Enix"
 Area: g-jp
-Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_multi-planetary
+Trigger event: agency_anthropogenic, type_metaphysical, kernel_intrasocietal, scale_multiplanetary
 Direct consequences: conflict_interpolity, population_decline
 Aftermaths: government_nonhuman, depletion_biosphere, alteration_fauna

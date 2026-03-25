@@ -6,6 +6,6 @@ Creators: au-jp-yuzuru-tachikawa
 Language: l-jp
 Distributor: Spike Chunsoft
 Area: g-jp
-Trigger event: agency_non-anthropogenic, type_war, kernel_extrasocietal, scale_planetary
+Trigger event: agency_nonanthropogenic, type_war, kernel_extrasocietal, scale_planetary
 Direct consequences: alteration_fauna, population_decline, government_nonhuman
 Aftermaths: authoritarianism_technological, segregationism_social, conflict_intrapolity
