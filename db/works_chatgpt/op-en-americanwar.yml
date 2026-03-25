@@ -1,0 +1,11 @@
+id: op-en-americanwar
+First known title: "American War"
+First edition: 2017
+Media form: prose
+Creators: au-en-omar-elakkad
+Language: l-en
+Publisher: "Alfred A. Knopf"
+Area: g-en
+Trigger event: agency_anthropogenic, type_environmental, kernel_intrasocietal, scale_planetary
+Direct consequences: conflict_intrapolity, conflict_interpolity, alteration_weather, depletion_fossil_fuels, use_of_force_civilians
+Aftermaths: government_military, censorship, pollution_land, population_decline, prosocial_into_antisocial

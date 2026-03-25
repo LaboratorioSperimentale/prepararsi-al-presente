@@ -1,0 +1,11 @@
+id: op-jp-tokyonecro
+First known title: "Tōkyō NECRO"
+First edition: 2016
+Media form: videogame
+Creators: au-jp-nitoropurasu-kabushikigaishanitoropurasu
+Language: l-jp
+Distributor: "NITRO PLUS"
+Area: g-jp
+Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
+Direct consequences: alteration_weather, alteration_human_bodies
+Aftermaths: prosocial_into_antisocial, use_of_force_civilians, government_corporate

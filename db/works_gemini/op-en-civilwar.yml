@@ -1,0 +1,11 @@
+id: op-en-civilwar
+First known title: "Civil War"
+Media form: feature-length
+First edition: 2024
+Creators: au-en-alex-garland
+Language: l-en
+Distributor: "A24 Films LLC"
+Area: g-en
+Trigger event: agency_anthropogenic,  type_war,  kernel_intrasocietal, scale_local
+Direct consequences: conflict_intrapolity, government_military
+Aftermaths: use_of_force_civilians, prosocial_into_antisocial, conflict_information

@@ -1,0 +1,11 @@
+id: op-jp-karakara
+First known title: "Karakara"
+First edition: 2016
+Media form: videogame
+Creators: au-jp-calme-sekaiproject
+Language: l-jp
+Distributor: "Denpasoft"
+Area: g-jp
+Trigger event: agency_non-anthropogenic, type_environmental, kernel_natural, scale_planetary
+Direct consequences: alteration_weather, depletion_water, depletion_biosphere
+Aftermaths: government_degradation, conflict_economic, familism

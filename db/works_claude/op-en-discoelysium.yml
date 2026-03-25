@@ -1,0 +1,11 @@
+id: op-en-discoelysium
+First known title: "Disco Elysium"
+First edition: 2019
+Media form: videogame
+Creators: au-en-zaum-zaumstudios
+Language: l-en
+Distributor: "ZA/UM"
+Area: g-en
+Trigger event: agency_anthropogenic, type_war, kernel_extrasocietal, scale_local
+Direct consequences: conflict_intrapolity, conflict_interpolity, government_degradation
+Aftermaths: government_oligarchical, authoritarianism_social, prosocial_into_antisocial, censorship, authoritarianism_cultural, conflict_economic

@@ -1,0 +1,11 @@
+id: op-en-thelastofus
+First known title: "The Last of Us"
+First edition: 2013
+Media form: videogame
+Creators: au-en-naughtydog-naughtydogllc
+Language: l-en
+Distributor: "Sony Interactive Entertainment"
+Area: g-en
+Trigger event: agency_nonanthropogenic, type_environmental, kernel_natural, scale_planetary
+Direct consequences: wmd_use_bacteriological, population_decline
+Aftermaths: government_military, alteration_flora, prosocial_into_antisocial
