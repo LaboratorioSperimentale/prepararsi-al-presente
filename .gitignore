@@ -163,4 +163,5 @@ cython_debug/
 # Personal
 data/
 .obsidian/
-.DS_Store
+*.DS_Store*
+.vscode/settings.json
