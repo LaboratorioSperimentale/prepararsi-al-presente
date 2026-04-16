@@ -48,23 +48,13 @@
       </div>
       <div class="compare-bar-group">
         <button class="chip-cta" onclick="navigate('compare',{})">Custom ×2</button>
+        <button class="chip-cta" onclick="navigate('similarity')">Similarity</button>
       </div>
     </div>
     <div class="card-table-wrap">
       <div class="card-table" id="card-table"></div>
     </div>
 
-    <div id="sim-section" class="sim-section" style="display:none">
-      <div class="sim-header">
-        <span class="landing-intro"><h2>Graph similarity</h2></span>
-        <div class="sim-toggle-group">
-          <button id="sim-btn-jaccard" class="toggle-btn active">Jaccard (edges)</button>
-          <button id="sim-btn-cosine"  class="toggle-btn">Cosine (EC vectors)</button>
-        </div>
-      </div>
-      <div id="sim-jaccard" class="sim-matrix-wrap"></div>
-      <div id="sim-cosine"  class="sim-matrix-wrap" style="display:none"></div>
-    </div>
   </div>
 
   <!-- ══ SINGLE VIEW ════════════════════ -->
@@ -154,6 +144,21 @@
       <div><div class="snp-name" id="cmp-snp-name"></div><div class="snp-cat" id="cmp-snp-cat"></div></div>
       <div class="snp-conns" id="cmp-snp-conns"></div>
       <button class="snp-close" onclick="clearCrossHighlight('cmp')">×</button>
+    </div>
+  </div>
+
+  <!-- ══ SIMILARITY VIEW ══════════════════ -->
+  <div id="view-similarity" class="view">
+    <div class="similarity-page">
+      <div class="sim-header">
+        <h2>Graph similarity</h2>
+        <div class="sim-toggle-group">
+          <button id="sim-btn-jaccard" class="toggle-btn active">Jaccard (edges)</button>
+          <button id="sim-btn-cosine"  class="toggle-btn">Cosine (EC vectors)</button>
+        </div>
+      </div>
+      <div id="sim-jaccard" class="sim-matrix-wrap"></div>
+      <div id="sim-cosine"  class="sim-matrix-wrap" style="display:none"></div>
     </div>
   </div>
 

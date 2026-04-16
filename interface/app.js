@@ -712,6 +712,7 @@ const state = {
   multiGraphs: [],   // [{ ctrl, model, lang }]
   selectedNodeId: null,
   graphData: null,
+  allGraphResults: null,
 };
 
 function destroyAllGraphs() {
@@ -736,11 +737,12 @@ function navigate(view, params = {}) {
   document.getElementById('back-btn').classList.toggle('hidden', view === 'landing');
   document.getElementById('header-stats').textContent = '';
 
-  if (view === 'landing')   showLanding();
-  if (view === 'single')    showSingle(params.model, params.lang);
-  if (view === 'dimension') showDimension(params.axis, params.fixed);
-  if (view === 'compare')   showCompare(params.a, params.b);
-  if (view === 'about')     { setBreadcrumb(['About']); }
+  if (view === 'landing')    showLanding();
+  if (view === 'single')     showSingle(params.model, params.lang);
+  if (view === 'dimension')  showDimension(params.axis, params.fixed);
+  if (view === 'compare')    showCompare(params.a, params.b);
+  if (view === 'similarity') showSimilarity();
+  if (view === 'about')      { setBreadcrumb(['About']); }
 }
 document.getElementById('back-btn').addEventListener('click', () => navigate('landing'));
 
@@ -805,9 +807,36 @@ function showLanding() {
   ));
 
   Promise.all(allFetches).then(results => {
-    const valid = results.filter(Boolean);
-    if (valid.length < 2) return;
-    renderSimilaritySection(valid);
+    state.allGraphResults = results.filter(Boolean);
+  });
+}
+
+/* ══════════════════════════════════════════════
+   SIMILARITY VIEW
+══════════════════════════════════════════════ */
+function showSimilarity() {
+  setBreadcrumb(['Similarity']);
+
+  // If data already loaded, render immediately
+  if (state.allGraphResults && state.allGraphResults.length >= 2) {
+    renderSimilaritySection(state.allGraphResults);
+    return;
+  }
+
+  // Otherwise load all 12 graphs first
+  const jWrap = document.getElementById('sim-jaccard');
+  const cWrap = document.getElementById('sim-cosine');
+  if (jWrap) jWrap.innerHTML = '<p style="padding:16px;color:#888">Loading…</p>';
+  if (cWrap) cWrap.innerHTML = '';
+
+  const fetches = MODELS.flatMap(model => LANGS.map(lang =>
+    fetchParsed(model, lang)
+      .then(data => ({ model, lang, data }))
+      .catch(() => null)
+  ));
+  Promise.all(fetches).then(results => {
+    state.allGraphResults = results.filter(Boolean);
+    if (state.allGraphResults.length >= 2) renderSimilaritySection(state.allGraphResults);
   });
 }
 
@@ -817,9 +846,6 @@ function showLanding() {
 const MODEL_ABBR = { claude:'CL', chatgpt:'GP', gemini:'GE' };
 
 function renderSimilaritySection(results) {
-  const sec = document.getElementById('sim-section');
-  if (!sec) return;
-  sec.style.display = '';
 
   const n = results.length;
   const labels = results.map(r => `${MODEL_ABBR[r.model]}/${r.lang.substring(0,2)}`);

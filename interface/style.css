@@ -822,13 +822,22 @@ button {
 
 
 /* ============================================================
-   SIMILARITY MATRICES
+   SIMILARITY VIEW & MATRICES
    ============================================================ */
 
-.sim-section {
+.similarity-page {
+  padding: 28px 36px;
+  overflow-y: auto;
+  flex: 1;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 20px;
+}
+
+.similarity-page h2 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #2c2c2c;
 }
 
 .sim-header {
@@ -853,11 +862,11 @@ button {
 
 .sim-table {
   border-collapse: collapse;
-  font-size: .68rem;
+  font-size: .75rem;
 }
 
 .sim-table th {
-  padding: 4px 6px;
+  padding: 6px 10px;
   font-weight: 600;
   color: #888;
   text-align: center;
@@ -865,16 +874,16 @@ button {
 }
 
 .sim-table td {
-  padding: 4px 7px;
+  padding: 6px 12px;
   border: 1px solid #f0f0ee;
   text-align: center;
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
-  min-width: 38px;
+  min-width: 48px;
 }
 
 .sim-table tbody th {
-  padding-right: 8px;
+  padding-right: 12px;
   text-align: right;
   color: #666;
 }
