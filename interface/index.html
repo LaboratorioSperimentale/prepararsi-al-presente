@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prepararsi al Presente — Co-occurrence Graphs</title>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <header id="app-header">
+    <button id="back-btn" class="hidden">← Back</button>
+    <h1>Prepararsi al Presente <span>— co-occurrence</span></h1>
+    <div id="breadcrumb"></div>
+    <div id="header-stats"></div>
+    <button id="about-btn" onclick="navigate('about')">About</button>
+  </header>
+
+  <!-- ── Tooltip (global) ─────────────── -->
+  <div id="tooltip">
+    <div id="tt-name"><div class="tt-dot"></div><span></span></div>
+    <div id="tt-meta"></div>
+    <div id="tt-conns"></div>
+  </div>
+
+  <!-- ══ LANDING ════════════════════════ -->
+  <div id="view-landing" class="view active">
+    <div class="landing-intro">
+      <h2>Attribute co-occurrence graphs</h2>
+      <p>Dystopian attributes annotated by three AI models (Claude, ChatGPT, Gemini) across four language corpora. Each graph shows how attributes co-occur in the same literary work.</p>
+    </div>
+    <div class="compare-bar">
+      <div class="compare-bar-group">
+        <span class="compare-bar-label">Compare models →</span>
+        <button class="chip" onclick="navigate('dimension',{axis:'model',fixed:'global'})">Global</button>
+        <button class="chip" onclick="navigate('dimension',{axis:'model',fixed:'en'})">English</button>
+        <button class="chip" onclick="navigate('dimension',{axis:'model',fixed:'es'})">Spanish</button>
+        <button class="chip" onclick="navigate('dimension',{axis:'model',fixed:'jp'})">Japanese</button>
+      </div>
+      <div class="compare-bar-group">
+        <span class="compare-bar-label">Compare languages →</span>
+        <button class="chip" onclick="navigate('dimension',{axis:'lang',fixed:'claude'})">Claude</button>
+        <button class="chip" onclick="navigate('dimension',{axis:'lang',fixed:'chatgpt'})">ChatGPT</button>
+        <button class="chip" onclick="navigate('dimension',{axis:'lang',fixed:'gemini'})">Gemini</button>
+      </div>
+      <div class="compare-bar-group">
+        <button class="chip-cta" onclick="navigate('compare',{})">Custom ×2</button>
+      </div>
+    </div>
+    <div class="card-table-wrap">
+      <div class="card-table" id="card-table"></div>
+    </div>
+
+    <div id="sim-section" class="sim-section" style="display:none">
+      <div class="sim-header">
+        <span class="landing-intro"><h2>Graph similarity</h2></span>
+        <div class="sim-toggle-group">
+          <button id="sim-btn-jaccard" class="toggle-btn active">Jaccard (edges)</button>
+          <button id="sim-btn-cosine"  class="toggle-btn">Cosine (EC vectors)</button>
+        </div>
+      </div>
+      <div id="sim-jaccard" class="sim-matrix-wrap"></div>
+      <div id="sim-cosine"  class="sim-matrix-wrap" style="display:none"></div>
+    </div>
+  </div>
+
+  <!-- ══ SINGLE VIEW ════════════════════ -->
+  <div id="view-single" class="view">
+    <div class="single-graph-area" style="position:relative;">
+      <div class="cy-spinner" id="single-spinner"><div class="spinner"></div>Loading…</div>
+      <div id="single-cy" style="width:100%;height:100%;"></div>
+    </div>
+    <div class="sidebar">
+      <div class="sb-block">
+        <h3>Min. edge weight</h3>
+        <div class="slider-row">
+          <input type="range" id="s-weight-slider" min="1" max="50" value="3">
+          <span id="s-weight-value">3</span>
+        </div>
+      </div>
+      <div class="sb-block">
+        <h3>Edge colour</h3>
+        <select class="sb-select" id="s-edge-color">
+          <option value="weight">By weight (grayscale)</option>
+          <option value="source-cat">Source node category</option>
+          <option value="degree-part">Degree partition</option>
+        </select>
+        <div id="s-deg-legend" style="display:none">
+          <span class="dl">low</span>
+          <div class="deg-dot" style="background:#a6cee3"></div>
+          <div class="deg-dot" style="background:#1f78b4"></div>
+          <div class="deg-dot" style="background:#fb9a99"></div>
+          <div class="deg-dot" style="background:#e31a1c"></div>
+          <span class="dl">high</span>
+        </div>
+      </div>
+      <div class="sb-block">
+        <h3>Node color</h3>
+        <select class="sb-select" id="s-node-color">
+          <option value="category">Category</option>
+          <option value="community">Community (Louvain)</option>
+        </select>
+      </div>
+      <div class="sb-block">
+        <h3>Node size</h3>
+        <select class="sb-select" id="s-node-size">
+          <option value="uniform">Uniform</option>
+          <option value="centrality">Eigenvector centrality</option>
+          <option value="cc">Clustering coefficient</option>
+          <option value="hub">Hub score</option>
+          <option value="authority">Authority score</option>
+        </select>
+      </div>
+      <div class="sb-block">
+        <h3>Labels</h3>
+        <button id="s-labels-toggle" class="toggle-btn">Show labels</button>
+      </div>
+      <div class="sb-block">
+        <h3>Categories</h3>
+        <div id="s-legend"></div>
+      </div>
+      <div class="sb-info">
+        <h3>Node info</h3>
+        <p class="sb-placeholder" id="s-placeholder">Click a node to see details</p>
+        <div id="s-node-detail" style="display:none">
+          <div id="s-node-title"></div>
+          <div id="s-node-cat"></div>
+          <div id="s-conn-label"></div>
+          <ul id="s-conn-list"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ DIMENSION VIEW ════════════════ -->
+  <div id="view-dimension" class="view">
+    <div class="multi-controls-bar" id="dim-controls"></div>
+    <div class="multi-graph-area" id="dim-grid"></div>
+    <div class="shared-panel hidden" id="dim-panel">
+      <div><div class="snp-name" id="dim-snp-name"></div><div class="snp-cat" id="dim-snp-cat"></div></div>
+      <div class="snp-conns" id="dim-snp-conns"></div>
+      <button class="snp-close" onclick="clearCrossHighlight('dim')">×</button>
+    </div>
+  </div>
+
+  <!-- ══ COMPARE VIEW ══════════════════ -->
+  <div id="view-compare" class="view">
+    <div class="multi-controls-bar" id="cmp-controls"></div>
+    <div class="multi-graph-area cols-2" id="cmp-grid"></div>
+    <div class="shared-panel hidden" id="cmp-panel">
+      <div><div class="snp-name" id="cmp-snp-name"></div><div class="snp-cat" id="cmp-snp-cat"></div></div>
+      <div class="snp-conns" id="cmp-snp-conns"></div>
+      <button class="snp-close" onclick="clearCrossHighlight('cmp')">×</button>
+    </div>
+  </div>
+
+  <!-- ══ ABOUT VIEW ══════════════════════ -->
+  <div id="view-about" class="view">
+    <div class="about-page">
+
+      <section class="about-section">
+        <h2>About this tool</h2>
+        <p><em>Prepararsi al Presente</em> is a research project exploring how dystopian attributes are represented in literary works across languages and AI annotation systems. Three large language models — <strong>Claude</strong>, <strong>ChatGPT</strong>, and <strong>Gemini</strong> — annotated a corpus of dystopian texts in four languages (<strong>English</strong>, <strong>Spanish</strong>, <strong>Japanese</strong>, and a pooled <strong>Global</strong> view). This tool visualises the resulting <strong>attribute co-occurrence graphs</strong>: nodes are semantic attributes, edges connect attributes that appear together in the same work, weighted by frequency.</p>
+      </section>
+
+      <section class="about-section">
+        <h2>How to navigate</h2>
+        <dl class="about-dl">
+          <dt>Landing page</dt>
+          <dd>Overview of all 12 graphs (3 models × 4 languages). Click any card to open the single-graph view. Use the buttons at the top to compare models across a fixed language, compare languages across a fixed model, or open a custom two-graph comparison. The <em>Graph similarity</em> section at the bottom shows pairwise similarity matrices between all graphs.</dd>
+
+          <dt>Single graph view</dt>
+          <dd>Explore one graph in detail. The sidebar lets you filter by edge weight, change visual encodings, toggle labels, and click nodes to inspect their metrics and connections.</dd>
+
+          <dt>Compare by dimension</dt>
+          <dd>Shows 3 or 4 graphs side by side, fixing either the language (to compare models) or the model (to compare languages). Clicking a node highlights it across all graphs simultaneously, revealing which co-occurrence patterns are shared and which are model- or language-specific.</dd>
+
+          <dt>Custom comparison ×2</dt>
+          <dd>Pick any two graphs freely and compare them side by side. Useful for targeted cross-model or cross-language contrasts.</dd>
+        </dl>
+      </section>
+
+      <section class="about-section">
+        <h2>Graph controls</h2>
+        <dl class="about-dl">
+          <dt>Min. edge weight</dt>
+          <dd>Hides edges whose co-occurrence count is below the threshold. Raising it reveals the strongest structural backbone; lowering it shows rarer associations.</dd>
+
+          <dt>Edge colour</dt>
+          <dd><em>By weight</em>: darker = more frequent co-occurrence. <em>Source category</em>: colour follows the semantic category of the source node. <em>Degree partition</em>: four quantile classes from low (light blue) to high (red) weighted degree.</dd>
+
+          <dt>Node colour</dt>
+          <dd><em>Category</em>: each of the 20 semantic categories has a fixed colour. <em>Community (Louvain)</em>: nodes are coloured by automatically detected cluster — see the legend for membership.</dd>
+
+          <dt>Node size</dt>
+          <dd>Uniform, or scaled by one of the computed measures: eigenvector centrality, clustering coefficient, hub score, or authority score.</dd>
+
+          <dt>Labels</dt>
+          <dd>Toggle the display of node names on all nodes at once. When labels are off, hovering a node shows its name and metrics in a temporary label.</dd>
+
+          <dt>Interaction</dt>
+          <dd><strong>Click</strong> a node to pin the highlight and see details in the sidebar. <strong>Drag</strong> to reposition and pin a node; <strong>double-click</strong> to unpin it. <strong>Scroll / pinch</strong> to zoom; drag the background to pan.</dd>
+        </dl>
+      </section>
+
+      <section class="about-section">
+        <h2>Graph measures</h2>
+        <dl class="about-dl">
+          <dt>Eigenvector centrality <span class="about-tag">per node</span></dt>
+          <dd>A node's importance is proportional to the sum of its neighbours' importance. High EC means the attribute not only co-occurs frequently but does so with other structurally central attributes. Computed via power iteration on the weighted adjacency matrix.</dd>
+
+          <dt>Clustering coefficient <span class="about-tag">per node</span></dt>
+          <dd>The fraction of a node's neighbour pairs that are also directly connected. Values near 1 indicate the node sits inside a tight clique; values near 0 indicate a hub-and-spoke structure where neighbours do not connect to each other.</dd>
+
+          <dt>Hub score &amp; Authority score <span class="about-tag">per node</span></dt>
+          <dd>From the HITS algorithm. An <em>authority</em> is a node pointed to by many high-hub nodes; a <em>hub</em> points to many high-authority nodes. On an undirected weighted graph the two scores converge to similar values (close to eigenvector centrality), but may diverge if the graph is made directed in future work.</dd>
+
+          <dt>Louvain community <span class="about-tag">per node</span></dt>
+          <dd>Automatically detected cluster using the Louvain greedy modularity optimisation. Nodes in the same community co-occur more densely with each other than with the rest of the graph. Communities are independent per graph — "Community 0" in Claude-en is not necessarily the same set of attributes as "Community 0" in ChatGPT-en.</dd>
+
+          <dt>Modularity Q <span class="about-tag">per graph</span></dt>
+          <dd>Quality score of the community partition, shown in the header when viewing a single graph. Values above ~0.3 indicate meaningful community structure; near 0 means the graph is close to random; negative values are rare and indicate fewer internal edges than expected by chance.</dd>
+
+          <dt>Weighted Jaccard similarity <span class="about-tag">between graphs</span></dt>
+          <dd>For each pair of graphs, computed as Σ min(w₁, w₂) / Σ max(w₁, w₂) over all edges. Measures overlap in both edge structure and weights. A value of 1 means the two graphs are identical; 0 means they share no edges.</dd>
+
+          <dt>Cosine similarity of EC vectors <span class="about-tag">between graphs</span></dt>
+          <dd>Treats each graph's eigenvector centrality scores as a vector over the shared node set, then computes the cosine similarity between two such vectors. Measures whether two graphs <em>agree on which attributes are most central</em>, regardless of the absolute scale of the weights. High cosine similarity with low Jaccard means the graphs have different edges but similar structural hierarchies.</dd>
+        </dl>
+      </section>
+
+    </div>
+  </div>
+
+</div><!-- /app -->
+
+<script src="app.js"></script>
+</body>
+</html>
