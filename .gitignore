@@ -164,4 +164,3 @@ cython_debug/
 data/
 .obsidian/
 .DS_Store
-.gitignore
